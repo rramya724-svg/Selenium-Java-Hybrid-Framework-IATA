@@ -1,0 +1,384 @@
+13:02:40.891 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Af_EnterKeyTC - Switched back to default content.
+13:03:06.070 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Af_EnterKeyTC - Logged in and searched for a file, then clicked Edit.
+13:03:06.213 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Af_EnterKeyTC - Switched to frame 0.
+13:03:07.982 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Af_EnterKeyTC - Switched to default content.
+13:03:08.361 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Af_EnterKeyTC - clicked on footnote plugin
+13:03:11.189 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Af_EnterKeyTC - clicked on new footnote box
+13:03:31.941 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Af_EnterKeyTC - Logged in and searched for a file, then clicked Edit.
+13:03:31.979 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Af_EnterKeyTC - Switched to frame 0.
+13:03:32.326 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Af_EnterKeyTC - Clicked on first para VE.
+13:03:32.354 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Af_EnterKeyTC - Switched to default content.
+13:03:56.891 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Af_EnterKeyTC - Switching to frame 0.
+13:03:56.908 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Af_EnterKeyTC - Double-clicking VEFirstPara.
+13:03:57.680 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Af_EnterKeyTC - Switching to default content.
+13:03:57.718 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Af_EnterKeyTC - Clicking the BoldPlugin.
+13:04:18.401 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Af_EnterKeyTC - Double clicked on First para
+13:05:37.806 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Af_EnterKeyTC - Starting TC350_verifyRevisionInsertedcolor ..
+13:05:41.129 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Af_EnterKeyTC - Logged in, searched for a file, and clicked Edit.
+13:05:41.144 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Af_EnterKeyTC - Switched to frame 0.
+13:05:41.677 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Af_EnterKeyTC - clicked on VE First para 
+13:05:41.721 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Af_EnterKeyTC - Switched back to default content.
+13:06:03.939 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Af_EnterKeyTC - Logged in, searched for a file, and clicked Edit.
+13:06:03.944 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Af_EnterKeyTC - Created As_Revision instance.
+13:06:03.959 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Af_EnterKeyTC - Switched to frame 0.
+13:06:05.237 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Af_EnterKeyTC - clicked on VE First para 
+13:06:05.255 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Af_EnterKeyTC - Switched back to default content.
+13:06:05.422 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Af_EnterKeyTC - Switched to frame 0.
+13:06:06.586 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Af_EnterKeyTC - clicked on VE First para 
+13:08:21.817 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Af_EnterKeyTC - Starting verifyChangeSectionHeadingToPara
+13:08:48.801 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Af_EnterKeyTC - Logged in, searched for a file, and clicked Edit.
+13:08:48.802 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Af_EnterKeyTC - Created Para instance.
+13:09:26.701 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Af_EnterKeyTC - Logged in and searched for a file, then clicked Edit.
+13:09:26.708 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Af_EnterKeyTC - Switched to frame 0.
+13:09:26.968 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Af_EnterKeyTC - Clicked on first para VE.
+13:09:27.015 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Af_EnterKeyTC - Switched to default content.
+13:09:28.017 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Af_EnterKeyTC - Clicked on Number List Plugin.
+13:09:28.590 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Af_EnterKeyTC - Switched to frame 0.
+13:28:27.292 [main] INFO  Elements_Testcases.Ab_ParaTC - ****    Starting --> paraTC    ****
+14:43:25.756 [main] INFO  sprint9_TestCases.Commonbugs1TC - Starting verifyShiftEnterEmphasis ..
+14:43:50.893 [main] INFO  sprint9_TestCases.Commonbugs1TC - Logged in and searched for a file, then clicked Edit.
+14:43:50.911 [main] INFO  sprint9_TestCases.Commonbugs1TC - Switching to frame 0.
+14:43:50.967 [main] INFO  sprint9_TestCases.Commonbugs1TC - Double-clicking VEFirstPara.
+14:43:51.845 [main] INFO  sprint9_TestCases.Commonbugs1TC - Switching to default content.
+14:43:51.951 [main] INFO  sprint9_TestCases.Commonbugs1TC - Clicking the BoldPlugin.
+14:43:52.446 [main] INFO  sprint9_TestCases.Commonbugs1TC - Switched to frame 0.
+14:43:52.735 [main] INFO  sprint9_TestCases.Commonbugs1TC - clicked on bold para
+14:46:25.059 [main] INFO  sprint9_TestCases.Commonbugs1TC - Starting verifyShiftEnterAtLastElement test...
+14:46:50.341 [main] INFO  sprint9_TestCases.Commonbugs1TC - Logged in and searched for a file, then clicked Edit.
+14:46:51.133 [main] INFO  sprint9_TestCases.Commonbugs1TC - clicked on DS first para
+15:07:48.283 [main] INFO  sprint9_TestCases.Commonbugs1TC - Starting verifyShiftEnterTable ..
+15:08:11.051 [main] INFO  sprint9_TestCases.Commonbugs1TC - Logged in and searched for a file, then clicked Edit.
+15:08:11.446 [main] INFO  sprint9_TestCases.Commonbugs1TC - clicked on section section
+15:11:25.336 [main] INFO  sprint9_TestCases.Commonbugs1TC - Starting verifyShiftEnterTable ..
+15:11:49.629 [main] INFO  sprint9_TestCases.Commonbugs1TC - Logged in and searched for a file, then clicked Edit.
+15:11:50.691 [main] INFO  sprint9_TestCases.Commonbugs1TC - clicked on section section
+15:12:00.018 [main] INFO  sprint9_TestCases.Commonbugs1TC - verifyShiftEnterTable test completed successfully.
+15:14:25.763 [main] INFO  sprint9_TestCases.CommonbugsTC - Starting verifyFigureDeleteBakspacecheckTC test...
+15:14:49.878 [main] INFO  sprint9_TestCases.CommonbugsTC - Logged in and performed search and edit actions.
+15:14:49.897 [main] INFO  sprint9_TestCases.CommonbugsTC - Navigated to the homepage and waited for the page to load.
+15:14:49.898 [main] INFO  sprint9_TestCases.CommonbugsTC - Test Step: Click DS Section and first paragraph.
+15:14:50.479 [main] INFO  sprint9_TestCases.CommonbugsTC - Test Step: Click Insert, Elements tab, insertAfterElement, and add figure.
+15:14:56.651 [main] INFO  sprint9_TestCases.CommonbugsTC - Test Step: Delete using BACK_SPACE key.
+15:14:57.230 [main] INFO  sprint9_TestCases.CommonbugsTC - verifyFigureDeleteBakspacecheckTC test completed successfully.
+15:16:22.915 [main] INFO  sprint9_TestCases.EnterKeyTC - Starting verifyEnterInXref ..
+15:16:47.235 [main] INFO  sprint9_TestCases.EnterKeyTC - Logged in and searched for a file, then clicked Edit.
+15:16:57.822 [main] INFO  sprint9_TestCases.EnterKeyTC - clicked on Cross Reference button 
+15:17:58.707 [main] INFO  sprint9_TestCases.EnterKeyTC - clicked on Code Cross Reference checkbox 
+15:17:59.192 [main] INFO  sprint9_TestCases.EnterKeyTC - clicked on Cross Reference popup ok button 
+15:19:01.551 [main] INFO  sprint9_TestCases.EnterKeyTC - verifyEnterInXref test completed successfully.
+15:48:58.326 [main] INFO  Elements_Testcases.Af_EnterKeyTC - Starting verifyChangeSectionHeadingToPara
+15:49:21.431 [main] INFO  Elements_Testcases.Af_EnterKeyTC - Logged in, searched for a file, and clicked Edit.
+15:49:21.454 [main] INFO  Elements_Testcases.Af_EnterKeyTC - Created Para instance.
+15:52:39.827 [main] INFO  Elements_Testcases.Af_EnterKeyTC - Starting verifyChangeSectionHeadingToPara
+15:53:03.357 [main] INFO  Elements_Testcases.Af_EnterKeyTC - Logged in, searched for a file, and clicked Edit.
+15:53:03.379 [main] INFO  Elements_Testcases.Af_EnterKeyTC - Created Para instance.
+15:55:01.319 [main] INFO  Elements_Testcases.Af_EnterKeyTC - Starting verifyChangeSectionHeadingToPara
+15:55:28.346 [main] INFO  Elements_Testcases.Af_EnterKeyTC - Logged in, searched for a file, and clicked Edit.
+15:55:28.360 [main] INFO  Elements_Testcases.Af_EnterKeyTC - Created Para instance.
+15:58:22.276 [main] INFO  Elements_Testcases.Af_EnterKeyTC - Starting verifyChangeSectionHeadingToPara
+15:58:45.535 [main] INFO  Elements_Testcases.Af_EnterKeyTC - Logged in, searched for a file, and clicked Edit.
+15:58:45.558 [main] INFO  Elements_Testcases.Af_EnterKeyTC - Created Para instance.
+16:04:17.437 [main] INFO  Elements_Testcases.Af_EnterKeyTC - Starting verifyChangeSectionHeadingToPara
+16:04:40.197 [main] INFO  Elements_Testcases.Af_EnterKeyTC - Logged in, searched for a file, and clicked Edit.
+16:04:40.213 [main] INFO  Elements_Testcases.Af_EnterKeyTC - Created Para instance.
+16:08:20.017 [main] INFO  Elements_Testcases.Af_EnterKeyTC - Starting verifyChangeSectionHeadingToPara
+16:08:42.904 [main] INFO  Elements_Testcases.Af_EnterKeyTC - Logged in, searched for a file, and clicked Edit.
+16:08:42.927 [main] INFO  Elements_Testcases.Af_EnterKeyTC - Created Para instance.
+16:16:28.927 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ab_ParaTC - ****    Starting --> paraTC    ****
+16:16:29.004 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ab_ParaTC - ****    Starting --> paraTC    ****
+16:17:02.887 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ab_ParaTC - clicked on second section from DS
+16:17:03.679 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ab_ParaTC - clicked on second sections 2nd para from DS
+16:17:03.780 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ab_ParaTC - Switching to frame 0.
+16:17:03.807 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ab_ParaTC - Double-clicking VEFirstPara.
+16:17:03.892 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ab_ParaTC - clicked on Enter key
+16:17:03.985 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ab_ParaTC - Verifying new para present into DS
+16:17:04.746 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ab_ParaTC - Switching to default content.
+16:17:04.816 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ab_ParaTC - Clicking the BoldPlugin.
+16:17:09.763 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ab_ParaTC - Starting verifyHitnterInmiddleOfExpiryElement ..
+16:17:11.919 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint9_TestCases.Commonbugs1TC - Starting verifyShiftEnterAtLastElement test...
+16:17:14.957 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint9_TestCases.Commonbugs1TC - Starting verifyShiftEnterEmphasis ..
+16:17:35.142 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ab_ParaTC - Logged in, searched for a file, and clicked Edit.
+16:17:35.146 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ab_ParaTC - Created B_Verify_RightClick_Options instance.
+16:17:35.167 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ab_ParaTC - Switched to frame 0.
+16:17:37.330 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ab_ParaTC - Context Clicked on First Para from VE.
+16:17:37.759 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ab_ParaTC - Switched back to default content.
+16:17:37.989 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ab_ParaTC - Switched to frame 1.
+16:17:38.553 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint9_TestCases.Commonbugs1TC - Logged in and searched for a file, then clicked Edit.
+16:17:39.185 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint9_TestCases.Commonbugs1TC - Logged in and searched for a file, then clicked Edit.
+16:17:39.187 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint9_TestCases.Commonbugs1TC - Switching to frame 0.
+16:17:39.220 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint9_TestCases.Commonbugs1TC - Double-clicking VEFirstPara.
+16:17:39.305 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint9_TestCases.Commonbugs1TC - clicked on DS first para
+16:17:39.657 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ab_ParaTC - Switched back to default content.
+16:17:39.912 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ab_ParaTC - Clicked on expiry element
+16:17:40.511 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint9_TestCases.Commonbugs1TC - Switching to default content.
+16:17:40.537 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint9_TestCases.Commonbugs1TC - Clicking the BoldPlugin.
+16:17:40.784 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ab_ParaTC - Clicked on Insert element Button 
+16:17:41.068 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ab_ParaTC - Switched to frame 0.
+16:17:41.101 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint9_TestCases.Commonbugs1TC - Switched to frame 0.
+16:17:41.433 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint9_TestCases.Commonbugs1TC - clicked on bold para
+16:17:45.616 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint9_TestCases.Commonbugs1TC - Starting verifyShiftEnterSectionHeading ..
+16:17:49.478 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint9_TestCases.Commonbugs1TC - Starting verifyShiftEnterTable ..
+16:17:49.845 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint9_TestCases.Commonbugs1TC - Starting verifyDeleteTableUsingDeleteKey test...
+16:18:05.028 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ab_ParaTC - verifying content validation not occured in code view
+16:18:05.028 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ab_ParaTC - ****    Finished --> paraTC    ****
+16:18:11.329 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint9_TestCases.Commonbugs1TC - Starting verifyHitBackspaceBeforeAddress test...
+16:18:14.743 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint9_TestCases.Commonbugs1TC - Logged in and searched for a file, then clicked Edit.
+16:18:15.334 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint9_TestCases.Commonbugs1TC - clicked on DS section heading
+16:18:15.544 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint9_TestCases.Commonbugs1TC - section heading is highlighted in DS
+16:18:15.544 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint9_TestCases.Commonbugs1TC - verifyShiftEnterSectionHeading test completed successfully.
+16:18:18.580 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint9_TestCases.Commonbugs1TC - Logged in and searched for a file, then clicked Edit.
+16:18:18.790 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint9_TestCases.Commonbugs1TC - Logged in and searched for a file, then clicked Edit.
+16:18:19.361 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint9_TestCases.Commonbugs1TC - clicked on section section
+16:18:24.396 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint9_TestCases.Commonbugs1TC - Starting verifyDeleteLastParaInSection ..
+16:18:28.649 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint9_TestCases.Commonbugs1TC - Switched to frame 0.
+16:18:28.734 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint9_TestCases.Commonbugs1TC - Verified section heading is highlighted in DS
+16:18:28.734 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint9_TestCases.Commonbugs1TC - verifyDeleteTableUsingDeleteKey test completed successfully.
+16:18:35.385 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint9_TestCases.Commonbugs1TC - Starting verifyRemoveContentDeleteKey test...
+16:18:39.791 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint9_TestCases.Commonbugs1TC - Logged in and searched for a file, then clicked Edit.
+16:18:40.713 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint9_TestCases.Commonbugs1TC - verifyShiftEnterTable test completed successfully.
+16:18:40.887 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint9_TestCases.Commonbugs1TC - clicked on first para in DS
+16:18:43.186 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint9_TestCases.Commonbugs1TC - clicked on change elament
+16:18:44.057 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint9_TestCases.Commonbugs1TC - clicked on change element in address
+16:18:46.006 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint9_TestCases.Commonbugs1TC - clicked on Accept Change
+16:18:46.525 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint9_TestCases.Commonbugs1TC - section heading is highlighted in DS
+16:18:46.525 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint9_TestCases.Commonbugs1TC - verifyHitBackspaceBeforeAddress test completed successfully.
+16:18:49.243 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint9_TestCases.CommonbugsTC - Starting verifyFigureDeleteBakspacecheckTC test...
+16:18:50.449 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint9_TestCases.Commonbugs1TC - Logged in and searched for a file, then clicked Edit.
+16:18:52.498 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint9_TestCases.Commonbugs1TC - clicked on second section
+16:18:53.485 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F1_SectionTC - Starting Verify_PressEnterInToSectionNumber ..
+16:19:01.453 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint9_TestCases.Commonbugs1TC - Logged in and searched for a file, then clicked Edit.
+16:19:01.988 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint9_TestCases.Commonbugs1TC - clicked on Accept Change
+16:19:02.205 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint9_TestCases.Commonbugs1TC - section heading is highlighted in DS
+16:19:02.205 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint9_TestCases.Commonbugs1TC - verifyRemoveContentDeleteKey test completed successfully.
+16:19:09.690 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  BasicEditingTC.F1_SectionTC - Starting Verify_DeleteSectionNumberBackSpacekey ..
+16:19:15.917 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint9_TestCases.CommonbugsTC - Logged in and performed search and edit actions.
+16:19:15.927 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint9_TestCases.CommonbugsTC - Navigated to the homepage and waited for the page to load.
+16:19:15.927 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint9_TestCases.CommonbugsTC - Test Step: Click DS Section and first paragraph.
+16:19:16.748 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint9_TestCases.CommonbugsTC - Test Step: Click Insert, Elements tab, insertAfterElement, and add figure.
+16:19:20.876 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F1_SectionTC - Clicked on Section Number
+16:19:21.522 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F1_SectionTC - Pressed Enter key
+16:19:21.976 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F1_SectionTC - Clicked on Code View button
+16:19:25.007 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint9_TestCases.CommonbugsTC - Test Step: Delete using BACK_SPACE key.
+16:19:25.716 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint9_TestCases.CommonbugsTC - verifyFigureDeleteBakspacecheckTC test completed successfully.
+16:19:32.079 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F1_SectionTC - Starting Verify_DeleteSectionfromDS_usingDeleteKey ..
+16:19:33.445 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  BasicEditingTC.F1_SectionTC - Double Clicked on Section Number....
+16:19:33.734 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  BasicEditingTC.F1_SectionTC -  Clicked on deleted Section Number from VE....
+16:19:33.985 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  BasicEditingTC.F1_SectionTC - Clicked on Accept changes Button....
+16:19:34.144 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  BasicEditingTC.F1_SectionTC - New Section Number is Inserted In VE
+16:19:34.307 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  BasicEditingTC.F1_SectionTC - Clicked on Accept changes Button....
+16:19:34.491 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  BasicEditingTC.F1_SectionTC - Clicked on Code View Button....
+16:19:53.394 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint9_TestCases.Commonbugs1TC - section heading is highlighted in DS
+16:19:53.394 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint9_TestCases.Commonbugs1TC - verifyDeleteLastParaInSection test completed successfully.
+16:19:54.420 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F1_SectionTC - Clicked on Delete button
+16:19:54.577 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F1_SectionTC - Next Section element is Highlighted In DS
+16:19:54.638 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F1_SectionTC - Next Section element is Highlighted In VE
+16:19:54.865 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F1_SectionTC - Clicked on Code View button
+16:19:59.638 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  BasicEditingTC.F1_SectionTC - Starting Verify_InsertNewParaCheckDShighlighted ..
+16:20:21.110 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  BasicEditingTC.F1_SectionTC - Cliked on First section heading from VE
+16:20:22.241 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  BasicEditingTC.F1_SectionTC - Right Cliked on First section heading from VE
+16:20:22.650 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F1_SectionTC - No Content Validation error is present in CodeView.
+16:20:22.650 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F1_SectionTC - Finished Verify_PressEnterInToSectionNumber ..
+16:20:23.415 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  BasicEditingTC.F1_SectionTC - Cliked on Insert after
+16:20:23.642 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  BasicEditingTC.F1_SectionTC - Section is searched
+16:20:24.130 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  BasicEditingTC.F1_SectionTC - Cliked on Section is selected
+16:20:24.438 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  BasicEditingTC.F1_SectionTC - Cliked on insert element button
+16:20:25.422 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  BasicEditingTC.F1_SectionTC - New section is added into DS
+16:20:25.571 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  BasicEditingTC.F1_SectionTC - New section is added into VE
+16:20:26.626 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  BasicEditingTC.F1_SectionTC - Cliked on Enter key
+16:20:27.384 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  BasicEditingTC.F1_SectionTC - New para is added into VE
+16:20:27.454 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  BasicEditingTC.F1_SectionTC - New para is Highlighted in DS
+16:20:27.617 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  BasicEditingTC.F1_SectionTC - Cliked on Enter key
+16:20:27.753 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  BasicEditingTC.F1_SectionTC - New 2 para is Highlighted in DS
+16:20:27.753 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  BasicEditingTC.F1_SectionTC - Finished Verify_InsertNewParaCheckDShighlighted ..
+16:20:28.883 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F1_SectionTC - Starting Verify_AddcontentSpaceHitEnter ..
+16:20:33.616 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint9_TestCases.EnterKeyTC - ****    Starting --> paraTC    ****
+16:20:35.162 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  BasicEditingTC.F1_SectionTC - Verifying content validation is not Occured...
+16:20:35.290 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  BasicEditingTC.F1_SectionTC - Clicked on Quick Preview Button....
+16:20:51.712 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F1_SectionTC - clicked On firt section From DS
+16:20:52.607 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F1_SectionTC - clicked On First Para From DS
+16:20:53.158 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F1_SectionTC - Pressed Enter key
+16:20:53.285 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F1_SectionTC - New Para is Added inserted into VE
+16:20:53.392 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F1_SectionTC - New Para is Highlighted into DS
+16:20:53.392 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F1_SectionTC - Finished Verify_AddcontentSpaceHitEnter ..
+16:20:55.446 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F1_SectionTC - No Content Validation error is present in CodeView.
+16:20:55.446 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F1_SectionTC - Finished Verify_DeleteSectionfromDS_usingDeleteKey ..
+16:20:56.704 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint9_TestCases.EnterKeyTC - clicked on second sections 2nd para from DS
+16:20:56.845 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint9_TestCases.EnterKeyTC - clicked on Enter key
+16:21:00.969 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint9_TestCases.EnterKeyTC - ****    Starting --> paraTC    ****
+16:21:02.975 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint9_TestCases.EnterKeyTC - Starting verifySectionEnterInsertpopup test...
+16:21:24.867 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint9_TestCases.EnterKeyTC - Starting verifyEnterAtFootnote test...
+16:21:27.668 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint9_TestCases.EnterKeyTC - Logged in and performed search and edit actions.
+16:21:27.669 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint9_TestCases.EnterKeyTC - Test Step: Click the section in Document Structure
+16:21:27.850 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint9_TestCases.EnterKeyTC - clicked on second sections 2nd para from DS
+16:21:28.394 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint9_TestCases.EnterKeyTC - clicked on Enter key
+16:21:28.632 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint9_TestCases.EnterKeyTC - Test Step: Pressed ENTER key.
+16:21:28.675 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint9_TestCases.EnterKeyTC - Verifying new para present in VE
+16:21:35.915 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  BasicEditingTC.F1_SectionTC - Verifying section Number is not present in Quick Preview...
+16:21:35.915 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  BasicEditingTC.F1_SectionTC - Finished Verify_DeleteSectionNumberBackSpacekey ..
+16:21:42.733 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint9_TestCases.EnterKeyTC - Starting verifyEnterAtFootnoteBottom test...
+16:21:46.957 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint9_TestCases.EnterKeyTC - Logged in and searched for a file, then clicked Edit.
+16:21:47.009 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint9_TestCases.EnterKeyTC - Switched to frame 0.
+16:21:47.568 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint9_TestCases.EnterKeyTC - clicked on first para in VE
+16:21:47.615 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint9_TestCases.EnterKeyTC - Switched to default content.
+16:21:47.925 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint9_TestCases.EnterKeyTC - clicked on footnote plugin
+16:21:50.385 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint9_TestCases.EnterKeyTC - clicked on footnote box
+16:21:51.017 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint9_TestCases.EnterKeyTC - clicked on footnote ok button
+16:21:52.270 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint9_TestCases.EnterKeyTC - verifyEnterAtFootnote test completed successfully.
+16:21:59.226 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint9_TestCases.EnterKeyTC - Starting verifyEnterInXref ..
+16:22:06.043 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint9_TestCases.EnterKeyTC - Logged in and searched for a file, then clicked Edit.
+16:22:06.062 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint9_TestCases.EnterKeyTC - Switched to frame 0.
+16:22:06.497 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint9_TestCases.EnterKeyTC - clicked on first para in VE
+16:22:06.540 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint9_TestCases.EnterKeyTC - Switched to default content.
+16:22:10.352 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint9_TestCases.EnterKeyTC - Switched to frame 0.
+16:22:11.013 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint9_TestCases.EnterKeyTC - Footnote is highlighted in DS
+16:22:11.013 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint9_TestCases.EnterKeyTC - verifyEnterAtFootnoteBottom test completed successfully.
+16:22:17.465 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint9_TestCases.EnterKeyTC - Starting verifyEnterAtCaption test...
+16:22:23.516 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint9_TestCases.EnterKeyTC - Logged in and searched for a file, then clicked Edit.
+16:22:29.318 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint9_TestCases.EnterKeyTC - verifySectionEnterInsertpopup test completed successfully.
+16:22:29.571 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint9_TestCases.EnterKeyTC - verifying content validation not occured in code view
+16:22:29.571 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint9_TestCases.EnterKeyTC - ****    Finished --> paraTC    ****
+16:22:36.747 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint9_TestCases.EnterKeyTC - Starting verifyEnterTable test...
+16:22:38.580 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint9_TestCases.EnterKeyTC - clicked on Cross Reference button 
+16:22:38.897 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Af_EnterKeyTC - Starting verify_EnterAfter_SectionHeading
+16:22:41.587 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint9_TestCases.EnterKeyTC - Logged in and searched for a file, then clicked Edit.
+16:22:51.322 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint9_TestCases.EnterKeyTC - Inserted Table in DS
+16:23:03.159 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint9_TestCases.EnterKeyTC - Logged in and searched for a file, then clicked Edit.
+16:23:03.404 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Af_EnterKeyTC - Logged in and searched for a file, then clicked Edit.
+16:23:03.443 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Af_EnterKeyTC - Switched to frame 0.
+16:23:03.842 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Af_EnterKeyTC - Clicked on Section Heading
+16:23:03.920 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Af_EnterKeyTC - Before Pressed Enter key the section Heading Text is :Transmit Flight and Shipment Information to Down-line Stations & Authorities
+16:23:03.920 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Af_EnterKeyTC - verifying on soft enter is happened
+16:23:04.360 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Af_EnterKeyTC - Pressed Enter key
+16:23:04.603 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Af_EnterKeyTC - Clicked on Code View button
+16:23:12.258 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint9_TestCases.EnterKeyTC - Switched to frame 0.
+16:23:12.316 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint9_TestCases.EnterKeyTC - Verified section heading is highlighted in DS
+16:23:12.317 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint9_TestCases.EnterKeyTC - verifyEnterTable test completed successfully.
+16:23:18.318 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Af_EnterKeyTC - Starting verifyDeleteTableAcceptChange
+16:23:39.357 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint9_TestCases.EnterKeyTC - clicked on Code Cross Reference checkbox 
+16:23:39.853 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint9_TestCases.EnterKeyTC - clicked on Cross Reference popup ok button 
+16:23:42.184 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Af_EnterKeyTC - Logged in and searched for a file, then clicked Edit.
+16:23:50.528 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Af_EnterKeyTC - Inserted Table in DS
+16:23:50.816 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Af_EnterKeyTC - clicked on Accept change
+16:23:51.206 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Af_EnterKeyTC - clicked on selected table DS
+16:23:51.987 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Af_EnterKeyTC - clicked on delete key
+16:23:52.143 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Af_EnterKeyTC - Switched to frame 0.
+16:23:52.902 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Af_EnterKeyTC - Switched back to default content.
+16:23:53.210 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Af_EnterKeyTC - clicked on Accept change
+16:23:53.455 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Af_EnterKeyTC - Switched to frame 0.
+16:23:58.313 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Af_EnterKeyTC - Starting verifyBackspacePara
+16:24:05.192 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Af_EnterKeyTC - No Content Validation error is present in CodeView.
+16:24:05.192 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Af_EnterKeyTC - Finished Verify_PressEnterInToSectionheading ..
+16:24:10.861 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Af_EnterKeyTC - Starting verifyDeletedElementblockType
+16:24:24.648 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Af_EnterKeyTC - Logged in, searched for a file, and clicked Edit.
+16:24:24.673 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Af_EnterKeyTC - Switched to frame 0.
+16:24:25.199 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Af_EnterKeyTC - clicked on VE First para 
+16:24:25.236 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Af_EnterKeyTC - Switched back to default content.
+16:24:25.584 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Af_EnterKeyTC - clicked on DS First para 
+16:24:25.584 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Af_EnterKeyTC - Created Actions class instance.
+16:24:25.961 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Af_EnterKeyTC - Finished verifyBackspacePara ..
+16:24:31.687 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Af_EnterKeyTC - Starting verifyInfoMsgInsertFootnotonOnComment ..
+16:24:34.287 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Af_EnterKeyTC - Logged in, searched for a file, and clicked Edit.
+16:24:34.305 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Af_EnterKeyTC - Switched to frame 0.
+16:24:34.860 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Af_EnterKeyTC - clicked on VE First para 
+16:24:34.913 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Af_EnterKeyTC - Switched back to default content.
+16:24:35.205 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Af_EnterKeyTC - clicked on DS First para 
+16:24:36.467 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Af_EnterKeyTC - clicked on Remove Element block from DS
+16:24:36.535 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Af_EnterKeyTC - Switched to frame 0.
+16:24:36.938 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Af_EnterKeyTC - clicked on VE First para 
+16:24:37.031 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Af_EnterKeyTC - Switched back to default content.
+16:24:37.105 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Af_EnterKeyTC - Finished verifyDeletedElementblockType ..
+16:24:42.167 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint9_TestCases.EnterKeyTC - verifyEnterInXref test completed successfully.
+16:24:48.768 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Af_EnterKeyTC - Starting VerifyDeleteSectionHeading ..
+16:24:54.113 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Af_EnterKeyTC - Verifying table is present even after deleting
+16:24:54.113 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Af_EnterKeyTC - Finished verifyDeleteTableAcceptChange
+16:24:57.114 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Af_EnterKeyTC - Switched to frame 0.
+16:24:58.547 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Af_EnterKeyTC - Double clicked on First para
+16:25:00.467 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Af_EnterKeyTC -  clicked on Add comment plugin
+16:25:00.762 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Af_EnterKeyTC -  Add comment popup is opened
+16:25:01.167 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Af_EnterKeyTC - Comment is entered into comment text field
+16:25:32.677 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Af_EnterKeyTC - clicked on Insert After button from VE
+16:25:33.214 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Af_EnterKeyTC - clicked on Insert after simple para
+16:25:33.759 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Af_EnterKeyTC - clicked on insert element button from inseet after popup
+16:25:34.711 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Af_EnterKeyTC - Verifying Simple Para present into DS
+16:25:37.070 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Af_EnterKeyTC - Clicked Track Change
+16:25:50.298 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Af_EnterKeyTC - clicked on Insert After button from VE
+16:25:50.888 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Af_EnterKeyTC - clicked on Insert after simple para
+16:25:51.530 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Af_EnterKeyTC - clicked on insert element button from inseet after popup
+16:25:51.789 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Af_EnterKeyTC - Verifying Simple Para present into DS
+16:25:53.906 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Af_EnterKeyTC - Clicked Track Change
+16:25:55.627 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Af_EnterKeyTC - clicked on Insert After button from VE
+16:25:56.226 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Af_EnterKeyTC - clicked on Insert after simple para
+16:25:56.696 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Af_EnterKeyTC - clicked on insert element button from inseet after popup
+16:25:57.417 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Af_EnterKeyTC - Verifying Simple Para present into DS
+16:26:01.271 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Af_EnterKeyTC - Clicked Track Change
+16:26:13.287 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Af_EnterKeyTC - clicked on Insert After button from VE
+16:26:13.855 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Af_EnterKeyTC - clicked on Insert after simple para
+16:26:14.268 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Af_EnterKeyTC - clicked on insert element button from inseet after popup
+16:26:14.455 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Af_EnterKeyTC - Verifying Simple Para present into DS
+16:26:16.200 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Af_EnterKeyTC - Clicked Track Change
+16:26:32.091 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Af_EnterKeyTC - clicked on Insert After button from VE
+16:26:32.972 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Af_EnterKeyTC - clicked on Insert after simple para
+16:26:33.683 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Af_EnterKeyTC - clicked on insert element button from inseet after popup
+16:26:33.945 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Af_EnterKeyTC - Verifying Simple Para present into DS
+16:26:38.244 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Af_EnterKeyTC - clicked on Insert After button from VE
+16:26:39.030 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Af_EnterKeyTC - clicked on Insert after simple para
+16:26:39.895 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Af_EnterKeyTC - clicked on insert element button from inseet after popup
+16:26:41.350 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Af_EnterKeyTC - Verifying Simple Para present into DS
+16:26:43.148 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Af_EnterKeyTC - Clicked Track Change
+16:26:46.133 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Af_EnterKeyTC - clicked on Insert After button from VE
+16:26:48.806 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Af_EnterKeyTC - clicked on Insert after simple para
+16:26:49.638 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Af_EnterKeyTC - clicked on insert element button from inseet after popup
+16:26:49.839 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Af_EnterKeyTC - Verifying Simple Para present into DS
+16:26:51.199 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Af_EnterKeyTC - Clicked Track Change
+16:26:56.689 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Af_EnterKeyTC - Clicked Track Change
+16:27:18.907 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Af_EnterKeyTC - clicked on Insert After button from VE
+16:27:20.456 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Af_EnterKeyTC - clicked on Insert after simple para
+16:27:21.381 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Af_EnterKeyTC - clicked on insert element button from inseet after popup
+16:27:22.653 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Af_EnterKeyTC - Verifying Simple Para present into DS
+16:27:23.688 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Af_EnterKeyTC - Clicked Track Change
+16:27:27.292 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Af_EnterKeyTC - Clicked Track Change
+16:27:34.027 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Af_EnterKeyTC - clicked on Insert After button from VE
+16:27:35.268 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Af_EnterKeyTC - clicked on Insert after simple para
+16:27:36.205 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Af_EnterKeyTC - clicked on insert element button from inseet after popup
+16:27:37.101 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Af_EnterKeyTC - Verifying Simple Para present into DS
+16:27:39.055 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Af_EnterKeyTC - Clicked Track Change
+16:27:39.949 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Af_EnterKeyTC - Starting VerifyDeleteSectionHeading ..
+16:27:40.962 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Af_EnterKeyTC - clicked on Insert After button from VE
+16:27:41.556 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Af_EnterKeyTC - clicked on Insert after simple para
+16:27:42.045 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Af_EnterKeyTC - clicked on insert element button from inseet after popup
+16:27:43.821 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Af_EnterKeyTC - Verifying Address present into DS
+16:27:55.224 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Af_EnterKeyTC - Starting verifyChangeSectionHeadingToPara
+16:28:21.941 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Af_EnterKeyTC - Logged in, searched for a file, and clicked Edit.
+16:28:21.942 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Af_EnterKeyTC - Created Para instance.
+16:29:10.511 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Af_EnterKeyTC - Switching to frame 0.
+16:29:10.528 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Af_EnterKeyTC - Double-clicking VEFirstPara.
+16:29:10.964 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Af_EnterKeyTC - Switching to default content.
+16:29:10.989 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Af_EnterKeyTC - Clicking the BoldPlugin.
+16:31:20.969 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Af_EnterKeyTC - Starting TabKey_LastRow
+16:31:31.790 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Af_EnterKeyTC - clicked on Insert After button from VE
+16:31:32.570 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Af_EnterKeyTC - clicked on Insert after simple para
+16:31:47.639 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Af_EnterKeyTC - Logged in, searched for a file, and clicked Edit.
+16:31:47.639 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Af_EnterKeyTC - Inserted a new table.
+16:32:00.464 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Af_EnterKeyTC - Switching to frame 0.
+16:32:00.683 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Af_EnterKeyTC - Double-clicking VEFirstPara.
+16:32:01.481 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Af_EnterKeyTC - Switching to default content.
+16:32:01.517 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Af_EnterKeyTC - Clicking the BoldPlugin.
+16:33:47.761 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Af_EnterKeyTC - Switched to frame 0.
+16:33:48.249 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Af_EnterKeyTC - Clicked on first para VE.
+16:33:48.298 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Af_EnterKeyTC - Switched to default content.
+16:33:48.556 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Af_EnterKeyTC - clicked on footnote plugin
+16:33:51.405 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Af_EnterKeyTC - clicked on new footnote box
+16:33:51.975 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Af_EnterKeyTC - clicked on footnote ok button
+16:33:56.370 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Af_EnterKeyTC - Logged in and searched for a file, then clicked Edit.
+16:33:56.391 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Af_EnterKeyTC - Switched to frame 0.
+16:33:57.698 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Af_EnterKeyTC - Switched to default content.
+16:33:57.945 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Af_EnterKeyTC - clicked on footnote plugin
+16:34:00.511 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Af_EnterKeyTC - clicked on new footnote box
+16:34:52.281 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Af_EnterKeyTC - Logged in and searched for a file, then clicked Edit.
+16:34:52.310 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Af_EnterKeyTC - Switched to frame 0.
+16:34:53.723 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Af_EnterKeyTC - Switched to default content.
+16:34:53.995 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Af_EnterKeyTC - clicked on footnote plugin
+16:34:56.711 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Af_EnterKeyTC - clicked on new footnote box
+16:35:11.180 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Af_EnterKeyTC - Starting verifyHitnterInmiddleOfExpiryElement ..
+16:35:29.874 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Af_EnterKeyTC - Clicked Track Change
+16:35:32.989 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Af_EnterKeyTC - Switched to frame 0.

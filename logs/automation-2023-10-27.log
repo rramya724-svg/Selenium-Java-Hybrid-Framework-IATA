@@ -1,0 +1,403 @@
+12:14:58.060 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint4_TestCases.C_CellLayoutTC - Creating C_CellLayout instance
+12:14:58.077 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint4_TestCases.C_CellLayoutTC - Clicking the second element of the existing table
+12:14:58.951 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint4_TestCases.C_CellLayoutTC - Switching back to default content
+12:14:59.069 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint4_TestCases.C_CellLayoutTC - Clicking the Table Properties tab
+12:14:59.507 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint4_TestCases.C_CellLayoutTC - Creating a list of expected Vertical Align options
+12:14:59.508 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint4_TestCases.C_CellLayoutTC - Creating a Select object for the Vertical Align dropdown
+12:14:59.666 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint4_TestCases.C_CellLayoutTC - Verifying dropdown options
+12:14:59.817 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint4_TestCases.C_CellLayoutTC - VerticalAlign_DropDownOptions test completed successfully.
+12:15:00.786 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.C_CellLayoutTC - Verifying 'Vertical Align' text...
+12:15:00.940 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.C_CellLayoutTC - verify_VerticalAlignment test completed successfully.
+12:15:09.371 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint4_TestCases.C_CellLayoutTC - Starting selectMiddleAlignAndVerify test...
+12:15:09.371 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint4_TestCases.C_CellLayoutTC - ReusableMethods.LoginAndSearchFile_ClickEdit()
+12:15:11.372 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.C_CellLayoutTC - Starting selectBottomAlignAndVerify test...
+12:15:11.372 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.C_CellLayoutTC - ReusableMethods.LoginAndSearchFile_ClickEdit()
+12:15:27.805 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint4_TestCases.C_CellLayoutTC - Creating C_CellLayout instance
+12:15:27.805 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint4_TestCases.C_CellLayoutTC - Switching to frame 0
+12:15:27.820 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint4_TestCases.C_CellLayoutTC - Clicking the second element of the existing table
+12:15:28.480 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint4_TestCases.C_CellLayoutTC - Switching back to default content
+12:15:28.568 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint4_TestCases.C_CellLayoutTC - Clicking the Table Properties tab
+12:15:28.942 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint4_TestCases.C_CellLayoutTC - Selecting 'Top' from the Vertical Align dropdown
+12:15:30.169 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint4_TestCases.C_CellLayoutTC - Switching back to frame 0
+12:15:30.228 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint4_TestCases.C_CellLayoutTC - Getting CSS value for the existing table second element
+12:15:30.266 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint4_TestCases.C_CellLayoutTC - Verifying if 'Top' alignment is applied
+12:15:30.266 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint4_TestCases.C_CellLayoutTC - selectTopAlignAndVerify test completed successfully.
+12:15:32.172 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint4_TestCases.C_CellLayoutTC - ReusableMethods.insertTableCB()
+12:15:36.545 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint4_TestCases.C_CellLayoutTC - Starting selectJustifyAlign_ChangeToDefault test...
+12:15:36.545 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint4_TestCases.C_CellLayoutTC - ReusableMethods.LoginAndSearchFile_ClickEdit()
+12:15:43.692 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint4_TestCases.C_CellLayoutTC - Creating C_CellLayout instance
+12:15:43.693 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint4_TestCases.C_CellLayoutTC - Verifying Vertical Align Search Options
+12:15:43.883 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint4_TestCases.C_CellLayoutTC - Vertical_Alignment_SearchOptions test completed successfully.
+12:15:48.528 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint4_TestCases.C_CellLayoutTC - Creating C_CellLayout instance
+12:15:48.528 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint4_TestCases.C_CellLayoutTC - Switching to frame 0
+12:15:48.569 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint4_TestCases.C_CellLayoutTC - Clicking the second element of the existing table
+12:15:50.282 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint4_TestCases.C_CellLayoutTC - Switching back to default content
+12:15:50.537 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint4_TestCases.C_CellLayoutTC - Clicking the Table Properties tab
+12:15:51.129 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint4_TestCases.C_CellLayoutTC - Selecting 'Middle' from the Vertical Align dropdown
+12:15:52.749 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint4_TestCases.C_CellLayoutTC - Switching back to frame 0
+12:15:53.086 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint4_TestCases.C_CellLayoutTC - Getting CSS value for the existing table second element
+12:15:53.167 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint4_TestCases.C_CellLayoutTC - Verifying if 'Middle' alignment is applied
+12:15:53.168 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint4_TestCases.C_CellLayoutTC - selectMiddleAlignAndVerify test completed successfully.
+12:15:54.542 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint4_TestCases.C_CellLayoutTC - Starting verify_BackgroundColor test...
+12:15:54.543 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint4_TestCases.C_CellLayoutTC - ReusableMethods.LoginAndSearchFile_ClickEdit()
+12:16:01.811 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.C_CellLayoutTC - Creating C_CellLayout instance
+12:16:01.811 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.C_CellLayoutTC - Switching to frame 0
+12:16:01.845 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.C_CellLayoutTC - Clicking the second element of the existing table
+12:16:02.168 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint4_TestCases.C_CellLayoutTC - Starting verify_BackgroundColor_ColorPicker test...
+12:16:02.168 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint4_TestCases.C_CellLayoutTC - ReusableMethods.LoginAndSearchFile_ClickEdit()
+12:16:03.469 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.C_CellLayoutTC - Switching back to default content
+12:16:03.628 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.C_CellLayoutTC - Clicking the Table Properties tab
+12:16:04.165 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.C_CellLayoutTC - Selecting 'Bottom' from the Vertical Align dropdown
+12:16:05.235 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.C_CellLayoutTC - Switching back to frame 0
+12:16:05.502 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.C_CellLayoutTC - Getting CSS value for the existing table second element
+12:16:05.551 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.C_CellLayoutTC - Verifying if 'Bottom' alignment is applied
+12:16:05.551 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.C_CellLayoutTC - selectBottomAlignAndVerify test completed successfully.
+12:16:13.428 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.C_CellLayoutTC - Starting verify_BackgroundColor_SaveButton test...
+12:16:13.429 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.C_CellLayoutTC - UIUX-834
+12:16:13.429 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.C_CellLayoutTC - ReusableMethods.LoginAndSearchFile_ClickEdit()
+12:16:41.645 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint4_TestCases.C_CellLayoutTC - ReusableMethods.insertTableCB()
+12:16:47.573 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint4_TestCases.C_CellLayoutTC - Selecting 'Please Select' alignment...
+12:16:48.532 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint4_TestCases.C_CellLayoutTC - selectJustifyAlign_ChangeToDefault test completed successfully.
+12:16:51.565 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint4_TestCases.C_CellLayoutTC - Creating C_CellLayout instance
+12:16:51.566 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint4_TestCases.C_CellLayoutTC - Clicking the Table Properties tab
+12:16:51.827 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint4_TestCases.C_CellLayoutTC - Verifying if 'Background Color' text is present
+12:16:51.879 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint4_TestCases.C_CellLayoutTC - verify_BackgroundColor test completed successfully.
+12:16:55.308 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint4_TestCases.C_CellLayoutTC - Starting verify_BackgroundColor_CancelButton test...
+12:16:55.308 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint4_TestCases.C_CellLayoutTC - UIUX-834
+12:16:55.308 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint4_TestCases.C_CellLayoutTC - ReusableMethods.LoginAndSearchFile_ClickEdit()
+12:17:00.507 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint4_TestCases.C_CellLayoutTC - Starting verify_BorderColor test...
+12:17:00.507 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint4_TestCases.C_CellLayoutTC - ReusableMethods.LoginAndSearchFile_ClickEdit()
+12:17:01.476 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint4_TestCases.C_CellLayoutTC - ReusableMethods.insertTableCB()
+12:17:07.940 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.C_CellLayoutTC - Creating C_CellLayout instance
+12:17:07.941 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.C_CellLayoutTC - ReusableMethods.insertTableCB()
+12:17:10.209 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint4_TestCases.C_CellLayoutTC - Creating C_CellLayout instance
+12:17:10.209 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint4_TestCases.C_CellLayoutTC - Switching to frame 0
+12:17:10.320 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint4_TestCases.C_CellLayoutTC - Clicking the first cell of the inserted table
+12:17:10.838 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint4_TestCases.C_CellLayoutTC - Switching back to default content
+12:17:10.862 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint4_TestCases.C_CellLayoutTC - Clicking the Table Properties tab
+12:17:11.136 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint4_TestCases.C_CellLayoutTC - Getting the style attribute of the selected color
+12:17:11.224 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint4_TestCases.C_CellLayoutTC - Clicking the color picker
+12:17:11.560 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint4_TestCases.C_CellLayoutTC - Verifying if the color picker element is present
+12:17:11.768 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint4_TestCases.C_CellLayoutTC - verify_BackgroundColor_ColorPicker test completed successfully.
+12:17:19.257 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.C_CellLayoutTC - Switching to frame 0
+12:17:19.360 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.C_CellLayoutTC - Clicking the first cell of the inserted table
+12:17:19.938 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.C_CellLayoutTC - Switching back to default content
+12:17:19.962 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.C_CellLayoutTC - Clicking the PCR button
+12:17:20.076 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.C_CellLayoutTC - Clicking the PCR result
+12:17:20.298 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.C_CellLayoutTC - Double-clicking the PCR result
+12:17:20.508 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.C_CellLayoutTC - Sending BACK_SPACE key
+12:17:20.526 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.C_CellLayoutTC - Sending 'D00F0F' keys
+12:17:20.658 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.C_CellLayoutTC - Clicking the color save button
+12:17:20.860 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.C_CellLayoutTC - Getting the style attribute of the selected color
+12:17:20.976 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.C_CellLayoutTC - Clicking the color picker
+12:17:21.356 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.C_CellLayoutTC - Clicking the PCR pickr
+12:17:21.548 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.C_CellLayoutTC - Clicking the color save button again
+12:17:21.769 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.C_CellLayoutTC - Getting the style attribute of the selected color
+12:17:21.857 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.C_CellLayoutTC - Verifying if the styles are not equal
+12:17:21.857 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.C_CellLayoutTC - Clicking the accept change button
+12:17:22.626 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.C_CellLayoutTC - Switching back to frame 0
+12:17:22.808 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.C_CellLayoutTC - Verifying the background color style of the inserted table first cell
+12:17:22.836 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.C_CellLayoutTC - verify_BackgroundColor_SaveButton test completed successfully.
+12:17:23.704 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint4_TestCases.C_CellLayoutTC - Starting verify_BorderColor_ColorPicker test...
+12:17:23.705 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint4_TestCases.C_CellLayoutTC - ReusableMethods.LoginAndSearchFile_ClickEdit()
+12:17:34.802 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.C_CellLayoutTC - Starting verify_BorderColor_SaveButton test...
+12:17:34.802 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.C_CellLayoutTC - ReusableMethods.LoginAndSearchFile_ClickEdit()
+12:17:56.033 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint4_TestCases.C_CellLayoutTC - ReusableMethods.insertTableCB()
+12:18:04.052 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint4_TestCases.C_CellLayoutTC - Creating C_CellLayout instance
+12:18:04.052 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint4_TestCases.C_CellLayoutTC - ReusableMethods.insertTableCB()
+12:18:04.679 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint4_TestCases.C_CellLayoutTC - Creating C_CellLayout instance
+12:18:04.680 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint4_TestCases.C_CellLayoutTC - Switching to frame 0
+12:18:05.079 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint4_TestCases.C_CellLayoutTC - Clicking the first cell of the inserted table
+12:18:06.193 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint4_TestCases.C_CellLayoutTC - Switching back to default content
+12:18:06.214 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint4_TestCases.C_CellLayoutTC - Getting the style attribute of the selected color
+12:18:06.411 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint4_TestCases.C_CellLayoutTC - Clicking the color picker
+12:18:06.686 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint4_TestCases.C_CellLayoutTC - Clicking the PCR color palette
+12:18:07.194 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint4_TestCases.C_CellLayoutTC - Clicking the color cancel button
+12:18:07.449 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint4_TestCases.C_CellLayoutTC - Handling the alert (if present)
+12:18:07.452 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint4_TestCases.C_CellLayoutTC - Getting the style attribute of the selected color
+12:18:07.536 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint4_TestCases.C_CellLayoutTC - Verifying if the styles are equal after cancel
+12:18:07.537 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint4_TestCases.C_CellLayoutTC - verify_BackgroundColor_CancelButton test completed successfully.
+12:18:08.395 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint4_TestCases.C_CellLayoutTC - ReusableMethods.insertTableCB()
+12:18:14.477 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint4_TestCases.C_CellLayoutTC - Verifying if 'Border Color' text is present
+12:18:14.588 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint4_TestCases.C_CellLayoutTC - verify_BorderColor test completed successfully.
+12:18:21.842 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint4_TestCases.C_CellLayoutTC - Starting verify_BorderColor_CancelButton test...
+12:18:21.842 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint4_TestCases.C_CellLayoutTC - ReusableMethods.LoginAndSearchFile_ClickEdit()
+12:18:24.944 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint4_TestCases.C_CellLayoutTC - Creating C_CellLayout instance
+12:18:24.945 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint4_TestCases.C_CellLayoutTC - Switching to frame 0
+12:18:25.065 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint4_TestCases.C_CellLayoutTC - Clicking the first cell of the inserted table
+12:18:25.683 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint4_TestCases.C_CellLayoutTC - Switching back to default content
+12:18:25.706 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint4_TestCases.C_CellLayoutTC - Getting the style attribute of the selected color
+12:18:25.775 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint4_TestCases.C_CellLayoutTC - Clicking the color picker
+12:18:26.032 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint4_TestCases.C_CellLayoutTC - Verifying if the color picker element is present
+12:18:26.128 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint4_TestCases.C_CellLayoutTC - verify_BorderColor_ColorPicker test completed successfully.
+12:18:27.886 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint4_TestCases.C_CellLayoutTC - Starting selectBottomAlign_ChangeToDefault test...
+12:18:27.886 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint4_TestCases.C_CellLayoutTC - ReusableMethods.LoginAndSearchFile_ClickEdit()
+12:18:28.978 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.C_CellLayoutTC - ReusableMethods.insertTableCB()
+12:18:36.195 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.C_CellLayoutTC - Creating C_CellLayout instance
+12:18:36.195 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.C_CellLayoutTC - Switching to frame 0
+12:18:36.318 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.C_CellLayoutTC - Clicking the first cell of the inserted table
+12:18:36.730 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.C_CellLayoutTC - Switching back to default content
+12:18:36.760 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.C_CellLayoutTC - Getting the style attribute of the selected color
+12:18:36.807 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.C_CellLayoutTC - Clicking the color picker
+12:18:36.972 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.C_CellLayoutTC - Creating Actions instance
+12:18:36.972 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.C_CellLayoutTC - Double-clicking the PCR result two
+12:18:37.209 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.C_CellLayoutTC - Sending BACK_SPACE key
+12:18:37.241 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.C_CellLayoutTC - Sending 'D00F0F' keys
+12:18:37.365 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.C_CellLayoutTC - Clicking the color save button two
+12:18:37.550 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.C_CellLayoutTC - Clicking the accept change button
+12:18:37.993 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.C_CellLayoutTC - Getting the style attribute of the selected color two
+12:18:38.193 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.C_CellLayoutTC - Verifying if the styles are not equal after save
+12:18:38.193 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.C_CellLayoutTC - Clicking the accept change button again
+12:18:38.333 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.C_CellLayoutTC - Switching back to frame 0
+12:18:38.354 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.C_CellLayoutTC - Verifying the border color style of the inserted table first cell
+12:18:38.379 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.C_CellLayoutTC - verify_BorderColor_SaveButton test completed successfully.
+12:18:57.607 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint4_TestCases.C_CellLayoutTC - ReusableMethods.insertTableCB()
+12:19:04.648 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint4_TestCases.C_CellLayoutTC - Creating C_CellLayout instance
+12:19:04.649 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint4_TestCases.C_CellLayoutTC - Switching to frame 0
+12:19:04.709 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint4_TestCases.C_CellLayoutTC - Clicking the first cell of the inserted table
+12:19:05.058 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint4_TestCases.C_CellLayoutTC - Switching back to default content
+12:19:05.072 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint4_TestCases.C_CellLayoutTC - Getting the style attribute of the selected color two
+12:19:05.109 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint4_TestCases.C_CellLayoutTC - Clicking the color picker two
+12:19:05.255 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint4_TestCases.C_CellLayoutTC - Clicking the PCR palette two
+12:19:05.397 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint4_TestCases.C_CellLayoutTC - Clicking the color cancel button two
+12:19:05.562 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint4_TestCases.C_CellLayoutTC - Getting the style attribute of the selected color
+12:19:05.602 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint4_TestCases.C_CellLayoutTC - Verifying if the styles are equal after cancel
+12:19:05.602 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint4_TestCases.C_CellLayoutTC - verify_BorderColor_CancelButton test completed successfully.
+12:19:17.780 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint4_TestCases.C_CellLayoutTC - Creating C_CellLayout instance
+12:19:17.780 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint4_TestCases.C_CellLayoutTC - Switching to frame 0
+12:19:17.800 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint4_TestCases.C_CellLayoutTC - Clicking the second element of the existing table
+12:19:18.330 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint4_TestCases.C_CellLayoutTC - Switching back to default content
+12:19:18.354 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint4_TestCases.C_CellLayoutTC - Clicking the Table Properties tab
+12:19:18.527 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint4_TestCases.C_CellLayoutTC - Selecting 'Bottom' from the Vertical Align dropdown
+12:19:18.892 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint4_TestCases.C_CellLayoutTC - Switching back to frame 0
+12:19:18.937 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint4_TestCases.C_CellLayoutTC - Getting CSS value for the existing table second element
+12:19:18.960 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint4_TestCases.C_CellLayoutTC - Verifying if 'Bottom' alignment is applied
+12:19:18.985 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint4_TestCases.C_CellLayoutTC - Switching back to default content
+12:19:18.987 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint4_TestCases.C_CellLayoutTC - Clicking the Table Properties tab again
+12:19:19.158 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint4_TestCases.C_CellLayoutTC - Selecting 'Please Select' from the Vertical Align dropdown
+12:19:19.437 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint4_TestCases.C_CellLayoutTC - Switching back to frame 0
+12:19:19.490 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint4_TestCases.C_CellLayoutTC - Verifying if alignment is changed to default
+12:19:19.509 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint4_TestCases.C_CellLayoutTC - selectBottomAlign_ChangeToDefault test completed successfully.
+12:24:27.374 [main] INFO  sprint4_TestCases.J_CommonTestcases - Starting verifyCopyPasteInsideCell
+12:25:01.337 [main] INFO  sprint4_TestCases.J_CommonTestcases - Logged in and searched for a file, then clicked Edit.
+12:25:07.469 [main] INFO  sprint4_TestCases.J_CommonTestcases - Inserted Table in DS
+12:25:07.524 [main] INFO  sprint4_TestCases.J_CommonTestcases - Switched to frame 0.
+12:25:08.701 [main] INFO  sprint4_TestCases.J_CommonTestcases - clicked on Inserted Table First Cell
+12:25:09.235 [main] INFO  sprint4_TestCases.J_CommonTestcases - clicked on Inserted Table First Cell
+12:25:09.236 [main] INFO  sprint4_TestCases.J_CommonTestcases - Finished verifyCopyPasteInsideCell
+14:27:53.404 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Starting the test TC545_verify_AddFootnote_Refresh_CheckTC
+14:28:17.536 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Logged in and searched for the file, then clicked on edit.
+14:28:17.557 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Initialized HD_FootnoteTrackChanges object.
+14:28:17.592 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Switched to frame 0.
+14:28:17.950 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on VE first paragraph.
+14:28:17.986 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Switched back to default content.
+14:28:18.200 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on the footnote plugin.
+14:28:22.900 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on the new footnote box.
+14:28:22.977 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Entered 'This is a footnote' using Actions.
+14:28:23.609 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on the footnote OK button.
+14:28:24.309 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on 'Track Change'.
+14:28:24.330 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Switched to frame 0.
+14:28:24.759 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on editor footnote.
+14:28:24.815 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Switched back to default content.
+14:28:24.872 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Data card is displayed.
+14:28:24.922 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Track change Accept change is displayed.
+14:28:24.973 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Track change Reject change is displayed.
+14:28:25.213 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on the save button.
+14:28:25.233 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Refreshed the page.
+14:28:25.245 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on accept the popup.
+14:28:27.763 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on 'Track Change' again.
+14:28:27.782 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Switched to frame 0.
+14:28:28.184 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on editor footnote.
+14:28:28.199 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Switched back to default content.
+14:33:52.403 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Starting the test TC545_verify_AddFootnote_Refresh_CheckTC
+14:34:15.988 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Logged in and searched for the file, then clicked on edit.
+14:34:15.991 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Initialized HD_FootnoteTrackChanges object.
+14:34:16.018 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Switched to frame 0.
+14:34:16.361 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on VE first paragraph.
+14:34:16.390 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Switched back to default content.
+14:34:16.627 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on the footnote plugin.
+14:34:19.465 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on the new footnote box.
+14:34:19.531 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Entered 'This is a footnote' using Actions.
+14:34:20.096 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on the footnote OK button.
+14:34:20.717 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on 'Track Change'.
+14:34:20.740 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Switched to frame 0.
+14:34:21.136 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on editor footnote.
+14:34:21.190 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Switched back to default content.
+14:34:21.251 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Data card is displayed.
+14:34:21.301 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Track change Accept change is displayed.
+14:34:21.353 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Track change Reject change is displayed.
+14:34:21.572 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on the save button.
+14:34:21.597 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Refreshed the page.
+14:34:21.604 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on accept the popup.
+14:34:23.798 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on 'Track Change' again.
+14:34:23.820 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Switched to frame 0.
+14:34:24.294 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on editor footnote.
+14:34:24.302 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Switched back to default content.
+14:36:25.519 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Starting the test TC571_verifyInsertFootnoteClickShowHideCheckFootnoteAtBottom
+14:36:49.588 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Logged in and searched for the file, then clicked on edit.
+14:36:49.592 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Initialized HD_FootnoteTrackChanges object.
+14:36:49.616 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Switched to frame 0.
+14:36:49.978 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on VE first paragraph.
+14:36:50.008 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Switched back to default content.
+14:36:50.274 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on the footnote plugin.
+14:36:52.846 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on the new footnote box.
+14:36:52.872 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Entered 'Hello' using Actions.
+14:36:53.455 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on the footnote OK button.
+14:36:54.113 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on 'Track Change'.
+14:36:54.512 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on editor footnote.
+14:36:54.555 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Switched back to default content.
+14:36:54.631 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Data card is displayed after adding the footnote.
+14:36:54.661 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Verified the added footnote label text: Added - Hello (footnote 1) (1)
+14:36:55.153 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on 'Accept Change' for the added footnote.
+14:36:55.718 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on Show/Hide plugin.
+14:36:56.208 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on the bottom footnote.
+14:36:56.955 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Entered 'This is Edited Footnote' using Actions.
+14:38:28.570 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Starting the test TC571_verifyInsertFootnoteClickShowHideCheckFootnoteAtBottom
+14:38:52.728 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Logged in and searched for the file, then clicked on edit.
+14:38:52.732 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Initialized HD_FootnoteTrackChanges object.
+14:38:52.803 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Switched to frame 0.
+14:38:53.157 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on VE first paragraph.
+14:38:53.185 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Switched back to default content.
+14:38:53.432 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on the footnote plugin.
+14:38:56.130 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on the new footnote box.
+14:38:56.156 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Entered 'Hello' using Actions.
+14:38:56.685 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on the footnote OK button.
+14:38:57.325 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on 'Track Change'.
+14:38:57.743 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on editor footnote.
+14:38:57.794 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Switched back to default content.
+14:38:57.850 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Data card is displayed after adding the footnote.
+14:38:57.879 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Verified the added footnote label text: Added - Hello (footnote 1) (1)
+14:38:58.376 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on 'Accept Change' for the added footnote.
+14:38:58.978 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on Show/Hide plugin.
+14:38:59.492 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on the bottom footnote.
+14:39:00.314 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Entered 'This is Edited Footnote' using Actions.
+14:41:14.049 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Starting the test TC571_verifyInsertFootnoteClickShowHideCheckFootnoteAtBottom
+14:41:44.211 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Logged in and searched for the file, then clicked on edit.
+14:41:44.215 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Initialized HD_FootnoteTrackChanges object.
+14:41:44.236 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Switched to frame 0.
+14:41:44.598 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on VE first paragraph.
+14:41:44.628 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Switched back to default content.
+14:41:44.850 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on the footnote plugin.
+14:41:47.586 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on the new footnote box.
+14:41:47.617 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Entered 'Hello' using Actions.
+14:41:48.384 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on the footnote OK button.
+14:41:49.129 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on 'Track Change'.
+14:41:49.530 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on editor footnote.
+14:41:49.565 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Switched back to default content.
+14:41:49.654 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Data card is displayed after adding the footnote.
+14:42:02.686 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Verified the added footnote label text: Added - Hello (footnote 1) (1)
+14:42:12.719 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on 'Accept Change' for the added footnote.
+14:42:18.228 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on Show/Hide plugin.
+14:42:29.278 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on the bottom footnote.
+14:44:46.302 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Starting the test TC571_verifyInsertFootnoteClickShowHideCheckFootnoteAtBottom
+14:45:15.946 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Logged in and searched for the file, then clicked on edit.
+14:45:15.948 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Initialized HD_FootnoteTrackChanges object.
+14:45:15.974 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Switched to frame 0.
+14:45:16.337 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on VE first paragraph.
+14:45:16.361 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Switched back to default content.
+14:45:16.589 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on the footnote plugin.
+14:45:19.699 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on the new footnote box.
+14:45:19.731 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Entered 'Hello' using Actions.
+14:45:20.284 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on the footnote OK button.
+14:45:20.920 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on 'Track Change'.
+14:45:21.301 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on editor footnote.
+14:45:21.338 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Switched back to default content.
+14:45:21.396 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Data card is displayed after adding the footnote.
+14:45:21.427 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Verified the added footnote label text: Added - Hello (footnote 1) (1)
+14:45:21.925 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on 'Accept Change' for the added footnote.
+14:45:22.511 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on Show/Hide plugin.
+14:46:20.685 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Starting the test TC571_verifyInsertFootnoteClickShowHideCheckFootnoteAtBottom
+14:46:44.701 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Logged in and searched for the file, then clicked on edit.
+14:46:44.705 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Initialized HD_FootnoteTrackChanges object.
+14:46:44.724 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Switched to frame 0.
+14:46:45.138 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on VE first paragraph.
+14:46:45.166 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Switched back to default content.
+14:46:45.451 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on the footnote plugin.
+14:46:48.305 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on the new footnote box.
+14:46:48.329 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Entered 'Hello' using Actions.
+14:46:48.931 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on the footnote OK button.
+14:46:49.605 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on 'Track Change'.
+14:46:50.022 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on editor footnote.
+14:46:50.074 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Switched back to default content.
+14:46:50.131 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Data card is displayed after adding the footnote.
+14:46:50.163 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Verified the added footnote label text: Added - Hello (footnote 1) (1)
+14:46:50.669 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on 'Accept Change' for the added footnote.
+14:46:51.242 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on Show/Hide plugin.
+14:47:59.522 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Starting the test TC571_verifyInsertFootnoteClickShowHideCheckFootnoteAtBottom
+14:48:27.532 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Logged in and searched for the file, then clicked on edit.
+14:48:27.534 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Initialized HD_FootnoteTrackChanges object.
+14:48:27.553 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Switched to frame 0.
+14:48:27.925 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on VE first paragraph.
+14:48:27.955 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Switched back to default content.
+14:48:28.144 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on the footnote plugin.
+14:48:31.826 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on the new footnote box.
+14:48:31.854 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Entered 'Hello' using Actions.
+14:48:32.432 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on the footnote OK button.
+14:48:33.098 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on 'Track Change'.
+14:48:33.487 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on editor footnote.
+14:48:33.537 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Switched back to default content.
+14:48:33.593 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Data card is displayed after adding the footnote.
+14:48:33.625 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Verified the added footnote label text: Added - Hello (footnote 1) (1)
+14:48:34.113 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on 'Accept Change' for the added footnote.
+14:48:34.681 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on Show/Hide plugin.
+14:51:03.212 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Starting the test TC571_verifyInsertFootnoteClickShowHideCheckFootnoteAtBottom
+14:51:29.635 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Logged in and searched for the file, then clicked on edit.
+14:51:29.638 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Initialized HD_FootnoteTrackChanges object.
+14:51:29.654 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Switched to frame 0.
+14:51:30.094 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on VE first paragraph.
+14:51:30.121 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Switched back to default content.
+14:51:30.332 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on the footnote plugin.
+14:51:33.552 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on the new footnote box.
+14:51:33.578 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Entered 'Hello' using Actions.
+14:51:34.123 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on the footnote OK button.
+14:51:34.770 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on 'Track Change'.
+14:51:35.185 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on editor footnote.
+14:51:35.237 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Switched back to default content.
+14:51:35.291 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Data card is displayed after adding the footnote.
+14:51:35.320 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Verified the added footnote label text: Added - Hello (footnote 1) (1)
+14:51:35.820 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on 'Accept Change' for the added footnote.
+14:51:36.388 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on Show/Hide plugin.
+14:52:55.535 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Starting the test TC571_verifyInsertFootnoteClickShowHideCheckFootnoteAtBottom
+14:53:19.705 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Logged in and searched for the file, then clicked on edit.
+14:53:19.709 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Initialized HD_FootnoteTrackChanges object.
+14:53:19.736 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Switched to frame 0.
+14:53:20.142 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on VE first paragraph.
+14:53:20.170 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Switched back to default content.
+14:53:20.423 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on the footnote plugin.
+14:53:24.876 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on the new footnote box.
+14:53:24.900 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Entered 'Hello' using Actions.
+14:53:25.453 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on the footnote OK button.
+14:53:26.123 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on 'Track Change'.
+14:53:26.520 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on editor footnote.
+14:53:26.571 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Switched back to default content.
+14:53:26.622 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Data card is displayed after adding the footnote.
+14:53:26.652 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Verified the added footnote label text: Added - Hello (footnote 1) (1)
+14:53:27.163 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on 'Accept Change' for the added footnote.
+14:53:27.781 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on Show/Hide plugin.
+14:54:24.977 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Starting the test TC571_verifyInsertFootnoteClickShowHideCheckFootnoteAtBottom
+14:54:50.672 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Logged in and searched for the file, then clicked on edit.
+14:54:50.677 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Initialized HD_FootnoteTrackChanges object.
+14:54:50.698 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Switched to frame 0.
+14:54:51.073 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on VE first paragraph.
+14:54:51.105 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Switched back to default content.
+14:54:51.325 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on the footnote plugin.
+14:54:54.039 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on the new footnote box.
+14:54:54.068 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Entered 'Hello' using Actions.
+14:54:54.660 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on the footnote OK button.
+14:54:55.350 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on 'Track Change'.
+14:54:55.740 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on editor footnote.
+14:54:55.794 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Switched back to default content.
+14:54:55.851 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Data card is displayed after adding the footnote.
+14:54:55.880 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Verified the added footnote label text: Added - Hello (footnote 1) (1)
+14:54:56.401 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on 'Accept Change' for the added footnote.
+14:54:57.013 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on Show/Hide plugin.
+14:55:41.847 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Starting the test TC571_verifyInsertFootnoteClickShowHideCheckFootnoteAtBottom
+14:56:07.311 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Logged in and searched for the file, then clicked on edit.
+14:56:07.316 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Initialized HD_FootnoteTrackChanges object.
+14:56:07.418 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Switched to frame 0.
+14:56:07.817 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on VE first paragraph.
+14:56:07.845 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Switched back to default content.
+14:56:08.076 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on the footnote plugin.
+14:56:11.157 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on the new footnote box.
+14:56:11.186 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Entered 'Hello' using Actions.
+14:56:11.751 [main] INFO  sprint6_TestCases.HD_FootnoteTrackChangesTC - Clicked on the footnote OK button.

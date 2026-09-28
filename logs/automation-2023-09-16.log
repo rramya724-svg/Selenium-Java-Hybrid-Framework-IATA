@@ -1,0 +1,456 @@
+10:09:43.935 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F8_TrackChangesTC - Switched to frame 0.
+10:09:44.378 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F8_TrackChangesTC - Switched to default content.
+10:09:47.582 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F7_PDFTC - Logged in, searched for a file, and clicked Edit.
+10:09:49.037 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F8_TrackChangesTC - Clicked on track changes.
+10:09:57.713 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F7_PDFTC - Starting verify_CombinationElements_GeneratePDF
+10:10:24.325 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F7_PDFTC - Logged in, searched for a file, and clicked Edit.
+10:10:24.858 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F8_TrackChangesTC - Logged in and searched for a file, then clicked Edit.
+10:10:24.878 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F8_TrackChangesTC - Switched to frame 0.
+10:10:25.438 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F8_TrackChangesTC - Switched to default content.
+10:10:31.360 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F8_TrackChangesTC - Clicked on track changes.
+10:10:35.554 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F7_PDFTC - Accepted the change.
+10:10:36.408 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F7_PDFTC - Clicked on the first paragraph.
+10:10:38.943 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F7_PDFTC - Added an entity reference.
+10:10:56.404 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F7_PDFTC - Starting verify_CombinationElements_GeneratePDF
+10:11:16.684 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F8_TrackChangesTC - Logged in and searched for a file, then clicked Edit.
+10:11:16.716 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F8_TrackChangesTC - Switched to frame 0.
+10:11:17.156 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F8_TrackChangesTC - Switched to default content.
+10:11:20.073 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F8_TrackChangesTC - Clicked on track changes.
+10:11:21.585 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F8_TrackChangesTC - Clicked on Track changes Accept Change.
+10:11:22.837 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F8_TrackChangesTC - Logged in and searched for a file, then clicked Edit.
+10:11:22.856 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F8_TrackChangesTC - Switched to frame 0.
+10:11:23.475 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F8_TrackChangesTC - Switched to default content.
+10:11:23.604 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F8_TrackChangesTC - Logged in and searched for a file, then clicked Edit.
+10:11:23.625 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F8_TrackChangesTC - Switched to frame 0.
+10:11:24.216 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F8_TrackChangesTC - Switched to default content.
+10:11:28.057 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F8_TrackChangesTC - Clicked on track changes.
+10:11:29.824 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F7_PDFTC - Logged in, searched for a file, and clicked Edit.
+10:11:31.140 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F8_TrackChangesTC - Clicked on track changes.
+10:11:33.118 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F8_TrackChangesTC - Clicked on Track changes Accept Change.
+10:11:59.320 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F8_TrackChangesTC - Logged in and searched for a file, then clicked Edit.
+10:11:59.460 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F8_TrackChangesTC - Switched to frame 0.
+10:12:00.119 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F8_TrackChangesTC - Switched to default content.
+10:12:03.631 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F8_TrackChangesTC - Clicked on track changes.
+10:12:09.762 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F8_TrackChangesTC - Logged in and searched for a file, then clicked Edit.
+10:12:09.802 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F8_TrackChangesTC - Switched to frame 0.
+10:12:10.291 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F8_TrackChangesTC - Switched to default content.
+10:12:37.735 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F8_TrackChangesTC - Logged in and searched for a file, then clicked Edit.
+10:12:37.748 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F8_TrackChangesTC - Switched to frame 0.
+10:12:38.125 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F8_TrackChangesTC - Switched to default content.
+10:13:25.394 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F8_TrackChangesTC - Logged in and searched for a file, then clicked Edit.
+10:13:25.412 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F8_TrackChangesTC - Switched to frame 0.
+10:13:26.050 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F8_TrackChangesTC - Switched to default content.
+10:13:26.800 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F8_TrackChangesTC - Switched to default content.
+10:13:27.044 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F8_TrackChangesTC - Logged in and searched for a file, then clicked Edit.
+10:13:27.075 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F8_TrackChangesTC - Switched to frame 0.
+10:13:27.734 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F8_TrackChangesTC - Switched to default content.
+10:13:29.309 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F8_TrackChangesTC - Clicked on track changes.
+10:13:29.783 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F8_TrackChangesTC - Clicked on Track changes Accept Change.
+10:13:38.834 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F8_TrackChangesTC - Logged in and searched for a file, then clicked Edit.
+10:13:46.120 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F8_TrackChangesTC - Clicked on track changes.
+10:13:46.862 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F8_TrackChangesTC - Clicked on Track changes Accept Change.
+10:14:01.837 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F8_TrackChangesTC - Logged in and searched for a file, then clicked Edit.
+10:14:01.850 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F8_TrackChangesTC - Switched to frame 0.
+10:14:02.222 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F8_TrackChangesTC - Switched to default content.
+10:14:51.523 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F8_TrackChangesTC - Logged in and searched for a file, then clicked Edit.
+10:14:51.542 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F8_TrackChangesTC - Switched to frame 0.
+10:14:52.075 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F8_TrackChangesTC - Switched to default content.
+10:15:16.700 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F8_TrackChangesTC - Logged in and searched for a file, then clicked Edit.
+10:15:16.767 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F8_TrackChangesTC - Switched to frame 0.
+10:15:17.542 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F8_TrackChangesTC - Switched to default content.
+10:15:22.779 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F8_TrackChangesTC - Logged in and searched for a file, then clicked Edit.
+10:15:22.816 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F8_TrackChangesTC - Switched to frame 0.
+10:15:23.629 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F8_TrackChangesTC - Switched to default content.
+10:15:24.269 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F8_TrackChangesTC - Clicked on track changes.
+10:15:24.859 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F8_TrackChangesTC - Clicked on Track changes Accept Change.
+10:15:36.121 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F8_TrackChangesTC - Logged in and searched for a file, then clicked Edit.
+10:15:36.133 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F8_TrackChangesTC - Switched to frame 0.
+10:15:36.565 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F8_TrackChangesTC - Switched to default content.
+10:15:41.005 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F8_TrackChangesTC - Logged in and searched for a file, then clicked Edit.
+10:15:41.032 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F8_TrackChangesTC - Switched to frame 0.
+10:15:41.648 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F8_TrackChangesTC - Switched to default content.
+10:15:48.438 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F8_TrackChangesTC - Clicked on track changes.
+10:16:11.925 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F8_TrackChangesTC - Logged in and searched for a file, then clicked Edit.
+10:16:11.956 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F8_TrackChangesTC - Switched to frame 0.
+10:16:12.661 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F8_TrackChangesTC - Switched to default content.
+10:16:27.572 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F8_TrackChangesTC - Logged in and searched for a file, then clicked Edit.
+10:16:29.354 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F8_TrackChangesTC - Logged in and searched for a file, then clicked Edit.
+10:16:30.932 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F8_TrackChangesTC - Clicked on track changes.
+10:16:31.564 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F8_TrackChangesTC - Clicked on Track changes Accept Change.
+10:16:32.501 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F8_TrackChangesTC - Clicked on track changes.
+14:05:54.024 [main] INFO  c_testCases.F9_FootnoteTC - Logged in and searched for a file, then clicked Edit.
+14:05:54.065 [main] INFO  c_testCases.F9_FootnoteTC - Switched to frame 0.
+14:05:54.358 [main] INFO  c_testCases.F9_FootnoteTC - Switched to default content.
+14:36:09.843 [main] INFO  c_testCases.F9_FootnoteTC - Logged in and searched for a file, then clicked Edit.
+14:36:09.861 [main] INFO  c_testCases.F9_FootnoteTC - Switched to frame 0.
+14:36:10.196 [main] INFO  c_testCases.F9_FootnoteTC - Switched to default content.
+14:41:00.514 [main] INFO  c_testCases.F9_FootnoteTC - Logged in and searched for a file, then clicked Edit.
+14:41:00.535 [main] INFO  c_testCases.F9_FootnoteTC - Switched to frame 0.
+14:41:00.881 [main] INFO  c_testCases.F9_FootnoteTC - Switched to default content.
+14:58:23.957 [main] INFO  c_testCases.F9_FootnoteTC - Logged in and searched for a file, then clicked Edit.
+14:58:23.976 [main] INFO  c_testCases.F9_FootnoteTC - Switched to frame 0.
+14:58:24.279 [main] INFO  c_testCases.F9_FootnoteTC - Switched to default content.
+16:08:39.253 [main] INFO  c_testCases.F9_FootnoteTC - Logged in and searched for a file, then clicked Edit.
+16:08:39.281 [main] INFO  c_testCases.F9_FootnoteTC - Switched to frame 0.
+16:08:39.808 [main] INFO  c_testCases.F9_FootnoteTC - Switched to default content.
+16:08:45.594 [main] INFO  c_testCases.F9_FootnoteTC - Switched to frame 0.
+16:08:46.057 [main] INFO  c_testCases.F9_FootnoteTC - Switched to default content.
+16:12:00.157 [main] INFO  c_testCases.F9_FootnoteTC - Logged in and searched for a file, then clicked Edit.
+16:12:00.182 [main] INFO  c_testCases.F9_FootnoteTC - Switched to frame 0.
+16:12:00.528 [main] INFO  c_testCases.F9_FootnoteTC - Switched to default content.
+16:12:06.713 [main] INFO  c_testCases.F9_FootnoteTC - Switched to frame 0.
+16:12:07.158 [main] INFO  c_testCases.F9_FootnoteTC - Switched to default content.
+16:15:43.768 [main] INFO  c_testCases.F9_FootnoteTC - Logged in and searched for a file, then clicked Edit.
+16:15:43.793 [main] INFO  c_testCases.F9_FootnoteTC - Switched to frame 0.
+16:15:44.149 [main] INFO  c_testCases.F9_FootnoteTC - Switched to default content.
+16:15:50.170 [main] INFO  c_testCases.F9_FootnoteTC - Switched to frame 0.
+16:15:50.716 [main] INFO  c_testCases.F9_FootnoteTC - Switched to default content.
+16:17:58.169 [main] INFO  c_testCases.F9_FootnoteTC - Logged in and searched for a file, then clicked Edit.
+16:17:58.206 [main] INFO  c_testCases.F9_FootnoteTC - Switched to frame 0.
+16:17:58.638 [main] INFO  c_testCases.F9_FootnoteTC - Switched to default content.
+16:18:04.473 [main] INFO  c_testCases.F9_FootnoteTC - Switched to frame 0.
+16:18:04.931 [main] INFO  c_testCases.F9_FootnoteTC - Switched to default content.
+16:48:08.302 [main] INFO  c_testCases.F9_FootnoteTC - Logged in and searched for a file, then clicked Edit.
+16:48:08.347 [main] INFO  c_testCases.F9_FootnoteTC - Switched to frame 0.
+16:48:08.689 [main] INFO  c_testCases.F9_FootnoteTC - Switched to default content.
+16:48:14.676 [main] INFO  c_testCases.F9_FootnoteTC - Switched to frame 0.
+16:48:15.072 [main] INFO  c_testCases.F9_FootnoteTC - Switched to default content.
+18:21:00.101 [main] INFO  c_testCases.F9_FootnoteTC - Logged in and searched for a file, then clicked Edit.
+18:21:00.142 [main] INFO  c_testCases.F9_FootnoteTC - Switched to frame 0.
+18:21:01.069 [main] INFO  c_testCases.F9_FootnoteTC - Switched to default content.
+18:21:08.941 [main] INFO  c_testCases.F9_FootnoteTC - Switched to frame 0.
+18:21:09.296 [main] INFO  c_testCases.F9_FootnoteTC - Switched to default content.
+18:27:47.524 [main] INFO  c_testCases.F9_FootnoteTC - Logged in and searched for a file, then clicked Edit.
+18:27:47.553 [main] INFO  c_testCases.F9_FootnoteTC - Switched to frame 0.
+18:27:47.910 [main] INFO  c_testCases.F9_FootnoteTC - Switched to default content.
+18:29:46.075 [main] INFO  c_testCases.F9_FootnoteTC - Logged in and searched for a file, then clicked Edit.
+18:29:46.112 [main] INFO  c_testCases.F9_FootnoteTC - Switched to frame 0.
+18:29:46.541 [main] INFO  c_testCases.F9_FootnoteTC - Switched to default content.
+18:31:18.452 [main] INFO  c_testCases.F9_FootnoteTC - Logged in and searched for a file, then clicked Edit.
+18:31:18.490 [main] INFO  c_testCases.F9_FootnoteTC - Switched to frame 0.
+18:31:19.062 [main] INFO  c_testCases.F9_FootnoteTC - Switched to default content.
+18:33:24.686 [main] INFO  c_testCases.F9_FootnoteTC - Logged in and searched for a file, then clicked Edit.
+18:33:24.713 [main] INFO  c_testCases.F9_FootnoteTC - Switched to frame 0.
+18:33:25.069 [main] INFO  c_testCases.F9_FootnoteTC - Switched to default content.
+18:35:06.668 [main] INFO  c_testCases.F9_FootnoteTC - Logged in and searched for a file, then clicked Edit.
+18:35:06.697 [main] INFO  c_testCases.F9_FootnoteTC - Switched to frame 0.
+18:35:07.058 [main] INFO  c_testCases.F9_FootnoteTC - Switched to default content.
+18:36:40.521 [main] INFO  c_testCases.F9_FootnoteTC - Logged in and searched for a file, then clicked Edit.
+18:36:40.584 [main] INFO  c_testCases.F9_FootnoteTC - Switched to frame 0.
+18:36:41.032 [main] INFO  c_testCases.F9_FootnoteTC - Switched to default content.
+18:50:44.149 [main] INFO  c_testCases.F9_FootnoteTC - Logged in and searched for a file, then clicked Edit.
+18:50:44.167 [main] INFO  c_testCases.F9_FootnoteTC - Switched to frame 0.
+18:50:44.553 [main] INFO  c_testCases.F9_FootnoteTC - Switched to default content.
+18:52:21.202 [main] INFO  c_testCases.F9_FootnoteTC - Logged in and searched for a file, then clicked Edit.
+18:52:21.235 [main] INFO  c_testCases.F9_FootnoteTC - Switched to frame 0.
+18:52:21.572 [main] INFO  c_testCases.F9_FootnoteTC - Switched to default content.
+09:57:15.510 [main] INFO  c_testCases.F9_FootnoteTC - Logged in and searched for a file, then clicked Edit.
+09:57:15.529 [main] INFO  c_testCases.F9_FootnoteTC - Switched to frame 0.
+09:57:15.794 [main] INFO  c_testCases.F9_FootnoteTC - Switched to default content.
+10:05:31.469 [main] INFO  c_testCases.F9_FootnoteTC - Logged in and searched for a file, then clicked Edit.
+10:05:31.485 [main] INFO  c_testCases.F9_FootnoteTC - Switched to frame 0.
+10:05:31.756 [main] INFO  c_testCases.F9_FootnoteTC - Switched to default content.
+10:08:41.427 [main] INFO  c_testCases.F9_FootnoteTC - Logged in and searched for a file, then clicked Edit.
+10:08:41.441 [main] INFO  c_testCases.F9_FootnoteTC - Switched to frame 0.
+10:08:41.711 [main] INFO  c_testCases.F9_FootnoteTC - Switched to default content.
+10:10:18.665 [main] INFO  c_testCases.F9_FootnoteTC - Logged in and searched for a file, then clicked Edit.
+10:10:18.681 [main] INFO  c_testCases.F9_FootnoteTC - Switched to frame 0.
+10:10:18.941 [main] INFO  c_testCases.F9_FootnoteTC - Switched to default content.
+16:51:22.481 [main] INFO  c_testCases.F10_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+09:59:04.484 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F9_FootnoteTC - Logged in and searched for a file, then clicked Edit.
+09:59:04.484 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F9_FootnoteTC - Logged in and searched for a file, then clicked Edit.
+09:59:06.141 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F9_FootnoteTC - Logged in and searched for a file, then clicked Edit.
+09:59:19.453 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F9_FootnoteTC - Logged in and searched for a file, then clicked Edit.
+09:59:19.473 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F9_FootnoteTC - Switched to frame 0.
+09:59:20.026 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F9_FootnoteTC - Switched to default content.
+09:59:31.015 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F9_FootnoteTC - Logged in and searched for a file, then clicked Edit.
+09:59:31.775 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F9_FootnoteTC - Logged in and searched for a file, then clicked Edit.
+09:59:33.832 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F9_FootnoteTC - Logged in and searched for a file, then clicked Edit.
+09:59:59.131 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F9_FootnoteTC - Logged in and searched for a file, then clicked Edit.
+10:00:01.387 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F9_FootnoteTC - Logged in and searched for a file, then clicked Edit.
+10:00:01.524 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F9_FootnoteTC - Logged in and searched for a file, then clicked Edit.
+10:00:25.520 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F9_FootnoteTC - Logged in and searched for a file, then clicked Edit.
+10:00:27.840 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F9_FootnoteTC - Logged in and searched for a file, then clicked Edit.
+10:00:28.428 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F9_FootnoteTC - Logged in and searched for a file, then clicked Edit.
+10:00:32.248 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F9_FootnoteTC - Logged in and searched for a file, then clicked Edit.
+10:01:11.797 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F9_FootnoteTC - Logged in and searched for a file, then clicked Edit.
+10:01:12.762 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F9_FootnoteTC - Logged in and searched for a file, then clicked Edit.
+10:01:12.780 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F9_FootnoteTC - Switched to frame 0.
+10:01:13.471 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F9_FootnoteTC - Switched to default content.
+10:01:56.781 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F9_FootnoteTC - Logged in and searched for a file, then clicked Edit.
+10:02:04.516 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F9_FootnoteTC - Logged in and searched for a file, then clicked Edit.
+10:02:04.597 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F9_FootnoteTC - Switched to frame 0.
+10:02:05.061 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F9_FootnoteTC - Switched to default content.
+10:09:28.478 [main] INFO  c_testCases.F10_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+10:14:06.820 [main] INFO  c_testCases.F10_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+10:14:07.729 [main] INFO  c_testCases.F10_UndoRedoTC - Switched to frame 0.
+10:14:38.251 [main] INFO  c_testCases.F10_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+10:14:58.302 [main] INFO  c_testCases.F10_UndoRedoTC - Switched to frame 0.
+10:58:10.401 [main] INFO  c_testCases.F10_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+10:58:10.438 [main] INFO  c_testCases.F10_UndoRedoTC - Switched to frame 0.
+10:58:11.069 [main] INFO  c_testCases.F10_UndoRedoTC - Switched to default content.
+11:00:35.208 [main] INFO  c_testCases.F10_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+11:00:35.276 [main] INFO  c_testCases.F10_UndoRedoTC - Switched to frame 0.
+11:00:35.669 [main] INFO  c_testCases.F10_UndoRedoTC - Switched to default content.
+11:00:37.907 [main] INFO  c_testCases.F10_UndoRedoTC - Clicked on track changes.
+11:00:38.073 [main] INFO  c_testCases.F10_UndoRedoTC - Switched to frame 0.
+11:00:38.116 [main] INFO  c_testCases.F10_UndoRedoTC - Switched to default content.
+11:00:38.563 [main] INFO  c_testCases.F10_UndoRedoTC - Switched to frame 0.
+11:00:38.593 [main] INFO  c_testCases.F10_UndoRedoTC - Switched to default content.
+11:05:01.251 [main] INFO  c_testCases.F10_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+11:05:01.279 [main] INFO  c_testCases.F10_UndoRedoTC - Switched to frame 0.
+11:05:01.830 [main] INFO  c_testCases.F10_UndoRedoTC - Switched to default content.
+11:10:56.787 [main] INFO  c_testCases.F10_UndoRedoTC - Starting verify_Insert_Table
+11:11:21.364 [main] INFO  c_testCases.F10_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+11:11:21.374 [main] INFO  c_testCases.F10_UndoRedoTC - Created F4_Table instance.
+11:11:28.680 [main] INFO  c_testCases.F10_UndoRedoTC - Inserted table using ReusableMethods.
+11:11:28.711 [main] INFO  c_testCases.F10_UndoRedoTC - Switched to frame 0.
+11:11:28.761 [main] INFO  c_testCases.F10_UndoRedoTC - Table is inserted in the Visual Editor.
+11:11:28.765 [main] INFO  c_testCases.F10_UndoRedoTC - Switched back to default content.
+11:11:28.813 [main] INFO  c_testCases.F10_UndoRedoTC - Document Structure is updated with the table.
+11:13:18.402 [main] INFO  c_testCases.F10_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+11:13:18.451 [main] INFO  c_testCases.F10_UndoRedoTC - Switched to frame 0.
+11:13:18.952 [main] INFO  c_testCases.F10_UndoRedoTC - Switched to default content.
+11:13:19.336 [main] INFO  c_testCases.F10_UndoRedoTC - Switched to default content.
+11:13:20.501 [main] INFO  c_testCases.F10_UndoRedoTC - Clicked on track changes.
+11:18:35.450 [main] INFO  c_testCases.F10_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+11:18:35.501 [main] INFO  c_testCases.F10_UndoRedoTC - Switched to frame 0.
+11:18:35.832 [main] INFO  c_testCases.F10_UndoRedoTC - Switched to default content.
+11:18:36.201 [main] INFO  c_testCases.F10_UndoRedoTC - Switched to frame 0.
+11:18:36.272 [main] INFO  c_testCases.F10_UndoRedoTC - Switched to default content.
+11:18:36.605 [main] INFO  c_testCases.F10_UndoRedoTC - Clicked on track changes.
+11:18:37.332 [main] INFO  c_testCases.F10_UndoRedoTC - Switched to frame 0.
+11:18:37.371 [main] INFO  c_testCases.F10_UndoRedoTC - Switched to default content.
+11:24:17.942 [main] INFO  c_testCases.F10_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+11:24:20.050 [main] INFO  c_testCases.F10_UndoRedoTC - Clicked on track changes.
+11:26:15.088 [main] INFO  c_testCases.F10_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+11:39:10.444 [main] INFO  c_testCases.F10_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+11:53:05.067 [main] INFO  c_testCases.F10_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+12:10:23.082 [main] INFO  c_testCases.F12_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+12:10:25.163 [main] INFO  c_testCases.F12_UndoRedoTC - Clicked on track changes.
+12:10:25.163 [main] INFO  c_testCases.F12_UndoRedoTC - Clicked on track changes.
+12:11:54.331 [main] INFO  c_testCases.F12_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+12:11:56.308 [main] INFO  c_testCases.F12_UndoRedoTC - Clicked on track changes.
+12:11:56.308 [main] INFO  c_testCases.F12_UndoRedoTC - Clicked on track changes.
+12:12:30.956 [main] INFO  c_testCases.F12_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+12:12:33.062 [main] INFO  c_testCases.F12_UndoRedoTC - Clicked on track changes.
+12:12:33.063 [main] INFO  c_testCases.F12_UndoRedoTC - Clicked on track changes.
+12:14:12.755 [main] INFO  c_testCases.F12_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+12:14:12.780 [main] INFO  c_testCases.F12_UndoRedoTC - Switched to frame 0.
+12:14:13.072 [main] INFO  c_testCases.F12_UndoRedoTC - Switched to default content.
+12:14:13.408 [main] INFO  c_testCases.F12_UndoRedoTC - Switched to frame 0.
+12:14:13.440 [main] INFO  c_testCases.F12_UndoRedoTC - Switched to default content.
+12:14:13.583 [main] INFO  c_testCases.F12_UndoRedoTC - Clicked on track changes.
+12:14:14.029 [main] INFO  c_testCases.F12_UndoRedoTC - Switched to frame 0.
+12:15:02.096 [main] INFO  c_testCases.F12_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+12:15:02.123 [main] INFO  c_testCases.F12_UndoRedoTC - Switched to frame 0.
+12:15:02.567 [main] INFO  c_testCases.F12_UndoRedoTC - Switched to default content.
+12:15:02.894 [main] INFO  c_testCases.F12_UndoRedoTC - Switched to default content.
+12:15:03.959 [main] INFO  c_testCases.F12_UndoRedoTC - Clicked on track changes.
+12:16:29.005 [main] INFO  c_testCases.F9_FootnoteTC - Logged in and searched for a file, then clicked Edit.
+12:16:29.026 [main] INFO  c_testCases.F9_FootnoteTC - Switched to frame 0.
+12:16:29.379 [main] INFO  c_testCases.F9_FootnoteTC - Switched to default content.
+12:17:38.730 [main] INFO  c_testCases.F9_FootnoteTC - Logged in and searched for a file, then clicked Edit.
+12:17:38.746 [main] INFO  c_testCases.F9_FootnoteTC - Switched to frame 0.
+12:17:39.039 [main] INFO  c_testCases.F9_FootnoteTC - Switched to default content.
+12:18:58.753 [main] INFO  c_testCases.F9_FootnoteTC - Logged in and searched for a file, then clicked Edit.
+12:18:58.777 [main] INFO  c_testCases.F9_FootnoteTC - Switched to frame 0.
+12:18:59.175 [main] INFO  c_testCases.F9_FootnoteTC - Switched to default content.
+12:19:04.220 [main] INFO  c_testCases.F9_FootnoteTC - Switched to frame 0.
+12:19:04.627 [main] INFO  c_testCases.F9_FootnoteTC - Switched to default content.
+12:21:00.804 [main] INFO  c_testCases.F9_FootnoteTC - Logged in and searched for a file, then clicked Edit.
+12:21:00.819 [main] INFO  c_testCases.F9_FootnoteTC - Switched to frame 0.
+12:21:01.054 [main] INFO  c_testCases.F9_FootnoteTC - Switched to default content.
+12:23:12.648 [main] INFO  c_testCases.F9_FootnoteTC - Logged in and searched for a file, then clicked Edit.
+12:23:12.680 [main] INFO  c_testCases.F9_FootnoteTC - Switched to frame 0.
+12:23:12.962 [main] INFO  c_testCases.F9_FootnoteTC - Switched to default content.
+12:27:02.803 [main] INFO  c_testCases.F9_FootnoteTC - Logged in and searched for a file, then clicked Edit.
+12:27:02.830 [main] INFO  c_testCases.F9_FootnoteTC - Switched to frame 0.
+12:27:03.993 [main] INFO  c_testCases.F9_FootnoteTC - Switched to default content.
+18:44:47.959 [main] INFO  c_testCases.F8_TrackChangesTC - Logged in and searched for a file, then clicked Edit.
+18:44:48.020 [main] INFO  c_testCases.F8_TrackChangesTC - Switched to frame 0.
+18:44:48.384 [main] INFO  c_testCases.F8_TrackChangesTC - Switched to default content.
+18:44:50.181 [main] INFO  c_testCases.F8_TrackChangesTC - Switched to frame 0.
+18:44:50.239 [main] INFO  c_testCases.F8_TrackChangesTC - Switched to default content.
+18:44:50.363 [main] INFO  c_testCases.F8_TrackChangesTC - Clicked on track changes.
+18:44:51.065 [main] INFO  c_testCases.F8_TrackChangesTC - Clicked on Track changes Accept Change.
+18:46:29.523 [main] INFO  c_testCases.F8_TrackChangesTC - Logged in and searched for a file, then clicked Edit.
+18:46:29.561 [main] INFO  c_testCases.F8_TrackChangesTC - Switched to frame 0.
+18:46:30.072 [main] INFO  c_testCases.F8_TrackChangesTC - Switched to default content.
+18:46:31.864 [main] INFO  c_testCases.F8_TrackChangesTC - Switched to frame 0.
+18:46:32.373 [main] INFO  c_testCases.F8_TrackChangesTC - Switched to default content.
+18:46:32.909 [main] INFO  c_testCases.F8_TrackChangesTC - Clicked on track changes.
+18:46:33.000 [main] INFO  c_testCases.F8_TrackChangesTC - Switched to frame 0.
+18:46:33.360 [main] INFO  c_testCases.F8_TrackChangesTC - Switched to default content.
+18:46:33.918 [main] INFO  c_testCases.F8_TrackChangesTC - Clicked on Track changes Accept Change.
+12:13:36.021 [main] INFO  c_testCases.F8_TrackChangesTC - Logged in and searched for a file, then clicked Edit.
+12:14:59.504 [main] INFO  c_testCases.F8_TrackChangesTC - Logged in and searched for a file, then clicked Edit.
+12:16:06.690 [main] INFO  c_testCases.F8_TrackChangesTC - Logged in and searched for a file, then clicked Edit.
+22:13:28.597 [main] INFO  c_testCases.F8_TrackChangesTC - Logged in and searched for a file, then clicked Edit.
+22:13:28.643 [main] INFO  c_testCases.F8_TrackChangesTC - Switched to frame 0.
+22:13:29.176 [main] INFO  c_testCases.F8_TrackChangesTC - Switched to default content.
+22:13:33.436 [main] INFO  c_testCases.F8_TrackChangesTC - Clicked on track changes.
+23:05:10.925 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F12_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+23:05:10.993 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F12_UndoRedoTC - Switched to frame 0.
+23:05:11.352 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F12_UndoRedoTC - Switched to default content.
+23:05:19.572 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F12_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+23:05:19.661 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F12_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+23:05:19.741 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F12_UndoRedoTC - Switched to frame 0.
+23:05:20.021 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F12_UndoRedoTC - Switched to frame 0.
+23:05:21.238 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F12_UndoRedoTC - Switched to default content.
+23:05:21.660 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F12_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+23:05:21.749 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F12_UndoRedoTC - Switched to default content.
+23:05:21.796 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F12_UndoRedoTC - Switched to frame 0.
+23:05:22.738 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F12_UndoRedoTC - Switched to default content.
+23:05:27.772 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F12_UndoRedoTC - Clicked on track changes.
+23:05:27.925 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F12_UndoRedoTC - Switched to frame 0.
+23:05:27.996 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F12_UndoRedoTC - Switched to default content.
+23:05:28.103 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F12_UndoRedoTC - Clicked on track changes.
+23:05:28.314 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F12_UndoRedoTC - Switched to frame 0.
+23:05:28.372 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F12_UndoRedoTC - Switched to default content.
+23:05:29.317 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F12_UndoRedoTC - Switched to frame 0.
+23:05:29.352 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F12_UndoRedoTC - Switched to default content.
+23:05:29.608 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F12_UndoRedoTC - Switched to frame 0.
+23:05:29.651 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F12_UndoRedoTC - Switched to default content.
+23:06:06.379 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F12_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+23:06:06.400 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F12_UndoRedoTC - Switched to frame 0.
+23:06:06.994 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F12_UndoRedoTC - Switched to default content.
+23:06:19.875 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F12_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+23:06:19.897 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F12_UndoRedoTC - Switched to frame 0.
+23:06:20.979 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F12_UndoRedoTC - Switched to default content.
+23:06:21.360 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F12_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+23:06:21.379 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F12_UndoRedoTC - Switched to frame 0.
+23:06:22.704 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F12_UndoRedoTC - Switched to default content.
+23:06:23.351 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F12_UndoRedoTC - Switched to default content.
+23:06:23.860 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F12_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+23:06:23.880 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F12_UndoRedoTC - Switched to frame 0.
+23:06:24.494 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F12_UndoRedoTC - Switched to default content.
+23:06:25.029 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F12_UndoRedoTC - Switched to default content.
+23:06:25.691 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F12_UndoRedoTC - Clicked on track changes.
+23:06:27.233 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F12_UndoRedoTC - Clicked on track changes.
+23:07:16.012 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F12_UndoRedoTC - Starting verify_Insert_Table
+23:07:20.856 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F12_UndoRedoTC - Starting verify_Insert_Table
+23:07:44.057 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F12_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+23:07:44.058 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F12_UndoRedoTC - Created F4_Table instance.
+23:07:53.240 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F12_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+23:07:53.241 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F12_UndoRedoTC - Created F4_Table instance.
+23:07:53.872 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F12_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+23:07:53.895 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F12_UndoRedoTC - Switched to frame 0.
+23:07:54.430 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F12_UndoRedoTC - Inserted table using ReusableMethods.
+23:07:54.477 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F12_UndoRedoTC - Switched to frame 0.
+23:07:54.553 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F12_UndoRedoTC - Table is inserted in the Visual Editor.
+23:07:54.556 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F12_UndoRedoTC - Switched back to default content.
+23:07:54.624 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F12_UndoRedoTC - Document Structure is updated with the table.
+23:07:54.645 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F12_UndoRedoTC - Switched to default content.
+23:07:55.592 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F12_UndoRedoTC - Switched to frame 0.
+23:07:55.677 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F12_UndoRedoTC - Switched to default content.
+23:07:56.137 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F12_UndoRedoTC - Clicked on track changes.
+23:07:57.475 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F12_UndoRedoTC - Switched to frame 0.
+23:08:03.568 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F12_UndoRedoTC - Inserted table using ReusableMethods.
+23:08:03.622 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F12_UndoRedoTC - Switched to frame 0.
+23:08:03.693 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F12_UndoRedoTC - Table is inserted in the Visual Editor.
+23:08:03.698 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F12_UndoRedoTC - Switched back to default content.
+23:08:03.772 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F12_UndoRedoTC - Document Structure is updated with the table.
+23:08:28.860 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F12_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+23:08:28.891 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F12_UndoRedoTC - Switched to frame 0.
+23:08:29.790 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F12_UndoRedoTC - Switched to default content.
+23:08:44.035 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F12_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+23:08:44.065 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F12_UndoRedoTC - Switched to frame 0.
+23:08:44.631 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F12_UndoRedoTC - Switched to default content.
+23:08:45.275 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F12_UndoRedoTC - Switched to frame 0.
+23:08:45.311 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F12_UndoRedoTC - Switched to default content.
+23:08:45.560 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F12_UndoRedoTC - Clicked on track changes.
+23:08:46.628 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F12_UndoRedoTC - Switched to frame 0.
+23:09:21.643 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F12_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+23:09:21.676 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F12_UndoRedoTC - Switched to frame 0.
+23:09:22.210 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F12_UndoRedoTC - Switched to default content.
+23:09:22.960 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F12_UndoRedoTC - Switched to frame 0.
+23:09:23.002 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F12_UndoRedoTC - Switched to default content.
+23:09:23.336 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F12_UndoRedoTC - Clicked on track changes.
+23:09:24.074 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F12_UndoRedoTC - Switched to frame 0.
+23:09:24.099 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F12_UndoRedoTC - Switched to default content.
+23:09:27.991 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F12_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+23:09:28.009 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F12_UndoRedoTC - Switched to frame 0.
+23:09:28.481 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F12_UndoRedoTC - Switched to default content.
+23:09:28.975 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F12_UndoRedoTC - Switched to frame 0.
+23:09:29.126 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F12_UndoRedoTC - Switched to default content.
+23:09:29.421 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F12_UndoRedoTC - Clicked on track changes.
+23:09:30.073 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F12_UndoRedoTC - Switched to frame 0.
+23:09:33.304 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F12_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+23:09:40.654 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F12_UndoRedoTC - Clicked on track changes.
+23:09:40.654 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F12_UndoRedoTC - Clicked on track changes.
+23:10:14.003 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F12_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+23:10:15.892 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F12_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+23:10:18.463 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F12_UndoRedoTC - Clicked on track changes.
+23:10:25.169 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F12_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+23:10:25.183 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F12_UndoRedoTC - Switched to frame 0.
+23:10:26.048 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F12_UndoRedoTC - Switched to default content.
+23:10:27.003 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F12_UndoRedoTC - Switched to frame 0.
+23:10:27.061 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F12_UndoRedoTC - Switched to default content.
+23:10:27.788 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F12_UndoRedoTC - Clicked on track changes.
+23:10:29.737 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F12_UndoRedoTC - Switched to frame 0.
+23:10:29.779 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F12_UndoRedoTC - Switched to default content.
+23:10:36.151 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F12_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+23:10:36.188 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F12_UndoRedoTC - Switched to frame 0.
+23:10:37.085 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F12_UndoRedoTC - Switched to default content.
+23:11:13.099 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F12_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+23:11:18.235 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F12_UndoRedoTC - Clicked on track changes.
+23:11:18.236 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F12_UndoRedoTC - Clicked on track changes.
+23:11:21.301 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F12_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+23:11:28.104 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F12_UndoRedoTC - Clicked on track changes.
+23:11:39.479 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F12_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+23:11:39.502 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F12_UndoRedoTC - Switched to frame 0.
+23:11:40.354 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F12_UndoRedoTC - Switched to default content.
+23:11:40.966 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F12_UndoRedoTC - Switched to frame 0.
+23:11:41.133 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F12_UndoRedoTC - Switched to default content.
+23:11:41.437 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F12_UndoRedoTC - Clicked on track changes.
+23:11:42.193 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F12_UndoRedoTC - Switched to frame 0.
+23:12:03.945 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F12_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+23:12:07.457 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F12_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+23:12:08.781 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F12_UndoRedoTC - Clicked on track changes.
+23:12:08.781 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F12_UndoRedoTC - Clicked on track changes.
+23:12:13.351 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F12_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+23:12:16.043 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F12_UndoRedoTC - Clicked on track changes.
+23:12:23.427 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F12_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+23:12:23.442 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F12_UndoRedoTC - Switched to frame 0.
+23:12:23.888 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F12_UndoRedoTC - Switched to default content.
+23:12:24.273 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F12_UndoRedoTC - Switched to frame 0.
+23:12:24.310 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F12_UndoRedoTC - Switched to default content.
+23:12:24.621 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F12_UndoRedoTC - Clicked on track changes.
+23:12:25.238 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F12_UndoRedoTC - Switched to frame 0.
+23:12:25.262 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F12_UndoRedoTC - Switched to default content.
+23:13:33.372 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F12_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+23:13:36.646 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F12_UndoRedoTC - Clicked on track changes.
+23:14:47.348 [main] INFO  c_testCases.F12_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+23:14:47.405 [main] INFO  c_testCases.F12_UndoRedoTC - Switched to frame 0.
+23:14:48.107 [main] INFO  c_testCases.F12_UndoRedoTC - Switched to default content.
+23:16:16.589 [main] INFO  c_testCases.F12_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+23:16:16.626 [main] INFO  c_testCases.F12_UndoRedoTC - Switched to frame 0.
+23:16:17.374 [main] INFO  c_testCases.F12_UndoRedoTC - Switched to default content.
+23:20:05.032 [main] INFO  c_testCases.F12_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+23:20:05.084 [main] INFO  c_testCases.F12_UndoRedoTC - Switched to frame 0.
+23:20:05.779 [main] INFO  c_testCases.F12_UndoRedoTC - Switched to default content.
+23:22:34.080 [main] INFO  c_testCases.F12_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+23:22:34.160 [main] INFO  c_testCases.F12_UndoRedoTC - Switched to frame 0.
+23:22:34.604 [main] INFO  c_testCases.F12_UndoRedoTC - Switched to default content.
+23:22:36.766 [main] INFO  c_testCases.F12_UndoRedoTC - Clicked on track changes.
+23:22:36.917 [main] INFO  c_testCases.F12_UndoRedoTC - Switched to frame 0.
+23:22:37.001 [main] INFO  c_testCases.F12_UndoRedoTC - Switched to default content.
+23:22:37.596 [main] INFO  c_testCases.F12_UndoRedoTC - Switched to frame 0.
+23:22:37.764 [main] INFO  c_testCases.F12_UndoRedoTC - Switched to default content.
+23:22:38.266 [main] INFO  c_testCases.F12_UndoRedoTC - Switched to frame 0.
+23:25:32.007 [main] INFO  c_testCases.F12_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+23:25:32.052 [main] INFO  c_testCases.F12_UndoRedoTC - Switched to frame 0.
+23:25:32.391 [main] INFO  c_testCases.F12_UndoRedoTC - Switched to default content.
+23:25:34.528 [main] INFO  c_testCases.F12_UndoRedoTC - Clicked on track changes.
+23:25:34.633 [main] INFO  c_testCases.F12_UndoRedoTC - Switched to frame 0.
+23:26:30.738 [main] INFO  c_testCases.F12_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+23:26:30.786 [main] INFO  c_testCases.F12_UndoRedoTC - Switched to frame 0.
+23:26:31.408 [main] INFO  c_testCases.F12_UndoRedoTC - Switched to default content.
+23:26:37.413 [main] INFO  c_testCases.F12_UndoRedoTC - Clicked on track changes.
+23:26:37.535 [main] INFO  c_testCases.F12_UndoRedoTC - Switched to frame 0.
+23:27:46.869 [main] INFO  c_testCases.F12_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+23:27:46.912 [main] INFO  c_testCases.F12_UndoRedoTC - Switched to frame 0.
+23:27:47.333 [main] INFO  c_testCases.F12_UndoRedoTC - Switched to default content.
+23:27:49.831 [main] INFO  c_testCases.F12_UndoRedoTC - Clicked on track changes.
+23:27:49.937 [main] INFO  c_testCases.F12_UndoRedoTC - Switched to frame 0.

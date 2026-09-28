@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="4" parallel="methods" name="Failed suite [Sprint9]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="b_utilities.ExtentReportManager"/>
+    <listener class-name="b_utilities.AnnotationTransfer"/>
+  </listeners>
+  <test thread-count="4" parallel="methods" name="RetryMultipleFailedTestcases(failed)">
+    <classes>
+      <class name="sprint9_TestCases.CommonbugsTC">
+        <methods>
+          <include name="setup"/>
+          <include name="initialize"/>
+          <include name="printThreadDetails"/>
+          <include name="tearDown"/>
+          <include name="verifyEntityIntableTC"/>
+          <include name="initializeSuit"/>
+          <include name="verifyInsertIntoTableShortcut"/>
+        </methods>
+      </class> <!-- sprint9_TestCases.CommonbugsTC -->
+      <class name="sprint9_TestCases.RightClickOptionsTC">
+        <methods>
+          <include name="verifycopyPasteFromRightClick"/>
+          <include name="verifyCutPasteFromRightClick"/>
+          <include name="initialize"/>
+          <include name="printThreadDetails"/>
+          <include name="setup"/>
+          <include name="verifyRightclickCutVisible"/>
+          <include name="tearDown"/>
+          <include name="initializeSuit"/>
+          <include name="verifyRightclickCopyVisible"/>
+        </methods>
+      </class> <!-- sprint9_TestCases.RightClickOptionsTC -->
+      <class name="sprint9_TestCases.A_ToolbarOptionsTC">
+        <methods>
+          <include name="verifyPastePopup"/>
+          <include name="verifyCopyEnabledAfterDoubleclick"/>
+          <include name="verifyCutPaste"/>
+          <include name="verifyCutEnabledAfterDoubleclick"/>
+          <include name="setup"/>
+          <include name="initialize"/>
+          <include name="verifyCutplainPaste"/>
+          <include name="verifyShortcutInDefaultEnabled"/>
+          <include name="verifyPlainPastePopup"/>
+          <include name="initializeSuit"/>
+          <include name="verifypasteHighligted"/>
+          <include name="verifyShortcutDisplayed"/>
+          <include name="verifycopyPlainPaste"/>
+          <include name="verifycutHighligted"/>
+          <include name="verifyShortcutTooltips"/>
+          <include name="verifycopyPaste"/>
+          <include name="verifyRightclickCutVisible"/>
+          <include name="printThreadDetails"/>
+          <include name="verifycopyHighligted"/>
+          <include name="tearDown"/>
+          <include name="verifyplainpasteHighligted"/>
+        </methods>
+      </class> <!-- sprint9_TestCases.A_ToolbarOptionsTC -->
+      <class name="sprint9_TestCases.Commonbugs1TC">
+        <methods>
+          <include name="verifyHitBackspaceBeforeAddress"/>
+          <include name="verifyInsertLinkInListAndHitTabKey"/>
+          <include name="verifySelectAllAddAddress"/>
+          <include name="initialize"/>
+          <include name="setup"/>
+          <include name="verifyDeleteSecondListItem"/>
+          <include name="verifyDeleteTableUsingDeleteKey"/>
+          <include name="initializeSuit"/>
+          <include name="verifyInsertTableInListAndHitTabKey"/>
+          <include name="verifyDeleteFootnoteKey"/>
+          <include name="verifyEnterTable"/>
+          <include name="verifyShiftEnterAtLastElement"/>
+          <include name="printThreadDetails"/>
+          <include name="tearDown"/>
+          <include name="verifyInsertAddressCheckQP"/>
+        </methods>
+      </class> <!-- sprint9_TestCases.Commonbugs1TC -->
+    </classes>
+  </test> <!-- RetryMultipleFailedTestcases(failed) -->
+</suite> <!-- Failed suite [Sprint9] -->

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="4" parallel="methods" name="Failed suite [Basic Editing]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="b_utilities.ExtentReportManager"/>
+    <listener class-name="b_utilities.AnnotationTransfer"/>
+  </listeners>
+  <test thread-count="4" parallel="methods" name="RetryMultipleFailedTestcases(failed)">
+    <classes>
+      <class name="BasicEditingTC.F4_TableTC">
+        <methods>
+          <include name="TC093_verifyTableRighClickSplitHorizontal"/>
+          <include name="TC107_verifyDeleteCellsSelecting"/>
+          <include name="TC084_verifyInsertMediaObjectNewTable"/>
+          <include name="TC095_verifyTableRighClickDeleteTable"/>
+          <include name="TC101_verifyTableRighClickTableProperties"/>
+          <include name="TC099_verifyTableRighClickInsertIntoBulletlist"/>
+          <include name="TC111_verifyDeleteRowSelecting"/>
+          <include name="TC062_verifyInsertTable"/>
+          <include name="TC109_verifyMergeCellsSelecting"/>
+          <include name="TC105_verifyRightClickInsertColumnAfter"/>
+          <include name="TC100_verifyTableRighClickInsertIntoImg"/>
+          <include name="initialize"/>
+          <include name="setup"/>
+          <include name="TC092_verifyTableRighClickMergeDown"/>
+          <include name="TC106_verifyTableRightClickDeleteRow"/>
+          <include name="initializeSuit"/>
+          <include name="TC103_verifyTableRighClickRowInsertAfter"/>
+          <include name="TC069_verifyDeleteExistingTableUndo"/>
+          <include name="TC085_verifyInsertNumberedListNewTable"/>
+          <include name="printThreadDetails"/>
+          <include name="TC104_verifyRightClickInsertColumnBefore"/>
+          <include name="TC102_verifyTableRighClickRowInsertBefore"/>
+          <include name="tearDown"/>
+          <include name="TC089_verifyTableRighClickInsertCellAfter"/>
+          <include name="TC083_verifyEnterKeySelectingTable"/>
+        </methods>
+      </class> <!-- BasicEditingTC.F4_TableTC -->
+    </classes>
+  </test> <!-- RetryMultipleFailedTestcases(failed) -->
+</suite> <!-- Failed suite [Basic Editing] -->

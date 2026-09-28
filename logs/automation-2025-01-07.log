@@ -1,0 +1,430 @@
+16:49:48.809 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+16:49:49.016 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Clicked on Document structure First section....
+16:50:03.364 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Verifying bold is present in DS 
+16:50:03.365 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Finished verifySelectParaContentApplyEmphasis ..
+17:10:06.999 [main] INFO  Elements_Testcases.Ae_UndoRedoTC - Starting verifyDelecteElementUndoCheckInfopopup
+17:10:38.321 [main] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+17:10:38.335 [main] INFO  Elements_Testcases.Ae_UndoRedoTC - Created G_ChangeElement instance.
+17:12:08.297 [main] INFO  Elements_Testcases.Ae_UndoRedoTC - Starting verifyDelecteElementUndoCheckInfopopup
+17:12:42.712 [main] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+17:12:42.730 [main] INFO  Elements_Testcases.Ae_UndoRedoTC - Created G_ChangeElement instance.
+17:12:45.095 [main] INFO  Elements_Testcases.Ae_UndoRedoTC - Clicked on Code View Button....
+17:14:06.377 [main] INFO  Elements_Testcases.Ae_UndoRedoTC - Verifying content validation is not Occured...
+17:14:06.378 [main] INFO  Elements_Testcases.Ae_UndoRedoTC - Finished verifyDelecteElementUndoCheckInfopopup
+17:15:57.462 [main] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+17:15:57.491 [main] INFO  Elements_Testcases.Ae_UndoRedoTC - Switched to frame 0.
+17:15:57.767 [main] INFO  Elements_Testcases.Ae_UndoRedoTC - Switched to default content.
+17:20:03.527 [main] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+17:20:03.548 [main] INFO  Elements_Testcases.Ae_UndoRedoTC - Switched to frame 0.
+17:20:03.915 [main] INFO  Elements_Testcases.Ae_UndoRedoTC - Switched to default content.
+19:26:57.624 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Starting verifyCopyPasteLinkIntoSectionHeading ..
+19:28:53.840 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Starting verifyCopyPasteLinkIntoSectionNumber ..
+19:29:41.757 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Finished verifyCopyPasteLinkIntoSectionNumber
+19:30:13.616 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Starting verifyCopyPasteLinkIntoSectionHeading ..
+19:31:00.041 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Finished verifyCopyPasteLinkIntoSectionHeading
+19:31:47.023 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Starting verifyCopyPasteTextIntoImgSearchField ..
+19:32:40.515 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Logged in and searched for a file, then clicked Edit.
+19:33:28.531 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Starting verifyCopyPasteTextIntoImgSearchField ..
+19:34:12.728 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Logged in and searched for a file, then clicked Edit.
+19:34:15.349 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Test verifyCopyPasteTextIntoImgSearchField completed.
+19:34:32.953 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Starting verifyCopyPasteTextIntoImgSearchField ..
+19:35:13.330 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Logged in and searched for a file, then clicked Edit.
+19:36:36.227 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Starting verifyCopyPasteTextIntoImgSearchField ..
+19:37:35.417 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Logged in and searched for a file, then clicked Edit.
+19:38:44.264 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Starting verifyCopyPasteTextIntoImgSearchField ..
+19:39:32.041 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Logged in and searched for a file, then clicked Edit.
+19:40:08.390 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Starting verifyCopyPasteTextIntoImgSearchField ..
+19:40:49.931 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Logged in and searched for a file, then clicked Edit.
+19:40:52.678 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Test verifyCopyPasteTextIntoImgSearchField completed.
+19:42:18.697 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Starting verifyCopyPasteTextIntoImgSearchField ..
+19:43:14.332 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Logged in and searched for a file, then clicked Edit.
+19:43:46.634 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Starting verifyCopyPasteTextIntoImgSearchField ..
+19:44:41.413 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Logged in and searched for a file, then clicked Edit.
+19:44:43.803 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Test verifyCopyPasteTextIntoImgSearchField completed.
+19:47:00.956 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Starting verifyCopySectionAndPasteUsingRightClick ..
+19:47:53.305 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Finished verifyCopySectionAndPasteUsingRightClick
+19:49:41.007 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Logged in and searched for a file, then clicked Edit.
+19:49:41.049 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Switched to frame 0.
+19:49:41.308 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Switched to default content.
+19:49:47.850 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Switched to frame 0.
+19:49:48.131 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Switched to default content.
+19:52:54.008 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Logged in and searched for a file, then clicked Edit.
+19:52:54.100 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Switched to frame 0.
+19:52:54.652 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Switched to default content.
+19:53:00.762 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Switched to frame 0.
+19:53:01.124 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Switched to default content.
+19:56:50.517 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Starting verifyCurCopyPasteIconFromToolbar ..
+19:58:30.685 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Logged in and searched for a file, then clicked Edit.
+20:02:27.598 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Starting verifyCurCopyPasteIconFromToolbar ..
+20:03:44.673 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Logged in and searched for a file, then clicked Edit.
+20:03:45.492 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Test verifyCurCopyPasteIconFromToolbar completed.
+20:08:06.448 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Starting verifyCutContentFromFootnotePopupAndPasteInVE test...
+20:09:08.555 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Logged in and searched for a file, then clicked Edit.
+20:15:55.889 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Starting verifyCutContentFromFootnotePopupAndPasteInVE test...
+20:16:48.025 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Logged in and searched for a file, then clicked Edit.
+20:17:28.150 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Starting verifyCutContentFromFootnotePopupAndPasteInVE test...
+20:18:43.580 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Logged in and searched for a file, then clicked Edit.
+20:18:51.000 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Test verifyCutContentFromFootnotePopupAndPasteInVE completed.
+20:19:45.329 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Starting verifyCutpasteComentedTable test...
+20:21:44.967 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Starting verifyCutpasteComentedTable test...
+20:22:56.055 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Test verifyCutpasteComentedTable completed.
+21:48:53.608 [main] INFO  BasicEditingTC.F11_CommnetsTC - Starting TC198_verifyCommentToListelement ..
+21:50:13.923 [main] INFO  BasicEditingTC.F11_CommnetsTC - clicked on second sections 2nd para from DS
+21:50:14.022 [main] INFO  BasicEditingTC.F11_CommnetsTC - clicked on Enter key
+21:50:14.948 [main] INFO  BasicEditingTC.F11_CommnetsTC - clicked on Number list
+21:50:15.393 [main] INFO  BasicEditingTC.F11_CommnetsTC - clicked on Accept changes
+21:50:15.696 [main] INFO  BasicEditingTC.F11_CommnetsTC - clicked on on new added list element in VE
+21:50:15.993 [main] INFO  BasicEditingTC.F11_CommnetsTC -  clicked on Add comment plugin
+21:52:59.147 [main] INFO  BasicEditingTC.F11_CommnetsTC - Starting TC198_verifyCommentToListelement ..
+21:54:06.026 [main] INFO  BasicEditingTC.F11_CommnetsTC - Starting Verify_CommentInPara ..
+21:54:34.648 [main] INFO  BasicEditingTC.F11_CommnetsTC - Starting TC198_verifyCommentToListelement ..
+21:56:49.987 [main] INFO  BasicEditingTC.F11_CommnetsTC - clicked on second sections 2nd para from DS
+21:57:01.318 [main] INFO  BasicEditingTC.F11_CommnetsTC - clicked on Enter key
+21:57:09.713 [main] INFO  BasicEditingTC.F11_CommnetsTC - clicked on Number list
+21:57:29.633 [main] INFO  BasicEditingTC.F11_CommnetsTC - clicked on Accept changes
+21:57:59.960 [main] INFO  BasicEditingTC.F11_CommnetsTC - clicked on on new added list element in VE
+21:58:00.648 [main] INFO  BasicEditingTC.F11_CommnetsTC -  clicked on Add comment plugin
+21:58:01.311 [main] INFO  BasicEditingTC.F11_CommnetsTC - Comment is entered into comment text field
+21:58:15.403 [main] INFO  BasicEditingTC.F11_CommnetsTC - Commnet is submited
+21:58:15.810 [main] INFO  BasicEditingTC.F11_CommnetsTC -  Comment card is added into comment panel
+21:58:16.049 [main] INFO  BasicEditingTC.F11_CommnetsTC - Comment count is updated
+21:58:16.140 [main] INFO  BasicEditingTC.F11_CommnetsTC - Commented List element is highlighted into yellow Color
+21:58:16.615 [main] INFO  BasicEditingTC.F11_CommnetsTC - clicked on Code View button 
+21:59:37.870 [main] INFO  BasicEditingTC.F11_CommnetsTC - Verifying content validation error
+21:59:37.870 [main] INFO  BasicEditingTC.F11_CommnetsTC - Finished TC198_verifyCommentToListelement ..
+22:01:42.135 [main] INFO  BasicEditingTC.F11_CommnetsTC - Starting TC198_verifyCommentToListelement ..
+22:03:52.392 [main] INFO  BasicEditingTC.F11_CommnetsTC - clicked on second sections 2nd para from DS
+22:03:52.476 [main] INFO  BasicEditingTC.F11_CommnetsTC - clicked on Enter key
+22:03:53.347 [main] INFO  BasicEditingTC.F11_CommnetsTC - clicked on Number list
+22:03:53.735 [main] INFO  BasicEditingTC.F11_CommnetsTC - clicked on Accept changes
+22:03:54.076 [main] INFO  BasicEditingTC.F11_CommnetsTC - clicked on on new added list element in VE
+22:03:54.281 [main] INFO  BasicEditingTC.F11_CommnetsTC -  clicked on Add comment plugin
+22:03:54.554 [main] INFO  BasicEditingTC.F11_CommnetsTC - Comment is entered into comment text field
+22:03:54.741 [main] INFO  BasicEditingTC.F11_CommnetsTC - Commnet is submited
+22:03:54.790 [main] INFO  BasicEditingTC.F11_CommnetsTC -  Comment card is added into comment panel
+22:03:54.820 [main] INFO  BasicEditingTC.F11_CommnetsTC - Comment count is updated
+22:03:54.855 [main] INFO  BasicEditingTC.F11_CommnetsTC - Commented List element is highlighted into yellow Color
+22:03:55.041 [main] INFO  BasicEditingTC.F11_CommnetsTC - clicked on Code View button 
+22:05:16.160 [main] INFO  BasicEditingTC.F11_CommnetsTC - Verifying content validation error
+22:05:16.160 [main] INFO  BasicEditingTC.F11_CommnetsTC - Finished TC198_verifyCommentToListelement ..
+22:05:36.404 [main] INFO  Elements_Testcases.Cl_CommentTC - Starting verifyRemoveCommentedFootnote ..
+22:06:49.610 [main] INFO  Elements_Testcases.Cl_CommentTC - Clicked on First para
+22:06:49.810 [main] INFO  Elements_Testcases.Cl_CommentTC - Clicked on footnote from toolbar
+22:06:56.273 [main] INFO  Elements_Testcases.Cl_CommentTC - Clicked on footnote Textbox
+22:06:56.356 [main] INFO  Elements_Testcases.Cl_CommentTC - inserted Hello into footnote Text box 
+22:06:56.739 [main] INFO  Elements_Testcases.Cl_CommentTC - Clicked on footnote ok button 
+22:06:57.110 [main] INFO  Elements_Testcases.Cl_CommentTC - Clicked on Accept changes
+22:06:57.505 [main] INFO  Elements_Testcases.Cl_CommentTC - Clicked on inserted footnote from VE
+22:06:57.684 [main] INFO  Elements_Testcases.Cl_CommentTC -  clicked on Add comment plugin
+22:06:57.748 [main] INFO  Elements_Testcases.Cl_CommentTC -  Add comment popup is opened
+22:06:57.992 [main] INFO  Elements_Testcases.Cl_CommentTC - Comment is entered into comment text field
+22:06:58.245 [main] INFO  Elements_Testcases.Cl_CommentTC - Commnet is submited
+22:06:58.357 [main] INFO  Elements_Testcases.Cl_CommentTC -  Comment card is added into comment panel
+22:06:58.378 [main] INFO  Elements_Testcases.Cl_CommentTC - Switched to frame 0.
+22:06:58.687 [main] INFO  Elements_Testcases.Cl_CommentTC - Switched back to default content.
+22:06:58.712 [main] INFO  Elements_Testcases.Cl_CommentTC - Switched to frame 1.
+22:06:59.013 [main] INFO  Elements_Testcases.Cl_CommentTC - Clicked on Remove Element Block.
+22:06:59.035 [main] INFO  Elements_Testcases.Cl_CommentTC - Switched back to default content.
+22:06:59.465 [main] INFO  Elements_Testcases.Cl_CommentTC - Switched back to default content.
+22:06:59.883 [main] INFO  Elements_Testcases.Cl_CommentTC -  Comment card is added into comment panel
+22:06:59.883 [main] INFO  Elements_Testcases.Cl_CommentTC - Finished verifyRemoveCommentedFootnote ..
+22:09:01.850 [main] INFO  Elements_Testcases.Cl_CommentTC - Starting verifyRemoveCommentedFootnote ..
+22:10:50.930 [main] INFO  Elements_Testcases.Cl_CommentTC - Clicked on First para
+22:10:51.138 [main] INFO  Elements_Testcases.Cl_CommentTC - Clicked on footnote from toolbar
+22:10:57.996 [main] INFO  Elements_Testcases.Cl_CommentTC - Clicked on footnote Textbox
+22:10:58.051 [main] INFO  Elements_Testcases.Cl_CommentTC - inserted Hello into footnote Text box 
+22:10:58.418 [main] INFO  Elements_Testcases.Cl_CommentTC - Clicked on footnote ok button 
+22:10:58.784 [main] INFO  Elements_Testcases.Cl_CommentTC - Clicked on Accept changes
+22:10:59.097 [main] INFO  Elements_Testcases.Cl_CommentTC - Clicked on inserted footnote from VE
+22:10:59.246 [main] INFO  Elements_Testcases.Cl_CommentTC -  clicked on Add comment plugin
+22:10:59.293 [main] INFO  Elements_Testcases.Cl_CommentTC -  Add comment popup is opened
+22:10:59.510 [main] INFO  Elements_Testcases.Cl_CommentTC - Comment is entered into comment text field
+22:10:59.703 [main] INFO  Elements_Testcases.Cl_CommentTC - Commnet is submited
+22:10:59.774 [main] INFO  Elements_Testcases.Cl_CommentTC -  Comment card is added into comment panel
+22:10:59.785 [main] INFO  Elements_Testcases.Cl_CommentTC - Switched to frame 0.
+22:11:00.038 [main] INFO  Elements_Testcases.Cl_CommentTC - Switched back to default content.
+22:11:00.059 [main] INFO  Elements_Testcases.Cl_CommentTC - Switched to frame 1.
+22:11:00.323 [main] INFO  Elements_Testcases.Cl_CommentTC - Clicked on Remove Element Block.
+22:11:00.341 [main] INFO  Elements_Testcases.Cl_CommentTC - Switched back to default content.
+22:11:00.663 [main] INFO  Elements_Testcases.Cl_CommentTC - Switched back to default content.
+22:11:01.011 [main] INFO  Elements_Testcases.Cl_CommentTC -  Comment card is added into comment panel
+22:11:01.011 [main] INFO  Elements_Testcases.Cl_CommentTC - Finished verifyRemoveCommentedFootnote ..
+22:14:06.348 [main] INFO  Elements_Testcases.Ac_LinksTC - Starting verifyDeleteLinkInCommentContent ..
+22:16:12.114 [main] INFO  Elements_Testcases.Ac_LinksTC - Starting verifyDeleteLinkInCommentContent ..
+22:17:29.186 [main] INFO  Elements_Testcases.Ac_LinksTC - Starting verifyDeleteLinkInCommentContent ..
+22:18:35.731 [main] INFO  Elements_Testcases.Ac_LinksTC - Finished verifyDeleteLinkInCommentContent ..
+22:24:28.333 [main] INFO  Elements_Testcases.Ac_LinksTC - Logged in and searched for a file, then clicked Edit.
+22:24:28.393 [main] INFO  Elements_Testcases.Ac_LinksTC - Switched to frame 0.
+22:24:28.774 [main] INFO  Elements_Testcases.Ac_LinksTC - Clicked on first para VE.
+22:24:28.812 [main] INFO  Elements_Testcases.Ac_LinksTC - Switched to default content.
+22:24:28.975 [main] INFO  Elements_Testcases.Ac_LinksTC - clicked on footnote plugin
+22:24:37.466 [main] INFO  Elements_Testcases.Ac_LinksTC - clicked on new footnote box
+22:24:37.946 [main] INFO  Elements_Testcases.Ac_LinksTC - clicked on footnote ok button
+22:24:38.850 [main] INFO  Elements_Testcases.Ac_LinksTC - clicked on Cross Reference button 
+22:27:53.998 [main] INFO  Elements_Testcases.Ac_LinksTC - Logged in and searched for a file, then clicked Edit.
+22:27:54.081 [main] INFO  Elements_Testcases.Ac_LinksTC - Switched to frame 0.
+22:27:54.526 [main] INFO  Elements_Testcases.Ac_LinksTC - Clicked on first para VE.
+22:27:54.548 [main] INFO  Elements_Testcases.Ac_LinksTC - Switched to default content.
+22:27:54.756 [main] INFO  Elements_Testcases.Ac_LinksTC - clicked on footnote plugin
+22:28:01.631 [main] INFO  Elements_Testcases.Ac_LinksTC - clicked on new footnote box
+22:28:02.016 [main] INFO  Elements_Testcases.Ac_LinksTC - clicked on footnote ok button
+22:28:17.235 [main] INFO  Elements_Testcases.Ac_LinksTC - clicked on Cross Reference button 
+22:30:41.786 [main] INFO  Elements_Testcases.Ac_LinksTC - Logged in and searched for a file, then clicked Edit.
+22:30:41.860 [main] INFO  Elements_Testcases.Ac_LinksTC - Switched to frame 0.
+22:30:42.140 [main] INFO  Elements_Testcases.Ac_LinksTC - Clicked on first para VE.
+22:30:42.152 [main] INFO  Elements_Testcases.Ac_LinksTC - Switched to default content.
+22:30:42.303 [main] INFO  Elements_Testcases.Ac_LinksTC - clicked on footnote plugin
+22:30:51.219 [main] INFO  Elements_Testcases.Ac_LinksTC - clicked on new footnote box
+22:30:51.677 [main] INFO  Elements_Testcases.Ac_LinksTC - clicked on footnote ok button
+22:44:08.261 [main] INFO  Elements_Testcases.Ac_LinksTC - Logged in and searched for a file, then clicked Edit.
+22:44:08.337 [main] INFO  Elements_Testcases.Ac_LinksTC - Switched to frame 0.
+22:44:08.679 [main] INFO  Elements_Testcases.Ac_LinksTC - Clicked on first para VE.
+22:44:08.716 [main] INFO  Elements_Testcases.Ac_LinksTC - Switched to default content.
+22:44:08.874 [main] INFO  Elements_Testcases.Ac_LinksTC - clicked on footnote plugin
+22:44:15.547 [main] INFO  Elements_Testcases.Ac_LinksTC - clicked on new footnote box
+22:44:16.029 [main] INFO  Elements_Testcases.Ac_LinksTC - clicked on footnote ok button
+22:44:17.047 [main] INFO  Elements_Testcases.Ac_LinksTC - clicked on Cross Reference button 
+22:44:17.707 [main] INFO  Elements_Testcases.Ac_LinksTC - clicked on Code Cross Reference checkbox 
+22:44:17.874 [main] INFO  Elements_Testcases.Ac_LinksTC - clicked on Cross Reference popup ok button 
+22:47:04.395 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Starting verifySectionHeadingtoParaCPCount
+22:47:55.722 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Logged in, searched for a file, and clicked Edit.
+22:47:56.202 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Double clicked on Section Number
+22:47:56.427 [main] INFO  sprint8_TestCases.I_PriorityBugTC -  clicked on Add comment plugin
+22:47:56.754 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Comment is entered into comment text field
+22:47:57.083 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Commnet is submited
+22:47:57.173 [main] INFO  sprint8_TestCases.I_PriorityBugTC -  Comment card is added into comment panel
+22:47:57.226 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Comment count is updated
+22:52:53.496 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Starting verifySectionHeadingtoParaCPCount
+22:53:35.863 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Logged in, searched for a file, and clicked Edit.
+22:53:36.171 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Double clicked on Section Number
+22:53:36.336 [main] INFO  sprint8_TestCases.I_PriorityBugTC -  clicked on Add comment plugin
+22:53:36.582 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Comment is entered into comment text field
+22:53:36.800 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Commnet is submited
+22:53:36.862 [main] INFO  sprint8_TestCases.I_PriorityBugTC -  Comment card is added into comment panel
+22:53:36.891 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Comment count is updated
+23:02:56.592 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Starting verifySectionHeadingtoParaCPCount
+23:03:34.213 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Logged in, searched for a file, and clicked Edit.
+23:03:34.519 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Double clicked on Section Number
+23:03:34.679 [main] INFO  sprint8_TestCases.I_PriorityBugTC -  clicked on Add comment plugin
+23:03:34.950 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Comment is entered into comment text field
+23:03:35.218 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Commnet is submited
+23:03:35.311 [main] INFO  sprint8_TestCases.I_PriorityBugTC -  Comment card is added into comment panel
+23:03:35.345 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Comment count is updated
+23:06:11.256 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Starting verifySectionHeadingtoParaCPCount
+23:06:52.326 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Logged in, searched for a file, and clicked Edit.
+23:06:52.651 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Double clicked on Section Number
+23:06:52.786 [main] INFO  sprint8_TestCases.I_PriorityBugTC -  clicked on Add comment plugin
+23:06:53.054 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Comment is entered into comment text field
+23:06:53.278 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Commnet is submited
+23:06:53.375 [main] INFO  sprint8_TestCases.I_PriorityBugTC -  Comment card is added into comment panel
+23:06:53.416 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Comment count is updated
+23:06:54.204 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Finished verifySectionHeadingtoParaCPCount
+23:08:05.167 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Starting verifyDeleteCommentCheckCount
+23:08:48.141 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Logged in, searched for a file, and clicked Edit.
+23:08:48.507 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Double clicked on First para
+23:08:48.713 [main] INFO  sprint8_TestCases.I_PriorityBugTC -  clicked on Add comment plugin
+23:08:48.767 [main] INFO  sprint8_TestCases.I_PriorityBugTC -  Add comment popup is opened
+23:08:49.013 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Comment is entered into comment text field
+23:08:49.213 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Commnet is submited
+23:08:49.264 [main] INFO  sprint8_TestCases.I_PriorityBugTC -  Comment card is added into comment panel
+23:08:49.297 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Comment count is updated
+23:08:49.424 [main] INFO  sprint8_TestCases.I_PriorityBugTC -  Comment card is added into comment panel
+23:10:57.211 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Starting verifyDeleteCommentCheckCount
+23:11:37.949 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Logged in, searched for a file, and clicked Edit.
+23:11:38.318 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Double clicked on First para
+23:11:38.515 [main] INFO  sprint8_TestCases.I_PriorityBugTC -  clicked on Add comment plugin
+23:11:38.564 [main] INFO  sprint8_TestCases.I_PriorityBugTC -  Add comment popup is opened
+23:11:38.793 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Comment is entered into comment text field
+23:11:38.971 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Commnet is submited
+23:11:39.016 [main] INFO  sprint8_TestCases.I_PriorityBugTC -  Comment card is added into comment panel
+23:11:39.045 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Comment count is updated
+23:11:39.082 [main] INFO  sprint8_TestCases.I_PriorityBugTC -  Comment card is added into comment panel
+23:13:01.432 [main] INFO  sprint8_TestCases.I_PriorityBugTC -  Comment card is not deleted from comment panel
+23:13:01.432 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Finished verifyDeleteCommentCheckCount
+23:13:26.775 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Starting verifySectionHeadingtoParaCPCount
+23:14:06.022 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Logged in, searched for a file, and clicked Edit.
+23:14:06.419 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Double clicked on Section Number
+23:14:06.641 [main] INFO  sprint8_TestCases.I_PriorityBugTC -  clicked on Add comment plugin
+23:14:06.962 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Comment is entered into comment text field
+23:14:07.278 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Commnet is submited
+23:14:07.381 [main] INFO  sprint8_TestCases.I_PriorityBugTC -  Comment card is added into comment panel
+23:14:07.417 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Comment count is updated
+23:17:46.138 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Starting verifySectionHeadingtoParaCPCount
+23:18:25.158 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Logged in, searched for a file, and clicked Edit.
+23:18:25.472 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Double clicked on Section Number
+23:18:25.617 [main] INFO  sprint8_TestCases.I_PriorityBugTC -  clicked on Add comment plugin
+23:18:25.887 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Comment is entered into comment text field
+23:18:26.121 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Commnet is submited
+23:18:26.192 [main] INFO  sprint8_TestCases.I_PriorityBugTC -  Comment card is added into comment panel
+23:18:26.218 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Comment count is updated
+23:18:26.513 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Finished verifySectionHeadingtoParaCPCount
+23:19:21.788 [main] INFO  sprint5_TestCases.Ao_CrossReferenceTC - Starting TC296_verifyCrossReferencEditLinkCB ..
+23:20:02.077 [main] INFO  sprint5_TestCases.Ao_CrossReferenceTC - Logged in, searched for a file, and clicked Edit.
+23:20:02.102 [main] INFO  sprint5_TestCases.Ao_CrossReferenceTC - Created Ao_CrossReference instance.
+23:20:02.118 [main] INFO  sprint5_TestCases.Ao_CrossReferenceTC - Switched to frame 0.
+23:20:02.392 [main] INFO  sprint5_TestCases.Ao_CrossReferenceTC - Double clicked on First para
+23:20:02.408 [main] INFO  sprint5_TestCases.Ao_CrossReferenceTC - Switched back to default content.
+23:20:02.581 [main] INFO  sprint5_TestCases.Ao_CrossReferenceTC - clicked on CrossReference Button
+23:20:03.200 [main] INFO  sprint5_TestCases.Ao_CrossReferenceTC - clicked on CrossReference Checkbox
+23:20:03.384 [main] INFO  sprint5_TestCases.Ao_CrossReferenceTC - clicked on CrossReference popup ok button
+23:20:03.424 [main] INFO  sprint5_TestCases.Ao_CrossReferenceTC - Switched to frame 0.
+23:20:03.710 [main] INFO  sprint5_TestCases.Ao_CrossReferenceTC - Switched back to default content.
+23:20:04.119 [main] INFO  sprint5_TestCases.Ao_CrossReferenceTC - Verified Link is edited successfully
+23:20:04.119 [main] INFO  sprint5_TestCases.Ao_CrossReferenceTC - Finished TC296_verifyCrossReferencEditLinkCB ..
+23:21:00.089 [main] INFO  sprint5_TestCases.Ao_CrossReferenceTC - Starting TC296_verifyCrossReferencEditLinkCB ..
+23:21:36.857 [main] INFO  sprint5_TestCases.Ao_CrossReferenceTC - Logged in, searched for a file, and clicked Edit.
+23:21:36.862 [main] INFO  sprint5_TestCases.Ao_CrossReferenceTC - Created Ao_CrossReference instance.
+23:21:36.879 [main] INFO  sprint5_TestCases.Ao_CrossReferenceTC - Switched to frame 0.
+23:21:37.148 [main] INFO  sprint5_TestCases.Ao_CrossReferenceTC - Double clicked on First para
+23:21:37.168 [main] INFO  sprint5_TestCases.Ao_CrossReferenceTC - Switched back to default content.
+23:21:37.355 [main] INFO  sprint5_TestCases.Ao_CrossReferenceTC - clicked on CrossReference Button
+23:21:37.998 [main] INFO  sprint5_TestCases.Ao_CrossReferenceTC - clicked on CrossReference Checkbox
+23:21:38.192 [main] INFO  sprint5_TestCases.Ao_CrossReferenceTC - clicked on CrossReference popup ok button
+23:21:38.237 [main] INFO  sprint5_TestCases.Ao_CrossReferenceTC - Switched to frame 0.
+23:21:38.564 [main] INFO  sprint5_TestCases.Ao_CrossReferenceTC - Switched back to default content.
+23:21:38.964 [main] INFO  sprint5_TestCases.Ao_CrossReferenceTC - Verified Link is edited successfully
+23:21:38.965 [main] INFO  sprint5_TestCases.Ao_CrossReferenceTC - Finished TC296_verifyCrossReferencEditLinkCB ..
+23:28:56.771 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Starting verifyFootnoteCutPasteAtBootom
+23:29:53.189 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Logged in, searched for a file, and clicked Edit.
+23:29:53.275 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Switched to frame 0.
+23:29:53.571 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - clicked on VE First para 
+23:29:53.589 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Switched back to default content.
+23:29:53.775 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - clicked On Footnote Plugin
+23:29:53.775 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - clicked on footnote plugin
+23:30:03.095 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - clicked on new footnote box
+23:30:03.095 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Created Actions class instance.
+23:30:03.461 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - clicked on footnote ok button
+08:56:20.694 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Starting verify_ContentBlock_RightClickOptions ..
+08:56:20.705 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Starting verify_ContentBlock ..
+08:56:20.749 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Starting verify_ContentBlock_RightClick_InsertBefore_AllOptions ..
+08:56:20.800 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Starting verify_Addingimg_WithoutInserting ..
+08:57:00.189 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Logged in, searched for a file, and clicked Edit.
+08:57:00.225 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Created B_Verify_RightClick_Options instance.
+08:57:00.252 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Switched to frame 0.
+08:57:00.444 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Logged in, searched for a file, and clicked Edit.
+08:57:00.446 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Created B_Verify_RightClick_Options instance.
+08:57:00.464 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Switched to frame 0.
+08:57:00.613 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Logged in, searched for a file, and clicked Edit.
+08:57:00.616 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Created B_Verify_RightClick_Options instance.
+08:57:00.733 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Logged in, searched for a file, and clicked Edit.
+08:57:00.736 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Created B_Verify_RightClick_Options instance.
+08:57:01.059 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Clicked on Sectio 
+08:57:01.721 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Context Clicked on First Para VE.
+08:57:01.744 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Switched back to default content.
+08:57:01.769 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Switched to frame 1.
+08:57:02.012 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Context Clicked on First Para from VE.
+08:57:02.052 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Switched back to default content.
+08:57:02.092 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Switched to frame 1.
+08:57:02.094 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Context Clicked on Section element 
+08:57:02.160 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Right click All options are Correct.
+08:57:02.160 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Finished verify_RightClick_Options ..
+08:57:02.692 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Context Clicked on Para element 
+08:57:03.063 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Clicked on Insert Before 
+08:57:03.437 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Clicked on Insert After 
+08:57:03.485 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Switched back to default content.
+08:57:03.677 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Created Actions class instance.
+08:57:03.955 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Searched img element from fearch field 
+08:57:04.912 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Clicked on img element
+08:57:04.970 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - insert Element Close button is present
+08:57:05.179 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Clicked on Close button
+08:57:05.200 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Switched to frame 0.
+08:57:06.912 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Starting verify_InsertBefore_Options ..
+08:57:22.114 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Finished verify_ContentBlock_RightClickOptions ..
+08:57:23.164 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Right click Insert Before All Options Are Present and correct 
+08:57:23.164 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Finished verify_ContentBlock_RightClick_InsertBefore_AllOptions ..
+08:57:26.423 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Starting verify_ContentBlock_RightClick_InsertInto_AllOptions ..
+08:57:28.161 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Starting verify_InsertInTo_Options ..
+08:57:39.828 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Logged in, searched for a file, and clicked Edit.
+08:57:39.830 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Created B_Verify_RightClick_Options instance.
+08:57:39.861 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Switched to frame 0.
+08:57:41.672 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Context Clicked on Section Heading.
+08:57:41.734 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Switched back to default content.
+08:57:41.767 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Switched to frame 1.
+08:57:42.424 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Clicked on Insert Before 
+08:57:42.434 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Switched back to default content.
+08:57:57.213 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Logged in, searched for a file, and clicked Edit.
+08:57:57.214 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Created B_Verify_RightClick_Options instance.
+08:57:58.784 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Context Clicked on Para element 
+08:57:58.978 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Clicked on Insert Into 
+08:57:59.363 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Logged in, searched for a file, and clicked Edit.
+08:57:59.363 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Created B_Verify_RightClick_Options instance.
+08:57:59.377 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Switched to frame 0.
+08:58:00.399 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Context Clicked on Section Heading.
+08:58:00.424 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Switched back to default content.
+08:58:00.434 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Switched to frame 1.
+08:58:01.731 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Clicked on Insert Into 
+08:58:01.743 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Switched back to default content.
+08:58:02.447 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Right click Insert Before All options are Correct.
+08:58:02.447 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Finished verify_InsertBefore_Options ..
+08:58:06.395 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Starting verify_ContentBlock_RightClick_InsertAfter_AllOptions ..
+08:58:19.035 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Right click Insert Into All Options Are Present and correct 
+08:58:19.035 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Finished verify_ContentBlock_RightClick_InsertInto_AllOptions ..
+08:58:21.805 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Right click Insert Into All options are Correct.
+08:58:21.806 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Finished verify_InsertInTo_Options ..
+08:58:23.829 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Starting verify_InsertAfter_Options ..
+08:58:26.356 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Starting verify_ContentBlock_Rightclick_SearchOptions ..
+08:58:26.411 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Img is not inserted into VE.
+08:58:26.412 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Finished verify_Addingimg_WithoutInserting ..
+08:58:30.789 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Starting verify_RightClick_SearchOptions ..
+08:58:39.046 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Logged in, searched for a file, and clicked Edit.
+08:58:39.047 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Created B_Verify_RightClick_Options instance.
+08:58:43.028 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Context Clicked on Para element 
+08:58:43.312 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Clicked on Insert After 
+08:58:43.658 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Right click Insert After All Options Are Present and correct 
+08:58:43.659 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Finished verify_ContentBlock_RightClick_InsertAfter_AllOptions ..
+08:58:46.585 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Starting TC124_verifyAddingNotesInsertBeforeInCB ..
+08:58:59.758 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Logged in, searched for a file, and clicked Edit.
+08:58:59.760 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Created B_Verify_RightClick_Options instance.
+08:59:01.162 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Clicked on Para Element 
+08:59:01.263 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Logged in, searched for a file, and clicked Edit.
+08:59:01.265 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Created B_Verify_RightClick_Options instance.
+08:59:01.298 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Switched to frame 0.
+08:59:02.177 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Context Clicked on Para element 
+08:59:02.479 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Clicked on Insert Before 
+08:59:02.593 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Right click Search Field Is present 
+08:59:02.593 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Finished verify_ContentBlock_Rightclick_SearchOptions ..
+08:59:02.717 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Context Clicked on Section Heading.
+08:59:02.824 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Switched back to default content.
+08:59:02.873 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Switched to frame 1.
+08:59:04.077 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Logged in, searched for a file, and clicked Edit.
+08:59:04.079 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Created B_Verify_RightClick_Options instance.
+08:59:04.178 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Switched to frame 0.
+08:59:04.844 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Clicked on Insert After 
+08:59:05.062 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Switched back to default content.
+08:59:06.452 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Context Clicked on Para VE.
+08:59:06.509 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Switched back to default content.
+08:59:06.525 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Switched to frame 1.
+08:59:08.013 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Clicked on Insert After 
+08:59:08.022 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Switched back to default content.
+08:59:08.156 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Right click Search filed is present.
+08:59:08.156 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Finished verify_RightClick_SearchOptions ..
+08:59:08.181 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Starting verify_AddingImg_InsertBefore_InSectionHeading ..
+08:59:12.610 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Starting verify_AddingList_InsertInto_InCB ..
+08:59:19.537 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Logged in, searched for a file, and clicked Edit.
+08:59:19.537 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Created B_Verify_RightClick_Options instance.
+08:59:21.488 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Context Clicked on Para element 
+08:59:22.163 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Clicked on Insert Before 
+08:59:22.164 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Created Actions class instance.
+08:59:22.366 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Caption element searched.
+08:59:22.396 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Clicked on TAB 
+08:59:22.752 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Clicked on ENTER 
+08:59:23.550 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Notes is inserted in DS
+08:59:23.550 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Finished TC124_verifyAddingNotesInsertBeforeInCB ..
+08:59:25.153 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Right click Insert Into All options are Correct.
+08:59:25.153 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Finished verify_InsertAfter_Options ..
+08:59:26.393 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Starting verify_AddingList_InsertInto_InPara ..
+08:59:31.361 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Starting verify_AddingCaption_InsertBefore_InCB ..
+08:59:40.246 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Logged in, searched for a file, and clicked Edit.
+08:59:40.248 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Created B_Verify_RightClick_Options instance.
+08:59:40.267 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Switched to frame 0.
+08:59:41.921 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Context Clicked on Section Heading.
+08:59:42.010 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Switched back to default content.
+08:59:42.049 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Switched to frame 1.
+08:59:44.262 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Clicked on Insert Before 
+08:59:44.327 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Switched back to default content.
+08:59:44.430 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Created Actions class instance.
+08:59:44.486 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Searched img element from fearch field 
+08:59:44.695 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Logged in, searched for a file, and clicked Edit.
+08:59:44.697 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Created B_Verify_RightClick_Options instance.
+08:59:45.668 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Clicked on img element
+08:59:47.047 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  sprint2_TestCases.B_Verify_RightClick_OptionsTC - Context Clicked on Para element 

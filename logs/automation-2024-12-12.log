@@ -1,0 +1,364 @@
+16:07:06.749 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - clicked on VE First para 
+16:07:06.756 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Created Actions class instance.
+16:07:06.968 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Switched back to default content.
+16:07:07.254 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Clicked on Undo Plugin
+16:07:20.935 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+16:07:21.447 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ae_UndoRedoTC -  clicked on Add comment plugin
+16:07:21.748 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ae_UndoRedoTC - Comment is entered into comment text field
+16:07:21.996 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ae_UndoRedoTC - Commnet is submited
+16:07:22.066 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ae_UndoRedoTC -  Comment card is added into comment panel
+16:07:22.455 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ae_UndoRedoTC -  clicked on Add comment plugin
+16:07:26.163 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Verifying Caption is present in the visual editor after clicking on undo
+16:07:26.164 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Starting verifyingCaptionInNewTableRejectChangeUndo
+16:07:30.553 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+16:07:30.554 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Created E_Common instance.
+16:07:30.574 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Starting verifyUndoRedoEmphasis
+16:07:30.594 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Verified Find Replace Enabled
+16:07:30.638 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Verified Find Replace is displayed
+16:07:30.824 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Clicked on Replace plugin.
+16:07:32.043 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Created Actions class instance.
+16:07:32.304 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Clicked on Replace Button.
+16:07:32.530 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Clicked on Replace Close button.
+16:07:32.560 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Switched to frame 0.
+16:07:32.591 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Switched back to default content.
+16:07:32.758 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Clicked on Undo Plugin
+16:07:32.793 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Switched to frame 0.
+16:07:47.122 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ae_UndoRedoTC - Starting verifyMultipleCPUndo
+16:08:06.550 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+16:08:06.551 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Created E_Common instance.
+16:08:06.570 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Switched to frame 0.
+16:08:06.945 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Switched back to default content.
+16:08:07.156 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Clicked on Bold Button
+16:08:07.405 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Clicked on Undo Plugin
+16:08:07.722 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Clicked on Italic Button
+16:08:07.961 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Clicked on Undo Plugin
+16:08:08.235 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Clicked on Unserline Button
+16:08:08.497 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Clicked on Undo Plugin
+16:08:08.606 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Finished verifyUndoRedoEmphasis ..
+16:08:13.103 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Starting test TC775_verifyDeleteColumnExisting.
+16:08:22.184 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+16:08:22.760 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ae_UndoRedoTC -  clicked on Add comment plugin
+16:08:23.051 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ae_UndoRedoTC - Comment is entered into comment text field
+16:08:23.271 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ae_UndoRedoTC - Commnet is submited
+16:08:23.327 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ae_UndoRedoTC -  Comment card is added into comment panel
+16:08:23.874 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ae_UndoRedoTC -  clicked on Add comment plugin
+16:08:28.634 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Finished verifyUndoInCB ..
+16:08:33.308 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Starting verifyChangeElementParaToSection
+16:08:47.594 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in and clicked on Edit.
+16:08:48.908 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ae_UndoRedoTC - Starting verifyChangeElementParaToSection
+16:08:53.924 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Switched back to default content.
+16:08:54.125 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Clicked on Redo Plugin
+16:08:54.165 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Switched to frame 0.
+16:08:54.216 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Finished verifyFindReplaceUndoRedo ..
+16:08:57.956 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Clicked 'Delete Column'.
+16:08:58.055 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Verified the table column count before Undo.
+16:08:58.737 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Starting the test verify_AddFigure_CheckTC
+16:09:01.052 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Clicked 'Undo'.
+16:09:01.222 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Verified the table column count after Undo.
+16:09:01.223 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Test TC775_verifyDeleteColumnExisting completed.
+16:09:06.093 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+16:09:06.185 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Created Para instance.
+16:09:18.224 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Inserted table using ReusableMethods.
+16:09:18.966 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Switched to frame 0.
+16:09:19.045 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Switched to default content.
+16:09:19.457 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Switched to frame 0.
+16:09:24.092 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+16:09:24.092 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ae_UndoRedoTC - Created Para instance.
+16:09:32.680 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ae_UndoRedoTC - Inserted table using ReusableMethods.
+16:09:33.472 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ae_UndoRedoTC - Switched to frame 0.
+16:09:33.545 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ae_UndoRedoTC - Switched to default content.
+16:09:33.976 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ae_UndoRedoTC - Switched to frame 0.
+16:09:34.264 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in and searched for the file, then clicked on edit.
+16:09:40.447 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+16:09:40.461 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Switched to frame 0.
+16:09:40.767 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Switched to default content.
+16:10:40.557 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Switched to default content.
+16:10:55.177 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ae_UndoRedoTC - Switched to default content.
+16:10:55.523 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ae_UndoRedoTC - Switched to frame 0.
+16:10:57.417 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Right-clicked on the first paragraph in Visual Editor.
+16:10:57.958 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ae_UndoRedoTC - Starting verifyChangeElementParaToSection
+16:10:58.882 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Clicked on 'VE Insert After' in Visual Editor.
+16:10:59.099 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Entered 'figure' text.
+16:11:06.793 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Clicked on 'Image Insert' button.
+16:11:06.928 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Entered 'Hello' in the Figure Heading text box.
+16:11:07.315 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Clicked on 'Figure Insert' button.
+16:11:18.766 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+16:11:18.786 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Switched to frame 0.
+16:11:38.131 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+16:11:38.132 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ae_UndoRedoTC - Created Para instance.
+16:11:46.169 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ae_UndoRedoTC - Inserted table using ReusableMethods.
+16:11:46.528 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ae_UndoRedoTC - Switched to frame 0.
+16:11:46.561 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ae_UndoRedoTC - Switched to default content.
+16:11:46.859 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ae_UndoRedoTC - Switched to frame 0.
+16:11:57.057 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+16:11:57.069 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Switched to frame 0.
+16:11:57.291 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Switched to default content.
+16:11:58.041 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Clicked on Number List Plugin.
+16:11:58.318 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - clicked on Revision Changed 
+16:11:58.335 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Switched to frame 0.
+16:12:09.010 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Test verify_AddFigure_CheckTC completed.
+16:12:49.488 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+16:12:49.507 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Switched to frame 0.
+16:12:49.786 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Switched to default content.
+16:12:50.764 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Clicked on Number List Plugin.
+16:12:56.311 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Starting InsertList_NewTable
+16:12:57.159 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+16:12:57.182 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Switched to frame 0.
+16:12:57.578 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Switched to default content.
+16:12:58.740 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Clicked on Number List Plugin.
+16:12:59.652 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - clicked on Revision Changed 
+16:12:59.675 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Switched to frame 0.
+16:13:02.219 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+16:13:02.240 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Switched to frame 0.
+16:13:02.752 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Switched to default content.
+16:13:08.021 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ae_UndoRedoTC - Switched to default content.
+16:13:08.413 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ae_UndoRedoTC - Switched to frame 0.
+16:13:30.779 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+16:13:54.862 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Starting InsertList_NewTable
+16:13:55.434 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+16:13:55.453 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Switched to frame 0.
+16:13:55.823 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Switched to default content.
+16:13:56.836 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Clicked on Number List Plugin.
+16:13:57.157 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - clicked on Revision Changed 
+16:13:57.176 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Switched to frame 0.
+16:14:21.426 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Starting verifyChangeElementParaToSection
+16:14:29.197 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+16:14:33.945 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ae_UndoRedoTC - ****    Starting --> paraTC    ****
+16:14:54.561 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Starting InsertList_NewTable
+16:14:56.339 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+16:15:01.063 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Starting verifyChangeElementParaToSection
+16:15:28.018 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+16:15:36.293 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+16:15:40.666 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Starting verifyChangeElementParaToSection
+16:15:50.831 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Starting InsertList_NewTable
+16:16:12.851 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+16:16:21.607 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+16:16:21.621 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Switched to frame 0.
+16:16:21.920 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Switched to default content.
+16:16:25.033 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+16:16:27.313 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Starting verifyChangeElementParaToSection
+16:16:36.550 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ae_UndoRedoTC - ****    Starting --> paraTC    ****
+16:16:58.876 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+16:17:21.674 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - clicked on Enter key
+16:17:35.408 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - clicked on Enter key
+16:17:41.309 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Starting verifyDelecteElementUndoCheckInfopopup
+16:17:58.906 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Double clicked on First para
+16:17:59.140 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - clicked on Cross Reference button 
+16:17:59.742 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - clicked on Code Cross Reference checkbox 
+16:17:59.981 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - clicked on Cross Reference popup ok button 
+16:18:12.995 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+16:18:13.015 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Created G_ChangeElement instance.
+16:18:33.933 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ae_UndoRedoTC - ****    Starting --> paraTC    ****
+16:18:37.727 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Starting verifyDelecteElementUndoCheckInfopopup
+16:19:09.992 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+16:19:09.994 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Created G_ChangeElement instance.
+16:19:35.046 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Starting verifyDelecteElementUndoCheckInfopopup
+16:19:39.276 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+16:19:39.294 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Switched to frame 0.
+16:19:39.657 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Switched to default content.
+16:20:07.616 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Double clicked on First para
+16:20:07.849 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - clicked on Cross Reference button 
+16:20:08.473 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - clicked on Code Cross Reference checkbox 
+16:20:08.643 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - clicked on Cross Reference popup ok button 
+16:20:16.208 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+16:20:16.208 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Created G_ChangeElement instance.
+16:20:32.083 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ae_UndoRedoTC - ****    Starting --> paraTC    ****
+16:20:41.448 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Starting verifyDelecteElementUndoCheckInfopopup
+16:21:15.280 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+16:21:15.280 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Created G_ChangeElement instance.
+16:21:39.959 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Starting the test verify_AddFigure_CheckTC
+16:22:08.484 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Double clicked on First para
+16:22:08.665 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - clicked on Cross Reference button 
+16:22:09.264 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - clicked on Code Cross Reference checkbox 
+16:22:09.527 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - clicked on Cross Reference popup ok button 
+16:22:13.667 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in and searched for the file, then clicked on edit.
+16:22:59.702 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+16:23:06.125 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+16:23:35.655 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Right-clicked on the first paragraph in Visual Editor.
+16:23:36.753 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Clicked on 'VE Insert After' in Visual Editor.
+16:23:36.874 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Entered 'figure' text.
+16:24:08.918 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Double clicked on First para
+16:24:09.124 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - clicked on Cross Reference button 
+16:24:09.727 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - clicked on Code Cross Reference checkbox 
+16:24:09.902 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - clicked on Cross Reference popup ok button 
+16:24:28.844 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Starting verifyChangeElementParaToSection
+16:24:33.956 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ae_UndoRedoTC - Starting verifyChangeElementParaToSection
+16:24:48.517 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Starting the test verify_AddFigure_CheckTC
+16:25:03.010 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+16:25:03.882 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Clicked on Document structure First section....
+16:25:05.368 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Right clicked and removerd section Number
+16:25:05.738 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Clicked on Accept changes Button....
+16:25:10.742 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+16:25:11.026 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ae_UndoRedoTC - Clicked on Document structure First section....
+16:25:21.765 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in and searched for the file, then clicked on edit.
+16:26:09.873 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+16:26:09.900 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Switched to frame 0.
+16:26:10.155 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Clicked on first para VE.
+16:26:10.166 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Switched to default content.
+16:26:10.291 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - clicked on footnote plugin
+16:26:13.968 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - clicked on new footnote box
+16:26:14.271 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - clicked on footnote ok button
+16:26:18.688 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Starting verifyChangeElementParaToSection
+16:26:26.986 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Verifying section Heading is not present in Visual Editor...
+16:26:37.354 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ae_UndoRedoTC - Starting verifyChangeElementParaToSection
+16:26:44.179 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Right-clicked on the first paragraph in Visual Editor.
+16:26:45.660 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Clicked on 'VE Insert After' in Visual Editor.
+16:26:45.691 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Entered 'figure' text.
+16:26:57.829 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+16:27:02.151 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Starting verifyChangeElementParaToSection
+16:27:14.885 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+16:27:15.107 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ae_UndoRedoTC - Clicked on Document structure First section....
+16:27:39.321 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+16:27:44.467 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Starting verifyChangeElementParaToSection
+16:27:52.988 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Starting verifyChangeElementParaToSection
+16:27:57.057 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Starting the test verify_AddFigure_CheckTC
+16:28:21.451 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+16:28:25.911 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Starting verifyChangeElementParaToSection
+16:28:29.270 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+16:28:29.556 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Clicked on Document structure First section....
+16:28:31.144 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Right clicked and removerd section Number
+16:28:31.524 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Clicked on Accept changes Button....
+16:28:32.016 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in and searched for the file, then clicked on edit.
+16:28:40.423 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ae_UndoRedoTC - Starting verifyChangeElementParaToSection
+16:28:58.752 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+16:29:03.958 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Starting verifyChangeElementParaToSection
+16:29:15.504 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+16:29:15.763 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ae_UndoRedoTC - Clicked on Document structure First section....
+16:29:38.692 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+16:29:52.762 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Verifying section Heading is not present in Visual Editor...
+16:29:54.029 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Right-clicked on the first paragraph in Visual Editor.
+16:29:55.324 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Clicked on 'VE Insert After' in Visual Editor.
+16:29:55.351 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Entered 'figure' text.
+16:30:41.038 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ae_UndoRedoTC - Starting verifyChangeElementParaToSection
+16:31:05.502 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Starting the test verify_AddFigure_CheckTC
+16:31:15.469 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+16:31:15.841 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ae_UndoRedoTC - Clicked on Document structure First section....
+16:31:18.499 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Starting verifyChangeElementParaToSection
+16:31:38.178 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in and searched for the file, then clicked on edit.
+16:31:51.018 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+16:31:58.431 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Starting verifyChangeElementParaToSection
+16:32:36.625 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+16:32:36.842 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Clicked on Document structure First section....
+16:32:38.864 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Right clicked and removerd section Number
+16:32:39.304 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Clicked on Accept changes Button....
+16:32:41.200 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ae_UndoRedoTC - Starting verifyChangeElementParaToSection
+16:32:43.701 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Starting verify_InsertMediaObject_ExistingTable
+16:33:00.427 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Right-clicked on the first paragraph in Visual Editor.
+16:33:01.618 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Clicked on 'VE Insert After' in Visual Editor.
+16:33:01.736 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Entered 'figure' text.
+16:33:09.384 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Clicked on 'Image Insert' button.
+16:33:09.492 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Entered 'Hello' in the Figure Heading text box.
+16:33:09.809 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Clicked on 'Figure Insert' button.
+16:33:19.004 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+16:33:23.005 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+16:33:23.021 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Created F4_Table instance.
+16:33:23.035 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Switched to frame 0.
+16:34:00.572 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Verifying section Heading is not present in Visual Editor...
+16:34:48.227 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Starting verify_InsertMediaObject_ExistingTable
+16:35:16.890 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Starting InsertList_ToExistingList_DS
+16:35:27.876 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Starting verifyChangeElementParaToSection
+16:35:34.616 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+16:35:34.616 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Created F4_Table instance.
+16:35:34.635 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Switched to frame 0.
+16:35:59.261 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+16:36:08.695 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+16:36:08.904 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Cliked on First section heading
+16:36:09.825 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Right Clicked on First section heading
+16:36:11.066 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Clicked on Insert After from through right click
+16:36:11.242 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Search for Section 
+16:36:59.835 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Starting verify_InsertMediaObject_ExistingTable
+16:37:21.364 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Right-clicked on the first paragraph in Visual Editor.
+16:37:22.285 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - clicked on Enter key
+16:37:36.854 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Starting verifyChangeElementParaToSection
+16:37:39.511 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+16:37:39.512 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Created F4_Table instance.
+16:37:39.530 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Switched to frame 0.
+16:37:44.149 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ae_UndoRedoTC - Starting verifyChangeElementParaToSection
+16:38:14.957 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+16:38:15.263 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Cliked on First section heading
+16:38:16.479 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Right Clicked on First section heading
+16:38:17.788 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Clicked on Insert After from through right click
+16:38:17.941 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Search for Section 
+16:38:21.954 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+16:39:05.475 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Starting verify_InsertMediaObject_ExistingTable
+16:39:40.374 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+16:39:40.375 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Created F4_Table instance.
+16:39:40.394 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Switched to frame 0.
+16:39:43.865 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Starting verifyChangeElementParaToSection
+16:40:08.972 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Starting InsertList_NewTable
+16:40:22.266 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+16:40:22.679 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Cliked on First section heading
+16:40:24.335 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Right Clicked on First section heading
+16:40:26.067 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Clicked on Insert After from through right click
+16:40:26.310 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Search for Section 
+16:40:49.671 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+16:40:49.672 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Created F4_Table instance.
+16:40:57.552 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Inserted a new table.
+16:40:57.736 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Clicked Accept Change.
+16:40:57.754 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Switched to frame 0.
+16:40:57.992 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Clicked on the first cell of the inserted table.
+16:40:57.999 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Switched back to default content.
+16:40:58.015 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Switched to frame 0 again.
+16:41:06.322 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Starting verifyUndoByShortcutKeys
+16:41:24.509 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Starting InsertList_NewTable
+16:41:47.823 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+16:41:48.663 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Verifying Info msg is present 
+16:41:52.986 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Starting verifyChangeElementParaToSection
+16:41:54.685 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Starting verifyChangeElementParaToSection
+16:42:07.871 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+16:42:07.872 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Created F4_Table instance.
+16:42:17.125 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Inserted a new table.
+16:42:17.342 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Clicked Accept Change.
+16:42:17.363 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Switched to frame 0.
+16:42:17.663 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Clicked on the first cell of the inserted table.
+16:42:17.672 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Switched back to default content.
+16:42:17.692 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Switched to frame 0 again.
+16:42:33.764 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+16:42:34.065 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Cliked on First section heading
+16:42:35.225 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Right Clicked on First section heading
+16:42:35.459 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+16:42:35.701 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Clicked on Document structure First section....
+16:42:36.716 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Clicked on Insert After from through right click
+16:42:36.917 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Search for Section 
+16:42:43.556 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Starting InsertList_NewTable
+16:42:48.458 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ae_UndoRedoTC - Starting verifyChangeElementParaToSection
+16:43:31.577 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+16:43:31.577 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Created F4_Table instance.
+16:43:32.927 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+16:43:39.672 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Inserted a new table.
+16:43:39.866 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Clicked Accept Change.
+16:43:39.885 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Switched to frame 0.
+16:43:40.148 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Clicked on the first cell of the inserted table.
+16:43:40.149 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Switched back to default content.
+16:43:40.167 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Switched to frame 0 again.
+16:43:59.011 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Starting verifyChangeElementParaToSection
+16:44:06.119 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Starting InsertList_NewTable
+16:44:52.886 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+16:44:53.170 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Clicked on Document structure First section....
+16:44:55.649 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+16:44:55.650 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Created F4_Table instance.
+16:45:04.241 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Inserted a new table.
+16:45:04.439 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Clicked Accept Change.
+16:45:04.457 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Switched to frame 0.
+16:45:04.692 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Clicked on the first cell of the inserted table.
+16:45:04.693 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Switched back to default content.
+16:45:04.707 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Switched to frame 0 again.
+16:45:18.231 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ae_UndoRedoTC - Starting verifyChangeElementParaToSection
+16:45:30.224 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Starting verifySelectParaContentApplyEmphasis ..
+16:45:59.377 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Starting verifyUndoByShortcutKeys
+16:46:09.684 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+16:46:19.521 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Starting verifyChangeElementParaToSection
+16:46:24.662 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Starting verify_insertBoldDoulbeClick ..
+16:46:24.944 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - clicked on First para
+16:46:25.108 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - clicked on bold button from toolbar
+16:46:49.294 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+16:46:49.645 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Verifying Info msg is present 
+16:47:08.420 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+16:47:08.609 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Clicked on Document structure First section....
+16:47:51.119 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Starting verifySelectParaContentApplyEmphasis ..
+16:48:37.464 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Starting verifyChangeElementParaToSection
+16:48:41.371 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Starting verify_insertBoldDoulbeClick ..
+16:48:41.735 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - clicked on First para
+16:48:41.956 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - clicked on bold button from toolbar
+16:48:42.007 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Verifying bold is present in DS 
+16:48:42.026 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC -  bold is present in CE 

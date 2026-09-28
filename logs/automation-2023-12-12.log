@@ -1,0 +1,413 @@
+17:14:08.468 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.A_ToolBarOptionsTC - Superscript Tooltip is correct
+17:14:08.515 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.A_ToolBarOptionsTC - Verified Justify Align is displayed
+17:14:08.703 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.A_ToolBarOptionsTC - Subscript Tooltip is correct
+17:14:08.788 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.A_ToolBarOptionsTC - Strikethrough Tooltip is correct
+17:14:08.912 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.A_ToolBarOptionsTC - Left Justify Tooltip is correct
+17:14:08.964 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.A_ToolBarOptionsTC - Verified Number list is displayed
+17:14:09.037 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.A_ToolBarOptionsTC - Right Justify Tooltip is correct
+17:14:09.095 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.A_ToolBarOptionsTC - Verified Bullet List is displayed
+17:14:09.200 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.A_ToolBarOptionsTC - Verified Entity is displayed
+17:14:09.297 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.A_ToolBarOptionsTC - Verified Crossrefrence is displayed
+17:14:09.299 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.A_ToolBarOptionsTC - Align Center Tooltip is correct
+17:14:09.431 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.A_ToolBarOptionsTC - Full Justify Tooltip is correct
+17:14:09.437 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.A_ToolBarOptionsTC - Verified Footnote is displayed
+17:14:09.496 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.A_ToolBarOptionsTC - Numbered List Tooltip is correct
+17:14:09.687 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.A_ToolBarOptionsTC - Bulleted List" Tooltip is correct
+17:14:09.712 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.A_ToolBarOptionsTC - Verified ShowHide is displayed
+17:14:09.786 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.A_ToolBarOptionsTC - Insert Entity Reference Tooltip is correct
+17:14:09.811 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.A_ToolBarOptionsTC - Verified Number Resequence is displayed
+17:14:09.863 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.A_ToolBarOptionsTC - Insert Cross Reference Tooltip is correct
+17:14:09.960 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.A_ToolBarOptionsTC - Verified Revision Insert is displayed
+17:14:09.967 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.A_ToolBarOptionsTC - Insert Footnote Tooltip is correct
+17:14:10.054 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.A_ToolBarOptionsTC - Show/Hide Hidden Formatting Tooltip is correct
+17:14:10.154 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.A_ToolBarOptionsTC - Verified Revision Deleted is displayed
+17:14:10.191 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.A_ToolBarOptionsTC - Auto number sections Tooltip is correct
+17:14:10.300 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.A_ToolBarOptionsTC - Verified Source is displayed
+17:14:10.325 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.A_ToolBarOptionsTC - Mark as New Tooltip is correct
+17:14:10.440 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.A_ToolBarOptionsTC - Mark as Deleted Tooltip is correct
+17:14:10.445 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.A_ToolBarOptionsTC - Verified Revision Changed is displayed
+17:14:10.483 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.A_ToolBarOptionsTC - Verified Undo is displayed
+17:14:10.491 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.A_ToolBarOptionsTC - Mark as Changed Tooltip is correct
+17:14:10.545 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.A_ToolBarOptionsTC - Remove Revision Symbol Tooltip is correct
+17:14:10.563 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.A_ToolBarOptionsTC - Verified Revision not set is displayed
+17:14:10.595 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.A_ToolBarOptionsTC - Verified Redo is displayed
+17:14:10.602 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.A_ToolBarOptionsTC - Next revision Tooltip is correct
+17:14:10.649 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.A_ToolBarOptionsTC - Previous revision Tooltip is correct
+17:14:10.655 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.A_ToolBarOptionsTC - Verified Next revision is displayed
+17:14:10.683 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.A_ToolBarOptionsTC - Verified Find is displayed
+17:14:10.704 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.A_ToolBarOptionsTC - Insert Tooltip is correct
+17:14:10.704 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.A_ToolBarOptionsTC - Finished verifyToolBarTooltips ..
+17:14:10.773 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.A_ToolBarOptionsTC - Verified Previous revison is displayed
+17:14:10.795 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.A_ToolBarOptionsTC - Verified Replace is displayed
+17:14:10.890 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.A_ToolBarOptionsTC - Verified Spell check is displayed
+17:14:10.920 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.A_ToolBarOptionsTC - Verified Insert Plugin is displayed
+17:14:10.920 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.A_ToolBarOptionsTC - Finished verifyToolBarPlugins ..
+17:14:10.992 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.A_ToolBarOptionsTC - Verified Bold is displayed
+17:14:11.079 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.A_ToolBarOptionsTC - Verified Italic is displayed
+17:14:11.164 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.A_ToolBarOptionsTC - Verified Underline is displayed
+17:14:11.245 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.A_ToolBarOptionsTC - Verified Superscipt is displayed
+17:14:11.327 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.A_ToolBarOptionsTC - Verified Subscript is displayed
+17:14:11.415 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.A_ToolBarOptionsTC - Verified Strikethrough is displayed
+17:14:11.507 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.A_ToolBarOptionsTC - Verified Left Align is displayed
+17:14:11.593 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.A_ToolBarOptionsTC - Verified Right Align is displayed
+17:14:11.678 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.A_ToolBarOptionsTC - Verified Center Align is displayed
+17:14:11.759 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.A_ToolBarOptionsTC - Verified Justify Align is displayed
+17:14:11.838 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.A_ToolBarOptionsTC - Verified Number list is displayed
+17:14:11.924 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.A_ToolBarOptionsTC - Verified Bullet List is displayed
+17:14:12.012 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.A_ToolBarOptionsTC - Verified Entity is displayed
+17:14:12.099 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.A_ToolBarOptionsTC - Verified Crossrefrence is displayed
+17:14:12.177 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.A_ToolBarOptionsTC - Verified Footnote is displayed
+17:14:12.266 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.A_ToolBarOptionsTC - Verified ShowHide is displayed
+17:14:12.345 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.A_ToolBarOptionsTC - Verified Number Resequence is displayed
+17:14:12.426 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.A_ToolBarOptionsTC - Verified Revision Insert is displayed
+17:14:12.505 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.A_ToolBarOptionsTC - Verified Revision Deleted is displayed
+17:14:12.598 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.A_ToolBarOptionsTC - Verified Revision Changed is displayed
+17:14:12.706 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.A_ToolBarOptionsTC - Verified Revision not set is displayed
+17:14:12.804 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.A_ToolBarOptionsTC - Verified Next revision is displayed
+17:14:12.896 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.A_ToolBarOptionsTC - Verified Previous revison is displayed
+17:14:12.984 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.A_ToolBarOptionsTC - Verified Insert Plugin is displayed
+17:14:12.984 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.A_ToolBarOptionsTC - Finished verifyToolBarAfterRefresh ..
+17:14:16.570 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.A_ToolBarOptionsTC - Logged in, searched for a file, and clicked Edit.
+17:14:16.571 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.A_ToolBarOptionsTC - Created A_ToolBarOptions instance.
+17:14:16.674 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.A_ToolBarOptionsTC - Verified toolbar is displayed
+17:14:16.842 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.A_ToolBarOptionsTC - Verified Toolbar is displayed
+17:14:17.034 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.A_ToolBarOptionsTC - Verified Visual Editor is displayed
+17:14:17.245 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.A_ToolBarOptionsTC - Verified Content block is displayed
+17:14:17.469 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.A_ToolBarOptionsTC - Verified General attributes is displayed
+17:14:17.469 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.A_ToolBarOptionsTC - Finished verifyToolBarVisbility ..
+17:14:21.411 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.C_CommonBugsTC - Starting test TC768_verifyRemoveExistingContent.
+17:14:23.589 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.C_CommonBugsTC - Starting test TC771_verifySelectMultipleElementsRemoveElementBlockDisable.
+17:14:26.586 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.E_CommonTC - Starting verifyInsertMOAlign
+17:14:26.633 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.E_CommonTC - Starting verifyShowHideInQP
+17:15:20.432 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.C_CommonBugsTC - Logged in and clicked on Edit.
+17:15:21.254 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.E_CommonTC - Logged in, searched for a file, and clicked Edit.
+17:15:21.264 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.C_CommonBugsTC - Clicked on the first paragraph.
+17:15:21.296 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.E_CommonTC - Switched to frame 0.
+17:15:21.683 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.C_CommonBugsTC - Selected multiple elements.
+17:15:21.817 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.E_CommonTC - clicked on VE First para 
+17:15:22.137 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.C_CommonBugsTC - Performed a right-click on the selected elements.
+17:15:23.204 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.E_CommonTC - Right Clicked on First Para
+17:15:23.204 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.E_CommonTC - Right Clicked on First Para 
+17:15:23.267 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.E_CommonTC - Switched back to default content.
+17:15:23.267 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.E_CommonTC - Switched back to default content.
+17:15:23.289 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.E_CommonTC - Switched to frame 1.
+17:15:23.289 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.E_CommonTC - Switched to frame 1.
+17:15:24.088 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.E_CommonTC - Logged in, searched for a file, and clicked Edit.
+17:15:24.228 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.E_CommonTC - Switched to frame 0.
+17:15:24.229 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.E_CommonTC - Created Actions class instance.
+17:15:25.064 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.E_CommonTC - Right Clicked Insert After 
+17:15:25.200 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.E_CommonTC - Switched back to default content.
+17:15:25.200 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.E_CommonTC - Switched back to default content.
+17:15:26.551 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.E_CommonTC - Switched back to default content.
+17:15:27.462 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.E_CommonTC - Clicked Insert element button 
+17:15:27.875 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.E_CommonTC - clicked On Accept Changes
+17:15:27.897 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.C_CommonBugsTC - Logged in and clicked on Edit.
+17:15:28.988 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.C_CommonBugsTC - Performed a right-click on an element.
+17:15:29.660 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.E_CommonTC - Switched to frame 0.
+17:15:29.749 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.E_CommonTC - Switched back to default content.
+17:15:30.234 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.C_CommonBugsTC - Clicked 'Remove Element' from the context menu.
+17:15:30.266 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.E_CommonTC - clicked on Code View
+17:15:31.999 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.C_CommonBugsTC - Clicked on a 'span' element.
+17:15:32.718 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.C_CommonBugsTC - Clicked 'Accept Change'.
+17:16:02.330 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.C_CommonBugsTC - Verified that Remove Element Block is disabled.
+17:16:02.330 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.C_CommonBugsTC - Test TC771_verifySelectMultipleElementsRemoveElementBlockDisable completed.
+17:16:11.296 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.E_CommonTC - Verified content validation is Not present
+17:16:11.737 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.E_CommonTC - clicked On Quick Preview
+17:16:11.737 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.E_CommonTC - clicked On Quick Preview
+17:16:11.761 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.E_CommonTC - Switched to frame 0.
+17:16:11.832 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.E_CommonTC - Finished verifyShowHideInQP ..
+17:16:12.888 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.C_CommonBugsTC - Verified that existing content is removed from Document Structure.
+17:16:53.035 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.C_CommonBugsTC - Verified that existing content is removed from Visual Editor.
+17:16:53.035 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.C_CommonBugsTC - Test TC768_verifyRemoveExistingContent completed.
+17:17:51.899 [main] INFO  sprint5_TestCases.E_CommonTC - Starting verifyInsertMOAlign
+17:18:20.513 [main] INFO  sprint5_TestCases.E_CommonTC - Logged in, searched for a file, and clicked Edit.
+17:18:20.585 [main] INFO  sprint5_TestCases.E_CommonTC - Switched to frame 0.
+17:18:20.953 [main] INFO  sprint5_TestCases.E_CommonTC - clicked on VE First para 
+17:18:21.808 [main] INFO  sprint5_TestCases.E_CommonTC - Right Clicked on First Para
+17:18:21.835 [main] INFO  sprint5_TestCases.E_CommonTC - Switched back to default content.
+17:18:21.851 [main] INFO  sprint5_TestCases.E_CommonTC - Switched to frame 1.
+17:18:22.629 [main] INFO  sprint5_TestCases.E_CommonTC - Right Clicked Insert After 
+17:18:22.682 [main] INFO  sprint5_TestCases.E_CommonTC - Switched back to default content.
+17:18:23.569 [main] INFO  sprint5_TestCases.E_CommonTC - Clicked Insert element button 
+17:19:25.320 [main] INFO  sprint5_TestCases.E_CommonTC - Starting verifyInsertMOAlign
+17:19:58.707 [main] INFO  sprint5_TestCases.E_CommonTC - Logged in, searched for a file, and clicked Edit.
+17:19:58.780 [main] INFO  sprint5_TestCases.E_CommonTC - Switched to frame 0.
+17:19:59.107 [main] INFO  sprint5_TestCases.E_CommonTC - clicked on VE First para 
+17:20:00.352 [main] INFO  sprint5_TestCases.E_CommonTC - Right Clicked on First Para
+17:20:00.417 [main] INFO  sprint5_TestCases.E_CommonTC - Switched back to default content.
+17:20:00.432 [main] INFO  sprint5_TestCases.E_CommonTC - Switched to frame 1.
+17:20:01.132 [main] INFO  sprint5_TestCases.E_CommonTC - Right Clicked Insert After 
+17:20:01.176 [main] INFO  sprint5_TestCases.E_CommonTC - Switched back to default content.
+17:20:02.033 [main] INFO  sprint5_TestCases.E_CommonTC - Clicked Insert element button 
+17:20:06.481 [main] INFO  sprint5_TestCases.E_CommonTC - clicked On Accept Changes
+17:20:06.967 [main] INFO  sprint5_TestCases.E_CommonTC - Finished verifyInsertMOAlign ..
+17:21:15.664 [main] INFO  sprint5_TestCases.Aa_SourceTC - Starting verifySource
+17:21:42.760 [main] INFO  sprint5_TestCases.Aa_SourceTC - Logged in, searched for a file, and clicked Edit.
+17:21:42.767 [main] INFO  sprint5_TestCases.Aa_SourceTC - Created Aa_Source instance.
+17:21:42.890 [main] INFO  sprint5_TestCases.Aa_SourceTC - Verified Source is displayed
+17:21:43.255 [main] INFO  sprint5_TestCases.Aa_SourceTC - clicked on Source Plugin
+17:21:43.300 [main] INFO  sprint5_TestCases.Aa_SourceTC - Verified Source is Enable
+17:21:43.300 [main] INFO  sprint5_TestCases.Aa_SourceTC - Finished verifySource ..
+17:22:10.340 [main] INFO  sprint5_TestCases.A_ToolBarOptionsTC - Starting verifyToolBarInVisualEditorTab
+17:22:34.169 [main] INFO  sprint5_TestCases.A_ToolBarOptionsTC - Logged in, searched for a file, and clicked Edit.
+17:22:34.179 [main] INFO  sprint5_TestCases.A_ToolBarOptionsTC - Created A_ToolBarOptions instance.
+17:22:34.292 [main] INFO  sprint5_TestCases.A_ToolBarOptionsTC - Verifying  Bold is present In DS
+17:22:34.497 [main] INFO  sprint5_TestCases.A_ToolBarOptionsTC - clicked on Code View
+17:22:35.002 [main] INFO  sprint5_TestCases.A_ToolBarOptionsTC - clicked on Visual Editor
+17:22:35.449 [main] INFO  sprint5_TestCases.A_ToolBarOptionsTC - Verified toolbar is displayed
+17:22:35.449 [main] INFO  sprint5_TestCases.A_ToolBarOptionsTC - Finished verifyToolBarInVisualEditorTab ..
+17:26:09.216 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint8_TestCases.H_CommonTC - Starting verifyEntityCheckCP
+17:26:22.876 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint8_TestCases.H_CommonTC - Starting verifyEntityCheckCP
+17:26:30.636 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint8_TestCases.H_CommonTC - Starting verifyEntityDeselectpopup
+17:26:43.372 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint8_TestCases.H_CommonTC - Logged in, searched for a file, and clicked Edit.
+17:26:53.700 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint8_TestCases.H_CommonTC - Logged in, searched for a file, and clicked Edit.
+17:26:54.754 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint8_TestCases.H_CommonTC - Clicked on Track changes Accept Change.
+17:26:57.295 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint8_TestCases.H_CommonTC -  clicked on Add comment plugin
+17:26:57.806 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint8_TestCases.H_CommonTC - Comment is entered into comment text field
+17:26:58.193 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint8_TestCases.H_CommonTC - Commnet is submited
+17:26:58.644 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint8_TestCases.H_CommonTC -  Comment card is added into comment panel
+17:26:58.644 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint8_TestCases.H_CommonTC - Finished verifyEntityCheckCP ..
+17:26:59.861 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint8_TestCases.H_CommonTC - Clicked on Track changes Accept Change.
+17:27:01.476 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint8_TestCases.H_CommonTC -  clicked on Add comment plugin
+17:27:01.879 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint8_TestCases.H_CommonTC - Comment is entered into comment text field
+17:27:02.385 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint8_TestCases.H_CommonTC - Commnet is submited
+17:27:04.078 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint8_TestCases.H_CommonTC -  Comment card is added into comment panel
+17:27:04.177 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint8_TestCases.H_CommonTC - Finished verifyEntityCheckCP ..
+17:27:10.468 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint8_TestCases.H_CommonTC - Logged in, searched for a file, and clicked Edit.
+17:27:13.331 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint8_TestCases.H_CommonTC - Finished verifyEntityDeselectpopup ..
+17:27:28.591 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.An_EntityTC - Logged in, searched for a file, and clicked Edit.
+17:27:28.597 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.An_EntityTC - Created An_Entity instance.
+17:27:28.672 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.An_EntityTC - Verified Entity is Enable
+17:27:28.699 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.An_EntityTC - Switched to frame 0.
+17:27:29.450 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.An_EntityTC - clicked on VE First para 
+17:27:29.602 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.An_EntityTC - Switched back to default content.
+17:27:30.176 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.An_EntityTC - clicked on Entity plugin
+17:27:30.176 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.An_EntityTC - clicked on Entity plugin
+17:27:30.319 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.An_EntityTC - Verified Entity popup is displayed
+17:27:30.370 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.An_EntityTC - Verified Entity is displayed
+17:27:30.445 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.An_EntityTC - Verified Entity is Enable
+17:27:36.947 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.An_EntityTC - Logged in, searched for a file, and clicked Edit.
+17:27:36.947 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.An_EntityTC - Created An_Entity instance.
+17:27:37.019 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.An_EntityTC - Verified Entity is Enable
+17:27:37.044 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.An_EntityTC - Switched to frame 0.
+17:27:37.611 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.An_EntityTC - clicked on VE First para 
+17:27:37.676 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.An_EntityTC - Switched back to default content.
+17:27:38.484 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.An_EntityTC - clicked on Entity plugin
+17:27:38.628 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.An_EntityTC - Verified Entity popup is displayed
+17:27:47.594 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.An_EntityTC - Logged in, searched for a file, and clicked Edit.
+17:27:47.597 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.An_EntityTC - Created An_Entity instance.
+17:27:47.685 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.An_EntityTC - Entity background color is=rgba(0, 0, 0, 0)
+17:27:47.685 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.An_EntityTC - Created Actions class instance.
+17:27:47.923 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.An_EntityTC - After mouse hover Entity background color is=rgba(215, 239, 255, 1)
+17:27:47.923 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.An_EntityTC - verified entity is highlighted
+17:27:51.308 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.An_EntityTC - Logged in, searched for a file, and clicked Edit.
+17:27:51.308 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.An_EntityTC - Created An_Entity instance.
+17:27:51.787 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.An_EntityTC - clicked on Entity plugin
+17:27:51.879 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.An_EntityTC - Verified Insert Entity is displayed
+17:27:52.000 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.An_EntityTC - Verified Cancel button is displayed
+17:27:52.069 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.An_EntityTC - Verified search box is displayed
+17:27:52.152 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.An_EntityTC - Verified Entity insert button is displayed
+17:28:09.600 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.An_EntityTC - Logged in, searched for a file, and clicked Edit.
+17:28:09.601 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.An_EntityTC - Created An_Entity instance.
+17:28:10.149 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.An_EntityTC - clicked on Entity plugin
+17:28:13.715 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.An_EntityTC - clicked on Alpha Entity
+17:28:14.317 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.An_EntityTC - clicked on Entity Insert button
+17:28:15.087 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.An_EntityTC - clicked on Accept changes
+17:28:15.278 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.An_EntityTC - Switched to frame 0.
+17:28:15.462 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.An_EntityTC - Verified Entity is not Inserted into VE
+17:28:19.506 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.An_EntityTC - Logged in, searched for a file, and clicked Edit.
+17:28:19.506 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.An_EntityTC - Created An_Entity instance.
+17:28:19.547 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.An_EntityTC - Switched to frame 0.
+17:28:20.119 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.An_EntityTC - clicked on VE First para 
+17:28:20.319 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.An_EntityTC - Switched back to default content.
+17:28:21.249 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.An_EntityTC - clicked on Entity plugin
+17:28:28.402 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.An_EntityTC - clicked on Entity Expander
+17:28:28.689 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.An_EntityTC - clicked on Entity Check box
+17:28:29.152 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.An_EntityTC - clicked on Entity Insert button
+17:28:29.215 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.An_EntityTC - Switched to frame 0.
+17:28:29.257 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.An_EntityTC - Verified Entity is not Inserted into VE
+17:28:29.259 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.An_EntityTC - Switched back to default content.
+17:28:29.678 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.An_EntityTC - clicked on Entity plugin
+17:28:29.751 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.An_EntityTC - Verified Entity Expander is present
+17:28:39.580 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.C_CommonBugsTC - Starting test TC773_verifyCBAfterAddingEntity.
+17:28:41.748 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.An_EntityTC - Logged in, searched for a file, and clicked Edit.
+17:28:41.748 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.An_EntityTC - Created An_Entity instance.
+17:28:42.123 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.An_EntityTC - clicked on Entity plugin
+17:28:43.881 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.An_EntityTC - clicked on Entity Expander
+17:28:44.313 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.An_EntityTC - clicked on Entity Check box
+17:28:44.867 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.An_EntityTC - clicked on Entity Insert button
+17:28:45.779 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.An_EntityTC - Logged in, searched for a file, and clicked Edit.
+17:28:45.779 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.An_EntityTC - Created An_Entity instance.
+17:28:45.798 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.An_EntityTC - Switched to frame 0.
+17:28:46.010 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.An_EntityTC - clicked on Accept changes
+17:28:46.420 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.An_EntityTC - Verified Attribute entity is present
+17:28:46.554 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.An_EntityTC - clicked on VE First para 
+17:28:46.738 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.An_EntityTC - Switched back to default content.
+17:28:47.323 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.An_EntityTC - clicked on Entity plugin
+17:28:48.470 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.An_EntityTC - clicked on Entity Expander
+17:28:48.783 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.An_EntityTC - clicked on Entity Check box
+17:28:49.525 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.An_EntityTC - clicked on Entity Insert button
+17:28:49.899 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.An_EntityTC - Switched to frame 0.
+17:28:49.967 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.An_EntityTC - Verified Entity is not Inserted into VE
+17:28:49.979 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.An_EntityTC - Switched back to default content.
+17:28:50.000 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.An_EntityTC - Switched to frame 0.
+17:28:51.281 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.An_EntityTC - Switched back to default content.
+17:28:53.363 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.An_EntityTC - Switched back to default content.
+17:28:54.520 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.E_CommonTC - Starting verifyEntityRightclickoption
+17:28:56.577 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.An_EntityTC - clicked on Entity Insert button
+17:28:56.875 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.An_EntityTC - Switched to frame 0.
+17:28:56.971 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.An_EntityTC - Verified Entity is not Inserted into VE
+17:28:59.040 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.An_EntityTC - Logged in, searched for a file, and clicked Edit.
+17:28:59.041 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.An_EntityTC - Created An_Entity instance.
+17:28:59.077 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.An_EntityTC - Switched to frame 0.
+17:28:59.790 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.An_EntityTC - clicked on VE First para 
+17:28:59.908 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.An_EntityTC - Switched back to default content.
+17:29:00.634 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.An_EntityTC - clicked on Entity plugin
+17:29:03.585 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.An_EntityTC - clicked on Entity Expander
+17:29:03.844 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.An_EntityTC - clicked on Entity Check box
+17:29:04.671 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.An_EntityTC - clicked on Entity Insert button
+17:29:04.959 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.An_EntityTC - Switched to frame 0.
+17:29:05.070 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.An_EntityTC - Verified Entity is not Inserted into VE
+17:29:05.074 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.An_EntityTC - Switched back to default content.
+17:29:05.151 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.An_EntityTC - Verified Accept changes is enabled
+17:29:05.171 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.An_EntityTC - Switched to frame 0.
+17:29:05.237 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.An_EntityTC - Verified Entity is not Inserted into VE
+17:29:05.240 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.An_EntityTC - Switched back to default content.
+17:29:05.857 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.An_EntityTC - clicked on Entity Quick Priview
+17:29:06.135 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.An_EntityTC - Switched to frame 0.
+17:29:06.311 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.An_EntityTC - Verified Entity is not Inserted into VE
+17:29:12.539 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.E_CommonTC - Starting verifyInsertChangeEnityRightclickoptionLengthyEntity
+17:29:14.619 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.E_CommonTC - Starting verifyInsertEntityBackspace
+17:29:27.000 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.C_CommonBugsTC - Logged in and clicked on Edit.
+17:29:29.281 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.C_CommonBugsTC - Clicked the first paragraph.
+17:29:30.621 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.C_CommonBugsTC - Clicked on Content Block P.
+17:29:32.038 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.C_CommonBugsTC - Clicked on 'Entity'.
+17:29:34.440 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.C_CommonBugsTC - Clicked the first expander.
+17:29:34.979 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.C_CommonBugsTC - Clicked the Fancy Tree Node.
+17:29:36.167 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.C_CommonBugsTC - Clicked 'Insert' button.
+17:29:37.770 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.C_CommonBugsTC - Clicked 'Accept Change'.
+17:29:38.236 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.C_CommonBugsTC - Verified that paragraph is displayed.
+17:29:38.236 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.C_CommonBugsTC - Test TC773_verifyCBAfterAddingEntity completed.
+17:29:42.814 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.E_CommonTC - Logged in, searched for a file, and clicked Edit.
+17:29:42.849 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.E_CommonTC - Switched to frame 0.
+17:29:43.372 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.E_CommonTC - clicked on VE First para 
+17:29:43.413 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.E_CommonTC - Switched back to default content.
+17:29:44.032 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.E_CommonTC - clicked On Insert Plugin
+17:29:45.430 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.E_CommonTC - Created Actions class instance.
+17:29:46.848 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.E_CommonTC - clicked On Insert Element button
+17:29:47.449 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.E_CommonTC - Switched to frame 0.
+17:29:48.160 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.E_CommonTC - Switched back to default content.
+17:29:48.333 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.E_CommonTC - Switched to frame 1.
+17:29:48.467 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.E_CommonTC - Finished verifyEntityRightclickoption ..
+17:29:58.959 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.E_CommonTC - Logged in, searched for a file, and clicked Edit.
+17:29:59.326 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.E_CommonTC - clicked on click Entity plugin
+17:29:59.871 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.E_CommonTC - clicked on Entity 1stExpander
+17:30:00.117 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.E_CommonTC - clicked on Entity check Box
+17:30:00.212 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.E_CommonTC - Logged in, searched for a file, and clicked Edit.
+17:30:00.555 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.E_CommonTC - clicked on click Entity plugin
+17:30:00.606 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.E_CommonTC - clicked on Entity Insert Button
+17:30:01.164 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.E_CommonTC - clicked On Accept Changes
+17:30:01.349 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.E_CommonTC - Switched to frame 0.
+17:30:01.463 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.E_CommonTC - Created Actions class instance.
+17:30:01.724 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.E_CommonTC - clicked on Entity 1stExpander
+17:30:01.946 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.E_CommonTC - clicked on Entity check Box
+17:30:02.280 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.E_CommonTC - Switched back to default content.
+17:30:02.297 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.E_CommonTC - Switched to frame 1.
+17:30:02.377 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.E_CommonTC - clicked on Entity Insert Button
+17:30:02.701 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.E_CommonTC - Switched back to default content.
+17:30:02.985 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.E_CommonTC - clicked On Accept Changes
+17:30:03.155 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.E_CommonTC - Switched to frame 0.
+17:30:03.155 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.E_CommonTC - Created Actions class instance.
+17:30:03.690 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.E_CommonTC - clicked on Entity Insert Button
+17:30:03.747 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.E_CommonTC - Switched to frame 0.
+17:30:03.792 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.E_CommonTC - Verified Change Entity for Lengthy entity is working fine
+17:30:03.792 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.E_CommonTC - Finished verifyInsertChangeEnityRightclickoptionLengthyEntity ..
+17:30:04.476 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.E_CommonTC - Finished verifyInsertEntityBackspace ..
+19:27:51.796 [main] INFO  sprint3_TestCases.F_VerifyContentBlock_SearchOptionsTC - Starting verify_Searchcontent_100Count test...
+19:27:51.799 [main] INFO  sprint3_TestCases.F_VerifyContentBlock_SearchOptionsTC - ReusableMethods.LoginAndSearchFile_ClickEdit()
+19:28:15.387 [main] INFO  sprint3_TestCases.F_VerifyContentBlock_SearchOptionsTC - Creating VerifyContentBlock_SearchOptions instance
+19:28:15.390 [main] INFO  sprint3_TestCases.F_VerifyContentBlock_SearchOptionsTC - Verifying Search Content is displayed
+19:28:15.456 [main] INFO  sprint3_TestCases.F_VerifyContentBlock_SearchOptionsTC - Typing 101 characters in Search Content
+19:28:16.778 [main] INFO  sprint3_TestCases.F_VerifyContentBlock_SearchOptionsTC - Verifying alert message for exceeding character limit
+19:28:16.778 [main] INFO  sprint3_TestCases.F_VerifyContentBlock_SearchOptionsTC - verify_Searchcontent_100Count test completed successfully.
+20:31:19.910 [main] INFO  Elements_Testcases.Aj_SymbolsTC - Starting verifyToolBarTooltips
+20:31:45.167 [main] INFO  Elements_Testcases.Aj_SymbolsTC - Logged in, searched for a file, and clicked Edit.
+20:31:45.169 [main] INFO  Elements_Testcases.Aj_SymbolsTC - Created A_ToolBarOptions instance.
+20:31:45.230 [main] INFO  Elements_Testcases.Aj_SymbolsTC - Verified Symbol is displayed
+20:31:45.272 [main] INFO  Elements_Testcases.Aj_SymbolsTC - Source Symbol is correct
+20:32:02.576 [main] INFO  Elements_Testcases.Aj_SymbolsTC - Starting verifyToolBarTooltips
+20:32:27.698 [main] INFO  Elements_Testcases.Aj_SymbolsTC - Logged in, searched for a file, and clicked Edit.
+20:32:27.700 [main] INFO  Elements_Testcases.Aj_SymbolsTC - Created A_ToolBarOptions instance.
+20:32:28.183 [main] INFO  Elements_Testcases.Aj_SymbolsTC - Clicked on the first paragraph in Visual Editor.
+20:32:28.617 [main] INFO  Elements_Testcases.Aj_SymbolsTC - Clicked on the Symbol button.
+20:32:30.082 [main] INFO  Elements_Testcases.Aj_SymbolsTC - Clicked on the 'A' symbol.
+20:32:30.191 [main] INFO  Elements_Testcases.Aj_SymbolsTC - Verified that the inserted Symbol 'A' is present in Visual Editor.
+20:36:39.976 [main] INFO  Elements_Testcases.Aj_SymbolsTC - Starting verifyToolBarTooltips
+20:37:05.164 [main] INFO  Elements_Testcases.Aj_SymbolsTC - Logged in, searched for a file, and clicked Edit.
+20:37:05.166 [main] INFO  Elements_Testcases.Aj_SymbolsTC - Created A_ToolBarOptions instance.
+20:37:05.555 [main] INFO  Elements_Testcases.Aj_SymbolsTC - Clicked on the first paragraph in Visual Editor.
+20:37:05.920 [main] INFO  Elements_Testcases.Aj_SymbolsTC - Clicked on the Symbol button.
+20:37:07.517 [main] INFO  Elements_Testcases.Aj_SymbolsTC - Clicked on the 'A' symbol.
+20:37:07.623 [main] INFO  Elements_Testcases.Aj_SymbolsTC - Verified that the inserted Symbol 'A' is present in Visual Editor.
+20:37:07.804 [main] INFO  Elements_Testcases.Aj_SymbolsTC - Verified that 'Accept Change' is disabled.
+20:37:07.834 [main] INFO  Elements_Testcases.Aj_SymbolsTC - Verified that 'Reject Change' is disabled.
+20:47:24.281 [main] INFO  Elements_Testcases.Aj_SymbolsTC - Starting the test TC632_verifyUndoEnabled
+20:47:55.775 [main] INFO  Elements_Testcases.Aj_SymbolsTC - Logged in and searched for the file, then clicked on edit.
+20:47:55.838 [main] INFO  Elements_Testcases.Aj_SymbolsTC - Symbol plugin is present.
+20:47:55.869 [main] INFO  Elements_Testcases.Aj_SymbolsTC - Symbol is disabled initially.
+20:47:56.374 [main] INFO  Elements_Testcases.Aj_SymbolsTC - Symbol is disabled initially.
+20:47:56.374 [main] INFO  Elements_Testcases.Aj_SymbolsTC - Test TC632_verifyUndoEnabled completed.
+21:00:35.212 [main] INFO  Elements_Testcases.Ak_EntityTC - Logged in, searched for a file, and clicked Edit.
+21:00:35.220 [main] INFO  Elements_Testcases.Ak_EntityTC - Created An_Entity instance.
+21:00:35.244 [main] INFO  Elements_Testcases.Ak_EntityTC - Switched to frame 0.
+21:00:35.609 [main] INFO  Elements_Testcases.Ak_EntityTC - clicked on VE First para 
+21:00:35.634 [main] INFO  Elements_Testcases.Ak_EntityTC - Switched back to default content.
+21:00:35.861 [main] INFO  Elements_Testcases.Ak_EntityTC - clicked on Entity plugin
+21:00:36.763 [main] INFO  Elements_Testcases.Ak_EntityTC - clicked on Entity Expander
+21:00:36.947 [main] INFO  Elements_Testcases.Ak_EntityTC - clicked on Entity Check box
+21:00:37.281 [main] INFO  Elements_Testcases.Ak_EntityTC - clicked on Entity Insert button
+21:00:37.339 [main] INFO  Elements_Testcases.Ak_EntityTC - Switched to frame 0.
+21:00:37.387 [main] INFO  Elements_Testcases.Ak_EntityTC - Verified Entity is not Inserted into VE
+21:00:37.562 [main] INFO  Elements_Testcases.Ak_EntityTC - Switched back to default content.
+21:04:03.209 [main] INFO  Elements_Testcases.Ak_EntityTC - Logged in, searched for a file, and clicked Edit.
+21:04:03.215 [main] INFO  Elements_Testcases.Ak_EntityTC - Created An_Entity instance.
+21:04:03.260 [main] INFO  Elements_Testcases.Ak_EntityTC - Switched to frame 0.
+21:04:03.567 [main] INFO  Elements_Testcases.Ak_EntityTC - clicked on VE First para 
+21:04:03.600 [main] INFO  Elements_Testcases.Ak_EntityTC - Switched back to default content.
+21:04:03.884 [main] INFO  Elements_Testcases.Ak_EntityTC - clicked on Entity plugin
+21:04:05.029 [main] INFO  Elements_Testcases.Ak_EntityTC - clicked on Entity Expander
+21:04:05.262 [main] INFO  Elements_Testcases.Ak_EntityTC - clicked on Entity Check box
+21:04:05.702 [main] INFO  Elements_Testcases.Ak_EntityTC - clicked on Entity Insert button
+21:04:05.757 [main] INFO  Elements_Testcases.Ak_EntityTC - Switched to frame 0.
+21:04:05.840 [main] INFO  Elements_Testcases.Ak_EntityTC - Verified Entity is not Inserted into VE
+21:04:06.052 [main] INFO  Elements_Testcases.Ak_EntityTC - Switched back to default content.
+21:04:06.067 [main] INFO  Elements_Testcases.Ak_EntityTC - Switched to frame 0.
+21:05:28.737 [main] INFO  Elements_Testcases.Ak_EntityTC - Logged in, searched for a file, and clicked Edit.
+21:05:28.743 [main] INFO  Elements_Testcases.Ak_EntityTC - Created An_Entity instance.
+21:05:28.763 [main] INFO  Elements_Testcases.Ak_EntityTC - Switched to frame 0.
+21:05:29.069 [main] INFO  Elements_Testcases.Ak_EntityTC - clicked on VE First para 
+21:05:29.101 [main] INFO  Elements_Testcases.Ak_EntityTC - Switched back to default content.
+21:05:29.363 [main] INFO  Elements_Testcases.Ak_EntityTC - clicked on Entity plugin
+21:05:29.811 [main] INFO  Elements_Testcases.Ak_EntityTC - clicked on Entity Expander
+21:05:30.055 [main] INFO  Elements_Testcases.Ak_EntityTC - clicked on Entity Check box
+21:05:30.411 [main] INFO  Elements_Testcases.Ak_EntityTC - clicked on Entity Insert button
+21:05:30.458 [main] INFO  Elements_Testcases.Ak_EntityTC - Switched to frame 0.
+21:05:30.503 [main] INFO  Elements_Testcases.Ak_EntityTC - Verified Entity is not Inserted into VE
+21:05:30.982 [main] INFO  Elements_Testcases.Ak_EntityTC - Switched back to default content.
+21:05:31.003 [main] INFO  Elements_Testcases.Ak_EntityTC - Switched to frame 0.
+21:06:53.430 [main] INFO  Elements_Testcases.Ak_EntityTC - Logged in, searched for a file, and clicked Edit.
+21:06:53.434 [main] INFO  Elements_Testcases.Ak_EntityTC - Created An_Entity instance.
+21:06:53.452 [main] INFO  Elements_Testcases.Ak_EntityTC - Switched to frame 0.
+21:06:53.815 [main] INFO  Elements_Testcases.Ak_EntityTC - clicked on VE First para 
+21:06:53.848 [main] INFO  Elements_Testcases.Ak_EntityTC - Switched back to default content.
+21:06:54.155 [main] INFO  Elements_Testcases.Ak_EntityTC - clicked on Entity plugin
+21:06:54.690 [main] INFO  Elements_Testcases.Ak_EntityTC - clicked on Entity Expander
+21:06:54.871 [main] INFO  Elements_Testcases.Ak_EntityTC - clicked on Entity Check box
+21:06:55.256 [main] INFO  Elements_Testcases.Ak_EntityTC - clicked on Entity Insert button
+21:06:55.310 [main] INFO  Elements_Testcases.Ak_EntityTC - Switched to frame 0.
+21:06:55.361 [main] INFO  Elements_Testcases.Ak_EntityTC - Verified Entity is not Inserted into VE
+21:06:55.976 [main] INFO  Elements_Testcases.Ak_EntityTC - Switched back to default content.
+21:06:56.009 [main] INFO  Elements_Testcases.Ak_EntityTC - Switched to frame 0.
+21:06:56.048 [main] INFO  Elements_Testcases.Ak_EntityTC - Verified Entity is not Inserted into VE
+21:49:09.236 [main] INFO  Elements_Testcases.Al_Commonp1TC - Starting VerifyDeleteSectionHeading ..
+21:49:32.918 [main] INFO  Elements_Testcases.Al_Commonp1TC - Right clicked section heading

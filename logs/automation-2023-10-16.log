@@ -1,0 +1,376 @@
+23:56:58.387 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - clicked on Handberger button
+23:56:58.601 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - verified Label CMS menu displayed
+23:56:58.648 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - clicked on Handberger button
+23:56:59.042 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - clicked on Handberger button
+23:56:59.168 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - verified Label CMS menu displayed
+23:56:59.169 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Finished verify_CMSMenu_Collapse
+23:56:59.496 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - clicked on checked out files link
+23:57:00.118 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - clicked on add new file link
+23:57:07.615 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Logged in and searched for a file, then clicked Edit.
+23:57:07.920 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - clicked on Handberger button
+23:57:08.094 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - verified Label CMS menu displayed
+23:57:08.132 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Switched to frame 0.
+23:57:08.983 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - clicked on First para from VE
+23:57:09.198 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Switched back to default content.
+23:57:09.467 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Starting verify_CMSCollapse_ByClickinCodeVeiw
+23:57:09.793 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - clicked on Handberger button
+23:57:31.782 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Starting verify_CMSMenu_AddingFile
+23:57:41.065 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Logged in and searched for a file, then clicked Edit.
+23:57:41.128 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Switched to frame 0.
+23:57:42.156 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - clicked on First para from VE
+23:57:42.315 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Switched back to default content.
+23:57:42.752 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - clicked on Handberger button
+23:57:43.055 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - clicked on Media object link in CMS menu
+23:57:45.992 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - clicked on image insert button
+23:57:48.294 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - vefied image is not present in DS
+23:57:48.294 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Finished verify_MediaObject_InCMSMenu
+23:57:50.068 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - verified Label CMS menu is not displayed
+23:57:50.068 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Finished verify_CMSCollapse_ByClickingEditorView
+23:57:53.298 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Logged in and searched for a file, then clicked Edit.
+23:57:54.481 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - clicked on Handberger button
+23:57:54.782 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - verified Label CMS menu displayed
+23:57:55.597 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - clicked on code view
+23:57:58.503 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Starting verify_CMSCollapse_ByClickingAttributePanel
+23:58:00.222 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Starting verify_CMSCollapse_ByClickingValidateButton
+23:58:16.199 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Logged in and searched for a file, then clicked Edit.
+23:58:16.594 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - clicked on Handberger button
+23:58:17.323 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - clicked on checked out files link
+23:58:23.641 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - clicked on add new file link
+23:58:35.991 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - verified Label CMS menu is not displayed
+23:58:35.992 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Finished verify_CMSCollapse_ByClickinCodeVeiw
+23:58:46.647 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Starting verify_CMSMenu_UserProfile
+23:58:49.477 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Logged in and searched for a file, then clicked Edit.
+23:58:49.728 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - clicked on Handberger button
+23:58:49.860 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - verified Label CMS menu displayed
+23:58:50.378 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Logged in and searched for a file, then clicked Edit.
+23:58:51.194 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - clicked on validate button
+23:58:52.080 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - clicked on Handberger button
+23:58:52.328 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - verified Label CMS menu displayed
+23:58:53.130 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - clicked on general attribute text
+23:58:55.130 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Starting verify_CMSMenu_AddingFile
+23:59:01.329 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - verified Label CMS menu is not displayed
+23:59:01.330 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Finished verify_CMSCollapse_ByClickingValidateButton
+23:59:14.096 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Starting verify_CMSMenu_LogoutManage_Profile
+23:59:33.278 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - verified Label CMS menu is not displayed
+23:59:33.278 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Finished verify_CMSCollapse_ByClickingAttributePanel
+23:59:41.454 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Logged in and searched for a file, then clicked Edit.
+23:59:42.661 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - clicked on Handberger button
+23:59:42.829 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - clicked on Handberger button
+23:59:43.501 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - clicked on user profile button
+23:59:43.897 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - verified Label manage profile is displayed
+23:59:43.897 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Finished verify_CMSMenu_UserProfile
+23:59:44.728 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Starting verify_CMS_RejectLogout
+23:59:46.623 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Logged in and searched for a file, then clicked Edit.
+23:59:46.992 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - clicked on Handberger button
+23:59:47.637 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - clicked on checked out files link
+23:59:51.330 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - clicked on add new file link
+23:59:54.464 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Starting verify_CMSMenu_Manage_Logout
+23:59:55.495 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Logged in and searched for a file, then clicked Edit.
+23:59:55.787 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - clicked on Handberger button
+23:59:56.880 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - clicked on user profile button
+23:59:57.074 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - verified Label Logout is displayed
+23:59:57.233 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - verified Label Manage Profile is displayed
+23:59:57.234 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Finished verify_CMSMenu_LogoutManage_Profile
+00:00:07.711 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Starting verify_CMSMenu_Manage
+00:00:23.612 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Starting verify_CMSMenu_RejectChange
+00:00:26.269 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Logged in and searched for a file, then clicked Edit.
+00:00:26.643 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - clicked on Handberger button
+00:00:27.660 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - clicked on user profile button
+00:00:28.192 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - clicked on logout button
+00:00:28.244 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - verified login button is not visible
+00:00:28.244 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Finished verify_CMS_RejectLogout
+00:00:37.533 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Starting verify_MediaObject_Close
+00:00:41.405 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Logged in and searched for a file, then clicked Edit.
+00:00:41.660 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - clicked on Handberger button
+00:00:42.654 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - clicked on user profile button
+00:00:42.916 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - clicked on logout button
+00:00:42.927 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - clicked on accept alert
+00:00:42.982 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - verified login button is visible
+00:00:42.983 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Finished verify_CMSMenu_Manage_Logout
+00:00:46.045 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Logged in and searched for a file, then clicked Edit.
+00:00:46.325 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - clicked on Handberger button
+00:00:47.210 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - clicked on user profile button
+00:00:47.478 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - clicked on Manage profile button
+00:00:47.490 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - clicking on accept the popup 
+00:00:49.299 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - verified with the inner text of chnaged password
+00:00:49.432 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - verified with the inner text of he change profile picture
+00:00:49.432 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Finished verify_CMSMenu_Manage
+00:00:57.077 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Starting verify_MediaObject_SearchValidImage
+00:01:00.242 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Starting verify_TitleBar
+00:01:06.488 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Logged in and searched for a file, then clicked Edit.
+00:01:06.779 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - clicked on Handberger button
+00:01:08.072 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - clicked on user profile button
+00:01:08.489 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - clicked on Manage profile button
+00:01:08.501 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Verified change password is not displayed
+00:01:24.154 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Logged in and searched for a file, then clicked Edit.
+00:01:24.191 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Switched to frame 0.
+00:01:25.171 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - clicked on First para from VE
+00:01:25.342 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Switched back to default content.
+00:01:25.673 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - clicked on Handberger button
+00:01:26.042 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - clicked on media object button
+00:01:32.265 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - clicked on media object close button
+00:01:45.506 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Logged in and searched for a file, then clicked Edit.
+00:01:45.555 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Switched to frame 0.
+00:01:47.096 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - clicked on First para from VE
+00:01:47.372 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Switched back to default content.
+00:01:47.706 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - clicked on Handberger button
+00:01:48.158 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - clicked on media object button
+00:01:48.595 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Verified Change picture is not displayed
+00:01:48.595 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Finished verify_CMSMenu_RejectChange
+00:01:48.989 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Logged in and searched for a file, then clicked Edit.
+00:01:48.992 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - verified on media object search label is diaplayed
+00:01:49.063 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Switched to frame 0.
+00:01:49.395 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - clicked on Handberger button
+00:01:50.380 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - verified on image name is typed
+00:01:51.060 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - clicked on First para from VE
+00:01:51.091 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - verified on image is diaplayed
+00:01:51.092 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Finished verify_MediaObject_SearchValidImage
+00:01:51.361 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Switched back to default content.
+00:01:51.719 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - clicked on Handberger button
+00:01:52.309 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - clicked on media object button
+00:01:52.870 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - verified on media object search label is diaplayed
+00:01:53.172 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - clicked on Handberger button
+00:01:53.310 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - hello text is typed in search label
+00:01:53.604 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - clicked on Search button
+00:01:53.744 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - verified on image is not diaplayed
+00:01:53.744 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Finished verify_MediaObject_SearchInvalidImage
+00:01:58.805 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Starting verify_MediaLibrary_SearchOption
+00:02:00.457 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint1_TestCases.D_TabViewOptionsTC - Starting verifyTabViewOptions
+00:02:03.856 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.D_TabViewOptionsTC - Starting verify_TabOptions_OnRefresh
+00:02:12.480 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Verified img is not displayed in document structure
+00:02:12.481 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Finished verify_MediaObject_Close
+00:02:21.308 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint1_TestCases.D_TabViewOptionsTC - Starting verify_TitleBar
+00:02:34.803 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.D_TabViewOptionsTC - Logged in and searched for a file, then clicked Edit.
+00:02:35.797 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.D_TabViewOptionsTC - verified Visual Editor is displayed
+00:02:35.936 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.D_TabViewOptionsTC - verified Code View is displayed
+00:02:36.039 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.D_TabViewOptionsTC - verified Quick Preview is displayed
+00:02:36.186 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.D_TabViewOptionsTC - verified Print Preview is displayed
+00:02:36.875 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Logged in and searched for a file, then clicked Edit.
+00:02:37.148 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - clicked on Handberger button
+00:02:37.274 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - verified Label CMS menu displayed
+00:02:37.719 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - clicked on Media object link in CMS menu
+00:02:38.680 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.D_TabViewOptionsTC - Page is refreshed
+00:02:39.068 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint1_TestCases.D_TabViewOptionsTC - Logged in and searched for a file, then clicked Edit.
+00:02:39.307 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint1_TestCases.D_TabViewOptionsTC - verified Visual Editor is displayed
+00:02:39.426 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint1_TestCases.D_TabViewOptionsTC - verified Code View is displayed
+00:02:39.569 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint1_TestCases.D_TabViewOptionsTC - verified Quick Preview is displayed
+00:02:39.659 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint1_TestCases.D_TabViewOptionsTC - verified Print Preview is displayed
+00:02:39.659 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint1_TestCases.D_TabViewOptionsTC - Finished verifyTabViewOptions
+00:02:40.171 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.D_TabViewOptionsTC - verified Visual Editor is displayed
+00:02:40.248 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.D_TabViewOptionsTC - verified Code View is displayed
+00:02:40.327 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.D_TabViewOptionsTC - verified Quick Preview is displayed
+00:02:40.408 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.D_TabViewOptionsTC - verified Print Preview is displayed
+00:02:40.408 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.D_TabViewOptionsTC - Finished verify_TabOptions_OnRefresh
+00:02:52.629 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint1_TestCases.D_TabViewOptionsTC - Starting verifyTooltipsOnWindowResize
+00:02:53.928 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Verified media object search label i displayed
+00:02:53.929 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Finished verify_MediaLibrary_SearchOption
+00:02:54.307 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.D_TabViewOptionsTC - Starting verifyVisualEditorHighLighted
+00:03:04.206 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint1_TestCases.D_TabViewOptionsTC - Starting verifyVisualEditorTab
+00:03:05.508 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint1_TestCases.D_TabViewOptionsTC - Logged in and searched for a file, then clicked Edit.
+00:03:05.935 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint1_TestCases.D_TabViewOptionsTC - verified Visual Editor Tooltip is displayed
+00:03:06.206 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint1_TestCases.D_TabViewOptionsTC - verified Code  View Tooltip is displayed
+00:03:06.452 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint1_TestCases.D_TabViewOptionsTC - verified Quick Preview Tooltip is displayed
+00:03:06.687 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint1_TestCases.D_TabViewOptionsTC - verified Print Preview Tooltip is displayed
+00:03:16.123 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint1_TestCases.D_TabViewOptionsTC - Starting verifyCodeView_HighLighted
+00:03:38.620 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint1_TestCases.D_TabViewOptionsTC - Logged in and searched for a file, then clicked Edit.
+00:03:39.805 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.D_TabViewOptionsTC - Logged in and searched for a file, then clicked Edit.
+00:03:40.124 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.D_TabViewOptionsTC - verified General attributes label is displayed
+00:03:40.185 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.D_TabViewOptionsTC - verified Visual Editor is displayed
+00:03:40.239 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.D_TabViewOptionsTC - verified visual editor is highlighted
+00:03:40.239 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.D_TabViewOptionsTC - Finished verifyVisualEditorHighLighted
+00:03:40.523 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint1_TestCases.D_TabViewOptionsTC - verified Visual Editor Tooltip is displayed
+00:03:40.781 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint1_TestCases.D_TabViewOptionsTC - verified Code View Tooltip is displayed
+00:03:41.018 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint1_TestCases.D_TabViewOptionsTC - verified Quick Preview Tooltip is displayed
+00:03:41.283 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint1_TestCases.D_TabViewOptionsTC - verified Print Preview Tooltip is displayed
+00:03:41.283 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint1_TestCases.D_TabViewOptionsTC - Finished verifyTooltipsOnWindowResize
+00:03:51.995 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.D_TabViewOptionsTC - Starting verifyCodeViewEnabled
+00:03:53.005 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint1_TestCases.D_TabViewOptionsTC - Starting verifyCodeViewTab
+00:03:55.268 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint1_TestCases.D_TabViewOptionsTC - Logged in and searched for a file, then clicked Edit.
+00:03:55.520 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint1_TestCases.D_TabViewOptionsTC - verified Visual Editor is displayed
+00:03:55.601 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint1_TestCases.D_TabViewOptionsTC - verified Content block label is displayed
+00:03:55.687 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint1_TestCases.D_TabViewOptionsTC - verified General attributes label is displayed
+00:03:55.687 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint1_TestCases.D_TabViewOptionsTC - Finished verifyVisualEditorTab
+00:04:05.698 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint1_TestCases.D_TabViewOptionsTC - Starting verifyQuickPreviewEnabled
+00:04:12.538 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint1_TestCases.D_TabViewOptionsTC - Logged in and searched for a file, then clicked Edit.
+00:04:13.335 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint1_TestCases.D_TabViewOptionsTC - Click Code View is displayed
+00:04:13.962 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint1_TestCases.D_TabViewOptionsTC - verified Code View is displayed
+00:04:14.036 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint1_TestCases.D_TabViewOptionsTC - verified Code View is highlighted
+00:04:14.036 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint1_TestCases.D_TabViewOptionsTC - Finished verifyCodeView_HighLighted
+00:04:25.226 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint1_TestCases.D_TabViewOptionsTC - Starting verifyQuickPreviewHighLighted
+00:04:47.571 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.D_TabViewOptionsTC - Logged in and searched for a file, then clicked Edit.
+00:04:47.686 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.D_TabViewOptionsTC - verified Code View is displayed
+00:04:48.212 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint1_TestCases.D_TabViewOptionsTC - Logged in and searched for a file, then clicked Edit.
+00:04:48.331 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.D_TabViewOptionsTC - Double click on Code View
+00:04:48.650 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.D_TabViewOptionsTC - verified Code View text is displayed
+00:04:48.650 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.D_TabViewOptionsTC - Finished verifyCodeViewEnabled
+00:04:50.046 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint1_TestCases.D_TabViewOptionsTC - Logged in and searched for a file, then clicked Edit.
+00:04:50.999 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint1_TestCases.D_TabViewOptionsTC - Clicked Quick Preview is displayed
+00:04:51.365 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint1_TestCases.D_TabViewOptionsTC - verified Quick Preview  is displayed
+00:04:51.466 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint1_TestCases.D_TabViewOptionsTC - verified Quick Preview  is displayed
+00:04:51.466 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint1_TestCases.D_TabViewOptionsTC - Finished verifyQuickPreviewEnabled
+00:04:58.219 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.D_TabViewOptionsTC - Starting verifyPrintPriviewExpanded
+00:05:01.079 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint1_TestCases.D_TabViewOptionsTC - Starting verifyPrintPriviewHighLighted
+00:05:01.647 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint1_TestCases.D_TabViewOptionsTC - Inserted the table in content block
+00:05:02.532 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint1_TestCases.D_TabViewOptionsTC - Clicked on Code View
+00:05:03.200 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint1_TestCases.D_TabViewOptionsTC - verified Code View is displayed
+00:05:05.223 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint1_TestCases.D_TabViewOptionsTC - Logged in and searched for a file, then clicked Edit.
+00:05:06.169 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint1_TestCases.D_TabViewOptionsTC - Clicked on Quick Preview
+00:05:06.467 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint1_TestCases.D_TabViewOptionsTC - verified Quick Preview  is displayed
+00:05:06.567 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint1_TestCases.D_TabViewOptionsTC - verified Quick Preview  is highlighted
+00:05:06.567 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint1_TestCases.D_TabViewOptionsTC - Finished verifyQuickPreviewHighLighted
+00:05:06.799 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint1_TestCases.D_TabViewOptionsTC - verified Code View table displayed
+00:05:16.685 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint1_TestCases.D_TabViewOptionsTC - Starting verifySelectTextInVisualEditor
+00:05:40.047 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint1_TestCases.D_TabViewOptionsTC - Logged in and searched for a file, then clicked Edit.
+00:05:40.054 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint1_TestCases.D_TabViewOptionsTC - verified Content Validation error message is not Displayed
+00:05:40.055 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint1_TestCases.D_TabViewOptionsTC - Finished verifyCodeViewTab
+00:05:40.083 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.D_TabViewOptionsTC - Logged in and searched for a file, then clicked Edit.
+00:05:40.630 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint1_TestCases.D_TabViewOptionsTC - Logged in and searched for a file, then clicked Edit.
+08:45:01.009 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.D_TabViewOptionsTC - Starting verifyPrintPriviewExpanded
+08:45:01.013 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint1_TestCases.D_TabViewOptionsTC - Starting verifyPrintPriviewHighLighted
+08:45:01.105 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint1_TestCases.D_TabViewOptionsTC - Starting verifySelectTextInVisualEditor
+08:45:21.625 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint1_TestCases.D_TabViewOptionsTC - Logged in and searched for a file, then clicked Edit.
+08:45:21.638 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.D_TabViewOptionsTC - Logged in and searched for a file, then clicked Edit.
+08:45:23.359 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint1_TestCases.D_TabViewOptionsTC - Logged in and searched for a file, then clicked Edit.
+08:45:34.068 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint1_TestCases.D_TabViewOptionsTC - Starting verifySelectTextInVisualEditor
+08:46:09.597 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint1_TestCases.D_TabViewOptionsTC - Starting verifyPrintPriviewHighLighted
+08:46:09.621 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.D_TabViewOptionsTC - Starting verifyPrintPriviewExpanded
+08:46:49.308 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint1_TestCases.D_TabViewOptionsTC - Logged in and searched for a file, then clicked Edit.
+08:46:49.319 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint1_TestCases.D_TabViewOptionsTC - Switched to frame 0.
+08:46:49.494 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint1_TestCases.D_TabViewOptionsTC - Double click on first para
+08:46:49.670 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint1_TestCases.D_TabViewOptionsTC - Double click on second para
+08:46:49.670 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint1_TestCases.D_TabViewOptionsTC - Finished verifySelectTextInVisualEditor
+08:47:18.595 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint1_TestCases.D_TabViewOptionsTC - Logged in and searched for a file, then clicked Edit.
+08:47:18.768 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.D_TabViewOptionsTC - Logged in and searched for a file, then clicked Edit.
+08:47:18.864 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint1_TestCases.D_TabViewOptionsTC - Clicked on Print Preview
+08:47:18.911 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint1_TestCases.D_TabViewOptionsTC - verified Print Preview is displayed
+08:47:18.991 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.D_TabViewOptionsTC - Clicked on Print Preview
+08:47:19.064 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.D_TabViewOptionsTC - verified Print Preview is displayed
+08:47:19.108 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.D_TabViewOptionsTC - verified Print Preview is Expanded
+08:47:19.108 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.D_TabViewOptionsTC - Finished verifyPrintPriviewExpanded
+10:40:41.251 [main] INFO  sprint1_TestCases.B_Verify_TitleBarOptionsTC - Starting verify_RightTitleBar_Options
+10:41:23.312 [main] INFO  sprint1_TestCases.B_Verify_TitleBarOptionsTC - Logged in and searched for a file, then clicked Edit.
+10:41:23.382 [main] INFO  sprint1_TestCases.B_Verify_TitleBarOptionsTC - verified Last Saved Time is displayed
+10:41:23.436 [main] INFO  sprint1_TestCases.B_Verify_TitleBarOptionsTC - verified Save button is displayed
+10:41:23.508 [main] INFO  sprint1_TestCases.B_Verify_TitleBarOptionsTC - verified Reset button is displayed
+10:41:23.552 [main] INFO  sprint1_TestCases.B_Verify_TitleBarOptionsTC - verified Validate button is displayed
+10:41:23.602 [main] INFO  sprint1_TestCases.B_Verify_TitleBarOptionsTC - verified CheckIn button is displayed
+10:41:23.602 [main] INFO  sprint1_TestCases.B_Verify_TitleBarOptionsTC - Finished verify_RightTitleBar_Options
+10:41:36.820 [main] INFO  sprint1_TestCases.B_Verify_TitleBarOptionsTC - Starting verify_LeftTitleBar_Options
+10:42:10.589 [main] INFO  sprint1_TestCases.B_Verify_TitleBarOptionsTC - Logged in and searched for a file, then clicked Edit.
+10:42:10.700 [main] INFO  sprint1_TestCases.B_Verify_TitleBarOptionsTC - verified CMS Menu is displayed
+10:42:10.733 [main] INFO  sprint1_TestCases.B_Verify_TitleBarOptionsTC - verified File Name is matched
+10:42:10.733 [main] INFO  sprint1_TestCases.B_Verify_TitleBarOptionsTC - Finished verify_LeftTitleBar_Options
+11:25:28.950 [main] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Starting verify_MediaObject_Close
+11:26:01.125 [main] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Logged in and searched for a file, then clicked Edit.
+11:26:01.148 [main] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Switched to frame 0.
+11:26:01.445 [main] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - clicked on First para from VE
+11:26:01.465 [main] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Switched back to default content.
+11:26:01.543 [main] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - clicked on Handberger button
+11:26:02.160 [main] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - clicked on media object button
+11:42:18.185 [main] INFO  sprint5_TestCases.E_CommonTC - Starting verifyFindReplaceUndoRedo
+11:42:53.568 [main] INFO  sprint5_TestCases.E_CommonTC - Logged in, searched for a file, and clicked Edit.
+11:42:53.573 [main] INFO  sprint5_TestCases.E_CommonTC - Created D_CommonEmphasis instance.
+11:45:33.870 [main] INFO  sprint5_TestCases.E_CommonTC - Starting verifyFindReplaceUndoRedo
+11:46:07.657 [main] INFO  sprint5_TestCases.E_CommonTC - Logged in, searched for a file, and clicked Edit.
+11:46:07.660 [main] INFO  sprint5_TestCases.E_CommonTC - Created D_CommonEmphasis instance.
+11:46:50.653 [main] INFO  sprint5_TestCases.E_CommonTC - Finished verifyFindReplaceUndoRedo ..
+11:53:29.178 [main] INFO  sprint5_TestCases.E_CommonTC - Starting verifyUndoRedoEmphasis
+11:54:07.322 [main] INFO  sprint5_TestCases.E_CommonTC - Logged in, searched for a file, and clicked Edit.
+11:54:07.326 [main] INFO  sprint5_TestCases.E_CommonTC - Created E_Common instance.
+11:54:11.351 [main] INFO  sprint5_TestCases.E_CommonTC - Finished verifyUndoRedoEmphasis ..
+14:08:20.732 [main] INFO  sprint5_TestCases.E_CommonTC - Starting verifyListInTable
+14:08:58.097 [main] INFO  sprint5_TestCases.E_CommonTC - Logged in, searched for a file, and clicked Edit.
+14:08:58.101 [main] INFO  sprint5_TestCases.E_CommonTC - Created E_Common instance.
+14:09:03.518 [main] INFO  sprint5_TestCases.E_CommonTC - Inserted table using ReusableMethods.
+14:17:18.199 [main] INFO  sprint5_TestCases.E_CommonTC - Starting verifyListInTable
+14:18:00.793 [main] INFO  sprint5_TestCases.E_CommonTC - Logged in, searched for a file, and clicked Edit.
+14:18:00.797 [main] INFO  sprint5_TestCases.E_CommonTC - Created E_Common instance.
+14:18:06.665 [main] INFO  sprint5_TestCases.E_CommonTC - Inserted table using ReusableMethods.
+14:18:06.905 [main] INFO  sprint5_TestCases.E_CommonTC - Clicked on the first cell of the inserted table.
+14:19:50.173 [main] INFO  sprint5_TestCases.E_CommonTC - Starting verifyListInTable
+14:20:42.005 [main] INFO  sprint5_TestCases.E_CommonTC - Logged in, searched for a file, and clicked Edit.
+14:20:42.009 [main] INFO  sprint5_TestCases.E_CommonTC - Created E_Common instance.
+14:20:47.763 [main] INFO  sprint5_TestCases.E_CommonTC - Inserted table using ReusableMethods.
+14:20:48.332 [main] INFO  sprint5_TestCases.E_CommonTC - Clicked on the first cell of the inserted table.
+14:27:06.509 [main] INFO  sprint5_TestCases.E_CommonTC - Starting verifyListInTable
+14:27:44.608 [main] INFO  sprint5_TestCases.E_CommonTC - Logged in, searched for a file, and clicked Edit.
+14:27:44.611 [main] INFO  sprint5_TestCases.E_CommonTC - Created E_Common instance.
+14:27:50.185 [main] INFO  sprint5_TestCases.E_CommonTC - Inserted table using ReusableMethods.
+14:27:50.664 [main] INFO  sprint5_TestCases.E_CommonTC - Clicked on the first cell of the inserted table.
+14:29:44.759 [main] INFO  sprint5_TestCases.E_CommonTC - Starting verifyListInTable
+14:30:25.699 [main] INFO  sprint5_TestCases.E_CommonTC - Logged in, searched for a file, and clicked Edit.
+14:30:25.705 [main] INFO  sprint5_TestCases.E_CommonTC - Created E_Common instance.
+14:30:31.803 [main] INFO  sprint5_TestCases.E_CommonTC - Inserted table using ReusableMethods.
+14:30:32.380 [main] INFO  sprint5_TestCases.E_CommonTC - Clicked on the first cell of the inserted table.
+14:36:08.981 [main] INFO  sprint5_TestCases.E_CommonTC - Starting verifyListInTable
+14:36:44.710 [main] INFO  sprint5_TestCases.E_CommonTC - Logged in, searched for a file, and clicked Edit.
+14:36:44.717 [main] INFO  sprint5_TestCases.E_CommonTC - Created E_Common instance.
+14:36:50.732 [main] INFO  sprint5_TestCases.E_CommonTC - Inserted table using ReusableMethods.
+14:36:51.180 [main] INFO  sprint5_TestCases.E_CommonTC - Clicked on the first cell of the inserted table.
+14:49:27.631 [main] INFO  sprint5_TestCases.E_CommonTC - Starting verifyListInTable
+14:49:56.503 [main] INFO  sprint5_TestCases.E_CommonTC - Logged in, searched for a file, and clicked Edit.
+14:49:56.509 [main] INFO  sprint5_TestCases.E_CommonTC - Created E_Common instance.
+14:50:02.841 [main] INFO  sprint5_TestCases.E_CommonTC - Inserted table using ReusableMethods.
+14:50:03.380 [main] INFO  sprint5_TestCases.E_CommonTC - Clicked on the first cell of the inserted table.
+14:50:03.419 [main] INFO  sprint5_TestCases.E_CommonTC - Switched back to default content.
+14:50:03.454 [main] INFO  sprint5_TestCases.E_CommonTC - Switched to frame 1.
+14:51:31.237 [main] INFO  sprint4_TestCases.I_Table_RightClickOptions_TC - Logged in and searched for a file, then clicked Edit.
+14:51:31.339 [main] INFO  sprint4_TestCases.I_Table_RightClickOptions_TC - Switched to frame 0.
+14:52:40.071 [main] INFO  sprint4_TestCases.I_Table_RightClickOptions_TC - Logged in and searched for a file, then clicked Edit.
+14:52:40.121 [main] INFO  sprint4_TestCases.I_Table_RightClickOptions_TC - Switched to frame 0.
+14:53:20.611 [main] INFO  sprint4_TestCases.I_Table_RightClickOptions_TC - Switched back to default content.
+14:53:20.657 [main] INFO  sprint4_TestCases.I_Table_RightClickOptions_TC - Switched to frame 1.
+14:53:22.392 [main] INFO  sprint4_TestCases.I_Table_RightClickOptions_TC - Switched back to default content.
+14:53:23.349 [main] INFO  sprint4_TestCases.I_Table_RightClickOptions_TC - Switched to frame 0.
+14:53:23.427 [main] INFO  sprint4_TestCases.I_Table_RightClickOptions_TC - Switched back to default content.
+14:56:03.776 [main] INFO  sprint5_TestCases.E_CommonTC - Starting verifyListInTable
+14:56:36.074 [main] INFO  sprint5_TestCases.E_CommonTC - Logged in, searched for a file, and clicked Edit.
+14:56:36.078 [main] INFO  sprint5_TestCases.E_CommonTC - Created E_Common instance.
+14:56:41.882 [main] INFO  sprint5_TestCases.E_CommonTC - Inserted table using ReusableMethods.
+14:56:42.169 [main] INFO  sprint5_TestCases.E_CommonTC - Switched back to default content.
+14:56:42.184 [main] INFO  sprint5_TestCases.E_CommonTC - Switched to frame 1.
+15:00:24.708 [main] INFO  sprint5_TestCases.E_CommonTC - Starting verifyListInTable
+15:00:57.222 [main] INFO  sprint5_TestCases.E_CommonTC - Logged in, searched for a file, and clicked Edit.
+15:00:57.230 [main] INFO  sprint5_TestCases.E_CommonTC - Created E_Common instance.
+15:01:03.654 [main] INFO  sprint5_TestCases.E_CommonTC - Inserted table using ReusableMethods.
+15:01:03.973 [main] INFO  sprint5_TestCases.E_CommonTC - Switched back to default content.
+15:01:03.994 [main] INFO  sprint5_TestCases.E_CommonTC - Switched to frame 1.
+17:54:32.036 [main] INFO  sprint5_TestCases.E_CommonTC - Starting verifyIgnoreAllCaptialSpellChecker
+17:55:00.377 [main] INFO  sprint5_TestCases.E_CommonTC - Logged in, searched for a file, and clicked Edit.
+17:55:00.380 [main] INFO  sprint5_TestCases.E_CommonTC - Created E_Common instance.
+17:56:47.241 [main] INFO  sprint5_TestCases.E_CommonTC - Starting verifyIgnoreAllCaptialSpellChecker
+17:57:17.838 [main] INFO  sprint5_TestCases.E_CommonTC - Logged in, searched for a file, and clicked Edit.
+17:57:17.843 [main] INFO  sprint5_TestCases.E_CommonTC - Created E_Common instance.
+17:59:08.640 [main] INFO  sprint5_TestCases.E_CommonTC - Starting verifyIgnoreAllCaptialSpellChecker
+17:59:35.571 [main] INFO  sprint5_TestCases.E_CommonTC - Logged in, searched for a file, and clicked Edit.
+17:59:35.576 [main] INFO  sprint5_TestCases.E_CommonTC - Created E_Common instance.
+18:01:08.108 [main] INFO  sprint5_TestCases.E_CommonTC - Starting verifyIgnoreAllCaptialSpellChecker
+18:01:36.724 [main] INFO  sprint5_TestCases.E_CommonTC - Logged in, searched for a file, and clicked Edit.
+18:01:36.728 [main] INFO  sprint5_TestCases.E_CommonTC - Created E_Common instance.
+18:09:46.626 [main] INFO  sprint5_TestCases.E_CommonTC - Starting verifyIgnoreAllCaptialSpellChecker
+18:10:18.296 [main] INFO  sprint5_TestCases.E_CommonTC - Logged in, searched for a file, and clicked Edit.
+18:10:18.299 [main] INFO  sprint5_TestCases.E_CommonTC - Created E_Common instance.
+18:11:55.838 [main] INFO  sprint5_TestCases.E_CommonTC - Starting verifyIgnoreAllCaptialSpellChecker
+18:12:25.437 [main] INFO  sprint5_TestCases.E_CommonTC - Logged in, searched for a file, and clicked Edit.
+18:12:25.441 [main] INFO  sprint5_TestCases.E_CommonTC - Created E_Common instance.
+18:21:33.801 [main] INFO  sprint5_TestCases.E_CommonTC - Starting verifyIgnoreAllCaptialSpellChecker
+18:22:19.520 [main] INFO  sprint5_TestCases.E_CommonTC - Logged in, searched for a file, and clicked Edit.
+18:22:19.523 [main] INFO  sprint5_TestCases.E_CommonTC - Created E_Common instance.
+21:25:57.844 [main] INFO  sprint5_TestCases.E_CommonTC - Starting verifyNewlyAddedListRevisionInsertedSymbol
+21:26:51.905 [main] INFO  sprint5_TestCases.E_CommonTC - Logged in, searched for a file, and clicked Edit.
+21:26:51.918 [main] INFO  sprint5_TestCases.E_CommonTC - Created E_Common instance.
+21:27:03.252 [main] INFO  sprint5_TestCases.E_CommonTC - Starting verifyNewlyAddedListRevisionInsertedSymbol
+21:28:32.913 [main] INFO  sprint5_TestCases.E_CommonTC - Logged in, searched for a file, and clicked Edit.
+21:28:32.919 [main] INFO  sprint5_TestCases.E_CommonTC - Created E_Common instance.
+21:34:56.250 [main] INFO  sprint5_TestCases.E_CommonTC - Starting verifyNewlyAddedListRevisionInsertedSymbol
+21:36:54.405 [main] INFO  sprint5_TestCases.E_CommonTC - Logged in, searched for a file, and clicked Edit.
+21:36:54.411 [main] INFO  sprint5_TestCases.E_CommonTC - Created E_Common instance.
+21:36:57.416 [main] INFO  sprint5_TestCases.E_CommonTC - Finished verifyNewlyAddedListRevisionInsertedSymbol ..
+21:39:35.273 [main] INFO  sprint5_TestCases.E_CommonTC - Starting verifyNewlyAddedListRevisionInsertedSymbol
+21:41:02.002 [main] INFO  sprint5_TestCases.E_CommonTC - Logged in, searched for a file, and clicked Edit.
+21:41:02.007 [main] INFO  sprint5_TestCases.E_CommonTC - Created E_Common instance.
+21:41:49.709 [main] INFO  sprint5_TestCases.E_CommonTC - Starting verifyNewlyAddedListRevisionInsertedSymbol
+21:43:25.730 [main] INFO  sprint5_TestCases.E_CommonTC - Logged in, searched for a file, and clicked Edit.
+21:43:25.736 [main] INFO  sprint5_TestCases.E_CommonTC - Created E_Common instance.
+21:43:28.597 [main] INFO  sprint5_TestCases.E_CommonTC - Finished verifyNewlyAddedListRevisionInsertedSymbol ..
+22:02:19.040 [main] INFO  sprint5_TestCases.E_CommonTC - Starting verifyNewlyAddedListRevisionInsertedSymbol

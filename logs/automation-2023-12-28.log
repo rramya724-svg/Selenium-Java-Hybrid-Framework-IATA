@@ -1,0 +1,348 @@
+22:24:08.197 [TestNG-test=RetryMultipleFailedTestcases-19] INFO  Elements_Testcases.Aa_ListTC - Logged in, searched for a file, and clicked Edit.
+22:24:08.222 [TestNG-test=RetryMultipleFailedTestcases-22] INFO  Elements_Testcases.Aa_ListTC - Starting verifyChangeImgToList
+22:24:08.222 [TestNG-test=RetryMultipleFailedTestcases-21] INFO  Elements_Testcases.Aa_ListTC - Starting verifyChangeImgToList
+22:24:08.220 [TestNG-test=RetryMultipleFailedTestcases-20] INFO  Elements_Testcases.Aa_ListTC - Starting InsertList_ToExistingList_DS
+22:24:08.255 [TestNG-test=RetryMultipleFailedTestcases-22] INFO  Elements_Testcases.Aa_ListTC - Logged in and searched for a file, then clicked Edit.
+22:24:08.255 [TestNG-test=RetryMultipleFailedTestcases-20] INFO  Elements_Testcases.Aa_ListTC - Logged in, searched for a file, and clicked Edit.
+22:24:08.257 [TestNG-test=RetryMultipleFailedTestcases-21] INFO  Elements_Testcases.Aa_ListTC - Logged in and searched for a file, then clicked Edit.
+22:24:08.276 [TestNG-test=RetryMultipleFailedTestcases-23] INFO  Elements_Testcases.Aa_ListTC - Starting verify_List_Properties_VE
+22:24:08.281 [TestNG-test=RetryMultipleFailedTestcases-23] INFO  Elements_Testcases.Aa_ListTC - Logged in, searched for a file, and clicked Edit.
+22:24:08.342 [TestNG-test=RetryMultipleFailedTestcases-33] INFO  Elements_Testcases.Aa_ListTC - Starting PressEnterAtEnd_ToExistingList_CheckCount
+22:24:08.343 [TestNG-test=RetryMultipleFailedTestcases-33] INFO  Elements_Testcases.Aa_ListTC - Logged in, searched for a file, and clicked Edit.
+22:24:08.347 [TestNG-test=RetryMultipleFailedTestcases-35] INFO  Elements_Testcases.Aa_ListTC - Starting AddList_To_ExistingList_CheckCount
+22:24:08.348 [TestNG-test=RetryMultipleFailedTestcases-34] INFO  Elements_Testcases.Aa_ListTC - Starting AddList_To_ExistingList_CheckCount
+22:24:08.348 [TestNG-test=RetryMultipleFailedTestcases-35] INFO  Elements_Testcases.Aa_ListTC - Logged in, searched for a file, and clicked Edit.
+22:24:08.349 [TestNG-test=RetryMultipleFailedTestcases-36] INFO  Elements_Testcases.Aa_ListTC - Starting verify_List_Properties_VE
+22:24:08.348 [TestNG-test=RetryMultipleFailedTestcases-34] INFO  Elements_Testcases.Aa_ListTC - Logged in, searched for a file, and clicked Edit.
+22:24:08.353 [TestNG-test=RetryMultipleFailedTestcases-37] INFO  Elements_Testcases.Aa_ListTC - Starting verifyChangeImgToList
+22:24:08.354 [TestNG-test=RetryMultipleFailedTestcases-36] INFO  Elements_Testcases.Aa_ListTC - Logged in, searched for a file, and clicked Edit.
+22:24:08.355 [TestNG-test=RetryMultipleFailedTestcases-37] INFO  Elements_Testcases.Aa_ListTC - Logged in and searched for a file, then clicked Edit.
+22:24:08.369 [TestNG-test=RetryMultipleFailedTestcases-38] INFO  Elements_Testcases.Ab_ParaTC - Starting verifyChangeSectionHeadingToPara
+22:24:08.368 [TestNG-test=RetryMultipleFailedTestcases-40] INFO  Elements_Testcases.Ab_ParaTC - Starting verifyChangeSectionHeadingToPara
+22:24:08.369 [TestNG-test=RetryMultipleFailedTestcases-38] INFO  Elements_Testcases.Ab_ParaTC - Logged in, searched for a file, and clicked Edit.
+22:24:08.370 [TestNG-test=RetryMultipleFailedTestcases-40] INFO  Elements_Testcases.Ab_ParaTC - Logged in, searched for a file, and clicked Edit.
+22:24:08.372 [TestNG-test=RetryMultipleFailedTestcases-39] INFO  Elements_Testcases.Ab_ParaTC - ****    Starting --> paraTC    ****
+22:24:08.373 [TestNG-test=RetryMultipleFailedTestcases-41] INFO  Elements_Testcases.Ab_ParaTC - Starting verifyChangeSectionHeadingToPara
+22:24:08.381 [TestNG-test=RetryMultipleFailedTestcases-41] INFO  Elements_Testcases.Ab_ParaTC - Logged in, searched for a file, and clicked Edit.
+22:24:08.387 [TestNG-test=RetryMultipleFailedTestcases-42] INFO  Elements_Testcases.Ab_ParaTC - Starting verifyChangeSectionHeadingToPara
+22:24:08.388 [TestNG-test=RetryMultipleFailedTestcases-42] INFO  Elements_Testcases.Ab_ParaTC - Logged in, searched for a file, and clicked Edit.
+22:24:08.390 [TestNG-test=RetryMultipleFailedTestcases-44] INFO  Elements_Testcases.Ab_ParaTC - Starting verifyChangeSectionHeadingToPara
+22:24:08.392 [TestNG-test=RetryMultipleFailedTestcases-44] INFO  Elements_Testcases.Ab_ParaTC - Logged in, searched for a file, and clicked Edit.
+22:24:08.399 [TestNG-test=RetryMultipleFailedTestcases-45] INFO  Elements_Testcases.Ab_ParaTC - Starting verifyChangeSectionHeadingToPara
+22:24:08.403 [TestNG-test=RetryMultipleFailedTestcases-46] INFO  Elements_Testcases.Ab_ParaTC - Starting verifyChangeSectionHeadingToPara
+22:24:08.404 [TestNG-test=RetryMultipleFailedTestcases-46] INFO  Elements_Testcases.Ab_ParaTC - Logged in, searched for a file, and clicked Edit.
+22:24:08.412 [TestNG-test=RetryMultipleFailedTestcases-47] INFO  Elements_Testcases.Ab_ParaTC - ****    Starting --> paraTC    ****
+22:24:08.418 [TestNG-test=RetryMultipleFailedTestcases-43] INFO  Elements_Testcases.Ab_ParaTC - Starting verifyChangeSectionHeadingToPara
+22:24:08.419 [TestNG-test=RetryMultipleFailedTestcases-43] INFO  Elements_Testcases.Ab_ParaTC - Logged in, searched for a file, and clicked Edit.
+22:24:08.429 [TestNG-test=RetryMultipleFailedTestcases-45] INFO  Elements_Testcases.Ab_ParaTC - Logged in, searched for a file, and clicked Edit.
+22:24:08.454 [TestNG-test=RetryMultipleFailedTestcases-49] INFO  Elements_Testcases.Ab_ParaTC - ****    Starting --> paraTC    ****
+22:24:08.459 [TestNG-test=RetryMultipleFailedTestcases-52] INFO  Elements_Testcases.Ab_ParaTC - ****    Starting --> paraTC    ****
+22:24:08.488 [TestNG-test=RetryMultipleFailedTestcases-56] INFO  Elements_Testcases.Ab_ParaTC - ****    Starting --> paraTC    ****
+22:24:08.492 [TestNG-test=RetryMultipleFailedTestcases-58] INFO  Elements_Testcases.Ab_ParaTC - ****    Starting --> paraTC    ****
+22:24:08.496 [TestNG-test=RetryMultipleFailedTestcases-57] INFO  Elements_Testcases.Ab_ParaTC - ****    Starting --> paraTC    ****
+22:24:08.497 [TestNG-test=RetryMultipleFailedTestcases-59] INFO  Elements_Testcases.Ab_ParaTC - Starting verifyChangeSectionHeadingToPara
+22:24:08.498 [TestNG-test=RetryMultipleFailedTestcases-59] INFO  Elements_Testcases.Ab_ParaTC - Logged in, searched for a file, and clicked Edit.
+22:24:08.505 [TestNG-test=RetryMultipleFailedTestcases-60] INFO  Elements_Testcases.Ab_ParaTC - Starting verifyPlaceCursorAtEndOFParaAndCheckInsertAfterPopup
+22:24:08.508 [TestNG-test=RetryMultipleFailedTestcases-61] INFO  Elements_Testcases.Ab_ParaTC - ****    Starting --> paraTC    ****
+22:24:08.507 [TestNG-test=RetryMultipleFailedTestcases-62] INFO  Elements_Testcases.Ab_ParaTC - Starting verifyPlaceCursorAtEndOFParaAndCheckInsertBeforePopup
+22:24:08.513 [TestNG-test=RetryMultipleFailedTestcases-63] INFO  Elements_Testcases.Ab_ParaTC - Starting verifyPlaceCursorAtEndOFParaAndCheckInsertIntoPopup
+22:24:08.519 [TestNG-test=RetryMultipleFailedTestcases-65] INFO  Elements_Testcases.Ab_ParaTC - Starting verifyPlaceCursorAtStartingOFParaAndCheckInsertAfterPopup
+22:24:08.521 [TestNG-test=RetryMultipleFailedTestcases-66] INFO  Elements_Testcases.Ab_ParaTC - Starting verifyPlaceCursorAtMiddleOFParaAndCheckInsertBeforePopup
+22:24:08.525 [TestNG-test=RetryMultipleFailedTestcases-64] INFO  Elements_Testcases.Ab_ParaTC - Starting verifyPlaceCursorAtStartingOFParaAndCheckInsertAfterPopup
+22:24:08.530 [TestNG-test=RetryMultipleFailedTestcases-67] INFO  Elements_Testcases.Ab_ParaTC - Starting verifyPlaceCursorAtMiddleOFParaAndCheckInsertIntoPopup
+22:24:08.531 [TestNG-test=RetryMultipleFailedTestcases-68] INFO  Elements_Testcases.Ab_ParaTC - Starting verifyPlaceCursorAtStartingOFParaAndCheckInsertBeforePopup
+22:24:08.534 [TestNG-test=RetryMultipleFailedTestcases-70] INFO  Elements_Testcases.Ab_ParaTC - Starting verifyPlaceCursorAtStartingOFParaAndCheckInsertBeforePopup
+22:24:08.548 [TestNG-test=RetryMultipleFailedTestcases-72] INFO  Elements_Testcases.Ab_ParaTC - Starting verifyChangeElementParaToSection
+22:24:08.549 [TestNG-test=RetryMultipleFailedTestcases-72] INFO  Elements_Testcases.Ab_ParaTC - Logged in, searched for a file, and clicked Edit.
+22:24:08.553 [TestNG-test=RetryMultipleFailedTestcases-73] INFO  sprint6_TestCases.B_AcceptRejectTrackChangesTC - Starting TC047_verifyAcceptRejectInTC
+22:24:08.554 [TestNG-test=RetryMultipleFailedTestcases-73] INFO  sprint6_TestCases.B_AcceptRejectTrackChangesTC - Logged in and searched for a file, then clicked Edit.
+22:24:08.555 [TestNG-test=RetryMultipleFailedTestcases-74] INFO  sprint6_TestCases.B_AcceptRejectTrackChangesTC - Starting TC049_verifyAddContentAcceptChangeTB
+22:24:08.557 [TestNG-test=RetryMultipleFailedTestcases-74] INFO  sprint6_TestCases.B_AcceptRejectTrackChangesTC - Logged in and searched for a file, then clicked Edit.
+22:24:08.559 [TestNG-test=RetryMultipleFailedTestcases-75] INFO  sprint6_TestCases.B_AcceptRejectTrackChangesTC - Starting TC051_verifyRemoveContentAcceptChangeTB
+22:24:08.560 [TestNG-test=RetryMultipleFailedTestcases-75] INFO  sprint6_TestCases.B_AcceptRejectTrackChangesTC - Logged in and searched for a file, then clicked Edit.
+22:24:08.567 [TestNG-test=RetryMultipleFailedTestcases-76] INFO  sprint6_TestCases.B_AcceptRejectTrackChangesTC - Starting TC057_verifyAddMOAcceptChangeInTb
+22:24:08.568 [TestNG-test=RetryMultipleFailedTestcases-76] INFO  sprint6_TestCases.B_AcceptRejectTrackChangesTC - Logged in and searched for a file, then clicked Edit.
+22:24:08.568 [TestNG-test=RetryMultipleFailedTestcases-78] INFO  Elements_Testcases.Ac_LinksTC - Starting verifyXrefAddedTextTooltip ..
+22:24:08.569 [TestNG-test=RetryMultipleFailedTestcases-78] INFO  Elements_Testcases.Ac_LinksTC - Logged in, searched for a file, and clicked Edit.
+22:24:08.572 [TestNG-test=RetryMultipleFailedTestcases-77] INFO  Elements_Testcases.Ac_LinksTC - Starting verify_CrossReference_EditLink_DS ..
+22:24:08.577 [TestNG-test=RetryMultipleFailedTestcases-79] INFO  Elements_Testcases.Ac_LinksTC - Starting verify_CrossReference_EditLink_VE ..
+22:24:08.579 [TestNG-test=RetryMultipleFailedTestcases-80] INFO  Elements_Testcases.Ac_LinksTC - Starting verify_InsertCrossReferenceInPara ..
+22:24:08.586 [TestNG-test=RetryMultipleFailedTestcases-81] INFO  Elements_Testcases.Ac_LinksTC - Starting verifyXrefAddedTextTooltip ..
+22:24:08.587 [TestNG-test=RetryMultipleFailedTestcases-81] INFO  Elements_Testcases.Ac_LinksTC - Logged in, searched for a file, and clicked Edit.
+22:24:08.589 [TestNG-test=RetryMultipleFailedTestcases-82] INFO  Elements_Testcases.Ac_LinksTC - Starting verifyXrefAddedTextTooltip ..
+22:24:08.589 [TestNG-test=RetryMultipleFailedTestcases-82] INFO  Elements_Testcases.Ac_LinksTC - Logged in, searched for a file, and clicked Edit.
+22:24:08.595 [TestNG-test=RetryMultipleFailedTestcases-84] INFO  sprint7_TestCases.PrintPreviewTC - Starting verify_PrintPriview_GeneratingPDFButton test...
+22:24:08.591 [TestNG-test=RetryMultipleFailedTestcases-83] INFO  Elements_Testcases.Ac_LinksTC - Starting test TC772_verifyXrefLinkCustomReference.
+22:24:08.596 [TestNG-test=RetryMultipleFailedTestcases-84] INFO  sprint7_TestCases.PrintPreviewTC - Logged in and performed search and edit actions.
+22:24:08.596 [TestNG-test=RetryMultipleFailedTestcases-83] INFO  Elements_Testcases.Ac_LinksTC - Logged in and clicked on Edit.
+22:24:08.597 [TestNG-test=RetryMultipleFailedTestcases-85] INFO  Elements_Testcases.Ad_BottomToolbarTC - Starting verify_BlockView_Enabled test...
+22:24:08.598 [TestNG-test=RetryMultipleFailedTestcases-85] INFO  Elements_Testcases.Ad_BottomToolbarTC - ReusableMethods.LoginAndSearchFile_ClickEdit()
+22:24:08.598 [TestNG-test=RetryMultipleFailedTestcases-85] INFO  Elements_Testcases.Ad_BottomToolbarTC - Creating A_Verify_BottomRibbon instance
+22:24:08.611 [TestNG-test=RetryMultipleFailedTestcases-86] INFO  Elements_Testcases.Ad_BottomToolbarTC - Starting verify_BlockView_Enabled test...
+22:24:08.611 [TestNG-test=RetryMultipleFailedTestcases-86] INFO  Elements_Testcases.Ad_BottomToolbarTC - ReusableMethods.LoginAndSearchFile_ClickEdit()
+22:24:08.612 [TestNG-test=RetryMultipleFailedTestcases-88] INFO  sprint6_TestCases.E_ShowHideTrackChangesTC - Starting TC102_verifyShowHideEnabled
+22:24:08.613 [TestNG-test=RetryMultipleFailedTestcases-89] INFO  sprint6_TestCases.E_ShowHideTrackChangesTC - Starting TC120_verifyShowHideEnableDisableCards
+22:24:08.614 [TestNG-test=RetryMultipleFailedTestcases-86] INFO  Elements_Testcases.Ad_BottomToolbarTC - Creating A_Verify_BottomRibbon instance
+22:24:08.614 [TestNG-test=RetryMultipleFailedTestcases-89] INFO  sprint6_TestCases.E_ShowHideTrackChangesTC - Logged in and searched for a file, then clicked Edit.
+22:24:08.615 [TestNG-test=RetryMultipleFailedTestcases-88] INFO  sprint6_TestCases.E_ShowHideTrackChangesTC - Logged in and searched for a file, then clicked Edit.
+22:24:08.639 [TestNG-test=RetryMultipleFailedTestcases-96] INFO  Elements_Testcases.Ah_RevisionTC - Starting verifyInsertRevisionToList
+22:24:08.642 [TestNG-test=RetryMultipleFailedTestcases-96] INFO  Elements_Testcases.Ah_RevisionTC - Logged in and searched for a file, then clicked Edit.
+22:24:08.643 [TestNG-test=RetryMultipleFailedTestcases-98] INFO  Elements_Testcases.Ah_RevisionTC - Starting verifyInsertRevisionToList
+22:24:08.644 [TestNG-test=RetryMultipleFailedTestcases-97] INFO  Elements_Testcases.Ah_RevisionTC - Starting TC357_verifyRevisionChangeInTable ..
+22:24:08.644 [TestNG-test=RetryMultipleFailedTestcases-98] INFO  Elements_Testcases.Ah_RevisionTC - Logged in and searched for a file, then clicked Edit.
+22:24:08.644 [TestNG-test=RetryMultipleFailedTestcases-97] INFO  Elements_Testcases.Ah_RevisionTC - Logged in, searched for a file, and clicked Edit.
+22:24:08.655 [TestNG-test=RetryMultipleFailedTestcases-99] INFO  Elements_Testcases.Ah_RevisionTC - Starting verifyInsertRevisionToList
+22:24:08.656 [TestNG-test=RetryMultipleFailedTestcases-100] INFO  Elements_Testcases.Ah_RevisionTC - Starting TC357_verifyRevisionChangeInTable ..
+22:24:08.656 [TestNG-test=RetryMultipleFailedTestcases-99] INFO  Elements_Testcases.Ah_RevisionTC - Logged in and searched for a file, then clicked Edit.
+22:24:08.657 [TestNG-test=RetryMultipleFailedTestcases-102] INFO  Elements_Testcases.Ah_RevisionTC - Starting TC346_verifyRevisionInserted ..
+22:24:08.656 [TestNG-test=RetryMultipleFailedTestcases-101] INFO  Elements_Testcases.Ah_RevisionTC - Starting verifyInsertRevisionToList
+22:24:08.657 [TestNG-test=RetryMultipleFailedTestcases-102] INFO  Elements_Testcases.Ah_RevisionTC - Logged in, searched for a file, and clicked Edit.
+22:24:08.658 [TestNG-test=RetryMultipleFailedTestcases-101] INFO  Elements_Testcases.Ah_RevisionTC - Logged in and searched for a file, then clicked Edit.
+22:24:08.659 [TestNG-test=RetryMultipleFailedTestcases-100] INFO  Elements_Testcases.Ah_RevisionTC - Logged in, searched for a file, and clicked Edit.
+22:24:08.664 [TestNG-test=RetryMultipleFailedTestcases-103] INFO  Elements_Testcases.Ah_RevisionTC - Starting verify_InsertCrossReferenceInPara ..
+22:24:08.674 [TestNG-test=RetryMultipleFailedTestcases-105] INFO  Elements_Testcases.Aj_SymbolsTC - Starting verifySymbolInsertedInDestination
+22:24:08.675 [TestNG-test=RetryMultipleFailedTestcases-105] INFO  Elements_Testcases.Aj_SymbolsTC - Logged in, searched for a file, and clicked Edit.
+22:24:08.677 [TestNG-test=RetryMultipleFailedTestcases-106] INFO  Elements_Testcases.Aj_SymbolsTC - Starting verifySymbolInsertedInDestination
+22:24:08.677 [TestNG-test=RetryMultipleFailedTestcases-104] INFO  sprint6_TestCases.HA_ChangeElementBlockTC - Starting TC293_verifyChangeParaToTableCheckTC ..
+22:24:08.678 [TestNG-test=RetryMultipleFailedTestcases-106] INFO  Elements_Testcases.Aj_SymbolsTC - Logged in, searched for a file, and clicked Edit.
+22:24:08.678 [TestNG-test=RetryMultipleFailedTestcases-107] INFO  Elements_Testcases.Aj_SymbolsTC - Starting verifySymbolInsertedInDestination
+22:24:08.678 [TestNG-test=RetryMultipleFailedTestcases-104] INFO  sprint6_TestCases.HA_ChangeElementBlockTC - Logged in, searched for a file, and clicked Edit.
+22:24:08.679 [TestNG-test=RetryMultipleFailedTestcases-107] INFO  Elements_Testcases.Aj_SymbolsTC - Logged in, searched for a file, and clicked Edit.
+22:24:08.686 [TestNG-test=RetryMultipleFailedTestcases-108] INFO  Elements_Testcases.Aj_SymbolsTC - Starting verifySymbolInsertedInDestination
+22:24:08.686 [TestNG-test=RetryMultipleFailedTestcases-108] INFO  Elements_Testcases.Aj_SymbolsTC - Logged in, searched for a file, and clicked Edit.
+22:24:08.686 [TestNG-test=RetryMultipleFailedTestcases-109] INFO  Elements_Testcases.Aj_SymbolsTC - Starting TC264_verifySymbolInserted
+22:24:08.687 [TestNG-test=RetryMultipleFailedTestcases-110] INFO  Elements_Testcases.Aj_SymbolsTC - Starting verifySymbolInsertedInDestination
+22:24:08.687 [TestNG-test=RetryMultipleFailedTestcases-109] INFO  Elements_Testcases.Aj_SymbolsTC - Logged in, searched for a file, and clicked Edit.
+22:24:08.687 [TestNG-test=RetryMultipleFailedTestcases-110] INFO  Elements_Testcases.Aj_SymbolsTC - Logged in, searched for a file, and clicked Edit.
+22:24:08.693 [TestNG-test=RetryMultipleFailedTestcases-111] INFO  Elements_Testcases.Am_SearchContentTC - Starting Verify_SearchContent_UsingUpArrow test...
+22:24:08.693 [TestNG-test=RetryMultipleFailedTestcases-111] INFO  Elements_Testcases.Am_SearchContentTC - ReusableMethods.LoginAndSearchFile_ClickEdit()
+22:24:08.693 [TestNG-test=RetryMultipleFailedTestcases-112] INFO  Elements_Testcases.Am_SearchContentTC - Starting Verify_SearchContent_UsingUpArrow test...
+22:24:08.693 [TestNG-test=RetryMultipleFailedTestcases-112] INFO  Elements_Testcases.Am_SearchContentTC - ReusableMethods.LoginAndSearchFile_ClickEdit()
+22:24:08.693 [TestNG-test=RetryMultipleFailedTestcases-111] INFO  Elements_Testcases.Am_SearchContentTC - Creating VerifyContentBlock_SearchOptions instance
+22:24:08.693 [TestNG-test=RetryMultipleFailedTestcases-113] INFO  Elements_Testcases.Am_SearchContentTC - Starting Verify_SearchContent_UsingUpArrow test...
+22:24:08.694 [TestNG-test=RetryMultipleFailedTestcases-113] INFO  Elements_Testcases.Am_SearchContentTC - ReusableMethods.LoginAndSearchFile_ClickEdit()
+22:24:08.694 [TestNG-test=RetryMultipleFailedTestcases-112] INFO  Elements_Testcases.Am_SearchContentTC - Creating VerifyContentBlock_SearchOptions instance
+22:24:08.694 [TestNG-test=RetryMultipleFailedTestcases-113] INFO  Elements_Testcases.Am_SearchContentTC - Creating VerifyContentBlock_SearchOptions instance
+22:24:08.695 [TestNG-test=RetryMultipleFailedTestcases-114] INFO  Elements_Testcases.Am_SearchContentTC - Starting verify_SearchContent_Highlighted test...
+22:24:08.696 [TestNG-test=RetryMultipleFailedTestcases-114] INFO  Elements_Testcases.Am_SearchContentTC - ReusableMethods.LoginAndSearchFile_ClickEdit()
+22:24:08.696 [TestNG-test=RetryMultipleFailedTestcases-114] INFO  Elements_Testcases.Am_SearchContentTC - Creating VerifyContentBlock_SearchOptions instance
+22:24:08.703 [TestNG-test=RetryMultipleFailedTestcases-115] INFO  Elements_Testcases.Am_SearchContentTC - Starting verify_Searchcontent_100Count test...
+22:24:08.703 [TestNG-test=RetryMultipleFailedTestcases-115] INFO  Elements_Testcases.Am_SearchContentTC - ReusableMethods.LoginAndSearchFile_ClickEdit()
+22:24:08.704 [TestNG-test=RetryMultipleFailedTestcases-115] INFO  Elements_Testcases.Am_SearchContentTC - Creating VerifyContentBlock_SearchOptions instance
+22:24:08.759 [TestNG-test=RetryMultipleFailedTestcases-143] INFO  Elements_Testcases.Ba_SectionTC - Logged in and searched for the file, then clicked on edit.
+22:24:08.760 [TestNG-test=RetryMultipleFailedTestcases-145] INFO  Elements_Testcases.Ba_SectionTC - Logged in and searched for the file, then clicked on edit.
+22:24:08.784 [TestNG-test=RetryMultipleFailedTestcases-155] INFO  Elements_Testcases.Ba_SectionTC - Starting verifyCheckInButtonIsClickable
+22:24:08.784 [TestNG-test=RetryMultipleFailedTestcases-155] INFO  Elements_Testcases.Ba_SectionTC - Logged in and searched for a file, then clicked Edit.
+22:24:08.786 [TestNG-test=RetryMultipleFailedTestcases-153] INFO  Elements_Testcases.Ba_SectionTC - Starting verifyCheckInButtonIsClickable
+22:24:08.786 [TestNG-test=RetryMultipleFailedTestcases-153] INFO  Elements_Testcases.Ba_SectionTC - Logged in and searched for a file, then clicked Edit.
+22:24:08.880 [TestNG-test=RetryMultipleFailedTestcases-187] INFO  Elements_Testcases.Bb_ImagesTC - Logged in and searched for the file, then clicked Edit.
+22:24:08.889 [TestNG-test=RetryMultipleFailedTestcases-193] INFO  sprint6_TestCases.HH_SectionSymbolTC - Starting the test TC266_verify_Insert_Symbols_CheckTC
+22:24:08.891 [TestNG-test=RetryMultipleFailedTestcases-190] INFO  Elements_Testcases.Bb_ImagesTC - Logged in and searched for the file, then clicked Edit.
+22:24:08.891 [TestNG-test=RetryMultipleFailedTestcases-193] INFO  sprint6_TestCases.HH_SectionSymbolTC - Logged in and searched for the file, then clicked on edit.
+22:24:08.896 [TestNG-test=RetryMultipleFailedTestcases-192] INFO  Elements_Testcases.Bc_FootnoteTC - Logged in and searched for a file, then clicked Edit.
+22:24:08.898 [TestNG-test=RetryMultipleFailedTestcases-195] INFO  Elements_Testcases.Bc_FootnoteTC - Logged in and searched for a file, then clicked Edit.
+22:24:08.903 [TestNG-test=RetryMultipleFailedTestcases-194] INFO  Elements_Testcases.Bc_FootnoteTC - Logged in and searched for a file, then clicked Edit.
+22:24:08.906 [TestNG-test=RetryMultipleFailedTestcases-196] INFO  Elements_Testcases.Bc_FootnoteTC - Logged in and searched for a file, then clicked Edit.
+22:24:08.909 [TestNG-test=RetryMultipleFailedTestcases-198] INFO  Elements_Testcases.Bc_FootnoteTC - Logged in and searched for a file, then clicked Edit.
+22:24:08.910 [TestNG-test=RetryMultipleFailedTestcases-197] INFO  Elements_Testcases.Bc_FootnoteTC - Logged in and searched for a file, then clicked Edit.
+22:24:08.910 [TestNG-test=RetryMultipleFailedTestcases-199] INFO  sprint5_TestCases.Ap_FootNoteTC - Starting TC304_verifyFootnoteInsert
+22:24:08.912 [TestNG-test=RetryMultipleFailedTestcases-199] INFO  sprint5_TestCases.Ap_FootNoteTC - Logged in and searched for a file, then clicked Edit.
+22:24:08.914 [TestNG-test=RetryMultipleFailedTestcases-200] INFO  Elements_Testcases.Bd_TrackChanges - Logged in, searched for a file, and clicked Edit.
+22:24:08.915 [TestNG-test=RetryMultipleFailedTestcases-202] INFO  Elements_Testcases.Bd_TrackChanges - Logged in, searched for a file, and clicked Edit.
+22:24:08.923 [TestNG-test=RetryMultipleFailedTestcases-206] INFO  Elements_Testcases.Bd_TrackChanges - Starting the test verify_CrossReference_UsingSearchBox
+22:24:08.923 [TestNG-test=RetryMultipleFailedTestcases-204] INFO  Elements_Testcases.Bd_TrackChanges - Logged in and searched for the file, then clicked on edit.
+22:24:08.923 [TestNG-test=RetryMultipleFailedTestcases-207] INFO  Elements_Testcases.Be_SaveandResetTC - Starting verify_ResetFile
+22:24:08.924 [TestNG-test=RetryMultipleFailedTestcases-206] INFO  Elements_Testcases.Bd_TrackChanges - Logged in and searched for the file, then clicked on edit.
+22:24:08.924 [TestNG-test=RetryMultipleFailedTestcases-207] INFO  Elements_Testcases.Be_SaveandResetTC - Logged in and searched for a file, then clicked Edit.
+22:24:08.927 [TestNG-test=RetryMultipleFailedTestcases-209] INFO  Elements_Testcases.Be_SaveandResetTC - Starting TC_021_verify_SaveFunctionality
+22:24:08.928 [TestNG-test=RetryMultipleFailedTestcases-209] INFO  Elements_Testcases.Be_SaveandResetTC - Logged in and searched for a file, then clicked Edit.
+22:24:08.928 [TestNG-test=RetryMultipleFailedTestcases-208] INFO  Elements_Testcases.Be_SaveandResetTC - Starting verify_LastSaveTime_AfterResetFile
+22:24:08.929 [TestNG-test=RetryMultipleFailedTestcases-208] INFO  Elements_Testcases.Be_SaveandResetTC - Logged in and searched for a file, then clicked Edit.
+22:24:08.933 [TestNG-test=RetryMultipleFailedTestcases-210] INFO  Elements_Testcases.Bf_SpellCheckerTC - Starting test verifyAddWordToDictonaries.
+22:24:08.933 [TestNG-test=RetryMultipleFailedTestcases-213] INFO  Elements_Testcases.Bf_SpellCheckerTC - Starting test verifyMisspelledRightClickIgnoreAlloptions.
+22:24:08.934 [TestNG-test=RetryMultipleFailedTestcases-211] INFO  Elements_Testcases.Bf_SpellCheckerTC - Starting test verifyByorrectingMisspelledWordCheckRedLine.
+22:24:08.934 [TestNG-test=RetryMultipleFailedTestcases-210] INFO  Elements_Testcases.Bf_SpellCheckerTC - Logged in and clicked on Edit.
+22:24:08.934 [TestNG-test=RetryMultipleFailedTestcases-212] INFO  Elements_Testcases.Bf_SpellCheckerTC - Starting test verifyMissSpelledWordCorrection.
+22:24:08.934 [TestNG-test=RetryMultipleFailedTestcases-213] INFO  Elements_Testcases.Bf_SpellCheckerTC - Logged in and clicked on Edit.
+22:24:08.934 [TestNG-test=RetryMultipleFailedTestcases-211] INFO  Elements_Testcases.Bf_SpellCheckerTC - Logged in and clicked on Edit.
+22:24:08.935 [TestNG-test=RetryMultipleFailedTestcases-212] INFO  Elements_Testcases.Bf_SpellCheckerTC - Logged in and clicked on Edit.
+22:24:08.942 [TestNG-test=RetryMultipleFailedTestcases-214] INFO  Elements_Testcases.Bf_SpellCheckerTC - Starting test verifyMisspelledWordInVE.
+22:24:08.942 [TestNG-test=RetryMultipleFailedTestcases-216] INFO  Elements_Testcases.Bf_SpellCheckerTC - Starting test verifySpellCheckClickable.
+22:24:08.943 [TestNG-test=RetryMultipleFailedTestcases-214] INFO  Elements_Testcases.Bf_SpellCheckerTC - Logged in and clicked on Edit.
+22:24:08.943 [TestNG-test=RetryMultipleFailedTestcases-216] INFO  Elements_Testcases.Bf_SpellCheckerTC - Logged in and clicked on Edit.
+22:24:08.958 [TestNG-test=RetryMultipleFailedTestcases-222] INFO  Elements_Testcases.Bg_SchemaValidation - Starting verify_ValidateFile
+22:24:08.959 [TestNG-test=RetryMultipleFailedTestcases-222] INFO  Elements_Testcases.Bg_SchemaValidation - Logged in and searched for a file, then clicked Edit.
+22:24:08.960 [TestNG-test=RetryMultipleFailedTestcases-224] INFO  Elements_Testcases.Bg_SchemaValidation - Starting verifyCodeViewTab
+22:24:08.963 [TestNG-test=RetryMultipleFailedTestcases-225] INFO  Elements_Testcases.B_TableTC - Starting verify_Insert_Table
+22:24:08.963 [TestNG-test=RetryMultipleFailedTestcases-224] INFO  Elements_Testcases.Bg_SchemaValidation - Logged in and searched for a file, then clicked Edit.
+22:24:08.963 [TestNG-test=RetryMultipleFailedTestcases-223] INFO  Elements_Testcases.B_TableTC - Starting DeleteTableandVerify_ExistingTable
+22:24:08.964 [TestNG-test=RetryMultipleFailedTestcases-225] INFO  Elements_Testcases.B_TableTC - Logged in, searched for a file, and clicked Edit.
+22:24:08.964 [TestNG-test=RetryMultipleFailedTestcases-223] INFO  Elements_Testcases.B_TableTC - Logged in, searched for a file, and clicked Edit.
+22:24:08.967 [TestNG-test=RetryMultipleFailedTestcases-226] INFO  Elements_Testcases.B_TableTC - Starting changeParaToTableAndVerify
+22:24:08.967 [TestNG-test=RetryMultipleFailedTestcases-226] INFO  Elements_Testcases.B_TableTC - Logged in, searched for a file, and clicked Edit.
+22:24:08.971 [TestNG-test=RetryMultipleFailedTestcases-227] INFO  Elements_Testcases.B_TableTC - Starting verifyInsertRowAboveAndVerify ..
+22:24:08.972 [TestNG-test=RetryMultipleFailedTestcases-227] INFO  Elements_Testcases.B_TableTC - Logged in, searched for a file, and clicked Edit.
+22:24:08.973 [TestNG-test=RetryMultipleFailedTestcases-228] INFO  Elements_Testcases.B_TableTC - Starting insertRowBelowAndVerify ..
+22:24:08.974 [TestNG-test=RetryMultipleFailedTestcases-228] INFO  Elements_Testcases.B_TableTC - Logged in, searched for a file, and clicked Edit.
+22:24:08.976 [TestNG-test=RetryMultipleFailedTestcases-230] INFO  Elements_Testcases.B_TableTC - Starting verifyInsertColumnLeft
+22:24:08.976 [TestNG-test=RetryMultipleFailedTestcases-229] INFO  Elements_Testcases.B_TableTC - Starting verifyInsertColumnRight
+22:24:08.976 [TestNG-test=RetryMultipleFailedTestcases-230] INFO  Elements_Testcases.B_TableTC - Logged in, searched for a file, and clicked Edit.
+22:24:08.976 [TestNG-test=RetryMultipleFailedTestcases-229] INFO  Elements_Testcases.B_TableTC - Logged in, searched for a file, and clicked Edit.
+22:24:08.981 [TestNG-test=RetryMultipleFailedTestcases-233] INFO  Elements_Testcases.B_TableTC - Starting verifyDeleteExistingtTableBackspaceKey
+22:24:08.982 [TestNG-test=RetryMultipleFailedTestcases-233] INFO  Elements_Testcases.B_TableTC - Logged in, searched for a file, and clicked Edit.
+22:24:08.982 [TestNG-test=RetryMultipleFailedTestcases-231] INFO  Elements_Testcases.B_TableTC - Starting verifyChangeSectionHeadingTableAndVerify
+22:24:08.982 [TestNG-test=RetryMultipleFailedTestcases-232] INFO  Elements_Testcases.B_TableTC - Logged in and searched for a file, then clicked Edit.
+22:24:08.982 [TestNG-test=RetryMultipleFailedTestcases-231] INFO  Elements_Testcases.B_TableTC - Logged in, searched for a file, and clicked Edit.
+22:24:08.985 [TestNG-test=RetryMultipleFailedTestcases-234] INFO  Elements_Testcases.B_TableTC - Starting verifyDeleteNewTableAndCheckTC
+22:24:08.986 [TestNG-test=RetryMultipleFailedTestcases-234] INFO  Elements_Testcases.B_TableTC - Logged in, searched for a file, and clicked Edit.
+22:24:08.999 [TestNG-test=RetryMultipleFailedTestcases-235] INFO  Elements_Testcases.B_TableTC - Logged in and searched for a file, then clicked Edit.
+22:24:08.999 [TestNG-test=RetryMultipleFailedTestcases-237] INFO  Elements_Testcases.B_TableTC - Starting DeleteRow_ExistingTable
+22:24:09.004 [TestNG-test=RetryMultipleFailedTestcases-237] INFO  Elements_Testcases.B_TableTC - Logged in, searched for a file, and clicked Edit.
+22:24:09.004 [TestNG-test=RetryMultipleFailedTestcases-238] INFO  Elements_Testcases.B_TableTC - Starting verifyInsertImgNewTableAndDeleteImg
+22:24:09.005 [TestNG-test=RetryMultipleFailedTestcases-238] INFO  Elements_Testcases.B_TableTC - Logged in, searched for a file, and clicked Edit.
+22:24:09.109 [TestNG-test=RetryMultipleFailedTestcases-257] INFO  Elements_Testcases.B_TableTC - Starting verifymergeColumnBellowNewTable
+22:24:09.117 [TestNG-test=RetryMultipleFailedTestcases-257] INFO  Elements_Testcases.B_TableTC - Logged in, searched for a file, and clicked Edit.
+22:24:09.120 [TestNG-test=RetryMultipleFailedTestcases-255] INFO  Elements_Testcases.B_TableTC - Starting verifymergeRowRightNewTable
+22:24:09.126 [TestNG-test=RetryMultipleFailedTestcases-258] INFO  Elements_Testcases.J_BasicTextStylingTC - Starting verifyEmphasisForSectionHeading ..
+22:24:09.136 [TestNG-test=RetryMultipleFailedTestcases-255] INFO  Elements_Testcases.B_TableTC - Logged in, searched for a file, and clicked Edit.
+22:24:09.150 [TestNG-test=RetryMultipleFailedTestcases-261] INFO  Elements_Testcases.J_BasicTextStylingTC - Starting verifySelectParaContentApplyEmphasis ..
+22:24:09.156 [TestNG-test=RetryMultipleFailedTestcases-259] INFO  Elements_Testcases.M_AlignmentTC - Starting verifyAlignmentForTableCell ..
+22:24:09.157 [TestNG-test=RetryMultipleFailedTestcases-259] INFO  Elements_Testcases.M_AlignmentTC - Logged in, searched for a file, and clicked Edit.
+22:24:09.160 [TestNG-test=RetryMultipleFailedTestcases-260] INFO  Elements_Testcases.J_BasicTextStylingTC - Starting verifyEmphasisStyleEnableFromToolbar ..
+22:24:09.165 [TestNG-test=RetryMultipleFailedTestcases-263] INFO  Elements_Testcases.N_AutoSequencenumberingTC - Starting Verify_NewSectionNumberIsNotDeleted ..
+22:24:09.166 [TestNG-test=RetryMultipleFailedTestcases-262] INFO  Elements_Testcases.N_AutoSequencenumberingTC - Starting verifyInsertNewSectioWithNumberCheckResequencing ..
+22:24:09.166 [TestNG-test=RetryMultipleFailedTestcases-264] INFO  Elements_Testcases.N_AutoSequencenumberingTC - Starting verifyinsertAfterSectionSubHeading ..
+22:24:09.169 [TestNG-test=RetryMultipleFailedTestcases-265] INFO  Elements_Testcases.O_CheckincheckoutfunctTC - Starting verifyCheckInButtonIsClickable
+22:24:09.170 [TestNG-test=RetryMultipleFailedTestcases-265] INFO  Elements_Testcases.O_CheckincheckoutfunctTC - Logged in and searched for a file, then clicked Edit.
+22:24:09.177 [TestNG-test=RetryMultipleFailedTestcases-266] INFO  Elements_Testcases.P_ViewTitleCMSTC - Starting verifyAssignFileDropDownSearchFiled
+22:24:09.179 [TestNG-test=RetryMultipleFailedTestcases-267] INFO  Elements_Testcases.P_ViewTitleCMSTC - Starting verifyFileAssignButton
+22:24:09.181 [TestNG-test=RetryMultipleFailedTestcases-268] INFO  Elements_Testcases.S_CopyPasteTC - Starting verifyCopyPasteExistingImgElement ..
+22:24:09.183 [TestNG-test=RetryMultipleFailedTestcases-268] INFO  Elements_Testcases.S_CopyPasteTC - Logged in and searched for a file, then clicked Edit.
+22:24:09.215 [TestNG-test=RetryMultipleFailedTestcases-278] INFO  Elements_Testcases.Y_CommentTC - Starting verifyAddCommentToDocumentCheckAnnotation ..
+22:24:09.220 [TestNG-test=RetryMultipleFailedTestcases-279] INFO  Elements_Testcases.Y_CommentTC - Starting verifyCommentDisplayDefaultOrder
+22:24:09.221 [TestNG-test=RetryMultipleFailedTestcases-279] INFO  Elements_Testcases.Y_CommentTC - Logged in, searched for a file, and clicked Edit.
+22:24:09.221 [TestNG-test=RetryMultipleFailedTestcases-277] INFO  Elements_Testcases.Y_CommentTC - Starting verifyAddCommentToDocument ..
+22:24:09.230 [TestNG-test=RetryMultipleFailedTestcases-281] INFO  Elements_Testcases.Y_CommentTC - Starting verifyDeleteCommentWithoutResponse ..
+22:24:09.230 [TestNG-test=RetryMultipleFailedTestcases-280] INFO  Elements_Testcases.Y_CommentTC - Starting verify_AddCommentEditReply ..
+22:24:09.231 [TestNG-test=RetryMultipleFailedTestcases-282] INFO  Elements_Testcases.Y_CommentTC - Starting verifyDeleteCommentWithExistingResponse ..
+22:24:09.231 [TestNG-test=RetryMultipleFailedTestcases-283] INFO  Elements_Testcases.Y_CommentTC - Starting verifyDeleteOwnComment ..
+22:24:09.239 [TestNG-test=RetryMultipleFailedTestcases-285] INFO  Elements_Testcases.Y_CommentTC - Starting verifyFilterByDefualtShowAsRecent
+22:24:09.239 [TestNG-test=RetryMultipleFailedTestcases-284] INFO  Elements_Testcases.Y_CommentTC - Starting verify_AddCommentToImg ..
+22:24:09.242 [TestNG-test=RetryMultipleFailedTestcases-285] INFO  Elements_Testcases.Y_CommentTC - Logged in, searched for a file, and clicked Edit.
+22:45:21.259 [main] INFO  Elements_Testcases.Bf_SpellCheckerTC - Starting test verifyMissSpelledWordCorrection.
+22:45:48.011 [main] INFO  Elements_Testcases.Bf_SpellCheckerTC - Logged in and clicked on Edit.
+22:45:48.015 [main] INFO  Elements_Testcases.Bf_SpellCheckerTC - Initialized the SpellChecker page object.
+22:45:48.284 [main] INFO  Elements_Testcases.Bf_SpellCheckerTC - Clicked on the Spell Check option.
+22:45:48.567 [main] INFO  Elements_Testcases.Bf_SpellCheckerTC - Enabled the Spell Checker.
+22:45:50.281 [main] INFO  Elements_Testcases.Bf_SpellCheckerTC - Checked if the Spell Checker is turned on.
+22:45:55.472 [main] INFO  Elements_Testcases.Bf_SpellCheckerTC - Clicked on the misspelled word.
+22:45:56.447 [main] INFO  Elements_Testcases.Bf_SpellCheckerTC - Entered 'ABCDEF' as text.
+22:45:57.426 [main] INFO  Elements_Testcases.Bf_SpellCheckerTC - Clicked on 'Accept Change'.
+22:47:56.399 [main] INFO  Elements_Testcases.Bf_SpellCheckerTC - Starting test verifyMisspelledRightClickIgnoreAlloptions.
+22:48:21.010 [main] INFO  Elements_Testcases.Bf_SpellCheckerTC - Logged in and clicked on Edit.
+22:48:21.015 [main] INFO  Elements_Testcases.Bf_SpellCheckerTC - Initialized the SpellChecker page object.
+22:48:21.245 [main] INFO  Elements_Testcases.Bf_SpellCheckerTC - Clicked on the Spell Check option.
+22:48:21.539 [main] INFO  Elements_Testcases.Bf_SpellCheckerTC - Enabled the Spell Checker.
+22:48:26.958 [main] INFO  Elements_Testcases.Bf_SpellCheckerTC - Checked if the Spell Checker is turned on.
+22:48:32.294 [main] INFO  Elements_Testcases.Bf_SpellCheckerTC - Clicked on the misspelled word.
+22:48:33.254 [main] INFO  Elements_Testcases.Bf_SpellCheckerTC - Entered 'ABCDEF' as text.
+22:48:34.126 [main] INFO  Elements_Testcases.Bf_SpellCheckerTC - Clicked on 'Accept Change'.
+22:53:08.309 [main] INFO  Elements_Testcases.Bf_SpellCheckerTC - Starting test verifyMisspelledRightClickIgnoreAlloptions.
+22:53:38.181 [main] INFO  Elements_Testcases.Bf_SpellCheckerTC - Logged in and clicked on Edit.
+22:53:38.187 [main] INFO  Elements_Testcases.Bf_SpellCheckerTC - Initialized the SpellChecker page object.
+22:53:38.505 [main] INFO  Elements_Testcases.Bf_SpellCheckerTC - Clicked on the Spell Check option.
+22:53:38.829 [main] INFO  Elements_Testcases.Bf_SpellCheckerTC - Enabled the Spell Checker.
+22:53:42.738 [main] INFO  Elements_Testcases.Bf_SpellCheckerTC - Checked if the Spell Checker is turned on.
+22:53:47.771 [main] INFO  Elements_Testcases.Bf_SpellCheckerTC - Clicked on the misspelled word.
+22:53:48.615 [main] INFO  Elements_Testcases.Bf_SpellCheckerTC - Entered 'ABCDEF' as text.
+22:53:49.899 [main] INFO  Elements_Testcases.Bf_SpellCheckerTC - Clicked on 'Accept Change'.
+22:53:51.678 [main] INFO  Elements_Testcases.Bf_SpellCheckerTC - Clicked on 'defeABCDEFnceMiss'.
+22:55:11.922 [main] INFO  Elements_Testcases.Bf_SpellCheckerTC - Determined the element1.
+22:57:19.587 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint4_TestCases.J_CommonTestcases - Starting verify_MediaObject_Insertinto_In_Para
+22:57:19.587 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Starting verify_MediaObject_Close
+22:57:21.262 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Starting verify_TitleBar
+22:57:21.714 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Starting verify_MediaObject_SearchValidImage
+22:57:51.524 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Logged in and searched for a file, then clicked Edit.
+22:57:51.582 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Switched to frame 0.
+22:57:52.291 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - clicked on First para from VE
+22:57:52.342 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Switched back to default content.
+22:57:52.756 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - clicked on Handberger button
+22:57:53.122 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - clicked on media object button
+22:57:54.115 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - clicked on media object close button
+22:57:59.669 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Logged in and searched for a file, then clicked Edit.
+22:57:59.723 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Switched to frame 0.
+22:58:00.556 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - clicked on First para from VE
+22:58:00.706 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Switched back to default content.
+22:58:01.072 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - clicked on Handberger button
+22:58:01.450 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Logged in and searched for a file, then clicked Edit.
+22:58:01.595 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Switched to frame 0.
+22:58:01.642 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - clicked on media object button
+22:58:02.418 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - clicked on First para from VE
+22:58:02.473 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Switched back to default content.
+22:58:02.809 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - clicked on Handberger button
+22:58:03.096 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - clicked on media object button
+22:58:09.433 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint4_TestCases.J_CommonTestcases - Logged in and searched for a file, then clicked Edit.
+22:58:16.364 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint4_TestCases.J_CommonTestcases - Starting verify_MediaObject_Insertinto_In_Para
+22:58:31.636 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Starting verify_TitleBar
+22:58:34.297 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Verified img is not displayed in document structure
+22:58:34.297 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Finished verify_MediaObject_Close
+22:58:34.510 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Starting verify_MediaObject_SearchValidImage
+22:59:04.673 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint4_TestCases.J_CommonTestcases - Logged in and searched for a file, then clicked Edit.
+22:59:49.833 [main] INFO  Elements_Testcases.Bf_SpellCheckerTC - Starting test verifyMisspelledRightClickIgnoreAlloptions.
+23:00:36.726 [main] INFO  Elements_Testcases.Bf_SpellCheckerTC - Logged in and clicked on Edit.
+23:00:36.732 [main] INFO  Elements_Testcases.Bf_SpellCheckerTC - Initialized the SpellChecker page object.
+23:02:05.938 [main] INFO  Elements_Testcases.Bf_SpellCheckerTC - Starting test verifyMisspelledRightClickIgnoreAlloptions.
+23:02:35.873 [main] INFO  Elements_Testcases.Bf_SpellCheckerTC - Logged in and clicked on Edit.
+23:02:35.878 [main] INFO  Elements_Testcases.Bf_SpellCheckerTC - Initialized the SpellChecker page object.
+23:03:12.612 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint4_TestCases.J_CommonTestcases - Starting verify_MediaObject_Insertinto_In_Para
+23:03:14.397 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Starting verify_MediaObject_Close
+23:03:15.221 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Starting verify_TitleBar
+23:03:17.628 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Starting verify_MediaObject_SearchValidImage
+23:03:45.685 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Logged in and searched for a file, then clicked Edit.
+23:03:45.771 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Switched to frame 0.
+23:03:46.921 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - clicked on First para from VE
+23:03:47.005 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Switched back to default content.
+23:03:47.400 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - clicked on Handberger button
+23:03:47.888 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - clicked on media object button
+23:03:52.999 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Logged in and searched for a file, then clicked Edit.
+23:03:53.033 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Switched to frame 0.
+23:03:53.468 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Logged in and searched for a file, then clicked Edit.
+23:03:53.653 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Switched to frame 0.
+23:03:54.070 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - clicked on First para from VE
+23:03:54.113 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Switched back to default content.
+23:03:54.331 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - clicked on First para from VE
+23:03:54.427 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Switched back to default content.
+23:03:54.499 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - clicked on Handberger button
+23:03:54.911 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - clicked on Handberger button
+23:03:54.916 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - clicked on media object button
+23:03:55.075 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint4_TestCases.J_CommonTestcases - Logged in and searched for a file, then clicked Edit.
+23:03:55.141 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - clicked on media object close button
+23:03:55.161 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint4_TestCases.J_CommonTestcases - Switched to frame 0.
+23:03:55.353 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - clicked on media object button
+23:03:55.875 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - verified on media object search label is diaplayed
+23:03:56.033 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - clicked on Handberger button
+23:03:56.139 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - hello text is typed in search label
+23:03:56.472 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - clicked on Search button
+23:03:56.613 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - verified on image is not diaplayed
+23:03:56.613 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Finished verify_MediaObject_SearchInvalidImage
+23:03:56.789 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint4_TestCases.J_CommonTestcases - Right click on first para
+23:03:56.978 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint4_TestCases.J_CommonTestcases - Switched back to default content.
+23:03:57.038 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint4_TestCases.J_CommonTestcases - Switched to frame 0.
+23:04:22.420 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint4_TestCases.J_CommonTestcases - Starting verify_MediaObject_Insertinto_In_Para
+23:04:26.379 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Starting verify_MediaObject_SearchValidImage
+23:04:35.267 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Verified img is not displayed in document structure
+23:04:35.267 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC - Finished verify_MediaObject_Close
+23:04:43.972 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Bb_ImagesTC - Logged in and searched for the file, then clicked on edit.
+23:04:46.346 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Bb_ImagesTC - Clicked on the Insert plugin.
+23:04:47.792 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Bb_ImagesTC - Searched for 'figure' element.
+23:04:47.991 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Bb_ImagesTC - Clicked on 'Figure' element.
+23:04:48.902 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Bb_ImagesTC - Clicked on the Insert Button.
+23:04:50.233 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Bb_ImagesTC - Clicked on 'Figure Image'.
+23:04:50.792 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Bb_ImagesTC - Entered 'Hello' in the Figure TextBox.
+23:04:53.031 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Bb_ImagesTC - Clicked on 'Insert' button for Figure.
+23:04:54.636 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Bb_ImagesTC - clicked on Code View
+23:05:01.199 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint4_TestCases.J_CommonTestcases - Logged in and searched for a file, then clicked Edit.
+23:05:01.264 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint4_TestCases.J_CommonTestcases - Switched to frame 0.
+23:05:02.383 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint4_TestCases.J_CommonTestcases - Right click on first para
+23:05:02.551 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint4_TestCases.J_CommonTestcases - Switched back to default content.
+23:05:02.607 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint4_TestCases.J_CommonTestcases - Switched to frame 0.

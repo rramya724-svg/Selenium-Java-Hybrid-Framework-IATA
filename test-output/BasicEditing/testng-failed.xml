@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="4" parallel="methods" name="Failed suite [BasicEditing]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="b_utilities.ExtentReportManager"/>
+    <listener class-name="b_utilities.AnnotationTransfer"/>
+  </listeners>
+  <test thread-count="4" parallel="methods" name="RetryMultipleFailedTestcases(failed)">
+    <classes>
+      <class name="BasicEditingTC.F9_FootnoteTC">
+        <methods>
+          <include name="TC175_verifyBackspaceFootnote"/>
+          <include name="TC177_verifyDeleteFootnoteFromVE"/>
+          <include name="printThreadDetails"/>
+          <include name="initialize"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="TC176_verifyDeleteFootnoteFromDS"/>
+          <include name="initializeSuit"/>
+        </methods>
+      </class> <!-- BasicEditingTC.F9_FootnoteTC -->
+      <class name="BasicEditingTC.F12_UndoRedoTC">
+        <methods>
+          <include name="TC217_verifyAddEntityUndoRedo"/>
+          <include name="TC221_verifyAddOlUndoRedo"/>
+          <include name="TC215_verifyAddOlUndo"/>
+          <include name="TC223_verifyAddTableUndoRedo"/>
+          <include name="setup"/>
+          <include name="initialize"/>
+          <include name="TC230_verifyChangeParaToAddressUndo"/>
+          <include name="TC220_verifyAddTextinParaUndoRedo"/>
+          <include name="initializeSuit"/>
+          <include name="TC222_verifyAddTableUndo"/>
+          <include name="TC211_verifyRemovePara"/>
+          <include name="TC219_verifyAddCrossReferenceUndoRedo"/>
+          <include name="TC214_verifyAddTextinParaUndo"/>
+          <include name="printThreadDetails"/>
+          <include name="TC229_verifyChangeParaToSimpleParaUndoRedo"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- BasicEditingTC.F12_UndoRedoTC -->
+      <class name="BasicEditingTC.F3_ListTC">
+        <methods>
+          <include name="TC042_verifyExistingListToUnListCheckCount"/>
+          <include name="TC059_verifyListToFigHeading"/>
+          <include name="initialize"/>
+          <include name="printThreadDetails"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="TC060_verifyAddListToImg"/>
+          <include name="initializeSuit"/>
+        </methods>
+      </class> <!-- BasicEditingTC.F3_ListTC -->
+      <class name="BasicEditingTC.F6_EmphasisTC">
+        <methods>
+          <include name="TC142_verifyInsertBoldItalicUnderlineAndDeleteAllEmphs"/>
+          <include name="initialize"/>
+          <include name="printThreadDetails"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="initializeSuit"/>
+          <include name="TC132_verifyChangeBoldToItalic"/>
+        </methods>
+      </class> <!-- BasicEditingTC.F6_EmphasisTC -->
+      <class name="BasicEditingTC.F1_SectionTC">
+        <methods>
+          <include name="TC001_verifyInsertSectionAtBeginning"/>
+          <include name="TC005_verifyPressEnterInToSectionNumber"/>
+          <include name="TC003_verifyInsertsectionAtEnd"/>
+          <include name="TC007_verifyinsertAfterSectionNumber"/>
+          <include name="initialize"/>
+          <include name="setup"/>
+          <include name="TC008_verifyInsertAfterSectionheading"/>
+          <include name="TC002_verifyInsertsectionAtMiddle"/>
+          <include name="initializeSuit"/>
+          <include name="TC014_verifyInsertNewParaCheckDShighlighted"/>
+          <include name="TC015_verifyNewSectionNumberIsNotDeleted"/>
+          <include name="TC009_verifyPressEnterInToSectionheading"/>
+          <include name="printThreadDetails"/>
+          <include name="TC011_verifyDeleteSectionNumber"/>
+          <include name="TC006_verifyinsertAfterSection"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- BasicEditingTC.F1_SectionTC -->
+      <class name="BasicEditingTC.F11_CommnetsTC">
+        <methods>
+          <include name="TC200_verifyCommentToFigureHeading"/>
+          <include name="TC204_VerifyAddCommentUsingRHSPlusSign"/>
+          <include name="TC196_verifyCommentToNewTable"/>
+          <include name="TC202_verifyAddReplyDeleteComment"/>
+          <include name="TC210_verifyAddCommentToImg"/>
+          <include name="TC203_verifySelectAllAddComment"/>
+          <include name="initialize"/>
+          <include name="printThreadDetails"/>
+          <include name="TC201_verifyCommentToFootnote"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="TC208_verifyCommentBubbleIsPresent"/>
+          <include name="initializeSuit"/>
+        </methods>
+      </class> <!-- BasicEditingTC.F11_CommnetsTC -->
+      <class name="BasicEditingTC.F2_ParaTC">
+        <methods>
+          <include name="TC032_verifyInsertAfterNumberedPara"/>
+          <include name="TC034_verifyNewparaBoldContetInsertAfterPara"/>
+          <include name="TC030_verifyDeleteParaUndoRedo"/>
+          <include name="initialize"/>
+          <include name="TC020_verifyAddContentNewPara"/>
+          <include name="setup"/>
+          <include name="TC035_verifyAddContentDeletepara"/>
+          <include name="TC017_verifyInsertNewPara"/>
+          <include name="initializeSuit"/>
+          <include name="TC027_verifyBackspaceCompletePara"/>
+          <include name="TC031_verifyInsertAfterSimplePara"/>
+          <include name="printThreadDetails"/>
+          <include name="tearDown"/>
+          <include name="TC026_verifyClickingShiftEnterBeginingOfPara"/>
+        </methods>
+      </class> <!-- BasicEditingTC.F2_ParaTC -->
+      <class name="BasicEditingTC.F7_PDFTC">
+        <methods>
+          <include name="TC145_verifyChapterLevelChangesPDF"/>
+          <include name="TC144_verifyWithSomeTextEditGeneratePDF"/>
+          <include name="printThreadDetails"/>
+          <include name="initialize"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="initializeSuit"/>
+        </methods>
+      </class> <!-- BasicEditingTC.F7_PDFTC -->
+      <class name="BasicEditingTC.F8_TrackChangesTC">
+        <methods>
+          <include name="TC148_verifyDeleteAllContentFromParaCheckTC"/>
+          <include name="TC150_verifyAddMediaObjectDeleteAcceptChange"/>
+          <include name="TC152_verifyAddFootnoteCheckTC"/>
+          <include name="TC165_verifyInsertListToExistingListCheckTC"/>
+          <include name="printThreadDetails"/>
+          <include name="initialize"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="TC171_verifyDeleteLastSectionCheckTC"/>
+          <include name="initializeSuit"/>
+          <include name="TC170_verifyAddMediaObjectHitEnterAcceptChange"/>
+          <include name="TC168_verifyAddOlCheckTC"/>
+          <include name="TC158_verifyDeleteAddressCheckTC"/>
+        </methods>
+      </class> <!-- BasicEditingTC.F8_TrackChangesTC -->
+      <class name="BasicEditingTC.F5_CrossReferenceTC">
+        <methods>
+          <include name="TC125_verifyCrossReferenceEditLinkVE"/>
+          <include name="TC128_verifyInsertingCrossRefranceToFigHeading"/>
+          <include name="TC121_verifyDeleteExistingCrossRef"/>
+          <include name="TC124_verifyCrossReferenceEditLinkDS"/>
+          <include name="TC127_verifyInsertNewXrefInList"/>
+          <include name="setup"/>
+          <include name="printThreadDetails"/>
+          <include name="initialize"/>
+          <include name="tearDown"/>
+          <include name="initializeSuit"/>
+        </methods>
+      </class> <!-- BasicEditingTC.F5_CrossReferenceTC -->
+      <class name="BasicEditingTC.F4_TableTC">
+        <methods>
+          <include name="TC110_verifyDeleteCellSelecting"/>
+          <include name="TC098_verifyTableRighClickInsertIntoNumberedlist"/>
+          <include name="TC107_verifyDeleteCellsSelecting"/>
+          <include name="TC065_verifyInsertColumnExistingTable"/>
+          <include name="TC111_verifyDeleteRowSelecting"/>
+          <include name="setup"/>
+          <include name="printThreadDetails"/>
+          <include name="initialize"/>
+          <include name="tearDown"/>
+          <include name="initializeSuit"/>
+        </methods>
+      </class> <!-- BasicEditingTC.F4_TableTC -->
+    </classes>
+  </test> <!-- RetryMultipleFailedTestcases(failed) -->
+</suite> <!-- Failed suite [BasicEditing] -->

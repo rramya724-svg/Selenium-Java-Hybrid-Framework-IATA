@@ -1,0 +1,439 @@
+<html>
+<head>
+<title>TestNG:  RetryMultipleFailedTestcases</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>RetryMultipleFailedTestcases</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>72/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Thu Oct 05 00:15:06 IST 2023</td>
+</tr>
+<tr><td>Total time:</td><td>911 seconds (911240 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='sprint3_TestCases.C_Verify_FocusMode.TC039_verifyFocusModeLeftPanalRightPanal()'><b>TC039_verifyFocusModeLeftPanalRightPanal</b><br>Test class: sprint3_TestCases.C_Verify_FocusMode</td>
+<td></td>
+<td>35</td>
+<td>sprint3_TestCases.C_Verify_FocusMode@18271936</td></tr>
+<tr>
+<td title='sprint3_TestCases.C_Verify_FocusMode.TC043_verifyFocusModeRightPanelTooltip()'><b>TC043_verifyFocusModeRightPanelTooltip</b><br>Test class: sprint3_TestCases.C_Verify_FocusMode</td>
+<td></td>
+<td>43</td>
+<td>sprint3_TestCases.C_Verify_FocusMode@18271936</td></tr>
+<tr>
+<td title='sprint3_TestCases.B_Verify_WordCountTC.TC028_verifywordCountEndOfElement()'><b>TC028_verifywordCountEndOfElement</b><br>Test class: sprint3_TestCases.B_Verify_WordCountTC</td>
+<td></td>
+<td>36</td>
+<td>sprint3_TestCases.B_Verify_WordCountTC@909217e</td></tr>
+<tr>
+<td title='sprint3_TestCases.B_Verify_WordCountTC.TC026_verifywordCountStartingOfElement()'><b>TC026_verifywordCountStartingOfElement</b><br>Test class: sprint3_TestCases.B_Verify_WordCountTC</td>
+<td></td>
+<td>28</td>
+<td>sprint3_TestCases.B_Verify_WordCountTC@909217e</td></tr>
+<tr>
+<td title='sprint3_TestCases.E_Verify_Zoom_OptionsTC.TC013_verifyZoomOptionsHighlighted()'><b>TC013_verifyZoomOptionsHighlighted</b><br>Test class: sprint3_TestCases.E_Verify_Zoom_OptionsTC</td>
+<td></td>
+<td>28</td>
+<td>sprint3_TestCases.E_Verify_Zoom_OptionsTC@48075da3</td></tr>
+<tr>
+<td title='sprint3_TestCases.A_Verify_BottomRibbonTC.TC010_verifyFocusView()'><b>TC010_verifyFocusView</b><br>Test class: sprint3_TestCases.A_Verify_BottomRibbonTC</td>
+<td></td>
+<td>43</td>
+<td>sprint3_TestCases.A_Verify_BottomRibbonTC@7bba5817</td></tr>
+<tr>
+<td title='sprint3_TestCases.G_CommonBugsTC.TC109_verifyWordCountAfterAcceptChanges()'><b>TC109_verifyWordCountAfterAcceptChanges</b><br>Test class: sprint3_TestCases.G_CommonBugsTC</td>
+<td></td>
+<td>62</td>
+<td>sprint3_TestCases.G_CommonBugsTC@7a35b0f5</td></tr>
+<tr>
+<td title='sprint3_TestCases.D_Verify_BlockViewTC.TC048_verifyBlockViewZoomOptions()'><b>TC048_verifyBlockViewZoomOptions</b><br>Test class: sprint3_TestCases.D_Verify_BlockViewTC</td>
+<td></td>
+<td>43</td>
+<td>sprint3_TestCases.D_Verify_BlockViewTC@8458f04</td></tr>
+<tr>
+<td title='sprint3_TestCases.C_Verify_FocusMode.TC036_verifyFocusModeEnabled()'><b>TC036_verifyFocusModeEnabled</b><br>Test class: sprint3_TestCases.C_Verify_FocusMode</td>
+<td></td>
+<td>87</td>
+<td>sprint3_TestCases.C_Verify_FocusMode@18271936</td></tr>
+<tr>
+<td title='sprint3_TestCases.G_CommonBugsTC.TC100_verifyRevisionSymbolsInBlockView()'><b>TC100_verifyRevisionSymbolsInBlockView</b><br>Test class: sprint3_TestCases.G_CommonBugsTC</td>
+<td></td>
+<td>40</td>
+<td>sprint3_TestCases.G_CommonBugsTC@7a35b0f5</td></tr>
+<tr>
+<td title='sprint3_TestCases.B_Verify_WordCountTC.TC025_verifywordCountDoubleClickElementAccept()'><b>TC025_verifywordCountDoubleClickElementAccept</b><br>Test class: sprint3_TestCases.B_Verify_WordCountTC</td>
+<td></td>
+<td>40</td>
+<td>sprint3_TestCases.B_Verify_WordCountTC@909217e</td></tr>
+<tr>
+<td title='sprint3_TestCases.C_Verify_FocusMode.TC102_verifyFocusModeOnBrowserMinimizeAndMaximize()'><b>TC102_verifyFocusModeOnBrowserMinimizeAndMaximize</b><br>Test class: sprint3_TestCases.C_Verify_FocusMode</td>
+<td></td>
+<td>84</td>
+<td>sprint3_TestCases.C_Verify_FocusMode@18271936</td></tr>
+<tr>
+<td title='sprint3_TestCases.A_Verify_BottomRibbonTC.TC011_verifyBlockView()'><b>TC011_verifyBlockView</b><br>Test class: sprint3_TestCases.A_Verify_BottomRibbonTC</td>
+<td></td>
+<td>47</td>
+<td>sprint3_TestCases.A_Verify_BottomRibbonTC@7bba5817</td></tr>
+<tr>
+<td title='sprint3_TestCases.C_Verify_FocusMode.TC033_verifyFocusModeOnDoubleClicking()'><b>TC033_verifyFocusModeOnDoubleClicking</b><br>Test class: sprint3_TestCases.C_Verify_FocusMode</td>
+<td></td>
+<td>32</td>
+<td>sprint3_TestCases.C_Verify_FocusMode@18271936</td></tr>
+<tr>
+<td title='sprint3_TestCases.D_Verify_BlockViewTC.TC049_verifyBlockViewContentBlock()'><b>TC049_verifyBlockViewContentBlock</b><br>Test class: sprint3_TestCases.D_Verify_BlockViewTC</td>
+<td></td>
+<td>53</td>
+<td>sprint3_TestCases.D_Verify_BlockViewTC@8458f04</td></tr>
+<tr>
+<td title='sprint3_TestCases.F_VerifyContentBlock_SearchOptionsTC.TC079_verifySearchcontent101Count()'><b>TC079_verifySearchcontent101Count</b><br>Test class: sprint3_TestCases.F_VerifyContentBlock_SearchOptionsTC</td>
+<td></td>
+<td>36</td>
+<td>sprint3_TestCases.F_VerifyContentBlock_SearchOptionsTC@68c9133c</td></tr>
+<tr>
+<td title='sprint3_TestCases.G_CommonBugsTC.TC106_verifyElementHighlightedInCB()'><b>TC106_verifyElementHighlightedInCB</b><br>Test class: sprint3_TestCases.G_CommonBugsTC</td>
+<td></td>
+<td>39</td>
+<td>sprint3_TestCases.G_CommonBugsTC@7a35b0f5</td></tr>
+<tr>
+<td title='sprint3_TestCases.B_Verify_WordCountTC.TC030_verifyWordCountByCopyPaste()'><b>TC030_verifyWordCountByCopyPaste</b><br>Test class: sprint3_TestCases.B_Verify_WordCountTC</td>
+<td></td>
+<td>40</td>
+<td>sprint3_TestCases.B_Verify_WordCountTC@909217e</td></tr>
+<tr>
+<td title='sprint3_TestCases.C_Verify_FocusMode.TC103_verifyFocusModeHighlightdOnBrowserMinimizeAndMaximize()'><b>TC103_verifyFocusModeHighlightdOnBrowserMinimizeAndMaximize</b><br>Test class: sprint3_TestCases.C_Verify_FocusMode</td>
+<td></td>
+<td>42</td>
+<td>sprint3_TestCases.C_Verify_FocusMode@18271936</td></tr>
+<tr>
+<td title='sprint3_TestCases.F_VerifyContentBlock_SearchOptionsTC.TC084_verifyTooltipsUpDownClearButtons()'><b>TC084_verifyTooltipsUpDownClearButtons</b><br>Test class: sprint3_TestCases.F_VerifyContentBlock_SearchOptionsTC</td>
+<td></td>
+<td>28</td>
+<td>sprint3_TestCases.F_VerifyContentBlock_SearchOptionsTC@68c9133c</td></tr>
+<tr>
+<td title='sprint3_TestCases.C_Verify_FocusMode.TC034_verifyFocusModeOnRefresh()'><b>TC034_verifyFocusModeOnRefresh</b><br>Test class: sprint3_TestCases.C_Verify_FocusMode</td>
+<td></td>
+<td>39</td>
+<td>sprint3_TestCases.C_Verify_FocusMode@18271936</td></tr>
+<tr>
+<td title='sprint3_TestCases.C_Verify_FocusMode.TC044_verifyFocusModeZoomOptions()'><b>TC044_verifyFocusModeZoomOptions</b><br>Test class: sprint3_TestCases.C_Verify_FocusMode</td>
+<td></td>
+<td>50</td>
+<td>sprint3_TestCases.C_Verify_FocusMode@18271936</td></tr>
+<tr>
+<td title='sprint3_TestCases.F_VerifyContentBlock_SearchOptionsTC.TC077_verifySearchContentCopyPaste()'><b>TC077_verifySearchContentCopyPaste</b><br>Test class: sprint3_TestCases.F_VerifyContentBlock_SearchOptionsTC</td>
+<td></td>
+<td>36</td>
+<td>sprint3_TestCases.F_VerifyContentBlock_SearchOptionsTC@68c9133c</td></tr>
+<tr>
+<td title='sprint3_TestCases.C_Verify_FocusMode.TC032_verifyFocusModeHighlighted()'><b>TC032_verifyFocusModeHighlighted</b><br>Test class: sprint3_TestCases.C_Verify_FocusMode</td>
+<td></td>
+<td>27</td>
+<td>sprint3_TestCases.C_Verify_FocusMode@18271936</td></tr>
+<tr>
+<td title='sprint3_TestCases.E_Verify_Zoom_OptionsTC.TC014_verifyZoomDefaultOptions()'><b>TC014_verifyZoomDefaultOptions</b><br>Test class: sprint3_TestCases.E_Verify_Zoom_OptionsTC</td>
+<td></td>
+<td>32</td>
+<td>sprint3_TestCases.E_Verify_Zoom_OptionsTC@48075da3</td></tr>
+<tr>
+<td title='sprint3_TestCases.A_Verify_BottomRibbonTC.TC005_verifyButtomRibbonAfterRefresh()'><b>TC005_verifyButtomRibbonAfterRefresh</b><br>Test class: sprint3_TestCases.A_Verify_BottomRibbonTC</td>
+<td></td>
+<td>34</td>
+<td>sprint3_TestCases.A_Verify_BottomRibbonTC@7bba5817</td></tr>
+<tr>
+<td title='sprint3_TestCases.A_Verify_BottomRibbonTC.TC012_verifyZoomOptions()'><b>TC012_verifyZoomOptions</b><br>Test class: sprint3_TestCases.A_Verify_BottomRibbonTC</td>
+<td></td>
+<td>35</td>
+<td>sprint3_TestCases.A_Verify_BottomRibbonTC@7bba5817</td></tr>
+<tr>
+<td title='sprint3_TestCases.G_CommonBugsTC.TC105_verifyBlockViewElementsAddress()'><b>TC105_verifyBlockViewElementsAddress</b><br>Test class: sprint3_TestCases.G_CommonBugsTC</td>
+<td></td>
+<td>51</td>
+<td>sprint3_TestCases.G_CommonBugsTC@7a35b0f5</td></tr>
+<tr>
+<td title='sprint3_TestCases.E_Verify_Zoom_OptionsTC.TC016_verifyZoomInOptions()'><b>TC016_verifyZoomInOptions</b><br>Test class: sprint3_TestCases.E_Verify_Zoom_OptionsTC</td>
+<td></td>
+<td>35</td>
+<td>sprint3_TestCases.E_Verify_Zoom_OptionsTC@48075da3</td></tr>
+<tr>
+<td title='sprint3_TestCases.E_Verify_Zoom_OptionsTC.TC017_verifyZoomOutOptions()'><b>TC017_verifyZoomOutOptions</b><br>Test class: sprint3_TestCases.E_Verify_Zoom_OptionsTC</td>
+<td></td>
+<td>38</td>
+<td>sprint3_TestCases.E_Verify_Zoom_OptionsTC@48075da3</td></tr>
+<tr>
+<td title='sprint3_TestCases.F_VerifyContentBlock_SearchOptionsTC.TC075_VerifySearchOptionsAfterRefresh()'><b>TC075_VerifySearchOptionsAfterRefresh</b><br>Test class: sprint3_TestCases.F_VerifyContentBlock_SearchOptionsTC</td>
+<td></td>
+<td>49</td>
+<td>sprint3_TestCases.F_VerifyContentBlock_SearchOptionsTC@68c9133c</td></tr>
+<tr>
+<td title='sprint3_TestCases.F_VerifyContentBlock_SearchOptionsTC.TC096_verifySwitchingViewModeFocusMode()'><b>TC096_verifySwitchingViewModeFocusMode</b><br>Test class: sprint3_TestCases.F_VerifyContentBlock_SearchOptionsTC</td>
+<td></td>
+<td>44</td>
+<td>sprint3_TestCases.F_VerifyContentBlock_SearchOptionsTC@68c9133c</td></tr>
+<tr>
+<td title='sprint3_TestCases.D_Verify_BlockViewTC.TC046_verifyBlockViewHighlighted()'><b>TC046_verifyBlockViewHighlighted</b><br>Test class: sprint3_TestCases.D_Verify_BlockViewTC</td>
+<td></td>
+<td>32</td>
+<td>sprint3_TestCases.D_Verify_BlockViewTC@8458f04</td></tr>
+<tr>
+<td title='sprint3_TestCases.E_Verify_Zoom_OptionsTC.TC015_verifyZoomOptionsAfterRefresh()'><b>TC015_verifyZoomOptionsAfterRefresh</b><br>Test class: sprint3_TestCases.E_Verify_Zoom_OptionsTC</td>
+<td></td>
+<td>37</td>
+<td>sprint3_TestCases.E_Verify_Zoom_OptionsTC@48075da3</td></tr>
+<tr>
+<td title='sprint3_TestCases.F_VerifyContentBlock_SearchOptionsTC.TC078_verifySearchcontent100Count()'><b>TC078_verifySearchcontent100Count</b><br>Test class: sprint3_TestCases.F_VerifyContentBlock_SearchOptionsTC</td>
+<td></td>
+<td>38</td>
+<td>sprint3_TestCases.F_VerifyContentBlock_SearchOptionsTC@68c9133c</td></tr>
+<tr>
+<td title='sprint3_TestCases.F_VerifyContentBlock_SearchOptionsTC.TC080_verifySearchContentHighlighted()'><b>TC080_verifySearchContentHighlighted</b><br>Test class: sprint3_TestCases.F_VerifyContentBlock_SearchOptionsTC</td>
+<td></td>
+<td>29</td>
+<td>sprint3_TestCases.F_VerifyContentBlock_SearchOptionsTC@68c9133c</td></tr>
+<tr>
+<td title='sprint3_TestCases.G_CommonBugsTC.TC108_verifyPrintPreviewVisibilityFocusMode()'><b>TC108_verifyPrintPreviewVisibilityFocusMode</b><br>Test class: sprint3_TestCases.G_CommonBugsTC</td>
+<td></td>
+<td>42</td>
+<td>sprint3_TestCases.G_CommonBugsTC@7a35b0f5</td></tr>
+<tr>
+<td title='sprint3_TestCases.D_Verify_BlockViewTC.TC050_verifyBlockViewAttribute()'><b>TC050_verifyBlockViewAttribute</b><br>Test class: sprint3_TestCases.D_Verify_BlockViewTC</td>
+<td></td>
+<td>35</td>
+<td>sprint3_TestCases.D_Verify_BlockViewTC@8458f04</td></tr>
+<tr>
+<td title='sprint3_TestCases.A_Verify_BottomRibbonTC.TC019_verifyBRCollapse()'><b>TC019_verifyBRCollapse</b><br>Test class: sprint3_TestCases.A_Verify_BottomRibbonTC</td>
+<td></td>
+<td>36</td>
+<td>sprint3_TestCases.A_Verify_BottomRibbonTC@7bba5817</td></tr>
+<tr>
+<td title='sprint3_TestCases.D_Verify_BlockViewTC.TC052_verifyBlockViewEnabled()'><b>TC052_verifyBlockViewEnabled</b><br>Test class: sprint3_TestCases.D_Verify_BlockViewTC</td>
+<td></td>
+<td>29</td>
+<td>sprint3_TestCases.D_Verify_BlockViewTC@8458f04</td></tr>
+<tr>
+<td title='sprint3_TestCases.A_Verify_BottomRibbonTC.TC006_verifyButtomTooltipCollapse()'><b>TC006_verifyButtomTooltipCollapse</b><br>Test class: sprint3_TestCases.A_Verify_BottomRibbonTC</td>
+<td></td>
+<td>27</td>
+<td>sprint3_TestCases.A_Verify_BottomRibbonTC@7bba5817</td></tr>
+<tr>
+<td title='sprint3_TestCases.F_VerifyContentBlock_SearchOptionsTC.TC094_verifySearchUpArrowErrorInfo()'><b>TC094_verifySearchUpArrowErrorInfo</b><br>Test class: sprint3_TestCases.F_VerifyContentBlock_SearchOptionsTC</td>
+<td></td>
+<td>35</td>
+<td>sprint3_TestCases.F_VerifyContentBlock_SearchOptionsTC@68c9133c</td></tr>
+<tr>
+<td title='sprint3_TestCases.C_Verify_FocusMode.TC031_verifyFocusModeTooltip()'><b>TC031_verifyFocusModeTooltip</b><br>Test class: sprint3_TestCases.C_Verify_FocusMode</td>
+<td></td>
+<td>41</td>
+<td>sprint3_TestCases.C_Verify_FocusMode@18271936</td></tr>
+<tr>
+<td title='sprint3_TestCases.B_Verify_WordCountTC.TC024_verifywordCountDecrease()'><b>TC024_verifywordCountDecrease</b><br>Test class: sprint3_TestCases.B_Verify_WordCountTC</td>
+<td></td>
+<td>45</td>
+<td>sprint3_TestCases.B_Verify_WordCountTC@909217e</td></tr>
+<tr>
+<td title='sprint3_TestCases.D_Verify_BlockViewTC.TC045_verifyBlockViewTooltip()'><b>TC045_verifyBlockViewTooltip</b><br>Test class: sprint3_TestCases.D_Verify_BlockViewTC</td>
+<td></td>
+<td>31</td>
+<td>sprint3_TestCases.D_Verify_BlockViewTC@8458f04</td></tr>
+<tr>
+<td title='sprint3_TestCases.F_VerifyContentBlock_SearchOptionsTC.TC081_verifyEmphasisInSearchContent()'><b>TC081_verifyEmphasisInSearchContent</b><br>Test class: sprint3_TestCases.F_VerifyContentBlock_SearchOptionsTC</td>
+<td></td>
+<td>34</td>
+<td>sprint3_TestCases.F_VerifyContentBlock_SearchOptionsTC@68c9133c</td></tr>
+<tr>
+<td title='sprint3_TestCases.C_Verify_FocusMode.TC035_verifyFocusModeOnBrowserMinimize()'><b>TC035_verifyFocusModeOnBrowserMinimize</b><br>Test class: sprint3_TestCases.C_Verify_FocusMode</td>
+<td></td>
+<td>40</td>
+<td>sprint3_TestCases.C_Verify_FocusMode@18271936</td></tr>
+<tr>
+<td title='sprint3_TestCases.F_VerifyContentBlock_SearchOptionsTC.TC090_verifySearchWithFirstCharacter()'><b>TC090_verifySearchWithFirstCharacter</b><br>Test class: sprint3_TestCases.F_VerifyContentBlock_SearchOptionsTC</td>
+<td></td>
+<td>30</td>
+<td>sprint3_TestCases.F_VerifyContentBlock_SearchOptionsTC@68c9133c</td></tr>
+<tr>
+<td title='sprint3_TestCases.C_Verify_FocusMode.TC040_verifyFocusModeLeftPanal_Close()'><b>TC040_verifyFocusModeLeftPanal_Close</b><br>Test class: sprint3_TestCases.C_Verify_FocusMode</td>
+<td></td>
+<td>65</td>
+<td>sprint3_TestCases.C_Verify_FocusMode@18271936</td></tr>
+<tr>
+<td title='sprint3_TestCases.A_Verify_BottomRibbonTC.TC009_verifyVersion()'><b>TC009_verifyVersion</b><br>Test class: sprint3_TestCases.A_Verify_BottomRibbonTC</td>
+<td></td>
+<td>48</td>
+<td>sprint3_TestCases.A_Verify_BottomRibbonTC@7bba5817</td></tr>
+<tr>
+<td title='sprint3_TestCases.A_Verify_BottomRibbonTC.TC101_verifyVersionOnBrowserMinimize()'><b>TC101_verifyVersionOnBrowserMinimize</b><br>Test class: sprint3_TestCases.A_Verify_BottomRibbonTC</td>
+<td></td>
+<td>33</td>
+<td>sprint3_TestCases.A_Verify_BottomRibbonTC@7bba5817</td></tr>
+<tr>
+<td title='sprint3_TestCases.C_Verify_FocusMode.TC042_verifyFocusModeLeftPanelTooltip()'><b>TC042_verifyFocusModeLeftPanelTooltip</b><br>Test class: sprint3_TestCases.C_Verify_FocusMode</td>
+<td></td>
+<td>30</td>
+<td>sprint3_TestCases.C_Verify_FocusMode@18271936</td></tr>
+<tr>
+<td title='sprint3_TestCases.D_Verify_BlockViewTC.TC051_verifyBlockViewChangeElement()'><b>TC051_verifyBlockViewChangeElement</b><br>Test class: sprint3_TestCases.D_Verify_BlockViewTC</td>
+<td></td>
+<td>34</td>
+<td>sprint3_TestCases.D_Verify_BlockViewTC@8458f04</td></tr>
+<tr>
+<td title='sprint3_TestCases.B_Verify_WordCountTC.TC027_verifywordCountMidddleOfElement()'><b>TC027_verifywordCountMidddleOfElement</b><br>Test class: sprint3_TestCases.B_Verify_WordCountTC</td>
+<td></td>
+<td>29</td>
+<td>sprint3_TestCases.B_Verify_WordCountTC@909217e</td></tr>
+<tr>
+<td title='sprint3_TestCases.A_Verify_BottomRibbonTC.TC001_verifyButtomRibbon()'><b>TC001_verifyButtomRibbon</b><br>Test class: sprint3_TestCases.A_Verify_BottomRibbonTC</td>
+<td></td>
+<td>29</td>
+<td>sprint3_TestCases.A_Verify_BottomRibbonTC@7bba5817</td></tr>
+<tr>
+<td title='sprint3_TestCases.B_Verify_WordCountTC.TC021_verifywordCount()'><b>TC021_verifywordCount</b><br>Test class: sprint3_TestCases.B_Verify_WordCountTC</td>
+<td></td>
+<td>28</td>
+<td>sprint3_TestCases.B_Verify_WordCountTC@909217e</td></tr>
+<tr>
+<td title='sprint3_TestCases.C_Verify_FocusMode.TC037_verifyFocusModeLeftPanal_Open()'><b>TC037_verifyFocusModeLeftPanal_Open</b><br>Test class: sprint3_TestCases.C_Verify_FocusMode</td>
+<td></td>
+<td>28</td>
+<td>sprint3_TestCases.C_Verify_FocusMode@18271936</td></tr>
+<tr>
+<td title='sprint3_TestCases.F_VerifyContentBlock_SearchOptionsTC.TC093_verifyErrorMessageNonExistingSearchContent()'><b>TC093_verifyErrorMessageNonExistingSearchContent</b><br>Test class: sprint3_TestCases.F_VerifyContentBlock_SearchOptionsTC</td>
+<td></td>
+<td>28</td>
+<td>sprint3_TestCases.F_VerifyContentBlock_SearchOptionsTC@68c9133c</td></tr>
+<tr>
+<td title='sprint3_TestCases.A_Verify_BottomRibbonTC.TC008_verifyBottomRibbonoptions()'><b>TC008_verifyBottomRibbonoptions</b><br>Test class: sprint3_TestCases.A_Verify_BottomRibbonTC</td>
+<td></td>
+<td>32</td>
+<td>sprint3_TestCases.A_Verify_BottomRibbonTC@7bba5817</td></tr>
+<tr>
+<td title='sprint3_TestCases.C_Verify_FocusMode.TC038_verifyFocusModeRightPanalOpen()'><b>TC038_verifyFocusModeRightPanalOpen</b><br>Test class: sprint3_TestCases.C_Verify_FocusMode</td>
+<td></td>
+<td>64</td>
+<td>sprint3_TestCases.C_Verify_FocusMode@18271936</td></tr>
+<tr>
+<td title='sprint3_TestCases.G_CommonBugsTC.TC107_verifyInnorefNewlyInsertedTable()'><b>TC107_verifyInnorefNewlyInsertedTable</b><br>Test class: sprint3_TestCases.G_CommonBugsTC</td>
+<td></td>
+<td>50</td>
+<td>sprint3_TestCases.G_CommonBugsTC@7a35b0f5</td></tr>
+<tr>
+<td title='sprint3_TestCases.B_Verify_WordCountTC.TC023_verifywordCountIncrease()'><b>TC023_verifywordCountIncrease</b><br>Test class: sprint3_TestCases.B_Verify_WordCountTC</td>
+<td></td>
+<td>39</td>
+<td>sprint3_TestCases.B_Verify_WordCountTC@909217e</td></tr>
+<tr>
+<td title='sprint3_TestCases.E_Verify_Zoom_OptionsTC.TC018_verifyZoomOptions100Percentage()'><b>TC018_verifyZoomOptions100Percentage</b><br>Test class: sprint3_TestCases.E_Verify_Zoom_OptionsTC</td>
+<td></td>
+<td>28</td>
+<td>sprint3_TestCases.E_Verify_Zoom_OptionsTC@48075da3</td></tr>
+<tr>
+<td title='sprint3_TestCases.F_VerifyContentBlock_SearchOptionsTC.TC083_VerifySearchContentUsingDowmArrow()'><b>TC083_VerifySearchContentUsingDowmArrow</b><br>Test class: sprint3_TestCases.F_VerifyContentBlock_SearchOptionsTC</td>
+<td></td>
+<td>32</td>
+<td>sprint3_TestCases.F_VerifyContentBlock_SearchOptionsTC@68c9133c</td></tr>
+<tr>
+<td title='sprint3_TestCases.D_Verify_BlockViewTC.TC047_verifyBlockViewDisabled()'><b>TC047_verifyBlockViewDisabled</b><br>Test class: sprint3_TestCases.D_Verify_BlockViewTC</td>
+<td></td>
+<td>72</td>
+<td>sprint3_TestCases.D_Verify_BlockViewTC@8458f04</td></tr>
+<tr>
+<td title='sprint3_TestCases.F_VerifyContentBlock_SearchOptionsTC.TC097_verifySearchContentOutlineColor()'><b>TC097_verifySearchContentOutlineColor</b><br>Test class: sprint3_TestCases.F_VerifyContentBlock_SearchOptionsTC</td>
+<td></td>
+<td>41</td>
+<td>sprint3_TestCases.F_VerifyContentBlock_SearchOptionsTC@68c9133c</td></tr>
+<tr>
+<td title='sprint3_TestCases.A_Verify_BottomRibbonTC.TC020_verifyBRExpand()'><b>TC020_verifyBRExpand</b><br>Test class: sprint3_TestCases.A_Verify_BottomRibbonTC</td>
+<td></td>
+<td>35</td>
+<td>sprint3_TestCases.A_Verify_BottomRibbonTC@7bba5817</td></tr>
+<tr>
+<td title='sprint3_TestCases.A_Verify_BottomRibbonTC.TC007_verifyButtomTooltipExpand()'><b>TC007_verifyButtomTooltipExpand</b><br>Test class: sprint3_TestCases.A_Verify_BottomRibbonTC</td>
+<td></td>
+<td>29</td>
+<td>sprint3_TestCases.A_Verify_BottomRibbonTC@7bba5817</td></tr>
+<tr>
+<td title='sprint3_TestCases.F_VerifyContentBlock_SearchOptionsTC.TC071_VerifySearchOptionsEnabled()'><b>TC071_VerifySearchOptionsEnabled</b><br>Test class: sprint3_TestCases.F_VerifyContentBlock_SearchOptionsTC</td>
+<td></td>
+<td>38</td>
+<td>sprint3_TestCases.F_VerifyContentBlock_SearchOptionsTC@68c9133c</td></tr>
+<tr>
+<td title='sprint3_TestCases.F_VerifyContentBlock_SearchOptionsTC.TC082_VerifySearchContentUsingUpArrow()'><b>TC082_VerifySearchContentUsingUpArrow</b><br>Test class: sprint3_TestCases.F_VerifyContentBlock_SearchOptionsTC</td>
+<td></td>
+<td>33</td>
+<td>sprint3_TestCases.F_VerifyContentBlock_SearchOptionsTC@68c9133c</td></tr>
+<tr>
+<td title='sprint3_TestCases.C_Verify_FocusMode.TC041_verifyFocusModeRightPanalClose()'><b>TC041_verifyFocusModeRightPanalClose</b><br>Test class: sprint3_TestCases.C_Verify_FocusMode</td>
+<td></td>
+<td>51</td>
+<td>sprint3_TestCases.C_Verify_FocusMode@18271936</td></tr>
+<tr>
+<td title='sprint3_TestCases.F_VerifyContentBlock_SearchOptionsTC.TC095_verifySearchDownArrowErrorInfo()'><b>TC095_verifySearchDownArrowErrorInfo</b><br>Test class: sprint3_TestCases.F_VerifyContentBlock_SearchOptionsTC</td>
+<td></td>
+<td>34</td>
+<td>sprint3_TestCases.F_VerifyContentBlock_SearchOptionsTC@68c9133c</td></tr>
+</table><p>
+</body>
+</html>

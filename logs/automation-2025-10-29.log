@@ -1,0 +1,343 @@
+22:07:30.692 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  b_utilities.UpdateZephyrTestExecution - Updating Zephyr Test Case: IAPPAE-T2050 in Cycle: IAPPAE-R25 with status: Fail
+22:07:30.804 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  b_utilities.RetryAnalyzer - 🔴 Browser closed before retry attempt: 1
+22:07:30.806 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - Updating Zephyr Test Case ID: IAPPAE-T2026 to Status: Skip
+22:07:30.807 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  b_utilities.UpdateZephyrTestExecution - Updating Zephyr Test Case: IAPPAE-T2026 in Cycle: IAPPAE-R25 with status: Fail
+22:07:31.579 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response Code: 401
+22:07:31.580 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response: {"error": "Your token is revoked"}
+22:07:31.639 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response Code: 401
+22:07:31.639 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response: {"error": "Your token is revoked"}
+22:07:31.640 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Updating Zephyr Test Case ID: IAPPAE-T2050 to Status: Fail
+22:07:31.640 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - Browser closed for test: verifyInsertAfterNumberedPara
+22:07:31.641 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - Thread Name: TestNG-test-RetryMultipleFailedTestcases-2
+22:07:31.641 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - Thread ID: 27
+22:07:31.643 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  b_utilities.UpdateZephyrTestExecution - Updating Zephyr Test Case: IAPPAE-T2050 in Cycle: IAPPAE-R25 with status: Fail
+22:07:31.907 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response Code: 401
+22:07:31.907 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response: {"error": "Your token is revoked"}
+22:07:33.602 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Browser closed for test: verifyInsertAfterParaInAddressQuickInsert
+22:07:33.603 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Thread Name: TestNG-test-RetryMultipleFailedTestcases-3
+22:07:33.603 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Thread ID: 28
+22:07:48.656 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - 'Please Wait' has disappeared. Proceeding.
+22:08:09.170 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  b_utilities.RetryAnalyzer - ❌ Updating Zephyr: Test Case ID - IAPPAE-T2042 | Status - Fail
+22:08:09.171 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  b_utilities.UpdateZephyrTestExecution - Updating Zephyr Test Case: IAPPAE-T2042 in Cycle: IAPPAE-R25 with status: Fail
+22:08:09.407 [TestNG-test-RetryMultipleFailedTestcases-2] WARN  a_testbase.BaseClass - No 'Please Wait' element found or already disappeared.
+22:08:09.945 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response Code: 401
+22:08:09.946 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response: {"error": "Your token is revoked"}
+22:08:09.948 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - Updating Zephyr Test Case ID: IAPPAE-T2042 to Status: Fail
+22:08:09.949 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  b_utilities.UpdateZephyrTestExecution - Updating Zephyr Test Case: IAPPAE-T2042 in Cycle: IAPPAE-R25 with status: Fail
+22:08:10.271 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response Code: 401
+22:08:10.272 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response: {"error": "Your token is revoked"}
+22:08:12.138 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - Browser closed for test: verifyInsertAfterParaInNotesDS
+22:08:12.140 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - Thread Name: TestNG-test-RetryMultipleFailedTestcases-1
+22:08:12.140 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - Thread ID: 26
+22:08:23.890 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - 'Please Wait' has disappeared. Proceeding.
+22:08:30.140 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  b_utilities.RetryAnalyzer - ❌ Updating Zephyr: Test Case ID - IAPPAE-T2026 | Status - Fail
+22:08:30.141 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  b_utilities.UpdateZephyrTestExecution - Updating Zephyr Test Case: IAPPAE-T2026 in Cycle: IAPPAE-R25 with status: Fail
+22:08:30.929 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response Code: 401
+22:08:30.930 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response: {"error": "Your token is revoked"}
+22:08:30.934 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - Updating Zephyr Test Case ID: IAPPAE-T2026 to Status: Fail
+22:08:30.935 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  b_utilities.UpdateZephyrTestExecution - Updating Zephyr Test Case: IAPPAE-T2026 in Cycle: IAPPAE-R25 with status: Fail
+22:08:31.190 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response Code: 401
+22:08:31.190 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response: {"error": "Your token is revoked"}
+22:08:32.481 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - Browser closed for test: verifyInsertAfterNumberedPara
+22:08:32.482 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - Thread Name: TestNG-test-RetryMultipleFailedTestcases-2
+22:08:32.482 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - Thread ID: 27
+22:08:39.247 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - 'Please Wait' has disappeared. Proceeding.
+22:08:46.350 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Updating Zephyr Test Case ID: IAPPAE-T2053 to Status: Pass
+22:08:46.356 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  b_utilities.UpdateZephyrTestExecution - Updating Zephyr Test Case: IAPPAE-T2053 in Cycle: IAPPAE-R25 with status: Pass
+22:08:47.274 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response Code: 401
+22:08:47.275 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response: {"error": "Your token is revoked"}
+22:08:48.162 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  b_utilities.RetryAnalyzer - ❌ Updating Zephyr: Test Case ID - IAPPAE-T2046 | Status - Fail
+22:08:48.163 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  b_utilities.UpdateZephyrTestExecution - Updating Zephyr Test Case: IAPPAE-T2046 in Cycle: IAPPAE-R25 with status: Fail
+22:08:48.430 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response Code: 401
+22:08:48.430 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response: {"error": "Your token is revoked"}
+22:08:48.431 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Updating Zephyr Test Case ID: IAPPAE-T2046 to Status: Fail
+22:08:48.432 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  b_utilities.UpdateZephyrTestExecution - Updating Zephyr Test Case: IAPPAE-T2046 in Cycle: IAPPAE-R25 with status: Fail
+22:08:48.511 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Browser closed for test: verifyInsertAfterParaInNotesQuickInsert
+22:08:48.512 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Thread Name: TestNG-test-RetryMultipleFailedTestcases-3
+22:08:48.512 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Thread ID: 28
+22:08:48.699 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response Code: 401
+22:08:48.699 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response: {"error": "Your token is revoked"}
+22:08:50.269 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Browser closed for test: verifyInsertAfterParaInAddressVE
+22:08:50.270 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Thread Name: TestNG-test-RetryMultipleFailedTestcases-4
+22:08:50.270 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Thread ID: 29
+22:09:18.534 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - 'Please Wait' has disappeared. Proceeding.
+22:09:26.545 [TestNG-test-RetryMultipleFailedTestcases-3] WARN  a_testbase.BaseClass - No 'Please Wait' element found or already disappeared.
+22:09:26.929 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - Updating Zephyr Test Case ID: IAPPAE-T2048 to Status: Pass
+22:09:26.930 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  b_utilities.UpdateZephyrTestExecution - Updating Zephyr Test Case: IAPPAE-T2048 in Cycle: IAPPAE-R25 with status: Pass
+22:09:27.738 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response Code: 401
+22:09:27.738 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response: {"error": "Your token is revoked"}
+22:09:28.942 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - Browser closed for test: verifyInsertAfterParaInNotesVE
+22:09:28.943 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - Thread Name: TestNG-test-RetryMultipleFailedTestcases-1
+22:09:28.943 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - Thread ID: 26
+22:09:33.841 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  b_utilities.RetryAnalyzer - 🔴 Browser closed before retry attempt: 1
+22:09:33.842 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Updating Zephyr Test Case ID: IAPPAE-T2057 to Status: Skip
+22:09:33.844 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  b_utilities.UpdateZephyrTestExecution - Updating Zephyr Test Case: IAPPAE-T2057 in Cycle: IAPPAE-R25 with status: Fail
+22:09:34.683 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response Code: 401
+22:09:34.687 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response: {"error": "Your token is revoked"}
+22:09:34.688 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Browser closed for test: verifyInsertBeforeNewParaInTableVE
+22:09:34.688 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Thread Name: TestNG-test-RetryMultipleFailedTestcases-3
+22:09:34.688 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Thread ID: 28
+22:09:35.186 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - 'Please Wait' has disappeared. Proceeding.
+22:09:36.004 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - UIUX-6722
+22:09:42.540 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - Updating Zephyr Test Case ID: IAPPAE-T2003 to Status: Pass
+22:09:42.541 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  b_utilities.UpdateZephyrTestExecution - Updating Zephyr Test Case: IAPPAE-T2003 in Cycle: IAPPAE-R25 with status: Pass
+22:09:43.433 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response Code: 401
+22:09:43.433 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response: {"error": "Your token is revoked"}
+22:09:44.650 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - Browser closed for test: verifyInsertBeforeImage
+22:09:44.650 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - Thread Name: TestNG-test-RetryMultipleFailedTestcases-2
+22:09:44.651 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - Thread ID: 27
+22:09:57.885 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - 'Please Wait' has disappeared. Proceeding.
+22:09:57.916 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - UIUX-6722
+22:10:23.206 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  b_utilities.RetryAnalyzer - 🔴 Browser closed before retry attempt: 1
+22:10:23.208 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Updating Zephyr Test Case ID: IAPPAE-T2051 to Status: Skip
+22:10:23.210 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  b_utilities.UpdateZephyrTestExecution - Updating Zephyr Test Case: IAPPAE-T2051 in Cycle: IAPPAE-R25 with status: Fail
+22:10:24.055 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response Code: 401
+22:10:24.056 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response: {"error": "Your token is revoked"}
+22:10:24.056 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Browser closed for test: verifyInsertBeforeParaInAddressQuickInsert
+22:10:24.057 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Thread Name: TestNG-test-RetryMultipleFailedTestcases-4
+22:10:24.057 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Thread ID: 29
+22:10:32.537 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - 'Please Wait' has disappeared. Proceeding.
+22:10:38.201 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - 'Please Wait' has disappeared. Proceeding.
+22:10:43.940 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Updating Zephyr Test Case ID: IAPPAE-T2057 to Status: Pass
+22:10:43.941 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  b_utilities.UpdateZephyrTestExecution - Updating Zephyr Test Case: IAPPAE-T2057 in Cycle: IAPPAE-R25 with status: Pass
+22:10:44.821 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response Code: 401
+22:10:44.822 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response: {"error": "Your token is revoked"}
+22:10:45.946 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Browser closed for test: verifyInsertBeforeNewParaInTableVE
+22:10:45.948 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Thread Name: TestNG-test-RetryMultipleFailedTestcases-3
+22:10:45.948 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Thread ID: 28
+22:10:47.096 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - 'Please Wait' has disappeared. Proceeding.
+22:10:54.181 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - Updating Zephyr Test Case ID: IAPPAE-T2043 to Status: Pass
+22:10:54.182 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  b_utilities.UpdateZephyrTestExecution - Updating Zephyr Test Case: IAPPAE-T2043 in Cycle: IAPPAE-R25 with status: Pass
+22:10:55.010 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response Code: 401
+22:10:55.010 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response: {"error": "Your token is revoked"}
+22:10:56.148 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - Browser closed for test: verifyInsertBeforeParaInNotesDS
+22:10:56.149 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - Thread Name: TestNG-test-RetryMultipleFailedTestcases-2
+22:10:56.149 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - Thread ID: 27
+22:10:58.395 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  b_utilities.RetryAnalyzer - 🔴 Browser closed before retry attempt: 1
+22:10:58.397 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - Updating Zephyr Test Case ID: IAPPAE-T2047 to Status: Skip
+22:10:58.398 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  b_utilities.UpdateZephyrTestExecution - Updating Zephyr Test Case: IAPPAE-T2047 in Cycle: IAPPAE-R25 with status: Fail
+22:10:58.692 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response Code: 401
+22:10:58.693 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response: {"error": "Your token is revoked"}
+22:10:58.693 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - Browser closed for test: verifyInsertBeforeParaInAddressVE
+22:10:58.694 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - Thread Name: TestNG-test-RetryMultipleFailedTestcases-1
+22:10:58.694 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - Thread ID: 26
+22:11:06.566 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - UIUX-6722
+22:11:26.745 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - 'Please Wait' has disappeared. Proceeding.
+22:11:26.775 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - UIUX-6722
+22:11:47.790 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - 'Please Wait' has disappeared. Proceeding.
+22:11:50.901 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  b_utilities.RetryAnalyzer - ❌ Updating Zephyr: Test Case ID - IAPPAE-T2051 | Status - Fail
+22:11:50.901 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  b_utilities.UpdateZephyrTestExecution - Updating Zephyr Test Case: IAPPAE-T2051 in Cycle: IAPPAE-R25 with status: Fail
+22:11:51.846 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response Code: 401
+22:11:51.846 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response: {"error": "Your token is revoked"}
+22:11:51.847 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Updating Zephyr Test Case ID: IAPPAE-T2051 to Status: Fail
+22:11:51.849 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  b_utilities.UpdateZephyrTestExecution - Updating Zephyr Test Case: IAPPAE-T2051 in Cycle: IAPPAE-R25 with status: Fail
+22:11:52.107 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response Code: 401
+22:11:52.107 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response: {"error": "Your token is revoked"}
+22:11:53.567 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Browser closed for test: verifyInsertBeforeParaInAddressQuickInsert
+22:11:53.568 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Thread Name: TestNG-test-RetryMultipleFailedTestcases-4
+22:11:53.568 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Thread ID: 29
+22:11:55.777 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Updating Zephyr Test Case ID: IAPPAE-T2054 to Status: Pass
+22:11:55.778 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  b_utilities.UpdateZephyrTestExecution - Updating Zephyr Test Case: IAPPAE-T2054 in Cycle: IAPPAE-R25 with status: Pass
+22:11:56.039 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response Code: 401
+22:11:56.040 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response: {"error": "Your token is revoked"}
+22:11:57.376 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Browser closed for test: verifyInsertBeforeParaInNotesQuickInsert
+22:11:57.376 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Thread Name: TestNG-test-RetryMultipleFailedTestcases-3
+22:11:57.377 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Thread ID: 28
+22:12:01.355 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - 'Please Wait' has disappeared. Proceeding.
+22:12:03.619 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - 'Please Wait' has disappeared. Proceeding.
+22:12:08.598 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - Updating Zephyr Test Case ID: IAPPAE-T2049 to Status: Pass
+22:12:08.599 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  b_utilities.UpdateZephyrTestExecution - Updating Zephyr Test Case: IAPPAE-T2049 in Cycle: IAPPAE-R25 with status: Pass
+22:12:09.357 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response Code: 401
+22:12:09.358 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response: {"error": "Your token is revoked"}
+22:12:10.545 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - Browser closed for test: verifyInsertBeforeParaInNotesVE
+22:12:10.546 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - Thread Name: TestNG-test-RetryMultipleFailedTestcases-2
+22:12:10.546 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - Thread ID: 27
+22:12:27.240 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  b_utilities.RetryAnalyzer - ❌ Updating Zephyr: Test Case ID - IAPPAE-T2047 | Status - Fail
+22:12:27.241 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  b_utilities.UpdateZephyrTestExecution - Updating Zephyr Test Case: IAPPAE-T2047 in Cycle: IAPPAE-R25 with status: Fail
+22:12:28.008 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response Code: 401
+22:12:28.009 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response: {"error": "Your token is revoked"}
+22:12:28.009 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - Updating Zephyr Test Case ID: IAPPAE-T2047 to Status: Fail
+22:12:28.010 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  b_utilities.UpdateZephyrTestExecution - Updating Zephyr Test Case: IAPPAE-T2047 in Cycle: IAPPAE-R25 with status: Fail
+22:12:28.277 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response Code: 401
+22:12:28.278 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response: {"error": "Your token is revoked"}
+22:12:29.654 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - Browser closed for test: verifyInsertBeforeParaInAddressVE
+22:12:29.654 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - Thread Name: TestNG-test-RetryMultipleFailedTestcases-1
+22:12:29.654 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - Thread ID: 26
+22:12:56.806 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - 'Please Wait' has disappeared. Proceeding.
+22:12:59.901 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - 'Please Wait' has disappeared. Proceeding.
+22:13:03.862 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  b_utilities.RetryAnalyzer - 🔴 Browser closed before retry attempt: 1
+22:13:03.863 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Updating Zephyr Test Case ID: IAPPAE-T2009 to Status: Skip
+22:13:03.865 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  b_utilities.UpdateZephyrTestExecution - Updating Zephyr Test Case: IAPPAE-T2009 in Cycle: IAPPAE-R25 with status: Fail
+22:13:04.691 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response Code: 401
+22:13:04.692 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response: {"error": "Your token is revoked"}
+22:13:04.693 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Browser closed for test: verifyInsertBoldContentAndFootnoteToPara
+22:13:04.693 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Thread Name: TestNG-test-RetryMultipleFailedTestcases-4
+22:13:04.693 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Thread ID: 29
+22:13:13.730 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - 'Please Wait' has disappeared. Proceeding.
+22:13:23.449 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - Updating Zephyr Test Case ID: IAPPAE-T2040 to Status: Pass
+22:13:23.451 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  b_utilities.UpdateZephyrTestExecution - Updating Zephyr Test Case: IAPPAE-T2040 in Cycle: IAPPAE-R25 with status: Pass
+22:13:24.165 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response Code: 401
+22:13:24.166 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response: {"error": "Your token is revoked"}
+22:13:25.315 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - Browser closed for test: verifyInsertIntoImageInsertParaThroughShortCutKeys
+22:13:25.315 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - Thread Name: TestNG-test-RetryMultipleFailedTestcases-2
+22:13:25.316 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - Thread ID: 27
+22:13:32.891 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - 'Please Wait' has disappeared. Proceeding.
+22:13:33.047 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Updating Zephyr Test Case ID: IAPPAE-T2041 to Status: Pass
+22:13:33.048 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  b_utilities.UpdateZephyrTestExecution - Updating Zephyr Test Case: IAPPAE-T2041 in Cycle: IAPPAE-R25 with status: Pass
+22:13:33.797 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response Code: 401
+22:13:33.798 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response: {"error": "Your token is revoked"}
+22:13:34.974 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Browser closed for test: verifyInsertIntoFootnoteParaCheckParaRightClickOptions
+22:13:34.976 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Thread Name: TestNG-test-RetryMultipleFailedTestcases-3
+22:13:34.976 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Thread ID: 28
+22:13:42.090 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - Updating Zephyr Test Case ID: IAPPAE-T2044 to Status: Pass
+22:13:42.093 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  b_utilities.UpdateZephyrTestExecution - Updating Zephyr Test Case: IAPPAE-T2044 in Cycle: IAPPAE-R25 with status: Pass
+22:13:42.877 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response Code: 401
+22:13:42.878 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response: {"error": "Your token is revoked"}
+22:13:44.082 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - Browser closed for test: verifyInsertIntoParaInNote
+22:13:44.083 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - Thread Name: TestNG-test-RetryMultipleFailedTestcases-1
+22:13:44.083 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - Thread ID: 26
+22:14:08.415 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - 'Please Wait' has disappeared. Proceeding.
+22:14:15.289 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  b_utilities.RetryAnalyzer - ❌ Updating Zephyr: Test Case ID - IAPPAE-T2009 | Status - Fail
+22:14:15.290 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  b_utilities.UpdateZephyrTestExecution - Updating Zephyr Test Case: IAPPAE-T2009 in Cycle: IAPPAE-R25 with status: Fail
+22:14:16.098 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response Code: 401
+22:14:16.098 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response: {"error": "Your token is revoked"}
+22:14:16.099 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Updating Zephyr Test Case ID: IAPPAE-T2009 to Status: Fail
+22:14:16.100 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  b_utilities.UpdateZephyrTestExecution - Updating Zephyr Test Case: IAPPAE-T2009 in Cycle: IAPPAE-R25 with status: Fail
+22:14:16.354 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response Code: 401
+22:14:16.354 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response: {"error": "Your token is revoked"}
+22:14:17.758 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Browser closed for test: verifyInsertBoldContentAndFootnoteToPara
+22:14:17.760 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Thread Name: TestNG-test-RetryMultipleFailedTestcases-4
+22:14:17.760 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Thread ID: 29
+22:14:27.353 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - 'Please Wait' has disappeared. Proceeding.
+22:14:34.672 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - Updating Zephyr Test Case ID: IAPPAE-T2052 to Status: Pass
+22:14:34.673 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  b_utilities.UpdateZephyrTestExecution - Updating Zephyr Test Case: IAPPAE-T2052 in Cycle: IAPPAE-R25 with status: Pass
+22:14:35.476 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response Code: 401
+22:14:35.476 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response: {"error": "Your token is revoked"}
+22:14:36.671 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - Browser closed for test: verifyInsertIntoParaInNoteQuickInsert
+22:14:36.672 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - Thread Name: TestNG-test-RetryMultipleFailedTestcases-2
+22:14:36.672 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - Thread ID: 27
+22:14:37.349 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - 'Please Wait' has disappeared. Proceeding.
+22:14:44.622 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Updating Zephyr Test Case ID: IAPPAE-T2055 to Status: Pass
+22:14:44.623 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  b_utilities.UpdateZephyrTestExecution - Updating Zephyr Test Case: IAPPAE-T2055 in Cycle: IAPPAE-R25 with status: Pass
+22:14:45.477 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response Code: 401
+22:14:45.478 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response: {"error": "Your token is revoked"}
+22:14:46.623 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Browser closed for test: verifyInsertIntoParaInNotesQuickInsert
+22:14:46.625 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Thread Name: TestNG-test-RetryMultipleFailedTestcases-3
+22:14:46.626 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Thread ID: 28
+22:14:48.405 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - 'Please Wait' has disappeared. Proceeding.
+22:15:21.371 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - 'Please Wait' has disappeared. Proceeding.
+22:15:23.728 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Updating Zephyr Test Case ID: IAPPAE-T2045 to Status: Pass
+22:15:23.729 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  b_utilities.UpdateZephyrTestExecution - Updating Zephyr Test Case: IAPPAE-T2045 in Cycle: IAPPAE-R25 with status: Pass
+22:15:24.667 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response Code: 401
+22:15:24.668 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response: {"error": "Your token is revoked"}
+22:15:25.849 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Browser closed for test: verifyInsertRevisionToParaAndHitEnter
+22:15:25.850 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Thread Name: TestNG-test-RetryMultipleFailedTestcases-4
+22:15:25.850 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Thread ID: 29
+22:15:39.302 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - 'Please Wait' has disappeared. Proceeding.
+22:15:48.867 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - 'Please Wait' has disappeared. Proceeding.
+22:15:53.346 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  b_utilities.RetryAnalyzer - 🔴 Browser closed before retry attempt: 1
+22:15:53.347 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Updating Zephyr Test Case ID: IAPPAE-T1999 to Status: Skip
+22:15:53.349 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  b_utilities.UpdateZephyrTestExecution - Updating Zephyr Test Case: IAPPAE-T1999 in Cycle: IAPPAE-R25 with status: Fail
+22:15:54.110 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response Code: 401
+22:15:54.111 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response: {"error": "Your token is revoked"}
+22:15:54.111 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Browser closed for test: verifyPlaceCursorAtEndOFParaAndCheckInsertAfterPopup
+22:15:54.111 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Thread Name: TestNG-test-RetryMultipleFailedTestcases-3
+22:15:54.111 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Thread ID: 28
+22:16:15.910 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - Updating Zephyr Test Case ID: IAPPAE-T2016 to Status: Pass
+22:16:15.911 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  b_utilities.UpdateZephyrTestExecution - Updating Zephyr Test Case: IAPPAE-T2016 in Cycle: IAPPAE-R25 with status: Pass
+22:16:16.701 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response Code: 401
+22:16:16.702 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response: {"error": "Your token is revoked"}
+22:16:17.983 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - Browser closed for test: verifyInsertNewPara
+22:16:17.984 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - Thread Name: TestNG-test-RetryMultipleFailedTestcases-1
+22:16:17.984 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - Thread ID: 26
+22:16:27.293 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - 'Please Wait' has disappeared. Proceeding.
+22:16:30.176 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  b_utilities.RetryAnalyzer - 🔴 Browser closed before retry attempt: 1
+22:16:30.177 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Updating Zephyr Test Case ID: IAPPAE-T1993 to Status: Skip
+22:16:30.178 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  b_utilities.UpdateZephyrTestExecution - Updating Zephyr Test Case: IAPPAE-T1993 in Cycle: IAPPAE-R25 with status: Fail
+22:16:31.086 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response Code: 401
+22:16:31.086 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response: {"error": "Your token is revoked"}
+22:16:31.087 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Browser closed for test: verifyPlaceCursorAtEndOFParaAndCheckInsertBeforePopup
+22:16:31.088 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Thread Name: TestNG-test-RetryMultipleFailedTestcases-4
+22:16:31.088 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Thread ID: 29
+22:16:58.127 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - 'Please Wait' has disappeared. Proceeding.
+22:17:02.357 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  b_utilities.RetryAnalyzer - ❌ Updating Zephyr: Test Case ID - IAPPAE-T1999 | Status - Fail
+22:17:02.358 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  b_utilities.UpdateZephyrTestExecution - Updating Zephyr Test Case: IAPPAE-T1999 in Cycle: IAPPAE-R25 with status: Fail
+22:17:03.153 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response Code: 401
+22:17:03.153 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response: {"error": "Your token is revoked"}
+22:17:03.154 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Updating Zephyr Test Case ID: IAPPAE-T1999 to Status: Fail
+22:17:03.155 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  b_utilities.UpdateZephyrTestExecution - Updating Zephyr Test Case: IAPPAE-T1999 in Cycle: IAPPAE-R25 with status: Fail
+22:17:03.419 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response Code: 401
+22:17:03.420 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response: {"error": "Your token is revoked"}
+22:17:04.793 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Browser closed for test: verifyPlaceCursorAtEndOFParaAndCheckInsertAfterPopup
+22:17:04.794 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Thread Name: TestNG-test-RetryMultipleFailedTestcases-3
+22:17:04.794 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Thread ID: 28
+22:17:06.014 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - Updating Zephyr Test Case ID: IAPPAE-T2027 to Status: Pass
+22:17:06.017 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  b_utilities.UpdateZephyrTestExecution - Updating Zephyr Test Case: IAPPAE-T2027 in Cycle: IAPPAE-R25 with status: Pass
+22:17:06.351 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response Code: 401
+22:17:06.351 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response: {"error": "Your token is revoked"}
+22:17:07.877 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - Browser closed for test: verifyNewparaBoldContetInsertAfterPara
+22:17:07.880 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - Thread Name: TestNG-test-RetryMultipleFailedTestcases-2
+22:17:07.880 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - Thread ID: 27
+22:17:19.219 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - 'Please Wait' has disappeared. Proceeding.
+22:17:23.743 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - Updating Zephyr Test Case ID: IAPPAE-T1996 to Status: Pass
+22:17:23.745 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  b_utilities.UpdateZephyrTestExecution - Updating Zephyr Test Case: IAPPAE-T1996 in Cycle: IAPPAE-R25 with status: Pass
+22:17:24.531 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response Code: 401
+22:17:24.532 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response: {"error": "Your token is revoked"}
+22:17:25.694 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - Browser closed for test: verifyPlaceCursorAtEndOFParaAndCheckInsertIntoPopup
+22:17:25.696 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - Thread Name: TestNG-test-RetryMultipleFailedTestcases-1
+22:17:25.696 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - Thread ID: 26
+22:17:31.596 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - 'Please Wait' has disappeared. Proceeding.
+22:17:34.582 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  b_utilities.RetryAnalyzer - ❌ Updating Zephyr: Test Case ID - IAPPAE-T1993 | Status - Fail
+22:17:34.583 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  b_utilities.UpdateZephyrTestExecution - Updating Zephyr Test Case: IAPPAE-T1993 in Cycle: IAPPAE-R25 with status: Fail
+22:17:35.456 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response Code: 401
+22:17:35.456 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response: {"error": "Your token is revoked"}
+22:17:35.457 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Updating Zephyr Test Case ID: IAPPAE-T1993 to Status: Fail
+22:17:35.458 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  b_utilities.UpdateZephyrTestExecution - Updating Zephyr Test Case: IAPPAE-T1993 in Cycle: IAPPAE-R25 with status: Fail
+22:17:35.729 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response Code: 401
+22:17:35.729 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response: {"error": "Your token is revoked"}
+22:17:37.057 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Browser closed for test: verifyPlaceCursorAtEndOFParaAndCheckInsertBeforePopup
+22:17:37.058 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Thread Name: TestNG-test-RetryMultipleFailedTestcases-4
+22:17:37.058 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Thread ID: 29
+22:18:08.688 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - 'Please Wait' has disappeared. Proceeding.
+22:18:12.989 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - 'Please Wait' has disappeared. Proceeding.
+22:18:13.539 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  b_utilities.RetryAnalyzer - 🔴 Browser closed before retry attempt: 1
+22:18:13.540 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Updating Zephyr Test Case ID: IAPPAE-T1998 to Status: Skip
+22:18:13.541 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  b_utilities.UpdateZephyrTestExecution - Updating Zephyr Test Case: IAPPAE-T1998 in Cycle: IAPPAE-R25 with status: Fail
+22:18:14.325 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response Code: 401
+22:18:14.325 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response: {"error": "Your token is revoked"}
+22:18:14.326 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Browser closed for test: verifyPlaceCursorAtMiddleOFParaAndCheckInsertAfterPopup
+22:18:14.326 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Thread Name: TestNG-test-RetryMultipleFailedTestcases-3
+22:18:14.327 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Thread ID: 28
+22:18:19.562 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  b_utilities.RetryAnalyzer - 🔴 Browser closed before retry attempt: 1
+22:18:19.563 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - Updating Zephyr Test Case ID: IAPPAE-T1992 to Status: Skip
+22:18:19.564 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  b_utilities.UpdateZephyrTestExecution - Updating Zephyr Test Case: IAPPAE-T1992 in Cycle: IAPPAE-R25 with status: Fail
+22:18:20.341 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response Code: 401
+22:18:20.341 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response: {"error": "Your token is revoked"}
+22:18:20.343 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - Browser closed for test: verifyPlaceCursorAtMiddleOFParaAndCheckInsertBeforePopup
+22:18:20.343 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - Thread Name: TestNG-test-RetryMultipleFailedTestcases-2
+22:18:20.343 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - Thread ID: 27
+22:18:29.267 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - 'Please Wait' has disappeared. Proceeding.
+22:18:33.366 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - Updating Zephyr Test Case ID: IAPPAE-T1995 to Status: Pass
+22:18:33.367 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  b_utilities.UpdateZephyrTestExecution - Updating Zephyr Test Case: IAPPAE-T1995 in Cycle: IAPPAE-R25 with status: Pass
+22:18:34.147 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response Code: 401
+22:18:34.147 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response: {"error": "Your token is revoked"}
+22:18:35.352 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - Browser closed for test: verifyPlaceCursorAtMiddleOFParaAndCheckInsertIntoPopup
+22:18:35.353 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - Thread Name: TestNG-test-RetryMultipleFailedTestcases-1
+22:18:35.353 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - Thread ID: 26
+22:18:42.622 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - 'Please Wait' has disappeared. Proceeding.
+22:18:47.814 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  b_utilities.RetryAnalyzer - 🔴 Browser closed before retry attempt: 1
+22:18:47.816 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Updating Zephyr Test Case ID: IAPPAE-T1997 to Status: Skip
+22:18:47.819 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  b_utilities.UpdateZephyrTestExecution - Updating Zephyr Test Case: IAPPAE-T1997 in Cycle: IAPPAE-R25 with status: Fail
+22:18:48.679 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response Code: 401
+22:18:48.680 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response: {"error": "Your token is revoked"}
+22:18:48.680 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Browser closed for test: verifyPlaceCursorAtStartingOFParaAndCheckInsertAfterPopup
+22:18:48.681 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Thread Name: TestNG-test-RetryMultipleFailedTestcases-4
+22:18:48.681 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Thread ID: 29
+22:19:19.207 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - 'Please Wait' has disappeared. Proceeding.
+22:19:20.556 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  b_utilities.RetryAnalyzer - ❌ Updating Zephyr: Test Case ID - IAPPAE-T1998 | Status - Fail
+22:19:20.557 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  b_utilities.UpdateZephyrTestExecution - Updating Zephyr Test Case: IAPPAE-T1998 in Cycle: IAPPAE-R25 with status: Fail
+22:19:21.309 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response Code: 401
+22:19:21.309 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response: {"error": "Your token is revoked"}
+22:19:21.309 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Updating Zephyr Test Case ID: IAPPAE-T1998 to Status: Fail
+22:19:21.310 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  b_utilities.UpdateZephyrTestExecution - Updating Zephyr Test Case: IAPPAE-T1998 in Cycle: IAPPAE-R25 with status: Fail
+22:19:21.560 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response Code: 401

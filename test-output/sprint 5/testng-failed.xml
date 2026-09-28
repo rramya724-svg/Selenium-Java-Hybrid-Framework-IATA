@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="4" parallel="methods" name="Failed suite [Sprint 5]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="b_utilities.ExtentReportManager"/>
+    <listener class-name="b_utilities.AnnotationTransfer"/>
+  </listeners>
+  <test thread-count="4" parallel="methods" name="RetryMultipleFailedTestcases(failed)">
+    <classes>
+      <class name="sprint5_TestCases.Ac_RedoTC">
+        <methods>
+          <include name="TC051_verifyRedoInsertintoEmphasis"/>
+          <include name="setup"/>
+          <include name="printThreadDetails"/>
+          <include name="initialize"/>
+          <include name="TC052_verifyRedoNewlyAddedCaptionTable"/>
+          <include name="tearDown"/>
+          <include name="initializeSuit"/>
+        </methods>
+      </class> <!-- sprint5_TestCases.Ac_RedoTC -->
+      <class name="sprint5_TestCases.Ab_UndoTC">
+        <methods>
+          <include name="TC031_verifyUndoNewlyAddedCaptionTable"/>
+          <include name="initialize"/>
+          <include name="setup"/>
+          <include name="printThreadDetails"/>
+          <include name="tearDown"/>
+          <include name="initializeSuit"/>
+          <include name="TC027_verifyUndoInFootnote"/>
+        </methods>
+      </class> <!-- sprint5_TestCases.Ab_UndoTC -->
+    </classes>
+  </test> <!-- RetryMultipleFailedTestcases(failed) -->
+</suite> <!-- Failed suite [Sprint 5] -->

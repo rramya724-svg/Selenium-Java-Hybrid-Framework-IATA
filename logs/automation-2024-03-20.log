@@ -1,0 +1,390 @@
+17:15:11.402 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint4_TestCases.J_CommonTestcases - Logged in and searched for a file, then clicked Edit.
+17:15:11.698 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.J_CommonTestcases - Logged in and searched for a file, then clicked Edit.
+17:15:18.644 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint4_TestCases.J_CommonTestcases - Starting insertTableCBAndCheckHighliting
+17:15:22.303 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint4_TestCases.J_CommonTestcases - Starting verify_Table_InsideSection
+17:15:24.073 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.J_CommonTestcases - Inserted Table in DS
+17:15:51.753 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint4_TestCases.J_CommonTestcases - Verifying content validation is not Occured...
+17:15:51.753 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint4_TestCases.J_CommonTestcases - Finished verify_Table_ContentValidation_Erorr
+17:15:58.499 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint4_TestCases.J_CommonTestcases - Starting verify_Table_Options_AttributePanelEqual
+17:16:01.838 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.J_CommonTestcases - Starting verify_SelectingSingleCell
+17:16:06.379 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint4_TestCases.J_CommonTestcases - Logged in and searched for a file, then clicked Edit.
+17:16:07.699 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint4_TestCases.J_CommonTestcases - Logged in and searched for a file, then clicked Edit.
+17:16:08.184 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint4_TestCases.J_CommonTestcases - clicked on section heading from VE
+17:16:13.841 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint4_TestCases.J_CommonTestcases - Inserted Table in DS
+17:16:13.879 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint4_TestCases.J_CommonTestcases - Switched to frame 0.
+17:16:24.248 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint4_TestCases.J_CommonTestcases - Clicked on Change Element
+17:16:24.568 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint4_TestCases.J_CommonTestcases - clicked on change element table
+17:16:25.732 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint4_TestCases.J_CommonTestcases - Finished verify_Table_InsideSection
+17:16:32.091 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint4_TestCases.J_CommonTestcases - Starting verifyDeleteColumnMultipleTimesAndVerifyExistingTable
+17:16:45.104 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.J_CommonTestcases - Logged in and searched for a file, then clicked Edit.
+17:16:46.419 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint4_TestCases.J_CommonTestcases - Logged in and searched for a file, then clicked Edit.
+17:16:47.604 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint4_TestCases.J_CommonTestcases - clicked on First para from DS
+17:16:47.778 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint4_TestCases.J_CommonTestcases - clicked on table icon
+17:16:47.810 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint4_TestCases.J_CommonTestcases - Switched to frame 1.
+17:16:53.300 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint4_TestCases.J_CommonTestcases - clicked on more options
+17:16:53.312 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint4_TestCases.J_CommonTestcases - Switched back to default content.
+17:16:53.764 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint4_TestCases.J_CommonTestcases - clicked on more options row
+17:16:53.876 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint4_TestCases.J_CommonTestcases - clicked on more options column
+17:16:54.570 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.J_CommonTestcases - Starting verifyDeleteColumnMultipleTimesAndVerifyNewTable
+17:16:54.578 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint4_TestCases.J_CommonTestcases - clicked more options ok Btn
+17:16:54.748 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint4_TestCases.J_CommonTestcases - verifying cell spacing value contains 10
+17:16:54.787 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint4_TestCases.J_CommonTestcases - verifying cell padding value contains 10
+17:16:54.787 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint4_TestCases.J_CommonTestcases - Finished verify_Table_Options_AttributePanelEqual
+17:17:00.768 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint4_TestCases.J_CommonTestcases - Starting verifyInsertAndAddedtableRowsAndColumn
+17:17:16.165 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint4_TestCases.J_CommonTestcases - Logged in and searched for a file, then clicked Edit.
+17:17:16.200 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint4_TestCases.J_CommonTestcases - Switched to frame 0.
+17:17:21.422 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint4_TestCases.J_CommonTestcases - Starting verifyInsertTableInsideRemovedBlock
+17:17:39.047 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.J_CommonTestcases - Logged in and searched for a file, then clicked Edit.
+17:17:49.117 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.J_CommonTestcases - Starting verifyDeleteColumnMultipleTimesAndVerifyNewTable
+17:17:52.203 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint4_TestCases.J_CommonTestcases - Logged in and searched for a file, then clicked Edit.
+17:18:03.309 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint4_TestCases.J_CommonTestcases - Inserted Table in DS
+17:18:03.364 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint4_TestCases.J_CommonTestcases - Switched to frame 0.
+17:18:03.814 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint4_TestCases.J_CommonTestcases - Switched back to default content.
+17:18:04.564 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint4_TestCases.J_CommonTestcases - Clicked on insert above
+17:18:04.812 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint4_TestCases.J_CommonTestcases - Switched to frame 0.
+17:18:08.502 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint4_TestCases.J_CommonTestcases - Logged in and searched for a file, then clicked Edit.
+17:18:17.213 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint4_TestCases.J_CommonTestcases - Switched to frame 0.
+17:18:17.452 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint4_TestCases.J_CommonTestcases - Switched back to default content.
+17:18:32.520 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.J_CommonTestcases - Logged in and searched for a file, then clicked Edit.
+17:18:42.968 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.J_CommonTestcases - Starting verifyDeleteColumnMultipleTimesAndVerifyNewTable
+17:18:44.219 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint4_TestCases.J_CommonTestcases - Starting verifyDeleteColumnMultipleTimesAndVerifyExistingTable
+17:18:45.294 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint4_TestCases.J_CommonTestcases - Starting verifyInsertTableInsideRemovedBlock
+17:18:50.670 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint4_TestCases.J_CommonTestcases - Starting verifyInsertAndAddedtableRowsAndColumn
+17:19:25.745 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.J_CommonTestcases - Logged in and searched for a file, then clicked Edit.
+17:19:29.292 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint4_TestCases.J_CommonTestcases - Logged in and searched for a file, then clicked Edit.
+17:19:29.528 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint4_TestCases.J_CommonTestcases - Switched to frame 0.
+17:19:32.629 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint4_TestCases.J_CommonTestcases - Logged in and searched for a file, then clicked Edit.
+17:19:33.235 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint4_TestCases.J_CommonTestcases - Logged in and searched for a file, then clicked Edit.
+17:19:37.939 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint4_TestCases.J_CommonTestcases - Switched to frame 0.
+17:19:38.160 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint4_TestCases.J_CommonTestcases - Switched back to default content.
+17:19:39.719 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.J_CommonTestcases - Inserted Table in DS
+17:19:39.985 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.J_CommonTestcases - clicked on Accept change
+17:19:40.033 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.J_CommonTestcases - Switched to frame 0.
+17:19:40.266 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.J_CommonTestcases - clicked on Inserted Table First Cell
+17:19:40.274 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.J_CommonTestcases - Switched back to default content.
+17:19:40.289 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.J_CommonTestcases - Switched to frame 0.
+17:19:46.361 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint4_TestCases.J_CommonTestcases - Inserted Table in DS
+17:19:46.392 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint4_TestCases.J_CommonTestcases - Switched to frame 0.
+17:19:46.749 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint4_TestCases.J_CommonTestcases - Switched back to default content.
+17:19:47.325 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint4_TestCases.J_CommonTestcases - Clicked on insert above
+17:19:47.534 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint4_TestCases.J_CommonTestcases - Switched to frame 0.
+17:20:04.178 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint4_TestCases.J_CommonTestcases - Starting verifyInsertTableInsideRemovedBlock
+17:20:07.301 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.J_CommonTestcases - Starting verifyMediaObjectDeletedInCell
+17:20:33.983 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint4_TestCases.J_CommonTestcases - Starting verifyInsertAndAddedtableRowsAndColumn
+17:20:44.371 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint4_TestCases.J_CommonTestcases - Logged in and searched for a file, then clicked Edit.
+17:20:44.445 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.J_CommonTestcases - Logged in and searched for a file, then clicked Edit.
+17:20:53.850 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.J_CommonTestcases - Inserted Table in DS
+17:20:53.859 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint4_TestCases.J_CommonTestcases - Switched to frame 0.
+17:20:54.130 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.J_CommonTestcases - Switched to frame 0.
+17:20:54.957 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.J_CommonTestcases - clicked on Inserted Table First Cell
+17:20:54.973 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.J_CommonTestcases - Switched back to default content.
+17:20:55.003 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint4_TestCases.J_CommonTestcases - Switched back to default content.
+17:20:55.402 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.J_CommonTestcases - clicked on Insert plugin
+17:20:57.103 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint4_TestCases.J_CommonTestcases - Starting verifyDeleteColumnMultipleTimesAndVerifyExistingTable
+17:20:58.256 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.J_CommonTestcases - clicked on Insert plugin image button
+17:20:58.556 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.J_CommonTestcases - clicked on Insert into
+17:21:03.705 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.J_CommonTestcases - clicked on image insert button
+17:21:04.129 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.J_CommonTestcases - clicked on insert button
+17:21:04.187 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.J_CommonTestcases - Switched to frame 0.
+17:21:04.234 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.J_CommonTestcases - verifying Table inside Img is not present after adding from rightclick
+17:21:04.236 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.J_CommonTestcases - Switched back to default content.
+17:21:04.247 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.J_CommonTestcases - Switched to frame 1.
+17:21:05.926 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.J_CommonTestcases - clicked on table image flite element
+17:21:06.057 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.J_CommonTestcases - verifying Table inside Img is not present after adding from rightclick
+17:21:06.057 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.J_CommonTestcases - Finished verifyMediaObjectDeletedInCell
+17:21:11.135 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint6_TestCases.HL_CommonBugsTC - Starting the test TC615_verifyDeleteSomeContentInsertTableCheckTC
+17:21:16.094 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint4_TestCases.J_CommonTestcases - Logged in and searched for a file, then clicked Edit.
+17:21:24.274 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.E_CommonTC - Starting verifyListInTable
+17:21:25.753 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint4_TestCases.J_CommonTestcases - Inserted Table in DS
+17:21:25.807 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint4_TestCases.J_CommonTestcases - Switched to frame 0.
+17:21:26.306 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint4_TestCases.J_CommonTestcases - Switched back to default content.
+17:21:26.795 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint4_TestCases.J_CommonTestcases - Clicked on insert above
+17:21:26.970 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint4_TestCases.J_CommonTestcases - Switched to frame 0.
+17:21:39.555 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint4_TestCases.J_CommonTestcases - Logged in and searched for a file, then clicked Edit.
+17:21:39.630 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint4_TestCases.J_CommonTestcases - Switched to frame 0.
+17:21:55.717 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint6_TestCases.HL_CommonBugsTC - Logged in and searched for the file, then clicked on edit.
+17:21:55.724 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint6_TestCases.HL_CommonBugsTC - Initialized HL_CommonBugs.
+17:21:55.724 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint6_TestCases.HL_CommonBugsTC - UIUX-1842
+17:21:55.724 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint6_TestCases.HL_CommonBugsTC - Commented out ReusableMethods.ResetFile().
+17:21:57.711 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint6_TestCases.HL_CommonBugsTC - Clicked on the first paragraph in DS.
+17:21:58.425 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint6_TestCases.HL_CommonBugsTC - Clicked on 'Insert Plugin'.
+17:21:58.810 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint6_TestCases.HL_CommonBugsTC - Clicked on 'Insert Popup Element' button.
+17:22:03.491 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint6_TestCases.HL_CommonBugsTC - Clicked on 'Insert After'.
+17:22:03.665 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint6_TestCases.HL_CommonBugsTC - Selected the 'table' element in the popup.
+17:22:03.943 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint6_TestCases.HL_CommonBugsTC - Clicked on 'Insert Element' button.
+17:22:05.455 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint6_TestCases.HL_CommonBugsTC - Clicked on 'Table Properties OK' button.
+17:22:05.691 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint6_TestCases.HL_CommonBugsTC - Clicked on 'Track Change'.
+17:22:05.724 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint6_TestCases.HL_CommonBugsTC - Verified that the table is inserted, and TC panel is updated.
+17:22:05.724 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint6_TestCases.HL_CommonBugsTC - Test TC615_verifyDeleteSomeContentInsertTableCheckTC completed.
+17:22:08.387 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.E_CommonTC - Logged in, searched for a file, and clicked Edit.
+17:22:08.387 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.E_CommonTC - Finished verifyListInTable ..
+17:22:13.215 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ca_TableTC - Starting verify_Insert_Table
+17:22:14.724 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ca_TableTC - Starting DeleteTableandVerify_ExistingTable
+17:22:15.905 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ca_TableTC - Starting changeParaToTableAndVerify
+17:22:56.137 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ca_TableTC - Logged in, searched for a file, and clicked Edit.
+17:22:56.137 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ca_TableTC - Created F4_Table instance.
+17:22:59.179 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ca_TableTC - Logged in, searched for a file, and clicked Edit.
+17:22:59.179 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ca_TableTC - Created F4_Table instance.
+17:23:01.417 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ca_TableTC - Logged in, searched for a file, and clicked Edit.
+17:23:01.432 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ca_TableTC - Created F4_Table instance.
+17:23:08.583 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ca_TableTC - Starting verifyInsertRowAboveAndVerify ..
+17:23:11.675 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ca_TableTC - Switched to frame 0.
+17:23:11.909 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ca_TableTC - Clicked on an existing table cell.
+17:23:11.983 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ca_TableTC - Table is added in the visual editor.
+17:23:11.985 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ca_TableTC - Switched back to default content.
+17:23:12.495 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ca_TableTC - Clicked on the deleted table.
+17:23:12.995 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ca_TableTC - Clicked on an existing table cell again.
+17:23:13.236 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ca_TableTC - Clicked Accept Change.
+17:23:15.904 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ca_TableTC - Inserted table using ReusableMethods.
+17:23:15.922 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ca_TableTC - Switched to frame 0.
+17:23:25.326 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ca_TableTC - Clicked Change Element.
+17:23:25.759 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ca_TableTC - Selected Table.
+17:23:26.949 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ca_TableTC - Table Properties popup is displayed.
+17:23:27.308 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ca_TableTC - Clicked OK Button.
+17:23:27.415 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ca_TableTC - Switched to frame 0.
+17:23:27.450 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ca_TableTC - Table is added in the Visual Editor.
+17:23:27.633 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ca_TableTC - Clicked Accept Change.
+17:23:27.710 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ca_TableTC - Document Structure is updated after adding the table.
+17:23:27.849 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ca_TableTC - Clicked Quick Preview.
+17:23:28.013 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ca_TableTC - Inserted table is present in Quick Preview.
+17:23:28.292 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ca_TableTC - Clicked Code View.
+17:24:01.443 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ca_TableTC - Logged in, searched for a file, and clicked Edit.
+17:24:01.444 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ca_TableTC - Created D_TP_Insertions instance.
+17:24:10.235 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ca_TableTC - Starting verifyInsertRowAboveAndVerify ..
+17:24:13.980 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ca_TableTC - After deleting table, there is no table in the visual editor.
+17:24:13.980 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ca_TableTC - Finished DeleteTableandVerify_ExistingTable
+17:24:19.540 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ca_TableTC - Starting insertRowBelowAndVerify ..
+17:24:23.976 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ca_TableTC - Starting verify_Insert_Table
+17:24:28.900 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ca_TableTC - No Content Validation error is present in CodeView.
+17:24:28.900 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ca_TableTC - Finished changeParaToTableAndVerify
+17:24:37.398 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ca_TableTC - Starting verifyInsertColumnLeft
+17:24:58.576 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ca_TableTC - Logged in, searched for a file, and clicked Edit.
+17:24:58.577 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ca_TableTC - Created D_TP_Insertions instance.
+17:25:21.425 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ca_TableTC - Starting verifyInsertColumnRight
+17:25:21.975 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ca_TableTC - Logged in, searched for a file, and clicked Edit.
+17:25:21.975 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ca_TableTC - Created D_TP_Insertions instance.
+17:25:26.692 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ca_TableTC - Logged in, searched for a file, and clicked Edit.
+17:25:26.692 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ca_TableTC - Created F4_Table instance.
+17:25:27.755 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ca_TableTC - Logged in, searched for a file, and clicked Edit.
+17:25:27.756 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ca_TableTC - Created D_TP_Insertions instance.
+17:25:38.343 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ca_TableTC - Starting insertRowBelowAndVerify ..
+17:25:39.307 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ca_TableTC - Starting verifyChangeSectionHeadingTableAndVerify
+17:25:49.706 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ca_TableTC - Inserted a new table.
+17:25:50.111 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ca_TableTC - Clicked Accept Change.
+17:25:50.213 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ca_TableTC - Switched to frame 0.
+17:25:51.067 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ca_TableTC - Clicked on the first cell of the inserted table.
+17:25:51.205 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ca_TableTC - Number of rows before inserting column: 17
+17:25:51.212 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ca_TableTC - Switched back to default content.
+17:25:52.305 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ca_TableTC - Clicked Insert Left.
+17:25:52.487 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ca_TableTC - Number of columns after inserting column is different from before inserting column.
+17:25:52.487 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ca_TableTC - Finished verifyInsertColumnLeft
+17:26:03.592 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ca_TableTC - Starting verifyDeleteExistingtTableBackspaceKey
+17:26:27.139 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ca_TableTC - Logged in, searched for a file, and clicked Edit.
+17:26:27.140 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ca_TableTC - Created G_ChangeElement instance.
+17:26:42.226 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ca_TableTC - Logged in, searched for a file, and clicked Edit.
+17:26:42.226 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ca_TableTC - Created D_TP_Insertions instance.
+17:26:42.689 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ca_TableTC - Logged in, searched for a file, and clicked Edit.
+17:26:42.690 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ca_TableTC - Created D_TP_Insertions instance.
+17:26:54.026 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ca_TableTC - Starting verifyChangeSectionHeadingTableAndVerify
+17:26:54.233 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ca_TableTC - Starting verifyDeleteNewTableAndCheckTC
+17:26:56.630 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ca_TableTC - Logged in, searched for a file, and clicked Edit.
+17:27:05.572 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ca_TableTC - Inserted a new table.
+17:27:06.240 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ca_TableTC - Clicked Accept Change.
+17:27:06.380 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ca_TableTC - Switched to frame 0.
+17:27:08.134 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ca_TableTC - Clicked on the first cell of the inserted table.
+17:27:08.253 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ca_TableTC - Number of rows before inserting column: 8
+17:27:08.256 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ca_TableTC - Switched back to default content.
+17:27:09.553 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ca_TableTC - Clicked Insert Right.
+17:27:09.682 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ca_TableTC - Switched to frame 0.
+17:27:09.718 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ca_TableTC - Number of columns after inserting column is different from before inserting column.
+17:27:09.718 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ca_TableTC - Finished verifyInsertColumnRight
+17:27:26.481 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ca_TableTC - Starting verifyDeleteExistingtTableBackspaceKey
+17:27:45.972 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ca_TableTC - Logged in, searched for a file, and clicked Edit.
+17:27:45.972 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ca_TableTC - Created G_ChangeElement instance.
+17:28:12.268 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ca_TableTC - Starting verifyChangeSectionHeadingTableAndVerify
+17:28:18.041 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ca_TableTC - Logged in, searched for a file, and clicked Edit.
+17:28:23.041 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ca_TableTC - Logged in, searched for a file, and clicked Edit.
+17:28:23.057 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ca_TableTC - Created B_Table instance.
+17:28:29.614 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ca_TableTC - Logged in and searched for a file, then clicked Edit.
+17:28:42.337 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ca_TableTC - Starting verifyDeleteExistingtTableBackspaceKey
+17:28:45.818 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ca_TableTC - Verifying Content not allowed inside info msg is present and empty space is not inserted
+17:28:53.944 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ca_TableTC - Starting DeleteRow_ExistingTable
+17:28:59.842 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ca_TableTC - Inserted table using ReusableMethods.
+17:29:00.082 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ca_TableTC - Clicked on track changes.
+17:29:02.878 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ca_TableTC - Switched to frame 0.
+17:29:04.014 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ca_TableTC - Switched back to default content.
+17:29:10.257 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ca_TableTC - Logged in, searched for a file, and clicked Edit.
+17:29:10.259 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ca_TableTC - Created G_ChangeElement instance.
+17:30:47.234 [main] INFO  Elements_Testcases.Ae_UndoRedoTC - Starting VerifyDeleteSection ..
+17:31:21.767 [main] INFO  Elements_Testcases.Ae_UndoRedoTC - Switched to frame 0.
+17:31:22.105 [main] INFO  Elements_Testcases.Ae_UndoRedoTC - Clicked on the first cell of the existing table.
+17:31:22.136 [main] INFO  Elements_Testcases.Ae_UndoRedoTC - Switched back to default content.
+17:35:06.461 [main] INFO  BasicEditingTC.F4_TableTC - Starting DeleteTableandVerify_ExistingTable
+17:35:31.466 [main] INFO  BasicEditingTC.F4_TableTC - Logged in, searched for a file, and clicked Edit.
+17:35:31.476 [main] INFO  BasicEditingTC.F4_TableTC - Created F4_Table instance.
+17:35:37.419 [main] INFO  BasicEditingTC.F4_TableTC - Switched to frame 0.
+17:35:37.649 [main] INFO  BasicEditingTC.F4_TableTC - Clicked on an existing table cell.
+17:35:37.708 [main] INFO  BasicEditingTC.F4_TableTC - Table is added in the visual editor.
+17:35:37.716 [main] INFO  BasicEditingTC.F4_TableTC - Switched back to default content.
+17:35:37.839 [main] INFO  BasicEditingTC.F4_TableTC - Clicked on Table Properties tab.
+17:35:38.318 [main] INFO  BasicEditingTC.F4_TableTC - Clicked on the deleted table.
+17:35:38.852 [main] INFO  BasicEditingTC.F4_TableTC - Clicked on an existing table cell again.
+17:35:39.086 [main] INFO  BasicEditingTC.F4_TableTC - Clicked Accept Change.
+17:36:35.501 [main] INFO  BasicEditingTC.F4_TableTC - After deleting table, there is no table in the visual editor.
+17:36:35.501 [main] INFO  BasicEditingTC.F4_TableTC - Finished DeleteTableandVerify_ExistingTable
+17:38:58.267 [main] INFO  BasicEditingTC.F4_TableTC - Starting verify_Delete_Existing_Table_Undo
+17:39:22.101 [main] INFO  BasicEditingTC.F4_TableTC - Logged in, searched for a file, and clicked Edit.
+17:39:28.752 [main] INFO  BasicEditingTC.F4_TableTC - Clicked on the first cell of the existing table.
+17:39:28.756 [main] INFO  BasicEditingTC.F4_TableTC - Switched back to default content.
+17:39:28.861 [main] INFO  BasicEditingTC.F4_TableTC - Clicked on Table Properties tab.
+17:39:28.874 [main] INFO  BasicEditingTC.F4_TableTC - Switched to frame 0.
+17:39:29.192 [main] INFO  BasicEditingTC.F4_TableTC - Clicked on the first cell of the existing table.
+17:39:29.237 [main] INFO  BasicEditingTC.F4_TableTC - Switched back to default content.
+17:39:29.957 [main] INFO  BasicEditingTC.F4_TableTC - Clicked on Deleted Table.
+17:39:30.140 [main] INFO  BasicEditingTC.F4_TableTC - Switched to frame 0.
+17:39:30.222 [main] INFO  BasicEditingTC.F4_TableTC - Exiting Table is deleted and displayed in Red Color.
+17:39:30.548 [main] INFO  BasicEditingTC.F4_TableTC - Clicked Accept Change.
+17:39:30.800 [main] INFO  BasicEditingTC.F4_TableTC - Switched to frame 0.
+17:40:31.394 [main] INFO  BasicEditingTC.F4_TableTC - Exiting Table is no longer present after clicking Accept Change.
+17:40:31.706 [main] INFO  BasicEditingTC.F4_TableTC - Performing Undo operation.
+17:46:40.667 [main] INFO  BasicEditingTC.F4_TableTC - Starting verify_Delete_Existing_Table_Undo
+17:47:06.798 [main] INFO  BasicEditingTC.F4_TableTC - Logged in, searched for a file, and clicked Edit.
+17:47:23.658 [main] INFO  BasicEditingTC.F4_TableTC - Starting verify_Delete_Existing_Table_Undo
+17:47:52.077 [main] INFO  BasicEditingTC.F4_TableTC - Logged in, searched for a file, and clicked Edit.
+17:48:00.140 [main] INFO  BasicEditingTC.F4_TableTC - Clicked on the first cell of the existing table.
+17:48:00.151 [main] INFO  BasicEditingTC.F4_TableTC - Switched back to default content.
+17:48:00.251 [main] INFO  BasicEditingTC.F4_TableTC - Clicked on Table Properties tab.
+17:48:00.260 [main] INFO  BasicEditingTC.F4_TableTC - Switched to frame 0.
+17:48:00.467 [main] INFO  BasicEditingTC.F4_TableTC - Clicked on the first cell of the existing table.
+17:48:00.484 [main] INFO  BasicEditingTC.F4_TableTC - Switched back to default content.
+17:48:00.859 [main] INFO  BasicEditingTC.F4_TableTC - Clicked on Deleted Table.
+17:48:00.985 [main] INFO  BasicEditingTC.F4_TableTC - Switched to frame 0.
+17:48:01.034 [main] INFO  BasicEditingTC.F4_TableTC - Exiting Table is deleted and displayed in Red Color.
+17:48:01.199 [main] INFO  BasicEditingTC.F4_TableTC - Clicked Accept Change.
+17:48:01.230 [main] INFO  BasicEditingTC.F4_TableTC - Switched to frame 0.
+17:48:56.293 [main] INFO  BasicEditingTC.F4_TableTC - Starting verify_ListInsideTable
+17:49:01.878 [main] INFO  BasicEditingTC.F4_TableTC - Exiting Table is no longer present after clicking Accept Change.
+17:49:02.240 [main] INFO  BasicEditingTC.F4_TableTC - Performing Undo operation.
+17:49:36.145 [main] INFO  BasicEditingTC.F4_TableTC - Starting verify_ListInsideTable
+17:50:00.852 [main] INFO  BasicEditingTC.F4_TableTC - Logged in, searched for a file, and clicked Edit.
+17:50:00.864 [main] INFO  BasicEditingTC.F4_TableTC - Created F4_Table instance.
+17:52:48.946 [main] INFO  sprint4_TestCases.G_ChangeElementTC - Starting verifyTablepropertiesAttributePanelPara
+17:53:10.817 [main] INFO  sprint4_TestCases.G_ChangeElementTC - Logged in, searched for a file, and clicked Edit.
+17:53:10.825 [main] INFO  sprint4_TestCases.G_ChangeElementTC - Created G_ChangeElement instance.
+17:53:17.750 [main] INFO  sprint4_TestCases.G_ChangeElementTC - Finished verifyTablepropertiesAttributePanelPara
+17:54:36.980 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F4_TableTC - Starting verify_Insert_Table
+17:54:36.998 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F4_TableTC - Starting DeleteTableandVerify_ExistingTable
+17:54:37.190 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  BasicEditingTC.F4_TableTC - Starting verify_InsertRow_ExistingTable
+17:55:11.589 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  BasicEditingTC.F4_TableTC - Logged in, searched for a file, and clicked Edit.
+17:55:11.591 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F4_TableTC - Logged in, searched for a file, and clicked Edit.
+17:55:11.608 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F4_TableTC - Logged in, searched for a file, and clicked Edit.
+17:55:11.620 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F4_TableTC - Created F4_Table instance.
+17:55:11.620 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  BasicEditingTC.F4_TableTC - Created F4_Table instance.
+17:55:11.621 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F4_TableTC - Created F4_Table instance.
+17:55:26.762 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  BasicEditingTC.F4_TableTC - Starting verify_InsertColumn_ExistingTable
+17:55:30.113 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F4_TableTC - Starting verify_Insert_Table
+17:55:32.658 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  BasicEditingTC.F4_TableTC - Switched to frame 0.
+17:55:32.943 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  BasicEditingTC.F4_TableTC - Clicked on the first cell of the existing table.
+17:55:32.957 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  BasicEditingTC.F4_TableTC - Switched back to default content.
+17:55:33.103 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  BasicEditingTC.F4_TableTC - Clicked on Table Properties tab.
+17:55:33.140 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  BasicEditingTC.F4_TableTC - Row count before insertion is 3.
+17:55:33.614 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  BasicEditingTC.F4_TableTC - Clicked Insert Above.
+17:55:33.795 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  BasicEditingTC.F4_TableTC - Row count after insertion is 4.
+17:55:33.796 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  BasicEditingTC.F4_TableTC - Finished verify_InsertRow_ExistingTable
+17:55:39.950 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  BasicEditingTC.F4_TableTC - Starting DeleteRow_ExistingTable
+17:55:41.089 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F4_TableTC - Switched to frame 0.
+17:55:41.391 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F4_TableTC - Clicked on an existing table cell.
+17:55:41.452 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F4_TableTC - Table is added in the visual editor.
+17:55:41.457 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F4_TableTC - Switched back to default content.
+17:55:41.580 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F4_TableTC - Clicked on Table Properties tab.
+17:55:42.123 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F4_TableTC - Clicked on the deleted table.
+17:55:42.713 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F4_TableTC - Clicked on an existing table cell again.
+17:55:42.979 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F4_TableTC - Clicked Accept Change.
+17:55:54.073 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  BasicEditingTC.F4_TableTC - Logged in, searched for a file, and clicked Edit.
+17:55:54.074 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  BasicEditingTC.F4_TableTC - Created F4_Table instance.
+17:55:59.404 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F4_TableTC - Logged in, searched for a file, and clicked Edit.
+17:55:59.406 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F4_TableTC - Created F4_Table instance.
+17:56:03.178 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  BasicEditingTC.F4_TableTC - Switched to frame 0.
+17:56:03.693 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  BasicEditingTC.F4_TableTC - Clicked on the first cell of the existing table.
+17:56:03.711 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  BasicEditingTC.F4_TableTC - Switched back to default content.
+17:56:03.971 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  BasicEditingTC.F4_TableTC - Clicked on Table Properties tab.
+17:56:04.026 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  BasicEditingTC.F4_TableTC - Column count before insertion is 2.
+17:56:04.829 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  BasicEditingTC.F4_TableTC - Clicked Insert Left.
+17:56:04.943 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  BasicEditingTC.F4_TableTC - Column count after insertion is 3.
+17:56:04.943 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  BasicEditingTC.F4_TableTC - Finished verify_InsertColumn_ExistingTable
+17:56:10.517 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  BasicEditingTC.F4_TableTC - Logged in, searched for a file, and clicked Edit.
+17:56:10.519 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  BasicEditingTC.F4_TableTC - Created F4_Table instance.
+17:56:11.039 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  BasicEditingTC.F4_TableTC - Starting DeleteColumn_ExistingTable
+17:56:12.604 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F4_TableTC - Inserted table using ReusableMethods.
+17:56:12.658 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F4_TableTC - Switched to frame 0.
+17:56:12.719 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F4_TableTC - Table is inserted in the Visual Editor.
+17:56:12.721 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F4_TableTC - Switched back to default content.
+17:56:12.783 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F4_TableTC - Document Structure is updated with the table.
+17:56:12.986 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F4_TableTC - Clicked Quick Preview.
+17:56:13.289 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F4_TableTC - Table is inserted in QuickPreview visible.
+17:56:13.636 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F4_TableTC - Clicked Code View.
+17:56:21.085 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  BasicEditingTC.F4_TableTC - Switched to frame 0.
+17:56:21.416 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  BasicEditingTC.F4_TableTC - Clicked on the first cell of the existing table.
+17:56:21.432 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  BasicEditingTC.F4_TableTC - Switched back to default content.
+17:56:21.570 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  BasicEditingTC.F4_TableTC - Clicked on Table Properties tab.
+17:56:21.610 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  BasicEditingTC.F4_TableTC - Row count before deletion is 3.
+17:56:22.058 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  BasicEditingTC.F4_TableTC - Clicked Delete Row.
+17:56:22.142 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  BasicEditingTC.F4_TableTC - Switched to frame 0.
+17:56:22.400 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  BasicEditingTC.F4_TableTC - Clicked on the first cell of the existing table.
+17:56:22.669 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  BasicEditingTC.F4_TableTC - Clicked Accept Change.
+17:56:22.836 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  BasicEditingTC.F4_TableTC - Row count after deletion is 2.
+17:56:22.836 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  BasicEditingTC.F4_TableTC - Finished DeleteRow_ExistingTable
+17:56:28.707 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  BasicEditingTC.F4_TableTC - Starting verify_ListInsideTable
+17:56:38.706 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  BasicEditingTC.F4_TableTC - Logged in, searched for a file, and clicked Edit.
+17:56:38.708 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  BasicEditingTC.F4_TableTC - Created F4_Table instance.
+17:56:43.732 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F4_TableTC - After deleting table, there is no table in the visual editor.
+17:56:43.732 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F4_TableTC - Finished DeleteTableandVerify_ExistingTable
+17:56:45.700 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  BasicEditingTC.F4_TableTC - Switched to frame 0.
+17:56:46.113 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  BasicEditingTC.F4_TableTC - Clicked on the first cell of the existing table.
+17:56:46.134 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  BasicEditingTC.F4_TableTC - Switched back to default content.
+17:56:46.339 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  BasicEditingTC.F4_TableTC - Clicked on Table Properties tab.
+17:56:46.389 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  BasicEditingTC.F4_TableTC - Column count before deletion is 2.
+17:56:46.981 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  BasicEditingTC.F4_TableTC - Clicked Delete Column.
+17:56:47.188 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  BasicEditingTC.F4_TableTC - Switched to frame 0.
+17:56:48.590 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  BasicEditingTC.F4_TableTC - Clicked on the first cell of the existing table.
+17:56:49.047 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  BasicEditingTC.F4_TableTC - Clicked Accept Change.
+17:56:49.367 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  BasicEditingTC.F4_TableTC - Column count after deletion is 1.
+17:56:49.367 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  BasicEditingTC.F4_TableTC - Finished DeleteColumn_ExistingTable
+17:56:50.498 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F4_TableTC - Starting verify_Delete_Existing_Table_Undo
+17:56:55.642 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  BasicEditingTC.F4_TableTC - Logged in, searched for a file, and clicked Edit.
+17:56:55.643 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  BasicEditingTC.F4_TableTC - Created F4_Table instance.
+17:56:55.663 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  BasicEditingTC.F4_TableTC - Starting verify_InsertMediaObject_ExistingTable
+17:57:03.407 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  BasicEditingTC.F4_TableTC - Switched to frame 0.
+17:57:03.757 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  BasicEditingTC.F4_TableTC - Clicked on the second cell of the existing table.
+17:57:04.250 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  BasicEditingTC.F4_TableTC - Clicked Number List.
+17:57:04.514 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  BasicEditingTC.F4_TableTC - Clicked Accept Change.
+17:57:04.778 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  BasicEditingTC.F4_TableTC - Inside the table, a list is available in the Visual Editor.
+17:57:14.330 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F4_TableTC - No Content Validation error is present in CodeView.
+17:57:14.330 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F4_TableTC - Finished verify_Insert_Table
+17:57:16.473 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F4_TableTC - Logged in, searched for a file, and clicked Edit.
+17:57:21.014 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  BasicEditingTC.F4_TableTC - Logged in, searched for a file, and clicked Edit.
+17:57:21.015 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  BasicEditingTC.F4_TableTC - Created F4_Table instance.
+17:57:21.279 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F4_TableTC - Starting changeParaToTableAndVerify
+17:57:25.274 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F4_TableTC - Clicked on the first cell of the existing table.
+17:57:25.345 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F4_TableTC - Switched back to default content.
+17:57:25.648 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F4_TableTC - Clicked on Table Properties tab.
+17:57:25.674 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F4_TableTC - Switched to frame 0.
+17:57:26.292 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F4_TableTC - Clicked on the first cell of the existing table.
+17:57:26.318 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F4_TableTC - Switched back to default content.
+17:57:27.218 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F4_TableTC - Clicked on Deleted Table.
+17:57:27.392 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F4_TableTC - Switched to frame 0.
+17:57:27.445 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F4_TableTC - Exiting Table is deleted and displayed in Red Color.
+17:57:27.856 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F4_TableTC - Clicked Accept Change.
+17:57:28.185 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F4_TableTC - Switched to frame 0.
+17:57:31.709 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  BasicEditingTC.F4_TableTC - Switched to frame 0.
+17:57:32.010 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  BasicEditingTC.F4_TableTC - Clicked on the first cell of the existing table.
+17:57:32.020 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  BasicEditingTC.F4_TableTC - Switched back to default content.
+17:57:32.246 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  BasicEditingTC.F4_TableTC - Clicked Insert.
+17:57:34.957 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  BasicEditingTC.F4_TableTC - Clicked Image for Table.
+17:57:35.192 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  BasicEditingTC.F4_TableTC - Clicked on the image.
+17:57:35.395 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  BasicEditingTC.F4_TableTC - Clicked Insert Into.
+17:57:35.835 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  BasicEditingTC.F4_TableTC - Clicked Insert button.
+17:57:36.190 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  BasicEditingTC.F4_TableTC - Clicked Accept Change.
+17:57:36.345 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  BasicEditingTC.F4_TableTC - Switched to frame 0.
+17:57:36.401 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  BasicEditingTC.F4_TableTC - Inside the cell, Image is inserted.
+17:57:49.424 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F4_TableTC - Logged in, searched for a file, and clicked Edit.

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="4" parallel="methods" name="Failed suite [Master]">
+  <listeners>
+    <listener class-name="d_utilities.ExtentReportManager"/>
+    <listener class-name="d_utilities.AnnotationTransfer"/>
+  </listeners>
+  <test thread-count="4" parallel="methods" name="RetryMultipleFailedTestcases(failed)">
+    <classes>
+      <class name="sprint2_TestCases.B_Verify_RightClick_OptionsTC">
+        <methods>
+          <include name="TC129_verifyAddingImgInsertAfterWithInsertingVE"/>
+          <include name="setup"/>
+          <include name="initialize"/>
+          <include name="printThreadDetails"/>
+          <include name="tearDown"/>
+          <include name="initializeSuit"/>
+        </methods>
+      </class> <!-- sprint2_TestCases.B_Verify_RightClick_OptionsTC -->
+      <class name="sprint1_TestCases.B_Verify_TitleBarOptionsTC">
+        <methods>
+          <include name="setup"/>
+          <include name="initialize"/>
+          <include name="printThreadDetails"/>
+          <include name="TC023_verifySaveErrorMessage"/>
+          <include name="TC028_verifyChangeElementAddressValidateFile"/>
+          <include name="tearDown"/>
+          <include name="initializeSuit"/>
+        </methods>
+      </class> <!-- sprint1_TestCases.B_Verify_TitleBarOptionsTC -->
+      <class name="sprint1_TestCases.D_TabViewOptionsTC">
+        <methods>
+          <include name="TC090_verifyPrintPriviewHighLighted"/>
+          <include name="setup"/>
+          <include name="initialize"/>
+          <include name="printThreadDetails"/>
+          <include name="tearDown"/>
+          <include name="initializeSuit"/>
+        </methods>
+      </class> <!-- sprint1_TestCases.D_TabViewOptionsTC -->
+      <class name="sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC">
+        <methods>
+          <include name="TC066_verifyCMSMenuRejectChange"/>
+          <include name="TC062_verifyCMSMenuManageLogout"/>
+          <include name="TC047_verifyMediaObjectInCMSMenu"/>
+          <include name="setup"/>
+          <include name="initialize"/>
+          <include name="printThreadDetails"/>
+          <include name="TC189_verifyMediaObjectSearchValidImage"/>
+          <include name="tearDown"/>
+          <include name="initializeSuit"/>
+        </methods>
+      </class> <!-- sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC -->
+    </classes>
+  </test> <!-- RetryMultipleFailedTestcases(failed) -->
+</suite> <!-- Failed suite [Master] -->

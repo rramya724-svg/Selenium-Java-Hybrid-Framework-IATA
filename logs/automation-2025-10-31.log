@@ -1,0 +1,302 @@
+09:00:09.238 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - 'Please Wait' has disappeared. Proceeding.
+09:00:18.097 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - 'Please Wait' has disappeared. Proceeding.
+09:00:20.481 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Updating Zephyr Test Case ID: IAPPAE-T14866 to Status: Pass
+09:00:20.484 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  b_utilities.UpdateZephyrTestExecution - Updating Zephyr Test Case: IAPPAE-T14866 in Cycle: IAPPAE-R68 with status: Pass
+09:00:21.256 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response Code: 401
+09:00:21.256 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response: {"error": "Your token is revoked"}
+09:00:22.413 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Browser closed for test: verifyRCInsertIntoEmphasisElement
+09:00:22.414 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Thread Name: TestNG-test-RetryMultipleFailedTestcases-4
+09:00:22.414 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Thread ID: 29
+09:00:33.892 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - 'Please Wait' has disappeared. Proceeding.
+09:00:51.170 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - 'Please Wait' has disappeared. Proceeding.
+09:01:15.455 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  b_utilities.RetryAnalyzer - 🔴 Browser closed before retry attempt: 1
+09:01:15.462 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - Updating Zephyr Test Case ID: IAPPAE-T14915 to Status: Skip
+09:01:15.463 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  b_utilities.UpdateZephyrTestExecution - Updating Zephyr Test Case: IAPPAE-T14915 in Cycle: IAPPAE-R68 with status: Fail
+09:01:16.188 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response Code: 401
+09:01:16.188 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response: {"error": "Your token is revoked"}
+09:01:16.189 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - Browser closed for test: verifyRCInsertTableAfterImgFromVE
+09:01:16.190 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - Thread Name: TestNG-test-RetryMultipleFailedTestcases-2
+09:01:16.190 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - Thread ID: 27
+09:01:27.575 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - 'Please Wait' has disappeared. Proceeding.
+09:02:00.713 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  b_utilities.RetryAnalyzer - ❌ Updating Zephyr: Test Case ID - IAPPAE-T14896 | Status - Fail
+09:02:00.714 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  b_utilities.UpdateZephyrTestExecution - Updating Zephyr Test Case: IAPPAE-T14896 in Cycle: IAPPAE-R68 with status: Fail
+09:02:01.473 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response Code: 401
+09:02:01.474 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response: {"error": "Your token is revoked"}
+09:02:01.475 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - Updating Zephyr Test Case ID: IAPPAE-T14896 to Status: Fail
+09:02:01.476 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  b_utilities.UpdateZephyrTestExecution - Updating Zephyr Test Case: IAPPAE-T14896 in Cycle: IAPPAE-R68 with status: Fail
+09:02:01.722 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response Code: 401
+09:02:01.722 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response: {"error": "Your token is revoked"}
+09:02:01.804 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  b_utilities.RetryAnalyzer - 🔴 Browser closed before retry attempt: 1
+09:02:01.921 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Updating Zephyr Test Case ID: IAPPAE-T14921 to Status: Skip
+09:02:01.922 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  b_utilities.UpdateZephyrTestExecution - Updating Zephyr Test Case: IAPPAE-T14921 in Cycle: IAPPAE-R68 with status: Fail
+09:02:02.168 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response Code: 401
+09:02:02.169 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response: {"error": "Your token is revoked"}
+09:02:02.170 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Browser closed for test: verifyRCInsertTableAfterImgFromDS
+09:02:02.170 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Thread Name: TestNG-test-RetryMultipleFailedTestcases-3
+09:02:02.170 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Thread ID: 28
+09:02:03.186 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - Browser closed for test: verifyInsertIntoParaInNote
+09:02:03.188 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - Thread Name: TestNG-test-RetryMultipleFailedTestcases-1
+09:02:03.188 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - Thread ID: 26
+09:02:26.385 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - 'Please Wait' has disappeared. Proceeding.
+09:02:59.937 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  b_utilities.RetryAnalyzer - 🔴 Browser closed before retry attempt: 1
+09:02:59.941 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Updating Zephyr Test Case ID: IAPPAE-T14920 to Status: Skip
+09:02:59.943 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  b_utilities.UpdateZephyrTestExecution - Updating Zephyr Test Case: IAPPAE-T14920 in Cycle: IAPPAE-R68 with status: Fail
+09:03:00.771 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response Code: 401
+09:03:00.772 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response: {"error": "Your token is revoked"}
+09:03:00.773 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Browser closed for test: verifyRCInsertTableAfterParaFromDS
+09:03:00.774 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Thread Name: TestNG-test-RetryMultipleFailedTestcases-4
+09:03:00.774 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Thread ID: 29
+09:03:16.383 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - 'Please Wait' has disappeared. Proceeding.
+09:03:17.029 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - 'Please Wait' has disappeared. Proceeding.
+09:04:02.952 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  b_utilities.RetryAnalyzer - ❌ Updating Zephyr: Test Case ID - IAPPAE-T14915 | Status - Fail
+09:04:02.955 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  b_utilities.UpdateZephyrTestExecution - Updating Zephyr Test Case: IAPPAE-T14915 in Cycle: IAPPAE-R68 with status: Fail
+09:04:03.690 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response Code: 401
+09:04:03.691 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response: {"error": "Your token is revoked"}
+09:04:03.692 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - Updating Zephyr Test Case ID: IAPPAE-T14915 to Status: Fail
+09:04:03.693 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  b_utilities.UpdateZephyrTestExecution - Updating Zephyr Test Case: IAPPAE-T14915 in Cycle: IAPPAE-R68 with status: Fail
+09:04:03.940 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response Code: 401
+09:04:03.940 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response: {"error": "Your token is revoked"}
+09:04:05.432 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - Browser closed for test: verifyRCInsertTableAfterImgFromVE
+09:04:05.434 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - Thread Name: TestNG-test-RetryMultipleFailedTestcases-2
+09:04:05.434 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - Thread ID: 27
+09:04:09.875 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - 'Please Wait' has disappeared. Proceeding.
+09:04:47.241 [TestNG-test-RetryMultipleFailedTestcases-2] WARN  a_testbase.BaseClass - No 'Please Wait' element found or already disappeared.
+09:05:00.231 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  b_utilities.RetryAnalyzer - ❌ Updating Zephyr: Test Case ID - IAPPAE-T14921 | Status - Fail
+09:05:00.233 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  b_utilities.UpdateZephyrTestExecution - Updating Zephyr Test Case: IAPPAE-T14921 in Cycle: IAPPAE-R68 with status: Fail
+09:05:00.953 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response Code: 401
+09:05:00.954 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response: {"error": "Your token is revoked"}
+09:05:00.954 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Updating Zephyr Test Case ID: IAPPAE-T14921 to Status: Fail
+09:05:00.955 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  b_utilities.UpdateZephyrTestExecution - Updating Zephyr Test Case: IAPPAE-T14921 in Cycle: IAPPAE-R68 with status: Fail
+09:05:01.194 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response Code: 401
+09:05:01.194 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response: {"error": "Your token is revoked"}
+09:05:02.604 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Browser closed for test: verifyRCInsertTableAfterImgFromDS
+09:05:02.605 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Thread Name: TestNG-test-RetryMultipleFailedTestcases-3
+09:05:02.605 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Thread ID: 28
+09:05:03.030 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  b_utilities.RetryAnalyzer - 🔴 Browser closed before retry attempt: 1
+09:05:03.031 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - Updating Zephyr Test Case ID: IAPPAE-T14918 to Status: Skip
+09:05:03.031 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  b_utilities.UpdateZephyrTestExecution - Updating Zephyr Test Case: IAPPAE-T14918 in Cycle: IAPPAE-R68 with status: Fail
+09:05:03.270 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response Code: 401
+09:05:03.270 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response: {"error": "Your token is revoked"}
+09:05:03.270 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - Browser closed for test: verifyRCInsertTableBeforeImgFromDS
+09:05:03.271 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - Thread Name: TestNG-test-RetryMultipleFailedTestcases-1
+09:05:03.271 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - Thread ID: 26
+09:05:09.084 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  b_utilities.RetryAnalyzer - 🔴 Browser closed before retry attempt: 1
+09:05:09.087 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - Updating Zephyr Test Case ID: IAPPAE-T14912 to Status: Skip
+09:05:09.088 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  b_utilities.UpdateZephyrTestExecution - Updating Zephyr Test Case: IAPPAE-T14912 in Cycle: IAPPAE-R68 with status: Fail
+09:05:09.804 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response Code: 401
+09:05:09.804 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response: {"error": "Your token is revoked"}
+09:05:09.805 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - Browser closed for test: verifyRCInsertTableBeforeImgFromVE
+09:05:09.805 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - Thread Name: TestNG-test-RetryMultipleFailedTestcases-2
+09:05:09.805 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - Thread ID: 27
+09:05:17.837 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  b_utilities.RetryAnalyzer - ❌ Updating Zephyr: Test Case ID - IAPPAE-T14920 | Status - Fail
+09:05:17.838 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  b_utilities.UpdateZephyrTestExecution - Updating Zephyr Test Case: IAPPAE-T14920 in Cycle: IAPPAE-R68 with status: Fail
+09:05:18.593 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response Code: 401
+09:05:18.594 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response: {"error": "Your token is revoked"}
+09:05:18.595 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Updating Zephyr Test Case ID: IAPPAE-T14920 to Status: Fail
+09:05:18.595 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  b_utilities.UpdateZephyrTestExecution - Updating Zephyr Test Case: IAPPAE-T14920 in Cycle: IAPPAE-R68 with status: Fail
+09:05:18.847 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response Code: 401
+09:05:18.847 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response: {"error": "Your token is revoked"}
+09:05:20.469 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Browser closed for test: verifyRCInsertTableAfterParaFromDS
+09:05:20.472 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Thread Name: TestNG-test-RetryMultipleFailedTestcases-4
+09:05:20.474 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Thread ID: 29
+09:06:09.840 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - 'Please Wait' has disappeared. Proceeding.
+09:06:13.158 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - 'Please Wait' has disappeared. Proceeding.
+09:06:21.876 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - 'Please Wait' has disappeared. Proceeding.
+09:06:39.152 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - 'Please Wait' has disappeared. Proceeding.
+09:06:46.871 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Cleaned InnerText: address
+09:06:46.872 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Element Names: [address, figure, numbered-para, ol, ul, img, notes, p, table, table-group, definition-group, definition, example, examples, informal-section, steps, extracts, airimp, codes, government-reservation, metadata, guidance]
+09:06:47.055 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Cleaned InnerText: numbered-para
+09:06:47.056 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Element Names: [address, figure, numbered-para, ol, ul, img, notes, p, table, table-group, definition-group, definition, example, examples, informal-section, steps, extracts, airimp, codes, government-reservation, metadata, guidance]
+09:06:47.139 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Cleaned InnerText: ol
+09:06:47.139 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Element Names: [address, figure, numbered-para, ol, ul, img, notes, p, table, table-group, definition-group, definition, example, examples, informal-section, steps, extracts, airimp, codes, government-reservation, metadata, guidance]
+09:06:47.175 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Cleaned InnerText: ul
+09:06:47.176 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Element Names: [address, figure, numbered-para, ol, ul, img, notes, p, table, table-group, definition-group, definition, example, examples, informal-section, steps, extracts, airimp, codes, government-reservation, metadata, guidance]
+09:06:47.209 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Cleaned InnerText: img
+09:06:47.210 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Element Names: [address, figure, numbered-para, ol, ul, img, notes, p, table, table-group, definition-group, definition, example, examples, informal-section, steps, extracts, airimp, codes, government-reservation, metadata, guidance]
+09:06:47.254 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Cleaned InnerText: notes
+09:06:47.254 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Element Names: [address, figure, numbered-para, ol, ul, img, notes, p, table, table-group, definition-group, definition, example, examples, informal-section, steps, extracts, airimp, codes, government-reservation, metadata, guidance]
+09:06:47.352 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Cleaned InnerText: p
+09:06:47.353 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Element Names: [address, figure, numbered-para, ol, ul, img, notes, p, table, table-group, definition-group, definition, example, examples, informal-section, steps, extracts, airimp, codes, government-reservation, metadata, guidance]
+09:06:47.409 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Cleaned InnerText: table
+09:06:47.409 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Element Names: [address, figure, numbered-para, ol, ul, img, notes, p, table, table-group, definition-group, definition, example, examples, informal-section, steps, extracts, airimp, codes, government-reservation, metadata, guidance]
+09:06:47.490 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Cleaned InnerText: table-group
+09:06:47.490 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Element Names: [address, figure, numbered-para, ol, ul, img, notes, p, table, table-group, definition-group, definition, example, examples, informal-section, steps, extracts, airimp, codes, government-reservation, metadata, guidance]
+09:06:47.657 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Cleaned InnerText: definition-group
+09:06:47.658 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Element Names: [address, figure, numbered-para, ol, ul, img, notes, p, table, table-group, definition-group, definition, example, examples, informal-section, steps, extracts, airimp, codes, government-reservation, metadata, guidance]
+09:06:47.775 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Cleaned InnerText: definition
+09:06:47.775 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Element Names: [address, figure, numbered-para, ol, ul, img, notes, p, table, table-group, definition-group, definition, example, examples, informal-section, steps, extracts, airimp, codes, government-reservation, metadata, guidance]
+09:06:48.038 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Cleaned InnerText: example
+09:06:48.038 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Element Names: [address, figure, numbered-para, ol, ul, img, notes, p, table, table-group, definition-group, definition, example, examples, informal-section, steps, extracts, airimp, codes, government-reservation, metadata, guidance]
+09:06:48.260 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Cleaned InnerText: examples
+09:06:48.261 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Element Names: [address, figure, numbered-para, ol, ul, img, notes, p, table, table-group, definition-group, definition, example, examples, informal-section, steps, extracts, airimp, codes, government-reservation, metadata, guidance]
+09:06:48.313 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Cleaned InnerText: informal-section
+09:06:48.314 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Element Names: [address, figure, numbered-para, ol, ul, img, notes, p, table, table-group, definition-group, definition, example, examples, informal-section, steps, extracts, airimp, codes, government-reservation, metadata, guidance]
+09:06:49.554 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Cleaned InnerText: steps
+09:06:49.555 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Element Names: [address, figure, numbered-para, ol, ul, img, notes, p, table, table-group, definition-group, definition, example, examples, informal-section, steps, extracts, airimp, codes, government-reservation, metadata, guidance]
+09:06:49.868 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Cleaned InnerText: airimp
+09:06:49.868 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Element Names: [address, figure, numbered-para, ol, ul, img, notes, p, table, table-group, definition-group, definition, example, examples, informal-section, steps, extracts, airimp, codes, government-reservation, metadata, guidance]
+09:06:50.175 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Cleaned InnerText: codes
+09:06:50.175 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Element Names: [address, figure, numbered-para, ol, ul, img, notes, p, table, table-group, definition-group, definition, example, examples, informal-section, steps, extracts, airimp, codes, government-reservation, metadata, guidance]
+09:06:50.361 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Cleaned InnerText: metadata
+09:06:50.361 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Element Names: [address, figure, numbered-para, ol, ul, img, notes, p, table, table-group, definition-group, definition, example, examples, informal-section, steps, extracts, airimp, codes, government-reservation, metadata, guidance]
+09:06:50.416 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Cleaned InnerText: guidance
+09:06:50.417 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Element Names: [address, figure, numbered-para, ol, ul, img, notes, p, table, table-group, definition-group, definition, example, examples, informal-section, steps, extracts, airimp, codes, government-reservation, metadata, guidance]
+09:06:50.992 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Cleaned InnerText: state
+09:06:50.993 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Element Names: [address, figure, numbered-para, ol, ul, img, notes, p, table, table-group, definition-group, definition, example, examples, informal-section, steps, extracts, airimp, codes, government-reservation, metadata, guidance]
+09:06:55.456 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  b_utilities.RetryAnalyzer - 🔴 Browser closed before retry attempt: 1
+09:06:55.458 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Updating Zephyr Test Case ID: IAPPAE-T14885 to Status: Skip
+09:06:55.459 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  b_utilities.UpdateZephyrTestExecution - Updating Zephyr Test Case: IAPPAE-T14885 in Cycle: IAPPAE-R68 with status: Fail
+09:06:56.185 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response Code: 401
+09:06:56.186 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response: {"error": "Your token is revoked"}
+09:06:56.187 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Browser closed for test: verifyRcInsertBeforeBottomSectionDS
+09:06:56.187 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Thread Name: TestNG-test-RetryMultipleFailedTestcases-4
+09:06:56.188 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Thread ID: 29
+09:07:25.174 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  b_utilities.RetryAnalyzer - 🔴 Browser closed before retry attempt: 1
+09:07:25.175 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Updating Zephyr Test Case ID: IAPPAE-T14917 to Status: Skip
+09:07:25.177 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  b_utilities.UpdateZephyrTestExecution - Updating Zephyr Test Case: IAPPAE-T14917 in Cycle: IAPPAE-R68 with status: Fail
+09:07:25.913 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response Code: 401
+09:07:25.913 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response: {"error": "Your token is revoked"}
+09:07:25.914 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Browser closed for test: verifyRCInsertTableBeforeParaFromDS
+09:07:25.914 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Thread Name: TestNG-test-RetryMultipleFailedTestcases-3
+09:07:25.915 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Thread ID: 28
+09:08:06.487 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - 'Please Wait' has disappeared. Proceeding.
+09:08:11.409 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Cleaned InnerText: figure
+09:08:11.409 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Element Names: [address, figure, numbered-para, ol, ul, img, notes, p, table, table-group, definition-group, definition, example, examples, informal-section, steps, extracts, airimp, codes, government-reservation, metadata, guidance]
+09:08:11.422 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Cleaned InnerText: numbered-para
+09:08:11.422 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Element Names: [address, figure, numbered-para, ol, ul, img, notes, p, table, table-group, definition-group, definition, example, examples, informal-section, steps, extracts, airimp, codes, government-reservation, metadata, guidance]
+09:08:11.436 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Cleaned InnerText: ol
+09:08:11.436 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Element Names: [address, figure, numbered-para, ol, ul, img, notes, p, table, table-group, definition-group, definition, example, examples, informal-section, steps, extracts, airimp, codes, government-reservation, metadata, guidance]
+09:08:11.447 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Cleaned InnerText: ul
+09:08:11.448 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Element Names: [address, figure, numbered-para, ol, ul, img, notes, p, table, table-group, definition-group, definition, example, examples, informal-section, steps, extracts, airimp, codes, government-reservation, metadata, guidance]
+09:08:11.458 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Cleaned InnerText: img
+09:08:11.458 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Element Names: [address, figure, numbered-para, ol, ul, img, notes, p, table, table-group, definition-group, definition, example, examples, informal-section, steps, extracts, airimp, codes, government-reservation, metadata, guidance]
+09:08:11.474 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Cleaned InnerText: notes
+09:08:11.475 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Element Names: [address, figure, numbered-para, ol, ul, img, notes, p, table, table-group, definition-group, definition, example, examples, informal-section, steps, extracts, airimp, codes, government-reservation, metadata, guidance]
+09:08:11.488 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Cleaned InnerText: p
+09:08:11.488 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Element Names: [address, figure, numbered-para, ol, ul, img, notes, p, table, table-group, definition-group, definition, example, examples, informal-section, steps, extracts, airimp, codes, government-reservation, metadata, guidance]
+09:08:11.499 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Cleaned InnerText: table
+09:08:11.499 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Element Names: [address, figure, numbered-para, ol, ul, img, notes, p, table, table-group, definition-group, definition, example, examples, informal-section, steps, extracts, airimp, codes, government-reservation, metadata, guidance]
+09:08:11.509 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Cleaned InnerText: table-group
+09:08:11.510 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Element Names: [address, figure, numbered-para, ol, ul, img, notes, p, table, table-group, definition-group, definition, example, examples, informal-section, steps, extracts, airimp, codes, government-reservation, metadata, guidance]
+09:08:11.522 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Cleaned InnerText: definition-group
+09:08:11.522 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Element Names: [address, figure, numbered-para, ol, ul, img, notes, p, table, table-group, definition-group, definition, example, examples, informal-section, steps, extracts, airimp, codes, government-reservation, metadata, guidance]
+09:08:11.534 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Cleaned InnerText: definition
+09:08:11.534 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Element Names: [address, figure, numbered-para, ol, ul, img, notes, p, table, table-group, definition-group, definition, example, examples, informal-section, steps, extracts, airimp, codes, government-reservation, metadata, guidance]
+09:08:11.543 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Cleaned InnerText: example
+09:08:11.544 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Element Names: [address, figure, numbered-para, ol, ul, img, notes, p, table, table-group, definition-group, definition, example, examples, informal-section, steps, extracts, airimp, codes, government-reservation, metadata, guidance]
+09:08:11.555 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Cleaned InnerText: examples
+09:08:11.556 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Element Names: [address, figure, numbered-para, ol, ul, img, notes, p, table, table-group, definition-group, definition, example, examples, informal-section, steps, extracts, airimp, codes, government-reservation, metadata, guidance]
+09:08:11.568 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Cleaned InnerText: informal-section
+09:08:11.568 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Element Names: [address, figure, numbered-para, ol, ul, img, notes, p, table, table-group, definition-group, definition, example, examples, informal-section, steps, extracts, airimp, codes, government-reservation, metadata, guidance]
+09:08:11.578 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Cleaned InnerText: steps
+09:08:11.578 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Element Names: [address, figure, numbered-para, ol, ul, img, notes, p, table, table-group, definition-group, definition, example, examples, informal-section, steps, extracts, airimp, codes, government-reservation, metadata, guidance]
+09:08:11.590 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Cleaned InnerText: airimp
+09:08:11.591 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Element Names: [address, figure, numbered-para, ol, ul, img, notes, p, table, table-group, definition-group, definition, example, examples, informal-section, steps, extracts, airimp, codes, government-reservation, metadata, guidance]
+09:08:11.603 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Cleaned InnerText: codes
+09:08:11.604 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Element Names: [address, figure, numbered-para, ol, ul, img, notes, p, table, table-group, definition-group, definition, example, examples, informal-section, steps, extracts, airimp, codes, government-reservation, metadata, guidance]
+09:08:11.614 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Cleaned InnerText: metadata
+09:08:11.614 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Element Names: [address, figure, numbered-para, ol, ul, img, notes, p, table, table-group, definition-group, definition, example, examples, informal-section, steps, extracts, airimp, codes, government-reservation, metadata, guidance]
+09:08:11.624 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Cleaned InnerText: guidance
+09:08:11.625 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Element Names: [address, figure, numbered-para, ol, ul, img, notes, p, table, table-group, definition-group, definition, example, examples, informal-section, steps, extracts, airimp, codes, government-reservation, metadata, guidance]
+09:08:11.635 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Cleaned InnerText: state
+09:08:11.635 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Element Names: [address, figure, numbered-para, ol, ul, img, notes, p, table, table-group, definition-group, definition, example, examples, informal-section, steps, extracts, airimp, codes, government-reservation, metadata, guidance]
+09:08:11.635 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  b_utilities.RetryAnalyzer - ❌ Updating Zephyr: Test Case ID - IAPPAE-T14885 | Status - Fail
+09:08:11.636 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  b_utilities.UpdateZephyrTestExecution - Updating Zephyr Test Case: IAPPAE-T14885 in Cycle: IAPPAE-R68 with status: Fail
+09:08:12.374 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response Code: 401
+09:08:12.374 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response: {"error": "Your token is revoked"}
+09:08:12.375 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Updating Zephyr Test Case ID: IAPPAE-T14885 to Status: Fail
+09:08:12.377 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  b_utilities.UpdateZephyrTestExecution - Updating Zephyr Test Case: IAPPAE-T14885 in Cycle: IAPPAE-R68 with status: Fail
+09:08:12.623 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response Code: 401
+09:08:12.623 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response: {"error": "Your token is revoked"}
+09:08:14.101 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Browser closed for test: verifyRcInsertBeforeBottomSectionDS
+09:08:14.106 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Thread Name: TestNG-test-RetryMultipleFailedTestcases-4
+09:08:14.106 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Thread ID: 29
+09:08:15.381 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  b_utilities.RetryAnalyzer - ❌ Updating Zephyr: Test Case ID - IAPPAE-T14918 | Status - Fail
+09:08:15.382 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  b_utilities.UpdateZephyrTestExecution - Updating Zephyr Test Case: IAPPAE-T14918 in Cycle: IAPPAE-R68 with status: Fail
+09:08:15.631 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response Code: 401
+09:08:15.631 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response: {"error": "Your token is revoked"}
+09:08:15.632 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - Updating Zephyr Test Case ID: IAPPAE-T14918 to Status: Fail
+09:08:15.634 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  b_utilities.UpdateZephyrTestExecution - Updating Zephyr Test Case: IAPPAE-T14918 in Cycle: IAPPAE-R68 with status: Fail
+09:08:15.879 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response Code: 401
+09:08:15.879 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response: {"error": "Your token is revoked"}
+09:08:18.476 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - Browser closed for test: verifyRCInsertTableBeforeImgFromDS
+09:08:18.478 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - Thread Name: TestNG-test-RetryMultipleFailedTestcases-1
+09:08:18.478 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - Thread ID: 26
+09:08:21.882 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  b_utilities.RetryAnalyzer - ❌ Updating Zephyr: Test Case ID - IAPPAE-T14912 | Status - Fail
+09:08:21.883 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  b_utilities.UpdateZephyrTestExecution - Updating Zephyr Test Case: IAPPAE-T14912 in Cycle: IAPPAE-R68 with status: Fail
+09:08:22.699 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response Code: 401
+09:08:22.699 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response: {"error": "Your token is revoked"}
+09:08:22.701 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - Updating Zephyr Test Case ID: IAPPAE-T14912 to Status: Fail
+09:08:22.704 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  b_utilities.UpdateZephyrTestExecution - Updating Zephyr Test Case: IAPPAE-T14912 in Cycle: IAPPAE-R68 with status: Fail
+09:08:22.977 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response Code: 401
+09:08:22.977 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response: {"error": "Your token is revoked"}
+09:08:26.354 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - Browser closed for test: verifyRCInsertTableBeforeImgFromVE
+09:08:26.355 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - Thread Name: TestNG-test-RetryMultipleFailedTestcases-2
+09:08:26.355 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - Thread ID: 27
+09:08:31.751 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - 'Please Wait' has disappeared. Proceeding.
+09:09:45.985 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  b_utilities.RetryAnalyzer - ❌ Updating Zephyr: Test Case ID - IAPPAE-T14917 | Status - Fail
+09:09:45.985 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  b_utilities.UpdateZephyrTestExecution - Updating Zephyr Test Case: IAPPAE-T14917 in Cycle: IAPPAE-R68 with status: Fail
+09:09:46.737 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response Code: 401
+09:09:46.737 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response: {"error": "Your token is revoked"}
+09:09:46.738 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Updating Zephyr Test Case ID: IAPPAE-T14917 to Status: Fail
+09:09:46.740 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  b_utilities.UpdateZephyrTestExecution - Updating Zephyr Test Case: IAPPAE-T14917 in Cycle: IAPPAE-R68 with status: Fail
+09:09:47.051 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response Code: 401
+09:09:47.051 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response: {"error": "Your token is revoked"}
+09:09:47.812 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - 'Please Wait' has disappeared. Proceeding.
+09:09:48.351 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Browser closed for test: verifyRCInsertTableBeforeParaFromDS
+09:09:48.352 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Thread Name: TestNG-test-RetryMultipleFailedTestcases-3
+09:09:48.352 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Thread ID: 28
+09:09:49.668 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Updating Zephyr Test Case ID: IAPPAE-T14887 to Status: Pass
+09:09:49.668 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  b_utilities.UpdateZephyrTestExecution - Updating Zephyr Test Case: IAPPAE-T14887 in Cycle: IAPPAE-R68 with status: Pass
+09:09:49.916 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response Code: 401
+09:09:49.916 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response: {"error": "Your token is revoked"}
+09:09:51.218 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Browser closed for test: verifyRemoveElementAndElementsAndAtributeCapsLetter
+09:09:51.219 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Thread Name: TestNG-test-RetryMultipleFailedTestcases-4
+09:09:51.219 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Thread ID: 29
+09:09:55.869 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - 'Please Wait' has disappeared. Proceeding.
+09:10:03.322 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - 'Please Wait' has disappeared. Proceeding.
+09:10:58.268 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - 'Please Wait' has disappeared. Proceeding.
+09:11:00.992 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  b_utilities.RetryAnalyzer - 🔴 Browser closed before retry attempt: 1
+09:11:00.993 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Updating Zephyr Test Case ID: IAPPAE-T14971 to Status: Skip
+09:11:00.993 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  b_utilities.UpdateZephyrTestExecution - Updating Zephyr Test Case: IAPPAE-T14971 in Cycle: IAPPAE-R68 with status: Fail
+09:11:01.692 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response Code: 401
+09:11:01.693 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response: {"error": "Your token is revoked"}
+09:11:01.694 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Browser closed for test: verifyRemoveElementblockSectionfromDScheckTC
+09:11:01.695 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Thread Name: TestNG-test-RetryMultipleFailedTestcases-3
+09:11:01.695 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Thread ID: 28
+09:11:03.891 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - 'Please Wait' has disappeared. Proceeding.
+09:11:26.264 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  b_utilities.RetryAnalyzer - 🔴 Browser closed before retry attempt: 1
+09:11:26.268 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Updating Zephyr Test Case ID: IAPPAE-T14893 to Status: Skip
+09:11:26.270 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  b_utilities.UpdateZephyrTestExecution - Updating Zephyr Test Case: IAPPAE-T14893 in Cycle: IAPPAE-R68 with status: Fail
+09:11:27.013 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response Code: 401
+09:11:27.014 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response: {"error": "Your token is revoked"}
+09:11:27.015 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Browser closed for test: verifyRemoveParentElementAndRejectChanges
+09:11:27.016 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Thread Name: TestNG-test-RetryMultipleFailedTestcases-4
+09:11:27.016 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Thread ID: 29
+09:12:10.513 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - 'Please Wait' has disappeared. Proceeding.
+09:12:12.124 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  b_utilities.RetryAnalyzer - ❌ Updating Zephyr: Test Case ID - IAPPAE-T14971 | Status - Fail
+09:12:12.125 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  b_utilities.UpdateZephyrTestExecution - Updating Zephyr Test Case: IAPPAE-T14971 in Cycle: IAPPAE-R68 with status: Fail
+09:12:12.852 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response Code: 401
+09:12:12.853 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response: {"error": "Your token is revoked"}
+09:12:12.854 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Updating Zephyr Test Case ID: IAPPAE-T14971 to Status: Fail
+09:12:12.855 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  b_utilities.UpdateZephyrTestExecution - Updating Zephyr Test Case: IAPPAE-T14971 in Cycle: IAPPAE-R68 with status: Fail
+09:12:13.099 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response Code: 401
+09:12:13.099 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response: {"error": "Your token is revoked"}
+09:12:14.516 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Browser closed for test: verifyRemoveElementblockSectionfromDScheckTC
+09:12:14.518 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Thread Name: TestNG-test-RetryMultipleFailedTestcases-3
+09:12:14.518 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Thread ID: 28
+09:12:36.500 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - 'Please Wait' has disappeared. Proceeding.
+09:12:41.220 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - Updating Zephyr Test Case ID: IAPPAE-T14970 to Status: Pass
+09:12:41.221 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  b_utilities.UpdateZephyrTestExecution - Updating Zephyr Test Case: IAPPAE-T14970 in Cycle: IAPPAE-R68 with status: Pass
+09:12:42.055 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response Code: 401
+09:12:42.055 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response: {"error": "Your token is revoked"}
+09:12:43.175 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - Browser closed for test: verifyRemoveElementblockSectionfromDS
+09:12:43.176 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - Thread Name: TestNG-test-RetryMultipleFailedTestcases-1
+09:12:43.176 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - Thread ID: 26
+09:12:54.958 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - Updating Zephyr Test Case ID: IAPPAE-T14972 to Status: Pass
+09:12:54.959 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  b_utilities.UpdateZephyrTestExecution - Updating Zephyr Test Case: IAPPAE-T14972 in Cycle: IAPPAE-R68 with status: Pass
+09:12:55.727 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response Code: 401
+09:12:55.727 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response: {"error": "Your token is revoked"}
+09:12:56.589 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  b_utilities.RetryAnalyzer - ❌ Updating Zephyr: Test Case ID - IAPPAE-T14893 | Status - Fail
+09:12:56.590 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  b_utilities.UpdateZephyrTestExecution - Updating Zephyr Test Case: IAPPAE-T14893 in Cycle: IAPPAE-R68 with status: Fail
+09:12:56.844 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  b_utilities.UpdateZephyrTestExecution - Zephyr API Response Code: 401
