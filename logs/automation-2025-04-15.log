@@ -1,0 +1,447 @@
+16:49:48.809 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+16:49:49.016 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Clicked on Document structure First section....
+16:50:03.364 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Verifying bold is present in DS 
+16:50:03.365 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Finished verifySelectParaContentApplyEmphasis ..
+17:10:06.999 [main] INFO  Elements_Testcases.Ae_UndoRedoTC - Starting verifyDelecteElementUndoCheckInfopopup
+17:10:38.321 [main] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+17:10:38.335 [main] INFO  Elements_Testcases.Ae_UndoRedoTC - Created G_ChangeElement instance.
+17:12:08.297 [main] INFO  Elements_Testcases.Ae_UndoRedoTC - Starting verifyDelecteElementUndoCheckInfopopup
+17:12:42.712 [main] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+17:12:42.730 [main] INFO  Elements_Testcases.Ae_UndoRedoTC - Created G_ChangeElement instance.
+17:12:45.095 [main] INFO  Elements_Testcases.Ae_UndoRedoTC - Clicked on Code View Button....
+17:14:06.377 [main] INFO  Elements_Testcases.Ae_UndoRedoTC - Verifying content validation is not Occured...
+17:14:06.378 [main] INFO  Elements_Testcases.Ae_UndoRedoTC - Finished verifyDelecteElementUndoCheckInfopopup
+17:15:57.462 [main] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+17:15:57.491 [main] INFO  Elements_Testcases.Ae_UndoRedoTC - Switched to frame 0.
+17:15:57.767 [main] INFO  Elements_Testcases.Ae_UndoRedoTC - Switched to default content.
+17:20:03.527 [main] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+17:20:03.548 [main] INFO  Elements_Testcases.Ae_UndoRedoTC - Switched to frame 0.
+17:20:03.915 [main] INFO  Elements_Testcases.Ae_UndoRedoTC - Switched to default content.
+19:26:57.624 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Starting verifyCopyPasteLinkIntoSectionHeading ..
+19:28:53.840 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Starting verifyCopyPasteLinkIntoSectionNumber ..
+19:29:41.757 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Finished verifyCopyPasteLinkIntoSectionNumber
+19:30:13.616 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Starting verifyCopyPasteLinkIntoSectionHeading ..
+19:31:00.041 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Finished verifyCopyPasteLinkIntoSectionHeading
+19:31:47.023 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Starting verifyCopyPasteTextIntoImgSearchField ..
+19:32:40.515 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Logged in and searched for a file, then clicked Edit.
+19:33:28.531 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Starting verifyCopyPasteTextIntoImgSearchField ..
+19:34:12.728 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Logged in and searched for a file, then clicked Edit.
+19:34:15.349 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Test verifyCopyPasteTextIntoImgSearchField completed.
+19:34:32.953 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Starting verifyCopyPasteTextIntoImgSearchField ..
+19:35:13.330 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Logged in and searched for a file, then clicked Edit.
+19:36:36.227 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Starting verifyCopyPasteTextIntoImgSearchField ..
+19:37:35.417 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Logged in and searched for a file, then clicked Edit.
+19:38:44.264 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Starting verifyCopyPasteTextIntoImgSearchField ..
+19:39:32.041 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Logged in and searched for a file, then clicked Edit.
+19:40:08.390 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Starting verifyCopyPasteTextIntoImgSearchField ..
+19:40:49.931 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Logged in and searched for a file, then clicked Edit.
+19:40:52.678 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Test verifyCopyPasteTextIntoImgSearchField completed.
+19:42:18.697 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Starting verifyCopyPasteTextIntoImgSearchField ..
+19:43:14.332 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Logged in and searched for a file, then clicked Edit.
+19:43:46.634 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Starting verifyCopyPasteTextIntoImgSearchField ..
+19:44:41.413 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Logged in and searched for a file, then clicked Edit.
+19:44:43.803 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Test verifyCopyPasteTextIntoImgSearchField completed.
+19:47:00.956 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Starting verifyCopySectionAndPasteUsingRightClick ..
+19:47:53.305 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Finished verifyCopySectionAndPasteUsingRightClick
+19:49:41.007 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Logged in and searched for a file, then clicked Edit.
+19:49:41.049 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Switched to frame 0.
+19:49:41.308 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Switched to default content.
+19:49:47.850 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Switched to frame 0.
+19:49:48.131 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Switched to default content.
+19:52:54.008 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Logged in and searched for a file, then clicked Edit.
+19:52:54.100 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Switched to frame 0.
+19:52:54.652 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Switched to default content.
+19:53:00.762 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Switched to frame 0.
+19:53:01.124 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Switched to default content.
+19:56:50.517 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Starting verifyCurCopyPasteIconFromToolbar ..
+19:58:30.685 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Logged in and searched for a file, then clicked Edit.
+20:02:27.598 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Starting verifyCurCopyPasteIconFromToolbar ..
+20:03:44.673 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Logged in and searched for a file, then clicked Edit.
+20:03:45.492 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Test verifyCurCopyPasteIconFromToolbar completed.
+20:08:06.448 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Starting verifyCutContentFromFootnotePopupAndPasteInVE test...
+20:09:08.555 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Logged in and searched for a file, then clicked Edit.
+20:15:55.889 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Starting verifyCutContentFromFootnotePopupAndPasteInVE test...
+20:16:48.025 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Logged in and searched for a file, then clicked Edit.
+20:17:28.150 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Starting verifyCutContentFromFootnotePopupAndPasteInVE test...
+20:18:43.580 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Logged in and searched for a file, then clicked Edit.
+20:18:51.000 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Test verifyCutContentFromFootnotePopupAndPasteInVE completed.
+20:19:45.329 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Starting verifyCutpasteComentedTable test...
+20:21:44.967 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Starting verifyCutpasteComentedTable test...
+20:22:56.055 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Test verifyCutpasteComentedTable completed.
+21:48:53.608 [main] INFO  BasicEditingTC.F11_CommnetsTC - Starting TC198_verifyCommentToListelement ..
+21:50:13.923 [main] INFO  BasicEditingTC.F11_CommnetsTC - clicked on second sections 2nd para from DS
+21:50:14.022 [main] INFO  BasicEditingTC.F11_CommnetsTC - clicked on Enter key
+21:50:14.948 [main] INFO  BasicEditingTC.F11_CommnetsTC - clicked on Number list
+21:50:15.393 [main] INFO  BasicEditingTC.F11_CommnetsTC - clicked on Accept changes
+21:50:15.696 [main] INFO  BasicEditingTC.F11_CommnetsTC - clicked on on new added list element in VE
+21:50:15.993 [main] INFO  BasicEditingTC.F11_CommnetsTC -  clicked on Add comment plugin
+21:52:59.147 [main] INFO  BasicEditingTC.F11_CommnetsTC - Starting TC198_verifyCommentToListelement ..
+21:54:06.026 [main] INFO  BasicEditingTC.F11_CommnetsTC - Starting Verify_CommentInPara ..
+21:54:34.648 [main] INFO  BasicEditingTC.F11_CommnetsTC - Starting TC198_verifyCommentToListelement ..
+21:56:49.987 [main] INFO  BasicEditingTC.F11_CommnetsTC - clicked on second sections 2nd para from DS
+21:57:01.318 [main] INFO  BasicEditingTC.F11_CommnetsTC - clicked on Enter key
+21:57:09.713 [main] INFO  BasicEditingTC.F11_CommnetsTC - clicked on Number list
+21:57:29.633 [main] INFO  BasicEditingTC.F11_CommnetsTC - clicked on Accept changes
+21:57:59.960 [main] INFO  BasicEditingTC.F11_CommnetsTC - clicked on on new added list element in VE
+21:58:00.648 [main] INFO  BasicEditingTC.F11_CommnetsTC -  clicked on Add comment plugin
+21:58:01.311 [main] INFO  BasicEditingTC.F11_CommnetsTC - Comment is entered into comment text field
+21:58:15.403 [main] INFO  BasicEditingTC.F11_CommnetsTC - Commnet is submited
+21:58:15.810 [main] INFO  BasicEditingTC.F11_CommnetsTC -  Comment card is added into comment panel
+21:58:16.049 [main] INFO  BasicEditingTC.F11_CommnetsTC - Comment count is updated
+21:58:16.140 [main] INFO  BasicEditingTC.F11_CommnetsTC - Commented List element is highlighted into yellow Color
+21:58:16.615 [main] INFO  BasicEditingTC.F11_CommnetsTC - clicked on Code View button 
+21:59:37.870 [main] INFO  BasicEditingTC.F11_CommnetsTC - Verifying content validation error
+21:59:37.870 [main] INFO  BasicEditingTC.F11_CommnetsTC - Finished TC198_verifyCommentToListelement ..
+22:01:42.135 [main] INFO  BasicEditingTC.F11_CommnetsTC - Starting TC198_verifyCommentToListelement ..
+22:03:52.392 [main] INFO  BasicEditingTC.F11_CommnetsTC - clicked on second sections 2nd para from DS
+22:03:52.476 [main] INFO  BasicEditingTC.F11_CommnetsTC - clicked on Enter key
+22:03:53.347 [main] INFO  BasicEditingTC.F11_CommnetsTC - clicked on Number list
+22:03:53.735 [main] INFO  BasicEditingTC.F11_CommnetsTC - clicked on Accept changes
+22:03:54.076 [main] INFO  BasicEditingTC.F11_CommnetsTC - clicked on on new added list element in VE
+22:03:54.281 [main] INFO  BasicEditingTC.F11_CommnetsTC -  clicked on Add comment plugin
+22:03:54.554 [main] INFO  BasicEditingTC.F11_CommnetsTC - Comment is entered into comment text field
+22:03:54.741 [main] INFO  BasicEditingTC.F11_CommnetsTC - Commnet is submited
+22:03:54.790 [main] INFO  BasicEditingTC.F11_CommnetsTC -  Comment card is added into comment panel
+22:03:54.820 [main] INFO  BasicEditingTC.F11_CommnetsTC - Comment count is updated
+22:03:54.855 [main] INFO  BasicEditingTC.F11_CommnetsTC - Commented List element is highlighted into yellow Color
+22:03:55.041 [main] INFO  BasicEditingTC.F11_CommnetsTC - clicked on Code View button 
+22:05:16.160 [main] INFO  BasicEditingTC.F11_CommnetsTC - Verifying content validation error
+22:05:16.160 [main] INFO  BasicEditingTC.F11_CommnetsTC - Finished TC198_verifyCommentToListelement ..
+22:05:36.404 [main] INFO  Elements_Testcases.Cl_CommentTC - Starting verifyRemoveCommentedFootnote ..
+22:06:49.610 [main] INFO  Elements_Testcases.Cl_CommentTC - Clicked on First para
+22:06:49.810 [main] INFO  Elements_Testcases.Cl_CommentTC - Clicked on footnote from toolbar
+22:06:56.273 [main] INFO  Elements_Testcases.Cl_CommentTC - Clicked on footnote Textbox
+22:06:56.356 [main] INFO  Elements_Testcases.Cl_CommentTC - inserted Hello into footnote Text box 
+22:06:56.739 [main] INFO  Elements_Testcases.Cl_CommentTC - Clicked on footnote ok button 
+22:06:57.110 [main] INFO  Elements_Testcases.Cl_CommentTC - Clicked on Accept changes
+22:06:57.505 [main] INFO  Elements_Testcases.Cl_CommentTC - Clicked on inserted footnote from VE
+22:06:57.684 [main] INFO  Elements_Testcases.Cl_CommentTC -  clicked on Add comment plugin
+22:06:57.748 [main] INFO  Elements_Testcases.Cl_CommentTC -  Add comment popup is opened
+22:06:57.992 [main] INFO  Elements_Testcases.Cl_CommentTC - Comment is entered into comment text field
+22:06:58.245 [main] INFO  Elements_Testcases.Cl_CommentTC - Commnet is submited
+22:06:58.357 [main] INFO  Elements_Testcases.Cl_CommentTC -  Comment card is added into comment panel
+22:06:58.378 [main] INFO  Elements_Testcases.Cl_CommentTC - Switched to frame 0.
+22:06:58.687 [main] INFO  Elements_Testcases.Cl_CommentTC - Switched back to default content.
+22:06:58.712 [main] INFO  Elements_Testcases.Cl_CommentTC - Switched to frame 1.
+22:06:59.013 [main] INFO  Elements_Testcases.Cl_CommentTC - Clicked on Remove Element Block.
+22:06:59.035 [main] INFO  Elements_Testcases.Cl_CommentTC - Switched back to default content.
+22:06:59.465 [main] INFO  Elements_Testcases.Cl_CommentTC - Switched back to default content.
+22:06:59.883 [main] INFO  Elements_Testcases.Cl_CommentTC -  Comment card is added into comment panel
+22:06:59.883 [main] INFO  Elements_Testcases.Cl_CommentTC - Finished verifyRemoveCommentedFootnote ..
+22:09:01.850 [main] INFO  Elements_Testcases.Cl_CommentTC - Starting verifyRemoveCommentedFootnote ..
+22:10:50.930 [main] INFO  Elements_Testcases.Cl_CommentTC - Clicked on First para
+22:10:51.138 [main] INFO  Elements_Testcases.Cl_CommentTC - Clicked on footnote from toolbar
+22:10:57.996 [main] INFO  Elements_Testcases.Cl_CommentTC - Clicked on footnote Textbox
+22:10:58.051 [main] INFO  Elements_Testcases.Cl_CommentTC - inserted Hello into footnote Text box 
+22:10:58.418 [main] INFO  Elements_Testcases.Cl_CommentTC - Clicked on footnote ok button 
+22:10:58.784 [main] INFO  Elements_Testcases.Cl_CommentTC - Clicked on Accept changes
+22:10:59.097 [main] INFO  Elements_Testcases.Cl_CommentTC - Clicked on inserted footnote from VE
+22:10:59.246 [main] INFO  Elements_Testcases.Cl_CommentTC -  clicked on Add comment plugin
+22:10:59.293 [main] INFO  Elements_Testcases.Cl_CommentTC -  Add comment popup is opened
+22:10:59.510 [main] INFO  Elements_Testcases.Cl_CommentTC - Comment is entered into comment text field
+22:10:59.703 [main] INFO  Elements_Testcases.Cl_CommentTC - Commnet is submited
+22:10:59.774 [main] INFO  Elements_Testcases.Cl_CommentTC -  Comment card is added into comment panel
+22:10:59.785 [main] INFO  Elements_Testcases.Cl_CommentTC - Switched to frame 0.
+22:11:00.038 [main] INFO  Elements_Testcases.Cl_CommentTC - Switched back to default content.
+22:11:00.059 [main] INFO  Elements_Testcases.Cl_CommentTC - Switched to frame 1.
+22:11:00.323 [main] INFO  Elements_Testcases.Cl_CommentTC - Clicked on Remove Element Block.
+22:11:00.341 [main] INFO  Elements_Testcases.Cl_CommentTC - Switched back to default content.
+22:11:00.663 [main] INFO  Elements_Testcases.Cl_CommentTC - Switched back to default content.
+22:11:01.011 [main] INFO  Elements_Testcases.Cl_CommentTC -  Comment card is added into comment panel
+22:11:01.011 [main] INFO  Elements_Testcases.Cl_CommentTC - Finished verifyRemoveCommentedFootnote ..
+22:14:06.348 [main] INFO  Elements_Testcases.Ac_LinksTC - Starting verifyDeleteLinkInCommentContent ..
+22:16:12.114 [main] INFO  Elements_Testcases.Ac_LinksTC - Starting verifyDeleteLinkInCommentContent ..
+22:17:29.186 [main] INFO  Elements_Testcases.Ac_LinksTC - Starting verifyDeleteLinkInCommentContent ..
+22:18:35.731 [main] INFO  Elements_Testcases.Ac_LinksTC - Finished verifyDeleteLinkInCommentContent ..
+22:24:28.333 [main] INFO  Elements_Testcases.Ac_LinksTC - Logged in and searched for a file, then clicked Edit.
+22:24:28.393 [main] INFO  Elements_Testcases.Ac_LinksTC - Switched to frame 0.
+22:24:28.774 [main] INFO  Elements_Testcases.Ac_LinksTC - Clicked on first para VE.
+22:24:28.812 [main] INFO  Elements_Testcases.Ac_LinksTC - Switched to default content.
+22:24:28.975 [main] INFO  Elements_Testcases.Ac_LinksTC - clicked on footnote plugin
+22:24:37.466 [main] INFO  Elements_Testcases.Ac_LinksTC - clicked on new footnote box
+22:24:37.946 [main] INFO  Elements_Testcases.Ac_LinksTC - clicked on footnote ok button
+22:24:38.850 [main] INFO  Elements_Testcases.Ac_LinksTC - clicked on Cross Reference button 
+22:27:53.998 [main] INFO  Elements_Testcases.Ac_LinksTC - Logged in and searched for a file, then clicked Edit.
+22:27:54.081 [main] INFO  Elements_Testcases.Ac_LinksTC - Switched to frame 0.
+22:27:54.526 [main] INFO  Elements_Testcases.Ac_LinksTC - Clicked on first para VE.
+22:27:54.548 [main] INFO  Elements_Testcases.Ac_LinksTC - Switched to default content.
+22:27:54.756 [main] INFO  Elements_Testcases.Ac_LinksTC - clicked on footnote plugin
+22:28:01.631 [main] INFO  Elements_Testcases.Ac_LinksTC - clicked on new footnote box
+22:28:02.016 [main] INFO  Elements_Testcases.Ac_LinksTC - clicked on footnote ok button
+22:28:17.235 [main] INFO  Elements_Testcases.Ac_LinksTC - clicked on Cross Reference button 
+22:30:41.786 [main] INFO  Elements_Testcases.Ac_LinksTC - Logged in and searched for a file, then clicked Edit.
+22:30:41.860 [main] INFO  Elements_Testcases.Ac_LinksTC - Switched to frame 0.
+22:30:42.140 [main] INFO  Elements_Testcases.Ac_LinksTC - Clicked on first para VE.
+22:30:42.152 [main] INFO  Elements_Testcases.Ac_LinksTC - Switched to default content.
+22:30:42.303 [main] INFO  Elements_Testcases.Ac_LinksTC - clicked on footnote plugin
+22:30:51.219 [main] INFO  Elements_Testcases.Ac_LinksTC - clicked on new footnote box
+22:30:51.677 [main] INFO  Elements_Testcases.Ac_LinksTC - clicked on footnote ok button
+22:44:08.261 [main] INFO  Elements_Testcases.Ac_LinksTC - Logged in and searched for a file, then clicked Edit.
+22:44:08.337 [main] INFO  Elements_Testcases.Ac_LinksTC - Switched to frame 0.
+22:44:08.679 [main] INFO  Elements_Testcases.Ac_LinksTC - Clicked on first para VE.
+22:44:08.716 [main] INFO  Elements_Testcases.Ac_LinksTC - Switched to default content.
+22:44:08.874 [main] INFO  Elements_Testcases.Ac_LinksTC - clicked on footnote plugin
+22:44:15.547 [main] INFO  Elements_Testcases.Ac_LinksTC - clicked on new footnote box
+22:44:16.029 [main] INFO  Elements_Testcases.Ac_LinksTC - clicked on footnote ok button
+22:44:17.047 [main] INFO  Elements_Testcases.Ac_LinksTC - clicked on Cross Reference button 
+22:44:17.707 [main] INFO  Elements_Testcases.Ac_LinksTC - clicked on Code Cross Reference checkbox 
+22:44:17.874 [main] INFO  Elements_Testcases.Ac_LinksTC - clicked on Cross Reference popup ok button 
+22:47:04.395 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Starting verifySectionHeadingtoParaCPCount
+22:47:55.722 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Logged in, searched for a file, and clicked Edit.
+22:47:56.202 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Double clicked on Section Number
+22:47:56.427 [main] INFO  sprint8_TestCases.I_PriorityBugTC -  clicked on Add comment plugin
+22:47:56.754 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Comment is entered into comment text field
+22:47:57.083 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Commnet is submited
+22:47:57.173 [main] INFO  sprint8_TestCases.I_PriorityBugTC -  Comment card is added into comment panel
+22:47:57.226 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Comment count is updated
+22:52:53.496 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Starting verifySectionHeadingtoParaCPCount
+22:53:35.863 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Logged in, searched for a file, and clicked Edit.
+22:53:36.171 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Double clicked on Section Number
+22:53:36.336 [main] INFO  sprint8_TestCases.I_PriorityBugTC -  clicked on Add comment plugin
+22:53:36.582 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Comment is entered into comment text field
+22:53:36.800 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Commnet is submited
+22:53:36.862 [main] INFO  sprint8_TestCases.I_PriorityBugTC -  Comment card is added into comment panel
+22:53:36.891 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Comment count is updated
+23:02:56.592 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Starting verifySectionHeadingtoParaCPCount
+23:03:34.213 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Logged in, searched for a file, and clicked Edit.
+23:03:34.519 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Double clicked on Section Number
+23:03:34.679 [main] INFO  sprint8_TestCases.I_PriorityBugTC -  clicked on Add comment plugin
+23:03:34.950 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Comment is entered into comment text field
+23:03:35.218 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Commnet is submited
+23:03:35.311 [main] INFO  sprint8_TestCases.I_PriorityBugTC -  Comment card is added into comment panel
+23:03:35.345 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Comment count is updated
+23:06:11.256 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Starting verifySectionHeadingtoParaCPCount
+23:06:52.326 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Logged in, searched for a file, and clicked Edit.
+23:06:52.651 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Double clicked on Section Number
+23:06:52.786 [main] INFO  sprint8_TestCases.I_PriorityBugTC -  clicked on Add comment plugin
+23:06:53.054 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Comment is entered into comment text field
+23:06:53.278 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Commnet is submited
+23:06:53.375 [main] INFO  sprint8_TestCases.I_PriorityBugTC -  Comment card is added into comment panel
+23:06:53.416 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Comment count is updated
+23:06:54.204 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Finished verifySectionHeadingtoParaCPCount
+23:08:05.167 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Starting verifyDeleteCommentCheckCount
+23:08:48.141 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Logged in, searched for a file, and clicked Edit.
+23:08:48.507 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Double clicked on First para
+23:08:48.713 [main] INFO  sprint8_TestCases.I_PriorityBugTC -  clicked on Add comment plugin
+23:08:48.767 [main] INFO  sprint8_TestCases.I_PriorityBugTC -  Add comment popup is opened
+23:08:49.013 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Comment is entered into comment text field
+23:08:49.213 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Commnet is submited
+23:08:49.264 [main] INFO  sprint8_TestCases.I_PriorityBugTC -  Comment card is added into comment panel
+23:08:49.297 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Comment count is updated
+23:08:49.424 [main] INFO  sprint8_TestCases.I_PriorityBugTC -  Comment card is added into comment panel
+23:10:57.211 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Starting verifyDeleteCommentCheckCount
+23:11:37.949 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Logged in, searched for a file, and clicked Edit.
+23:11:38.318 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Double clicked on First para
+23:11:38.515 [main] INFO  sprint8_TestCases.I_PriorityBugTC -  clicked on Add comment plugin
+23:11:38.564 [main] INFO  sprint8_TestCases.I_PriorityBugTC -  Add comment popup is opened
+23:11:38.793 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Comment is entered into comment text field
+23:11:38.971 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Commnet is submited
+23:11:39.016 [main] INFO  sprint8_TestCases.I_PriorityBugTC -  Comment card is added into comment panel
+23:11:39.045 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Comment count is updated
+23:11:39.082 [main] INFO  sprint8_TestCases.I_PriorityBugTC -  Comment card is added into comment panel
+23:13:01.432 [main] INFO  sprint8_TestCases.I_PriorityBugTC -  Comment card is not deleted from comment panel
+23:13:01.432 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Finished verifyDeleteCommentCheckCount
+23:13:26.775 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Starting verifySectionHeadingtoParaCPCount
+23:14:06.022 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Logged in, searched for a file, and clicked Edit.
+23:14:06.419 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Double clicked on Section Number
+23:14:06.641 [main] INFO  sprint8_TestCases.I_PriorityBugTC -  clicked on Add comment plugin
+23:14:06.962 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Comment is entered into comment text field
+23:14:07.278 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Commnet is submited
+23:14:07.381 [main] INFO  sprint8_TestCases.I_PriorityBugTC -  Comment card is added into comment panel
+23:14:07.417 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Comment count is updated
+23:17:46.138 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Starting verifySectionHeadingtoParaCPCount
+23:18:25.158 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Logged in, searched for a file, and clicked Edit.
+23:18:25.472 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Double clicked on Section Number
+23:18:25.617 [main] INFO  sprint8_TestCases.I_PriorityBugTC -  clicked on Add comment plugin
+23:18:25.887 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Comment is entered into comment text field
+23:18:26.121 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Commnet is submited
+23:18:26.192 [main] INFO  sprint8_TestCases.I_PriorityBugTC -  Comment card is added into comment panel
+23:18:26.218 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Comment count is updated
+23:18:26.513 [main] INFO  sprint8_TestCases.I_PriorityBugTC - Finished verifySectionHeadingtoParaCPCount
+23:19:21.788 [main] INFO  sprint5_TestCases.Ao_CrossReferenceTC - Starting TC296_verifyCrossReferencEditLinkCB ..
+23:20:02.077 [main] INFO  sprint5_TestCases.Ao_CrossReferenceTC - Logged in, searched for a file, and clicked Edit.
+23:20:02.102 [main] INFO  sprint5_TestCases.Ao_CrossReferenceTC - Created Ao_CrossReference instance.
+23:20:02.118 [main] INFO  sprint5_TestCases.Ao_CrossReferenceTC - Switched to frame 0.
+23:20:02.392 [main] INFO  sprint5_TestCases.Ao_CrossReferenceTC - Double clicked on First para
+23:20:02.408 [main] INFO  sprint5_TestCases.Ao_CrossReferenceTC - Switched back to default content.
+23:20:02.581 [main] INFO  sprint5_TestCases.Ao_CrossReferenceTC - clicked on CrossReference Button
+23:20:03.200 [main] INFO  sprint5_TestCases.Ao_CrossReferenceTC - clicked on CrossReference Checkbox
+23:20:03.384 [main] INFO  sprint5_TestCases.Ao_CrossReferenceTC - clicked on CrossReference popup ok button
+23:20:03.424 [main] INFO  sprint5_TestCases.Ao_CrossReferenceTC - Switched to frame 0.
+23:20:03.710 [main] INFO  sprint5_TestCases.Ao_CrossReferenceTC - Switched back to default content.
+23:20:04.119 [main] INFO  sprint5_TestCases.Ao_CrossReferenceTC - Verified Link is edited successfully
+23:20:04.119 [main] INFO  sprint5_TestCases.Ao_CrossReferenceTC - Finished TC296_verifyCrossReferencEditLinkCB ..
+23:21:00.089 [main] INFO  sprint5_TestCases.Ao_CrossReferenceTC - Starting TC296_verifyCrossReferencEditLinkCB ..
+23:21:36.857 [main] INFO  sprint5_TestCases.Ao_CrossReferenceTC - Logged in, searched for a file, and clicked Edit.
+23:21:36.862 [main] INFO  sprint5_TestCases.Ao_CrossReferenceTC - Created Ao_CrossReference instance.
+23:21:36.879 [main] INFO  sprint5_TestCases.Ao_CrossReferenceTC - Switched to frame 0.
+23:21:37.148 [main] INFO  sprint5_TestCases.Ao_CrossReferenceTC - Double clicked on First para
+23:21:37.168 [main] INFO  sprint5_TestCases.Ao_CrossReferenceTC - Switched back to default content.
+23:21:37.355 [main] INFO  sprint5_TestCases.Ao_CrossReferenceTC - clicked on CrossReference Button
+23:21:37.998 [main] INFO  sprint5_TestCases.Ao_CrossReferenceTC - clicked on CrossReference Checkbox
+23:21:38.192 [main] INFO  sprint5_TestCases.Ao_CrossReferenceTC - clicked on CrossReference popup ok button
+23:21:38.237 [main] INFO  sprint5_TestCases.Ao_CrossReferenceTC - Switched to frame 0.
+23:21:38.564 [main] INFO  sprint5_TestCases.Ao_CrossReferenceTC - Switched back to default content.
+23:21:38.964 [main] INFO  sprint5_TestCases.Ao_CrossReferenceTC - Verified Link is edited successfully
+23:21:38.965 [main] INFO  sprint5_TestCases.Ao_CrossReferenceTC - Finished TC296_verifyCrossReferencEditLinkCB ..
+23:28:56.771 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Starting verifyFootnoteCutPasteAtBootom
+23:29:53.189 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Logged in, searched for a file, and clicked Edit.
+23:29:53.275 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Switched to frame 0.
+23:29:53.571 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - clicked on VE First para 
+23:29:53.589 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Switched back to default content.
+23:29:53.775 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - clicked On Footnote Plugin
+23:29:53.775 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - clicked on footnote plugin
+23:30:03.095 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - clicked on new footnote box
+23:30:03.095 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - Created Actions class instance.
+23:30:03.461 [main] INFO  Elements_Testcases.Ci_CopyPasteTC - clicked on footnote ok button
+16:58:11.164 [main] INFO  Elements_Testcases.CCj_ChangeElementTC - Starting verifyChangeParaToExample
+16:59:48.133 [main] INFO  Elements_Testcases.CCj_ChangeElementTC - Starting verifyChangeParaToExample
+19:43:17.780 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  BasicEditingTC.F1_SectionTC - Starting VerifyDeleteSection ..
+19:43:20.595 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F1_SectionTC - Starting Verify_InsertsectionAtEnd ..
+19:43:20.947 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F1_SectionTC - Starting Verify_InsertsectionAtMiddle ..
+19:44:01.934 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F1_SectionTC - Cliked on Last section heading
+19:44:02.319 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F1_SectionTC - Right Clicked on Last section heading
+19:44:09.830 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F1_SectionTC - Starting Verify_InsertsectionAtEnd ..
+19:44:53.266 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F1_SectionTC - Cliked on Last section heading
+19:44:53.615 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F1_SectionTC - Right Clicked on Last section heading
+19:45:01.821 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F1_SectionTC - Starting Verify_InsertsectionAtEnd ..
+19:45:04.461 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F1_SectionTC - Starting Verify_InsertsectionAtMiddle ..
+19:45:07.520 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  BasicEditingTC.F1_SectionTC - Starting VerifyDeleteSection ..
+19:45:43.971 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F1_SectionTC - Cliked on Last section heading
+19:45:44.321 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F1_SectionTC - Right Clicked on Last section heading
+19:45:51.454 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F1_SectionTC - Starting Verify_InsertsectionAtEnd ..
+19:46:35.018 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F1_SectionTC - Cliked on Last section heading
+19:46:35.361 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F1_SectionTC - Right Clicked on Last section heading
+19:46:44.581 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F1_SectionTC - Starting Verify_insertAfterSection ..
+19:46:49.695 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F1_SectionTC - Starting Verify_InsertsectionAtMiddle ..
+19:46:53.265 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  BasicEditingTC.F1_SectionTC - Starting VerifyDeleteSection ..
+19:47:04.123 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  BasicEditingTC.F1_SectionTC - Starting Verify_insertAfterSectionNumber ..
+19:47:27.973 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F1_SectionTC - Cliked on First section heading from VE
+19:47:28.026 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F1_SectionTC - Before Adding New Section the section number is :11.1.1
+19:47:28.402 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F1_SectionTC - Right Clicked on First section heading
+19:47:35.938 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F1_SectionTC - Starting Verify_insertAfterSection ..
+19:47:50.465 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  BasicEditingTC.F1_SectionTC - Cliked on First section heading from VE
+19:47:50.874 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  BasicEditingTC.F1_SectionTC - Right Clicked on First section heading
+19:47:59.945 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  BasicEditingTC.F1_SectionTC - Starting Verify_insertAfterSectionNumber ..
+19:48:12.187 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F1_SectionTC - Cliked on First section heading from VE
+19:48:12.242 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F1_SectionTC - Before Adding New Section the section number is :11.1.1
+19:48:12.664 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F1_SectionTC - Right Clicked on First section heading
+19:48:22.050 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F1_SectionTC - Starting Verify_insertAfterSection ..
+19:48:34.026 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  BasicEditingTC.F1_SectionTC - Cliked on First section heading from VE
+19:48:34.500 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  BasicEditingTC.F1_SectionTC - Right Clicked on First section heading
+19:48:37.189 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F1_SectionTC - Starting Verify_InsertsectionAtMiddle ..
+19:48:41.481 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  BasicEditingTC.F1_SectionTC - Starting Verify_insertAfterSectionNumber ..
+19:48:43.195 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  BasicEditingTC.F1_SectionTC - Starting VerifyDeleteSection ..
+19:48:59.807 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F1_SectionTC - Cliked on First section heading from VE
+19:49:00.573 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F1_SectionTC - Before Adding New Section the section number is :11.1.1
+19:49:01.462 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F1_SectionTC - Right Clicked on First section heading
+19:49:09.612 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F1_SectionTC - Starting Verify_insertAfterSection ..
+19:49:21.646 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  BasicEditingTC.F1_SectionTC - Cliked on First section heading from VE
+19:49:21.988 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  BasicEditingTC.F1_SectionTC - Right Clicked on First section heading
+19:49:30.498 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  BasicEditingTC.F1_SectionTC - Starting Verify_insertAfterSectionNumber ..
+19:49:48.305 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F1_SectionTC - Cliked on First section heading from VE
+19:49:48.355 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F1_SectionTC - Before Adding New Section the section number is :11.1.1
+19:49:48.681 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F1_SectionTC - Right Clicked on First section heading
+19:49:55.547 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F1_SectionTC - Starting Verify_PressEnterInToSectionheading ..
+19:50:08.711 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  BasicEditingTC.F1_SectionTC - Cliked on First section heading from VE
+19:50:09.087 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  BasicEditingTC.F1_SectionTC - Right Clicked on First section heading
+19:50:18.397 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  BasicEditingTC.F1_SectionTC - Starting VerifyDeleteSectionHeading ..
+19:50:19.746 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F1_SectionTC - Starting VerifyDeleteSectionNumber ..
+19:50:30.055 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  BasicEditingTC.F1_SectionTC - Starting Verify_NewSectionNumberIsNotDeleted ..
+19:50:31.224 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F1_SectionTC - Clicked on Section Heading
+19:50:31.261 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F1_SectionTC - Pressed Enter key
+19:51:01.997 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  BasicEditingTC.F1_SectionTC - Clicked on Document structure First section....
+19:55:02.110 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F1_SectionTC - Starting Verify_InsertsectionAtEnd ..
+19:55:02.292 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  BasicEditingTC.F1_SectionTC - Starting VerifyDeleteSection ..
+19:55:04.842 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F1_SectionTC - Starting Verify_InsertsectionAtMiddle ..
+19:55:46.936 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  BasicEditingTC.F1_SectionTC - Verifying section presence in Visual Editor...
+19:55:46.944 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  BasicEditingTC.F1_SectionTC - Verifying section presence in Quick Preview...
+19:55:47.389 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F1_SectionTC - Cliked on Middle section heading
+19:55:47.553 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F1_SectionTC - Cliked on Last section heading
+19:55:49.332 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F1_SectionTC - Right Clicked on Middle section heading
+19:55:50.345 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F1_SectionTC - Right Clicked on Last section heading
+19:55:50.725 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  BasicEditingTC.F1_SectionTC - Right clicked and click on Remove element....
+19:55:51.185 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  BasicEditingTC.F1_SectionTC - Clicked on Accept changes Button....
+19:55:51.562 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F1_SectionTC - Clicked on Insert After from through right click
+19:55:52.824 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F1_SectionTC - Clicked on Insert After from through right click
+19:55:54.434 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F1_SectionTC - Clicked on insert element button
+19:55:54.595 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F1_SectionTC - In the Ds new section is added
+19:55:54.751 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F1_SectionTC - In the VE new section is added at end
+19:55:54.751 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F1_SectionTC - Finished Verify_InsertsectionAtEnd ..
+19:56:04.894 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F1_SectionTC - Starting Verify_insertAfterSection ..
+19:56:45.158 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F1_SectionTC - Cliked on First section heading from VE
+19:56:45.202 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F1_SectionTC - Before Adding New Section the section number is :11.1.1
+19:56:46.354 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F1_SectionTC - Right Clicked on First section heading
+19:56:47.873 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F1_SectionTC - Clicked on Insert After from through right click
+19:57:12.415 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  BasicEditingTC.F1_SectionTC - Verifying section is not present in Visual Editor...
+19:57:12.688 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  BasicEditingTC.F1_SectionTC - Clicked on Code View Button....
+19:57:19.380 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F1_SectionTC - Starting Verify_insertAfterSectionNumber ..
+19:57:26.530 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  BasicEditingTC.F1_SectionTC - Starting Verify_PressEnterInToSectionheading ..
+19:57:54.713 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F1_SectionTC - Cliked on First section heading from VE
+19:57:55.804 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F1_SectionTC - Right Clicked on First section heading
+19:57:57.354 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F1_SectionTC - Clicked on insert element button
+19:57:58.359 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F1_SectionTC - In the Ds new section number is added
+19:57:58.662 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F1_SectionTC - Clicked on Code View button
+19:58:10.818 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  BasicEditingTC.F1_SectionTC - Clicked on Section Heading
+19:58:11.595 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  BasicEditingTC.F1_SectionTC - Pressed Enter key
+19:58:12.112 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  BasicEditingTC.F1_SectionTC - Clicked on Code View button
+19:58:14.804 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F1_SectionTC - Starting VerifyDeleteSectionHeading ..
+19:58:33.919 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  BasicEditingTC.F1_SectionTC - Verifying content validation is not Occured...
+19:58:34.036 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  BasicEditingTC.F1_SectionTC - Clicked on Quick Preview Button....
+19:58:57.227 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F1_SectionTC - Clicked on Document structure First section....
+19:58:58.704 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F1_SectionTC - Right clicked and removerd section heading
+19:58:59.106 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F1_SectionTC - Clicked on Accept changes Button....
+19:59:19.881 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F1_SectionTC - No Content Validation error is present in CodeView.
+19:59:19.881 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F1_SectionTC - Finished Verify_insertAfterSectionNumber ..
+19:59:27.422 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F1_SectionTC - Starting VerifyDeleteSectionNumber ..
+19:59:33.449 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  BasicEditingTC.F1_SectionTC - No Content Validation error is present in CodeView.
+19:59:33.449 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  BasicEditingTC.F1_SectionTC - Finished Verify_PressEnterInToSectionheading ..
+19:59:40.003 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  BasicEditingTC.F1_SectionTC - Starting Verify_NewSectionNumberIsNotDeleted ..
+19:59:55.204 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  BasicEditingTC.F1_SectionTC - Verifying section is not present in Quick Preview...
+19:59:55.204 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  BasicEditingTC.F1_SectionTC - Finished VerifyDeleteSection ..
+20:00:05.547 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F1_SectionTC - Clicked on Document structure First section....
+20:00:07.902 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F1_SectionTC - Right clicked and removerd section Number
+20:00:08.182 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F1_SectionTC - Clicked on Accept changes Button....
+20:00:17.515 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  BasicEditingTC.F1_SectionTC - Cliked on First section heading from VE
+20:00:18.268 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  BasicEditingTC.F1_SectionTC - Right Clicked on First section heading
+20:00:20.308 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F1_SectionTC - Verifying section Heading is not present in Visual Editor...
+20:00:20.458 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F1_SectionTC - Clicked on Code View Button....
+20:00:20.718 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  BasicEditingTC.F1_SectionTC - Clicked on Insert After from through right click
+20:00:22.381 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  BasicEditingTC.F1_SectionTC - Clicked on insert element button
+20:00:22.896 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  BasicEditingTC.F1_SectionTC - In the Ds new section is added
+20:00:26.056 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  BasicEditingTC.F1_SectionTC - Clicked on insert element button
+20:00:33.414 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.Ar_NumberResequencingTC - Starting TC721_verifyNumberSequenceBreakingBetween ..
+20:00:45.908 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Al_Commonp1TC - Right clicked section heading
+20:00:47.663 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Al_Commonp1TC - Clicked on Insert After from through right click
+20:01:08.037 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.Ar_NumberResequencingTC - Logged in, searched for a file, and clicked Edit.
+20:01:08.043 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.Ar_NumberResequencingTC - Created Ar_NumberResequencing instance.
+20:01:08.068 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.Ar_NumberResequencingTC - Switched to frame 0.
+20:01:08.068 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.Ar_NumberResequencingTC - Created Actions class instance.
+20:01:08.776 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.Ar_NumberResequencingTC - clicked on LEFT key
+20:01:09.042 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.Ar_NumberResequencingTC - clicked on BACKSPACE key
+20:01:09.393 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.Ar_NumberResequencingTC - Switched back to default content.
+20:01:09.669 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.Ar_NumberResequencingTC - clicked on Accept Change
+20:01:29.423 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F1_SectionTC - Verifying section Number is not present in Visual Editor...
+20:01:29.595 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F1_SectionTC - Clicked on Code View Button....
+20:01:29.799 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.Ar_NumberResequencingTC - Switched back to default content.
+20:01:36.353 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.Ar_NumberResequencingTC - Starting TC721_verifyNumberSequenceBreakingBetween ..
+20:01:41.795 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F1_SectionTC - Verifying content validation is not Occured...
+20:01:41.917 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F1_SectionTC - Clicked on Quick Preview Button....
+20:02:15.608 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.Ar_NumberResequencingTC - Logged in, searched for a file, and clicked Edit.
+20:02:15.608 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.Ar_NumberResequencingTC - Created Ar_NumberResequencing instance.
+20:02:15.629 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.Ar_NumberResequencingTC - Switched to frame 0.
+20:02:15.629 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.Ar_NumberResequencingTC - Created Actions class instance.
+20:02:16.327 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.Ar_NumberResequencingTC - clicked on LEFT key
+20:02:16.714 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.Ar_NumberResequencingTC - clicked on BACKSPACE key
+20:02:17.252 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.Ar_NumberResequencingTC - Switched back to default content.
+20:02:17.680 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.Ar_NumberResequencingTC - clicked on Accept Change
+20:02:37.911 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.Ar_NumberResequencingTC - Switched back to default content.
+20:02:45.084 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.Ar_NumberResequencingTC - Starting TC721_verifyNumberSequenceBreakingBetween ..
+20:02:50.815 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F1_SectionTC - Verifying content validation is not Occured...
+20:02:51.026 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F1_SectionTC - Clicked on Quick Preview Button....
+20:03:03.169 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F1_SectionTC - Verifying section heading is not present in Quick Preview...
+20:03:03.170 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F1_SectionTC - Finished VerifyDeleteSectionHeading ..
+20:03:20.654 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.Ar_NumberResequencingTC - Logged in, searched for a file, and clicked Edit.
+20:03:20.655 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.Ar_NumberResequencingTC - Created Ar_NumberResequencing instance.
+20:03:20.677 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.Ar_NumberResequencingTC - Switched to frame 0.
+20:03:20.677 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.Ar_NumberResequencingTC - Created Actions class instance.

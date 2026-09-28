@@ -1,0 +1,389 @@
+13:07:56.340 [main] INFO  BasicEditingTC.F12_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+13:07:58.059 [main] INFO  BasicEditingTC.F12_UndoRedoTC - Clicked on track changes.
+13:09:42.424 [main] INFO  BasicEditingTC.F12_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+13:09:42.455 [main] INFO  BasicEditingTC.F12_UndoRedoTC - Switched to frame 0.
+13:09:43.241 [main] INFO  BasicEditingTC.F12_UndoRedoTC - Switched to default content.
+13:12:41.798 [main] INFO  BasicEditingTC.F12_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+13:12:41.827 [main] INFO  BasicEditingTC.F12_UndoRedoTC - Switched to frame 0.
+13:12:43.251 [main] INFO  BasicEditingTC.F12_UndoRedoTC - Switched to default content.
+13:12:43.870 [main] INFO  BasicEditingTC.F12_UndoRedoTC - Switched to default content.
+13:12:44.745 [main] INFO  BasicEditingTC.F12_UndoRedoTC - Clicked on track changes.
+13:15:00.594 [main] INFO  BasicEditingTC.F12_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+13:15:00.672 [main] INFO  BasicEditingTC.F12_UndoRedoTC - Switched to frame 0.
+13:15:02.056 [main] INFO  BasicEditingTC.F12_UndoRedoTC - Switched to default content.
+13:15:02.633 [main] INFO  BasicEditingTC.F12_UndoRedoTC - Switched to default content.
+13:15:03.687 [main] INFO  BasicEditingTC.F12_UndoRedoTC - Clicked on track changes.
+13:16:40.061 [main] INFO  BasicEditingTC.F12_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+13:16:40.177 [main] INFO  BasicEditingTC.F12_UndoRedoTC - Switched to frame 0.
+13:16:40.697 [main] INFO  BasicEditingTC.F12_UndoRedoTC - Switched to default content.
+13:16:40.908 [main] INFO  BasicEditingTC.F12_UndoRedoTC - Switched to frame 0.
+13:16:41.310 [main] INFO  BasicEditingTC.F12_UndoRedoTC - Switched to default content.
+13:16:41.491 [main] INFO  BasicEditingTC.F12_UndoRedoTC - Clicked on track changes.
+13:16:42.188 [main] INFO  BasicEditingTC.F12_UndoRedoTC - Switched to frame 0.
+13:17:58.087 [main] INFO  BasicEditingTC.F12_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+13:17:58.231 [main] INFO  BasicEditingTC.F12_UndoRedoTC - Switched to frame 0.
+13:17:58.547 [main] INFO  BasicEditingTC.F12_UndoRedoTC - Switched to default content.
+13:17:58.759 [main] INFO  BasicEditingTC.F12_UndoRedoTC - Switched to frame 0.
+13:17:59.214 [main] INFO  BasicEditingTC.F12_UndoRedoTC - Switched to default content.
+13:17:59.387 [main] INFO  BasicEditingTC.F12_UndoRedoTC - Clicked on track changes.
+13:19:00.507 [main] INFO  BasicEditingTC.F12_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+13:19:00.547 [main] INFO  BasicEditingTC.F12_UndoRedoTC - Switched to frame 0.
+13:19:01.136 [main] INFO  BasicEditingTC.F12_UndoRedoTC - Switched to default content.
+13:19:01.421 [main] INFO  BasicEditingTC.F12_UndoRedoTC - Switched to frame 0.
+13:19:01.722 [main] INFO  BasicEditingTC.F12_UndoRedoTC - Switched to default content.
+13:19:01.991 [main] INFO  BasicEditingTC.F12_UndoRedoTC - Clicked on track changes.
+13:19:02.961 [main] INFO  BasicEditingTC.F12_UndoRedoTC - Switched to frame 0.
+13:22:04.954 [main] INFO  BasicEditingTC.F12_UndoRedoTC - Starting verify_ExistingList_PropertiesPopup
+13:22:30.162 [main] INFO  BasicEditingTC.F12_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+13:22:30.221 [main] INFO  BasicEditingTC.F12_UndoRedoTC - Switched to frame 0.
+13:22:31.087 [main] INFO  BasicEditingTC.F12_UndoRedoTC - Performed right-click on the existing list item.
+13:22:31.171 [main] INFO  BasicEditingTC.F12_UndoRedoTC - Switched back to default content.
+13:22:31.191 [main] INFO  BasicEditingTC.F12_UndoRedoTC - Switched to frame 1.
+13:23:35.633 [main] INFO  BasicEditingTC.F12_UndoRedoTC - Starting verify_ExistingList_PropertiesPopup
+13:23:59.212 [main] INFO  BasicEditingTC.F12_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+13:23:59.313 [main] INFO  BasicEditingTC.F12_UndoRedoTC - Switched to frame 0.
+13:24:00.486 [main] INFO  BasicEditingTC.F12_UndoRedoTC - Performed right-click on the existing list item.
+13:24:00.555 [main] INFO  BasicEditingTC.F12_UndoRedoTC - Switched back to default content.
+13:24:00.579 [main] INFO  BasicEditingTC.F12_UndoRedoTC - Switched to frame 1.
+13:24:01.004 [main] INFO  BasicEditingTC.F12_UndoRedoTC - Clicked on Remove Element Block.
+13:24:01.047 [main] INFO  BasicEditingTC.F12_UndoRedoTC - Switched back to default content.
+13:24:01.084 [main] INFO  BasicEditingTC.F12_UndoRedoTC - Switched back to frame 0.
+13:24:01.148 [main] INFO  BasicEditingTC.F12_UndoRedoTC - Verified that the list is deleted in VE.
+13:24:01.716 [main] INFO  BasicEditingTC.F12_UndoRedoTC - Switched back to frame 0.
+13:24:01.769 [main] INFO  BasicEditingTC.F12_UndoRedoTC - Verified that the list is deleted in VE.
+13:25:19.995 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ab_ParaTC - ****    Starting --> paraTC    ****
+13:25:21.073 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.Ab_UndoTC - Starting the test TC020_verifyUndo
+13:25:21.470 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.Ab_UndoTC - Starting the test TC018_verifyUndoEnabled
+13:25:24.843 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.Ab_UndoTC - Starting the test TC019_verifyUndoHilighted
+13:25:46.964 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.Ab_UndoTC - Logged in and searched for the file, then clicked on edit.
+13:25:46.997 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.Ab_UndoTC - Initialized Ab_Verify_Undo.
+13:25:47.173 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.Ab_UndoTC - Undo is displayed in the toolbar.
+13:25:47.252 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.Ab_UndoTC - Undo is disabled after resetting file.
+13:25:48.353 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.Ab_UndoTC - Bold is enabled.
+13:25:48.683 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.Ab_UndoTC - Logged in and searched for the file, then clicked on edit.
+13:25:48.685 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.Ab_UndoTC - Initialized Ab_Verify_Undo.
+13:25:48.804 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.Ab_UndoTC - Undo plugin is present.
+13:25:48.853 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.Ab_UndoTC - Undo is disabled initially.
+13:25:50.174 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.Ab_UndoTC - Undo is working as expected.
+13:25:50.174 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.Ab_UndoTC - Test TC020_verifyUndo completed.
+13:25:50.225 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.Ab_UndoTC - Undo is enabled after an action.
+13:25:51.922 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.Ab_UndoTC - Logged in and searched for the file, then clicked on edit.
+13:25:51.925 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.Ab_UndoTC - Initialized Ab_Verify_Undo.
+13:25:51.980 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.Ab_UndoTC - Undo is disabled after an undo action.
+13:25:51.980 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.Ab_UndoTC - Test TC018_verifyUndoEnabled completed.
+13:25:52.234 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.Ab_UndoTC - Undo is highlighted as expected.
+13:25:52.234 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.Ab_UndoTC - Test TC019_verifyUndoHilighted completed.
+13:26:26.603 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.Ab_UndoTC - Switching to frame 0.
+13:26:26.680 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.Ab_UndoTC - Performing a double click action on the first paragraph.
+13:26:27.210 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.Ab_UndoTC - Switching back to default content.
+13:26:27.256 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.Ab_UndoTC - Clicking on the Bold option.
+13:26:27.799 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.Ab_UndoTC - Switching to frame 0.
+13:26:27.892 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.Ab_UndoTC - Checking if Emphasis is present in Visual Editor before clicking undo.
+13:26:27.957 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.Ab_UndoTC - Switching back to default content.
+13:26:27.960 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.Ab_UndoTC - Clicking on Undo.
+13:26:28.114 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.Ab_UndoTC - Switching to frame 0.
+13:26:28.137 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.Ab_UndoTC - Creating Actions object.
+13:26:28.137 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.Ab_UndoTC - Clicking on the first paragraph.
+13:26:29.022 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.Ab_UndoTC - Typing 'Hi' after hitting ENTER.
+13:26:29.257 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.Ab_UndoTC - Switching to frame 0.
+13:26:29.321 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.Ab_UndoTC - Checking if Emphasis is not present in Visual Editor after clicking Undo.
+13:26:29.343 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.Ab_UndoTC - Asserting that new content 'Hi' is displayed.
+13:26:29.588 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.Ab_UndoTC - Switching back to default content.
+13:26:29.591 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.Ab_UndoTC - Clicking on Undo.
+13:26:31.013 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.Ab_UndoTC - Switching to frame 0.
+13:26:31.143 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.Ab_UndoTC - Asserting that new content 'Hi' is not present in Visual Editor after clicking on undo.
+13:26:35.103 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.Ab_UndoTC - Clicking the First Paragraph.
+13:26:35.696 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.Ab_UndoTC - Pressing Enter and typing 'Hi'.
+13:26:36.231 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.Ab_UndoTC - Asserting that new content 'Hi' is displayed.
+13:26:36.596 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.Ab_UndoTC - Holding Shift key and selecting text.
+13:26:36.710 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.Ab_UndoTC - Switching back to default content.
+13:26:36.725 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.Ab_UndoTC - Clicking Undo.
+13:26:38.064 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.Ab_UndoTC - Switching to frame 0.
+13:26:38.122 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.Ab_UndoTC - Asserting that new content 'Hi' is still present in Visual Editor after clicking on undo.
+13:26:38.170 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.Ab_UndoTC - Switching back to default content.
+13:26:38.172 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.Ab_UndoTC - Clicking Quick Preview.
+13:26:38.317 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.Ab_UndoTC - Switching to frame 0.
+13:26:38.331 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.Ab_UndoTC - Asserting that new content 'Hi' is still in Quick preview after clicking on undo.
+13:26:38.413 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.Ab_UndoTC - Switching back to default content.
+13:26:38.416 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.Ab_UndoTC - Clicking Code View.
+13:26:38.725 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.Ab_UndoTC - Asserting that Content Validation is not present.
+13:26:44.610 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.Ab_UndoTC - Right-clicking on the liValueone element.
+13:26:45.888 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.Ab_UndoTC - Clicking on Remove Element Block.
+13:26:46.424 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.Ab_UndoTC - Switching to frame 0.
+13:26:46.549 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.Ab_UndoTC - Clicking the Spantext72 element.
+13:26:46.925 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.Ab_UndoTC - Switching back to default content.
+13:26:46.954 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.Ab_UndoTC - Clicking Accept Change.
+13:26:47.209 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.Ab_UndoTC - Asserting that existing content is not removed from Document Structure.
+13:27:09.434 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.Ab_UndoTC - Switching back to default content.
+13:27:09.437 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.Ab_UndoTC - Clicking on Quick Preview.
+13:27:09.575 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.Ab_UndoTC - Switching to frame 0.
+13:27:09.595 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.Ab_UndoTC - Checking if Emphasis is not present in Quick Preview after clicking Undo.
+13:27:11.233 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.Ab_UndoTC - Switching back to default content.
+13:27:11.238 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.Ab_UndoTC - Clicking on Quick Preview.
+13:27:11.419 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.Ab_UndoTC - Switching to frame 0.
+13:27:11.443 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.Ab_UndoTC - Asserting that new content 'Hi' is not present in Quick Preview after clicking on undo.
+13:27:27.299 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.Ab_UndoTC - Clicking Undo.
+13:27:28.856 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.Ab_UndoTC - Asserting that existing content is present in Document Structure after clicking on Undo.
+13:27:29.044 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.Ab_UndoTC - Switching to frame 0.
+13:27:29.080 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.Ab_UndoTC - Asserting that existing content is present in the VE after clicking on Undo.
+13:27:53.928 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.Ab_UndoTC - Asserting that the paragraph is changed to Address from General Attribute.
+13:27:54.060 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.Ab_UndoTC - Clicking Undo.
+13:27:55.615 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.Ab_UndoTC - Asserting that the changes are undone.
+13:27:55.916 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.Ab_UndoTC - Switching to frame 0.
+13:27:55.944 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.Ab_UndoTC - Asserting that the changes are undone in Visual Editor.
+13:27:58.703 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.Ab_UndoTC - Switching to frame 0.
+13:27:58.755 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.Ab_UndoTC - Clicking on the first paragraph.
+13:27:59.733 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.Ab_UndoTC - Switching back to default content.
+13:27:59.814 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.Ab_UndoTC - Clicking on the Footnote plugin.
+13:28:00.191 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.Ab_UndoTC - Clicking on New Footnote Box.
+13:28:02.934 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.Ab_UndoTC - Getting the new Footnote box element.
+13:28:02.934 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.Ab_UndoTC - Creating Actions object.
+13:28:02.934 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.Ab_UndoTC - Typing 'This is FootNote' in the Footnote.
+13:28:03.165 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.Ab_UndoTC - Clicking on Footnote OK button.
+13:28:03.786 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.Ab_UndoTC - Clicking on Accept Change.
+13:28:36.046 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.Ab_UndoTC - Switching back to default content.
+13:28:36.051 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.Ab_UndoTC - Clicking Quick Preview.
+13:28:36.308 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.Ab_UndoTC - Switching to frame 0.
+13:28:36.472 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.Ab_UndoTC - Asserting that the changes are undone in Quick Preview.
+13:28:41.633 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.Ab_UndoTC - Inserting a table using ReusableMethods.insertTableCB()
+13:28:47.646 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.Ab_UndoTC - Deleting columns in the table.
+13:28:48.571 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.Ab_UndoTC - Clicking Undo.
+13:28:50.105 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.Ab_UndoTC - Asserting that the content block is selected after Undo.
+13:29:08.054 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.Ab_UndoTC - Undo is enabled after an action.
+13:29:16.540 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.Ab_UndoTC - Switching back to default content.
+13:29:16.543 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.Ab_UndoTC - Clicking Code View.
+13:29:16.730 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.Ab_UndoTC - Switching to frame 0.
+13:29:16.844 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.Ab_UndoTC - Asserting that the changes are undone in Code View.
+13:29:21.999 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.Ab_UndoTC - Inserting a table using ReusableMethods.
+13:29:28.446 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.Ab_UndoTC - Entering 'Hello' into the caption.
+13:29:38.529 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.Ab_UndoTC - Switching to frame 0.
+13:29:38.547 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.Ab_UndoTC - Double-clicking the first paragraph.
+13:29:39.023 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.Ab_UndoTC - Context-clicking the first paragraph.
+13:29:39.666 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.Ab_UndoTC - Switching to default content.
+13:29:39.702 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.Ab_UndoTC - Switching to frame 1.
+13:29:39.721 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.Ab_UndoTC - Clicking right-click Insert Into.
+13:29:40.724 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.Ab_UndoTC - Switching to default content.
+13:29:40.742 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.Ab_UndoTC - Clicking Textbox role.
+13:29:40.893 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.Ab_UndoTC - Typing 'b' in Textbox role.
+13:29:40.949 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.Ab_UndoTC - Clicking Textb.
+13:29:41.727 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.Ab_UndoTC - Clicking Modal Show.
+13:29:42.031 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.Ab_UndoTC - Asserting that Bold is inserted into a paragraph.
+13:29:42.696 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.Ab_UndoTC - Clicking Undo twice.
+13:29:45.479 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.Ab_UndoTC - Asserting that Undo is working fine in Document Structure.
+13:29:45.615 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.Ab_UndoTC - Clicking Code View.
+13:29:45.826 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.Ab_UndoTC - Asserting that Undo is working fine in Code View.
+13:30:19.204 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  BasicEditingTC.F12_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+13:30:21.337 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  BasicEditingTC.F12_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+13:30:23.967 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  BasicEditingTC.F12_UndoRedoTC - Clicked on track changes.
+13:30:31.287 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F12_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+13:30:34.354 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F12_UndoRedoTC - Clicked on track changes.
+13:30:53.321 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  BasicEditingTC.F12_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+13:30:53.386 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  BasicEditingTC.F12_UndoRedoTC - Switched to frame 0.
+13:30:53.991 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  BasicEditingTC.F12_UndoRedoTC - Switched to default content.
+13:30:54.377 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  BasicEditingTC.F12_UndoRedoTC - Switched to frame 0.
+13:30:54.877 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  BasicEditingTC.F12_UndoRedoTC - Switched to default content.
+13:30:55.078 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  BasicEditingTC.F12_UndoRedoTC - Clicked on track changes.
+13:30:55.590 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  BasicEditingTC.F12_UndoRedoTC - Switched to frame 0.
+13:30:58.433 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F12_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+13:30:58.458 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F12_UndoRedoTC - Switched to frame 0.
+13:31:00.058 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F12_UndoRedoTC - Switched to default content.
+13:31:00.895 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F12_UndoRedoTC - Switched to default content.
+13:31:02.146 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F12_UndoRedoTC - Clicked on track changes.
+13:31:30.439 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  BasicEditingTC.F12_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+13:31:30.472 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  BasicEditingTC.F12_UndoRedoTC - Switched to frame 0.
+13:31:31.310 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  BasicEditingTC.F12_UndoRedoTC - Switched to default content.
+13:31:40.556 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  BasicEditingTC.F12_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+13:31:40.572 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  BasicEditingTC.F12_UndoRedoTC - Switched to frame 0.
+13:31:41.276 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  BasicEditingTC.F12_UndoRedoTC - Switched to default content.
+13:31:47.836 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F12_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+13:31:47.872 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F12_UndoRedoTC - Switched to frame 0.
+13:31:48.480 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F12_UndoRedoTC - Switched to default content.
+13:31:48.874 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F12_UndoRedoTC - Switched to frame 0.
+13:31:49.373 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F12_UndoRedoTC - Switched to default content.
+13:31:49.646 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F12_UndoRedoTC - Clicked on track changes.
+13:31:50.489 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F12_UndoRedoTC - Switched to frame 0.
+13:31:57.903 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F12_UndoRedoTC - ****    Starting --> paraTC    ****
+13:32:15.931 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F12_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+13:32:15.947 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F12_UndoRedoTC - Switched to frame 0.
+13:32:17.441 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F12_UndoRedoTC - Switched to default content.
+13:32:18.089 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F12_UndoRedoTC - Switched to default content.
+13:32:18.961 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F12_UndoRedoTC - Clicked on track changes.
+13:32:21.112 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F12_UndoRedoTC - clicked on second section from DS
+13:32:21.395 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F12_UndoRedoTC - clicked on second sections 2nd para from DS
+13:32:21.866 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F12_UndoRedoTC - clicked on Enter key
+13:32:21.944 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F12_UndoRedoTC - Verifying new para present in VE
+13:32:32.720 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F12_UndoRedoTC - ****    Starting --> paraTC    ****
+13:32:56.197 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F12_UndoRedoTC - clicked on second section from DS
+13:32:56.534 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F12_UndoRedoTC - clicked on second sections 2nd para from DS
+13:32:57.540 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F12_UndoRedoTC - clicked on Enter key
+13:32:57.675 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F12_UndoRedoTC - Verifying new para present in VE
+13:33:05.515 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  BasicEditingTC.F12_UndoRedoTC - Starting verify_ExistingList_PropertiesPopup
+13:33:06.167 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F12_UndoRedoTC - Starting verify_ExistingList_PropertiesPopup
+13:33:09.864 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  BasicEditingTC.F12_UndoRedoTC - ****    Starting --> paraTC    ****
+13:33:19.736 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F12_UndoRedoTC - ****    Starting --> paraTC    ****
+13:33:31.753 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  BasicEditingTC.F12_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+13:33:31.820 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  BasicEditingTC.F12_UndoRedoTC - Switched to frame 0.
+13:33:33.882 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F12_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+13:33:34.002 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F12_UndoRedoTC - Switched to frame 0.
+13:33:34.996 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  BasicEditingTC.F12_UndoRedoTC - Performed right-click on the existing list item.
+13:33:35.064 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  BasicEditingTC.F12_UndoRedoTC - Switched back to default content.
+13:33:35.118 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F12_UndoRedoTC - Performed right-click on the existing list item.
+13:33:35.219 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  BasicEditingTC.F12_UndoRedoTC - Switched to frame 1.
+13:33:35.283 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F12_UndoRedoTC - Switched back to default content.
+13:33:35.668 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F12_UndoRedoTC - Switched to frame 1.
+13:33:36.419 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F12_UndoRedoTC - Clicked on Remove Element Block.
+13:33:36.501 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  BasicEditingTC.F12_UndoRedoTC - Clicked on Remove Element Block.
+13:33:36.531 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F12_UndoRedoTC - Switched back to default content.
+13:33:36.578 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  BasicEditingTC.F12_UndoRedoTC - Switched back to default content.
+13:33:36.578 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F12_UndoRedoTC - Switched back to frame 0.
+13:33:36.613 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  BasicEditingTC.F12_UndoRedoTC - Switched back to frame 0.
+13:33:36.632 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F12_UndoRedoTC - Verified that the list is deleted in VE.
+13:33:36.682 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  BasicEditingTC.F12_UndoRedoTC - Verified that the list is deleted in VE.
+13:33:37.959 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  BasicEditingTC.F12_UndoRedoTC - Switched back to frame 0.
+13:33:37.999 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  BasicEditingTC.F12_UndoRedoTC - Verified that the list is deleted in VE.
+13:33:38.164 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F12_UndoRedoTC - Switched back to frame 0.
+13:33:38.218 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F12_UndoRedoTC - Verified that the list is deleted in VE.
+13:33:39.869 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F12_UndoRedoTC - Switched back to frame 0.
+13:33:40.235 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F12_UndoRedoTC - Verified that the list is deleted in VE.
+13:33:44.666 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  BasicEditingTC.F12_UndoRedoTC - clicked on simple-para selement
+13:33:44.974 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  BasicEditingTC.F12_UndoRedoTC - Verifying Simple Para present in VE
+13:33:51.898 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  BasicEditingTC.F12_UndoRedoTC - ****    Starting --> UndoTC    ****
+13:33:51.931 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F12_UndoRedoTC - ****    Starting --> UndoTC    ****
+13:33:54.098 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F12_UndoRedoTC - clicked on simple-para selement
+13:33:54.256 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F12_UndoRedoTC - Verifying Simple Para present in VE
+13:34:25.119 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.Ac_RedoTC - Logging in and searching for the file to edit.
+13:34:28.926 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.Ac_RedoTC - Starting test TC038_verifyRedoChangeElementAttributePanel.
+13:34:52.743 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.Ac_RedoTC - Switching to frame 0 and selecting the first paragraph.
+13:34:54.380 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.Ac_RedoTC - Switching to frame and clicking the first paragraph.
+13:34:54.793 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.Ac_RedoTC - Holding Shift and selecting text for various formatting changes.
+13:34:55.482 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.Ac_RedoTC - Clicking 'Change' in the Attribute Panel and adding text.
+13:34:56.871 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.Ac_RedoTC - Undoing the formatting changes.
+13:34:58.162 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.Ac_RedoTC - Performing Undo operation.
+13:34:59.655 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.Ac_RedoTC - Logging in and searching for the file to edit.
+13:34:59.690 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.Ac_RedoTC - Logging in and searching for the file to edit.
+13:34:59.744 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.Ac_RedoTC - Performing Redo operation.
+13:35:00.474 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.Ac_RedoTC - Switching to Quick Preview and checking Redo status.
+13:35:05.923 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.Ac_RedoTC - Redoing the formatting changes.
+13:35:20.813 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.Ac_RedoTC - Logging in and searching for the file to edit.
+13:35:25.905 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.Ac_RedoTC - Moving the mouse to the Redo element to check if it's highlighted.
+13:35:26.177 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.Ac_RedoTC - Verifying if Redo is highlighted by checking its background color.
+13:35:29.151 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.Ac_RedoTC - Checking if Redo toolbar is present in the toolbar.
+13:35:29.218 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.Ac_RedoTC - Checking if Redo is initially disabled.
+13:35:29.250 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.Ac_RedoTC - Selecting the first paragraph.
+13:35:30.033 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.Ac_RedoTC - Applying Bold to the selected text.
+13:35:30.918 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.Ac_RedoTC - Checking if Undo is enabled and Redo is still disabled.
+13:35:31.139 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.Ac_RedoTC - Clicking Undo.
+13:35:32.554 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.Ac_RedoTC - Checking if Redo is enabled after Undo.
+13:35:32.734 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.Ac_RedoTC - Clicking Redo.
+13:35:33.037 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.Ac_RedoTC - Checking if Redo is disabled after Redo operation.
+13:35:35.311 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.Ac_RedoTC - Starting test TC042_verifyRedoExistingContent.
+13:35:41.182 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.Ac_RedoTC - Test TC038_verifyRedoChangeElementAttributePanel completed.
+13:35:41.752 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.Ac_RedoTC - Starting test TC043_verifyRedoNewContent.
+13:35:45.054 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.Ac_RedoTC - Verifying the presence and state of Redo functionality.
+13:35:45.642 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.Ac_RedoTC - Double-clicking the first paragraph.
+13:35:46.674 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.Ac_RedoTC - Verifying that Bold is enabled.
+13:35:48.909 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.Ac_RedoTC - Verifying the state of Redo after performing Undo.
+13:35:51.938 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.Ac_RedoTC - Starting test TC045_verifyRedoRemoveNewContent.
+13:36:01.267 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.Ac_RedoTC - Switching to frame and double-clicking the first paragraph.
+13:36:02.124 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.Ac_RedoTC - Clicking 'Bold' to emphasize text.
+13:36:03.566 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.Ac_RedoTC - Performing Undo operation.
+13:36:04.919 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.Ac_RedoTC - Performing Redo operation.
+13:36:06.284 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.Ac_RedoTC - Switching to Quick Preview and checking Redo status.
+13:36:06.284 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.Ac_RedoTC - Test TC042_verifyRedoExistingContent completed.
+13:36:10.146 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.Ac_RedoTC - Switching to frame and selecting the first paragraph.
+13:36:11.890 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.Ac_RedoTC - Performing Undo operation.
+13:36:13.447 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.Ac_RedoTC - Performing Redo operation.
+13:36:13.978 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.Ac_RedoTC - Switching to Quick Preview and checking Redo status.
+13:36:14.387 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.Ac_RedoTC - Test TC043_verifyRedoNewContent completed.
+13:36:14.956 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.Ac_RedoTC - Logging in and searching for the file to edit.
+13:36:20.346 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.Ac_RedoTC - Switching to frame and selecting the first paragraph.
+13:36:22.047 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.Ac_RedoTC - Performing Undo operation.
+13:36:23.378 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.Ac_RedoTC - Starting test TC048_verifyRedoInFootnote.
+13:36:23.695 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.Ac_RedoTC - Performing Redo operation.
+13:36:29.128 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.Ac_RedoTC - Verifying the presence of an element with id935.
+13:36:29.725 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.Ac_RedoTC - Verifying the presence of an element in Visual Editor after Redo.
+13:36:41.695 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.Ac_RedoTC - Starting test TC049_verifyRedoInsertEntity.
+13:36:45.324 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.Ac_RedoTC - Right-clicking an element and removing it.
+13:36:46.856 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.Ac_RedoTC - Selecting a specific element in Visual Editor.
+13:36:47.287 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.Ac_RedoTC - Accepting the change and verifying the state after Undo.
+13:36:54.554 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.Ac_RedoTC - Creating a new Footnote.
+13:37:00.090 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.Ac_RedoTC - Verifying the presence of Footnote.
+13:37:00.133 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.Ac_RedoTC - Performing Redo operations.
+13:37:04.882 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.Ac_RedoTC - Switching to Quick Preview and checking Redo status.
+13:37:05.327 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.Ac_RedoTC - Verifying the presence of Footnote after Redo.
+13:37:05.430 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.Ac_RedoTC - Test TC048_verifyRedoInFootnote completed.
+13:37:14.657 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.Ac_RedoTC - Starting test TC050_verifyTableRedo.
+13:37:27.802 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.Ac_RedoTC - Verifying the presence of an existing content in Document Structure after Undo.
+13:37:29.299 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.Ac_RedoTC - Verifying the presence of existing content in Document Structure after Undo.
+13:37:38.636 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.Ac_RedoTC - Inserting a table.
+13:37:45.726 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.Ac_RedoTC - Switching to Code View and checking Redo status.
+13:37:46.243 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.Ac_RedoTC - Undo is enabled after an action.
+13:37:49.467 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.Ac_RedoTC - Logging in and searching for the file to edit.
+13:37:57.118 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.Ac_RedoTC - Starting test TC052_verifyRedoNewlyAddedCaptionTable.
+13:38:09.758 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.Ac_RedoTC - Verifying the presence of an existing content in Document Structure after Undo.
+13:38:12.944 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.Ac_RedoTC - Switching to frame 0 and double-clicking the first paragraph.
+13:38:14.347 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.Ac_RedoTC - Right-clicking and inserting formatting into the paragraph.
+13:38:17.611 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.Ac_RedoTC - Undoing the formatting insertion.
+13:38:20.602 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.Ac_RedoTC - Asserting that Undo is working fine in Document Structure.
+13:38:20.969 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.Ac_RedoTC - Redoing the formatting insertion.
+13:38:21.467 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.Ac_RedoTC - Inserting a Table.
+13:38:21.905 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.Ac_RedoTC - Asserting that Undo is working fine in Document Structure.
+13:38:22.345 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.Ac_RedoTC - Asserting that Undo is working fine in Code View.
+13:38:26.046 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.Ac_RedoTC - Test TC045_verifyRedoRemoveNewContent completed.
+13:38:38.088 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Starting verifyChangeElementParaToSection
+13:38:59.652 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Starting the test verify_AddFigure_CheckTC
+13:39:02.731 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+13:39:02.740 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Created Para instance.
+13:39:09.011 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Inserted table using ReusableMethods.
+13:39:09.876 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Switched to frame 0.
+13:39:09.934 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Switched to default content.
+13:39:23.016 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in and searched for the file, then clicked on edit.
+13:39:24.192 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Right-clicked on the first paragraph in Visual Editor.
+13:39:35.828 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+13:39:36.112 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Switched to frame 0.
+13:39:37.020 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Switched to default content.
+13:39:49.921 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+13:39:50.109 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Switched to frame 0.
+13:39:50.621 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Switched to default content.
+13:39:52.577 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Clicked on Number List Plugin.
+13:39:53.940 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - clicked on Revision Changed 
+13:39:54.100 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Switched to frame 0.
+13:39:58.600 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Starting verifyChangeElementParaToSection
+13:40:02.458 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Starting verifyChangeElementParaToSection
+13:40:12.735 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+13:40:12.753 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ae_UndoRedoTC - Switched to frame 0.
+13:40:13.397 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ae_UndoRedoTC - Switched to default content.
+13:40:14.954 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ae_UndoRedoTC - Clicked on Number List Plugin.
+13:40:25.756 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+13:40:27.054 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+13:40:54.406 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ae_UndoRedoTC - clicked on simple-para selement
+13:40:54.672 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ae_UndoRedoTC - Verifying Simple Para present in VE
+13:41:03.092 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - clicked on simple-para selement
+13:41:03.223 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Verifying Simple Para present in VE
+13:41:07.378 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Starting verifyChangeParaToTableCheckInCB
+13:41:17.840 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Starting verifyChangeSectionNumberToList
+13:41:31.567 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+13:41:39.264 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ae_UndoRedoTC - Verifying Simple Para present in VE
+13:41:43.453 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+13:41:43.465 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Created List instance.
+13:41:44.930 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Clicked change Element
+13:41:45.063 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Finished verifyChangeSectionNumberToList ..
+13:41:46.885 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Verifying Simple Para present in VE
+13:41:59.715 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ae_UndoRedoTC - ****    Starting --> paraTC    ****
+13:42:19.432 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - clicked on Enter key
+13:42:20.162 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - clicked on Enter key
+13:42:28.161 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ae_UndoRedoTC - clicked on Enter key
+13:42:30.026 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Starting the test verify_AddFigure_CheckTC
+13:42:59.510 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+13:43:00.084 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in and searched for the file, then clicked on edit.
+13:43:00.240 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in and searched for a file, then clicked Edit.
+13:43:01.694 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Right-clicked on the first paragraph in Visual Editor.
+13:43:02.539 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Clicked on 'VE Insert After' in Visual Editor.
+13:43:02.681 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Entered 'figure' text.
+13:43:19.190 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ae_UndoRedoTC - Starting verifyChangeElementParaToSection
+13:43:46.322 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+13:43:54.766 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Starting verifyChangeElementParaToSection
+13:43:55.746 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Starting verifyChangeElementParaToSection
+13:43:59.310 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ae_UndoRedoTC - Starting verifyChangeElementParaToSection
+13:44:18.754 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+13:44:19.585 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ae_UndoRedoTC - Logged in, searched for a file, and clicked Edit.

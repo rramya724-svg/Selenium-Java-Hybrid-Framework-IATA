@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="4" parallel="methods" name="Failed suite [BasicEditingTestCases]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="d_utilities.ExtentReportManager"/>
+    <listener class-name="d_utilities.AnnotationTransfer"/>
+  </listeners>
+  <test thread-count="4" parallel="methods" name="RetryMultipleFailedTestcases(failed)">
+    <classes>
+      <class name="c_testCases.F8_TrackChangesTC">
+        <methods>
+          <include name="verify_DeleteLastSection_CheckTC"/>
+          <include name="printThreadDetails"/>
+          <include name="initialize"/>
+          <include name="setup"/>
+          <include name="verify_AddMediaObjectDelete_AcceptChange"/>
+          <include name="tearDown"/>
+          <include name="verify_AddTable_AcceptChangeTC"/>
+          <include name="verify_DeleteAllContentFromPara_CheckTC"/>
+          <include name="initializeSuit"/>
+          <include name="verify_AddMediaObjectHitEnter_AcceptChange"/>
+        </methods>
+      </class> <!-- c_testCases.F8_TrackChangesTC -->
+      <class name="c_testCases.F4_TableTC">
+        <methods>
+          <include name="verify_DeleteRow_Selecting"/>
+          <include name="verify_InsertMediaObject_ExistingTable"/>
+          <include name="TableFromTableOptions"/>
+          <include name="initialize"/>
+          <include name="printThreadDetails"/>
+          <include name="setup"/>
+          <include name="verify_DeleteCell_Selecting"/>
+          <include name="tearDown"/>
+          <include name="verify_DeleteCells_Selecting"/>
+          <include name="initializeSuit"/>
+        </methods>
+      </class> <!-- c_testCases.F4_TableTC -->
+      <class name="c_testCases.F1_SectionTC">
+        <methods>
+          <include name="Verify_DeleteSectionfromDS_usingDeleteKey"/>
+          <include name="Verify_PressEnterInToSectionNumber"/>
+          <include name="initialize"/>
+          <include name="printThreadDetails"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="Verify_PressEnterInToSectionheading"/>
+          <include name="initializeSuit"/>
+        </methods>
+      </class> <!-- c_testCases.F1_SectionTC -->
+      <class name="c_testCases.F6_EmphasisTC">
+        <methods>
+          <include name="printThreadDetails"/>
+          <include name="initialize"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="initializeSuit"/>
+          <include name="verify_InsertBoldItalicUnderlineAndDeleteAllEmphs"/>
+        </methods>
+      </class> <!-- c_testCases.F6_EmphasisTC -->
+      <class name="c_testCases.F12_UndoRedoTC">
+        <methods>
+          <include name="verify_DeleteSection_UndoRedo"/>
+          <include name="verify_AddTextinPara_Undo"/>
+          <include name="verify_AddTable_UndoRedo"/>
+          <include name="verify_DeleteSection_Undo"/>
+          <include name="printThreadDetails"/>
+          <include name="initialize"/>
+          <include name="setup"/>
+          <include name="verify_AddTable_Undo"/>
+          <include name="tearDown"/>
+          <include name="initializeSuit"/>
+        </methods>
+      </class> <!-- c_testCases.F12_UndoRedoTC -->
+      <class name="c_testCases.F9_FootnoteTC">
+        <methods>
+          <include name="verify_BackspaceFootnote"/>
+          <include name="verify_DeleteFootnote_FromVE"/>
+          <include name="verify_DeleteFootnote_FromDS"/>
+          <include name="printThreadDetails"/>
+          <include name="initialize"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="initializeSuit"/>
+        </methods>
+      </class> <!-- c_testCases.F9_FootnoteTC -->
+      <class name="c_testCases.F2_ParaTC">
+        <methods>
+          <include name="InsertAfter_SimplePara"/>
+          <include name="DeleteExistingPara_FromDS"/>
+          <include name="InsertAfter_NumberedPara"/>
+          <include name="setup"/>
+          <include name="printThreadDetails"/>
+          <include name="initialize"/>
+          <include name="verify_Backspace_CompletePara"/>
+          <include name="AddContent_Deletepara"/>
+          <include name="tearDown"/>
+          <include name="initializeSuit"/>
+        </methods>
+      </class> <!-- c_testCases.F2_ParaTC -->
+      <class name="c_testCases.F11_CommnetsTC">
+        <methods>
+          <include name="verify_AddCommentToImg"/>
+          <include name="Verify_AddReplyDeleteComment"/>
+          <include name="Verify_CommentBubbleIsPresent"/>
+          <include name="Verify_SelectAllAddComment"/>
+          <include name="setup"/>
+          <include name="printThreadDetails"/>
+          <include name="initialize"/>
+          <include name="tearDown"/>
+          <include name="initializeSuit"/>
+          <include name="Verify_CommentToExistingTable"/>
+        </methods>
+      </class> <!-- c_testCases.F11_CommnetsTC -->
+      <class name="c_testCases.F10_EntityTC">
+        <methods>
+          <include name="setup"/>
+          <include name="initialize"/>
+          <include name="printThreadDetails"/>
+          <include name="verify_Insert_Variables"/>
+          <include name="tearDown"/>
+          <include name="initializeSuit"/>
+        </methods>
+      </class> <!-- c_testCases.F10_EntityTC -->
+    </classes>
+  </test> <!-- RetryMultipleFailedTestcases(failed) -->
+</suite> <!-- Failed suite [BasicEditingTestCases] -->

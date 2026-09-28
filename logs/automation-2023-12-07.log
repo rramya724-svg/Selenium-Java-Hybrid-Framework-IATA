@@ -1,0 +1,325 @@
+20:17:14.237 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.C_CommonBugsTC - Starting test TC782_verifyInsertoptionsMediaObject.
+20:17:16.293 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.C_CommonBugsTC - Starting test TC767_verifyMediobjectOptionsMatching.
+20:17:17.810 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.C_CommonBugsTC - Starting test TC766_verifyInsideMediaObjectSearchNoResults.
+20:17:34.428 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.C_CommonBugsTC - Logged in and clicked on Edit.
+20:17:34.428 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.C_CommonBugsTC - Initialized the CommonBugs page object.
+20:17:36.476 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.C_CommonBugsTC - Logged in and clicked on Edit.
+20:17:37.832 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.C_CommonBugsTC - Logged in and clicked on Edit.
+20:17:37.945 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.C_CommonBugsTC - Starting test TC782_verifyInsertoptionsMediaObject.
+20:17:41.437 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.C_CommonBugsTC - Starting test TC767_verifyMediobjectOptionsMatching.
+20:17:57.980 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.C_CommonBugsTC - Logged in and clicked on Edit.
+20:17:57.981 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.C_CommonBugsTC - Initialized the CommonBugs page object.
+20:18:01.455 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.C_CommonBugsTC - Logged in and clicked on Edit.
+20:18:03.846 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.C_CommonBugsTC - Starting test TC782_verifyInsertoptionsMediaObject.
+20:18:03.852 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.C_CommonBugsTC - Logged in and clicked on Edit.
+20:18:03.852 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.C_CommonBugsTC - Initialized the CommonBugs page object.
+20:45:16.331 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.B_InsertPopUpTC - Starting test TC370_verifyInsertHilighted.
+20:45:21.126 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.B_InsertPopUpTC - Starting test TC372_verifyInsertOptions.
+20:45:22.249 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.B_InsertPopUpTC - Starting test TC369_verifyInsertEnabled.
+20:45:22.807 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.B_InsertPopUpTC - Starting test TC371_verifyInsertPopup.
+20:46:53.495 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.B_InsertPopUpTC - Logged in and searched for the file, then clicked Edit.
+20:46:53.523 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.B_InsertPopUpTC - Created B_Verify_Insert_PopUp object.
+20:46:53.628 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.B_InsertPopUpTC - Checked if Insert plugin is displayed.
+20:46:53.677 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.B_InsertPopUpTC - Verified that Insert plugin is enabled.
+20:46:54.198 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.B_InsertPopUpTC - Clicked on the first paragraph.
+20:46:54.198 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.B_InsertPopUpTC - Verified that Insert plugin is displayed.
+20:46:54.198 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.B_InsertPopUpTC - Test TC369_verifyInsertEnabled completed.
+20:47:01.228 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.B_InsertPopUpTC - Logged in and searched for the file, then clicked Edit.
+20:47:01.231 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.B_InsertPopUpTC - Created B_Verify_Insert_PopUp object.
+20:47:01.696 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.B_InsertPopUpTC - Hovered over the Insert plugin.
+20:47:01.842 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.B_InsertPopUpTC - Got the background color.
+20:47:01.843 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.B_InsertPopUpTC - Verified that Insert is highlighted.
+20:47:01.843 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.B_InsertPopUpTC - Test TC370_verifyInsertHilighted completed.
+20:47:04.994 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.B_InsertPopUpTC - Starting test TC373_verifyFrequentlyUsedBydefault.
+20:47:18.157 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.B_InsertPopUpTC - Starting test TC374_verifyInsertElements.
+20:47:51.217 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.B_InsertPopUpTC - Clicked the Insert plugin.
+20:47:51.301 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.B_InsertPopUpTC - Verified that the Frequently Used tab is opened by default.
+20:47:51.365 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.B_InsertPopUpTC - Verified that the Frequently Used tab is highlighted in the left.
+20:47:51.366 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.B_InsertPopUpTC - Test TC373_verifyFrequentlyUsedBydefault completed.
+20:48:23.080 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.B_InsertPopUpTC - Logged in and searched for the file, then clicked Edit.
+20:48:23.082 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.B_InsertPopUpTC - Created B_Verify_Insert_PopUp object.
+20:48:23.254 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.B_InsertPopUpTC - Logged in and searched for the file, then clicked Edit.
+20:48:23.255 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.B_InsertPopUpTC - Created B_Verify_Insert_PopUp object.
+20:50:55.381 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.B_InsertPopUpTC - Starting test TC375_verifyInsertOptionsEnabledBeforeSelecting.
+20:50:57.370 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.B_InsertPopUpTC - Starting test TC371_verifyInsertPopup.
+20:51:20.518 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.B_InsertPopUpTC - Starting test TC372_verifyInsertOptions.
+20:52:15.349 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.B_InsertPopUpTC - Logged in and searched for the file, then clicked Edit.
+20:52:15.350 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.B_InsertPopUpTC - Created B_Verify_Insert_PopUp object.
+20:52:15.378 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.B_InsertPopUpTC - Verified that Insert plugin is enabled.
+20:52:44.002 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.B_InsertPopUpTC - Starting test TC371_verifyInsertPopup.
+20:53:15.406 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.B_InsertPopUpTC - Logged in and searched for the file, then clicked Edit.
+20:53:18.571 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.B_InsertPopUpTC - Logged in and searched for the file, then clicked Edit.
+20:53:18.574 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.B_InsertPopUpTC - Created B_Verify_Insert_PopUp object.
+20:53:19.110 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.B_InsertPopUpTC - Verified that Insert is displayed.
+20:53:19.720 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.B_InsertPopUpTC - Clicked on the Insert plugin.
+20:53:19.814 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.B_InsertPopUpTC - Verified that Insert Options are displayed correctly.
+20:53:19.814 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.B_InsertPopUpTC - Test TC372_verifyInsertOptions completed.
+20:53:23.966 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.B_InsertPopUpTC - Starting test TC375_verifyInsertOptionsEnabledBeforeSelecting.
+20:53:28.664 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.B_InsertPopUpTC - Starting test TC376_verifyBorderBlinkingInCB.
+20:53:35.897 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.B_InsertPopUpTC - Logged in and searched for the file, then clicked Edit.
+20:53:35.898 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.B_InsertPopUpTC - Created B_Verify_Insert_PopUp object.
+20:53:35.951 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.B_InsertPopUpTC - Verified that Insert plugin is enabled.
+20:53:36.646 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.B_InsertPopUpTC - Clicked on the first paragraph.
+20:53:36.861 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.B_InsertPopUpTC - Verified that Insert is displayed.
+20:53:37.464 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.B_InsertPopUpTC - Clicked on the Insert plugin.
+20:53:37.583 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.B_InsertPopUpTC - Checked if Insert popup is present.
+20:53:37.584 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.B_InsertPopUpTC - Verified that the Insert popup is present.
+20:53:37.584 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.B_InsertPopUpTC - Test TC371_verifyInsertPopup completed.
+20:53:44.898 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.B_InsertPopUpTC - Starting test TC377_verifyDoubleClickMediObjectInsert.
+20:54:06.177 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.B_InsertPopUpTC - Logged in and searched for the file, then clicked Edit.
+20:54:07.024 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.B_InsertPopUpTC - Clicked the Insert plugin.
+20:54:07.157 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.B_InsertPopUpTC - Verified that the Insert options are not enabled before clicking inside content.
+20:54:13.324 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.B_InsertPopUpTC - Clicked inside content, and Insert options are enabled.
+20:54:13.324 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.B_InsertPopUpTC - Test TC375_verifyInsertOptionsEnabledBeforeSelecting completed.
+20:54:20.360 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.B_InsertPopUpTC - Starting test TC378_verifyInsertFrequentlyUsedFiveElementsBydefault.
+20:54:40.000 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.B_InsertPopUpTC - Logged in and clicked Edit.
+20:54:40.019 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.B_InsertPopUpTC - Switched to frame 0.
+20:54:40.615 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.B_InsertPopUpTC - Double-clicked the first paragraph.
+20:54:41.048 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.B_InsertPopUpTC - Clicked the Insert Plugin button.
+20:54:49.703 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.B_InsertPopUpTC - Clicked the Img Inside element.
+20:54:58.374 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.B_InsertPopUpTC - Logged in and searched for the file, then clicked Edit.
+20:55:23.294 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.B_InsertPopUpTC - Starting test TC377_verifyDoubleClickMediObjectInsert.
+20:55:25.953 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.B_InsertPopUpTC - Logged in and searched for the file, then clicked Edit.
+20:55:26.609 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.B_InsertPopUpTC - Clicked on the first paragraph and switched back to default content.
+20:55:27.227 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.B_InsertPopUpTC - Clicked on the Insert plugin.
+20:55:27.286 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.B_InsertPopUpTC - Verified that there are 5 elements by default in 'Frequently Used'.
+20:55:27.286 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.B_InsertPopUpTC - Test TC378_verifyInsertFrequentlyUsedFiveElementsBydefault completed.
+20:55:39.961 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.B_InsertPopUpTC - Starting test TC381_verifyFrequentlyUsedMediaObject.
+20:57:09.673 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.B_InsertPopUpTC - Clicked the 'Img' option inside the Insert plugin.
+20:57:36.863 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.B_InsertPopUpTC - Starting test TC381_verifyFrequentlyUsedMediaObject.
+20:57:44.741 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.B_InsertPopUpTC - Starting test TC374_verifyInsertElements.
+20:58:44.572 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.B_InsertPopUpTC - Logged in and clicked Edit.
+21:00:07.133 [TestNG-test=RetryMultipleFailedTestcases-4] ERROR sprint5_TestCases.B_InsertPopUpTC - Exception while quitting WebDriver: Timed out waiting for driver server to stop.
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [4226dfaa9af989d7cfba78ce3ca82fc4, quit {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 119.0.6045.200, chrome: {chromedriverVersion: 119.0.6045.105 (38c72552c5e..., userDataDir: C:\Users\RBT\AppData\Local\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54539}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54539/devtoo..., se:cdpVersion: 119.0.6045.200, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4226dfaa9af989d7cfba78ce3ca82fc4
+21:00:12.611 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.B_InsertPopUpTC - Starting test TC376_verifyBorderBlinkingInCB.
+21:00:44.946 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.B_InsertPopUpTC - Logged in and searched for the file, then clicked Edit.
+21:00:58.503 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.B_InsertPopUpTC - Verified that the border is not blinking by default in CB Content.
+21:00:58.928 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.B_InsertPopUpTC - Clicked the first paragraph.
+21:00:59.409 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.B_InsertPopUpTC - Verified that the border is blinking by default.
+21:00:59.409 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.B_InsertPopUpTC - Test TC376_verifyBorderBlinkingInCB completed.
+21:01:06.891 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.B_InsertPopUpTC - Starting test TC382_verifyBorderBlinkingforPlacement.
+21:02:08.940 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.B_InsertPopUpTC - Clicked the first paragraph.
+21:02:09.498 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.B_InsertPopUpTC - Clicked the Insert plugin.
+21:02:09.565 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.B_InsertPopUpTC - Verified that the border is not blinking by default.
+21:02:09.608 [TestNG-test=RetryMultipleFailedTestcases-3] ERROR sprint5_TestCases.B_InsertPopUpTC - Exception while quitting WebDriver: Timed out waiting for driver server to stop.
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [99b00960ea8b1a3e08d95d691bb173c6, quit {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 119.0.6045.200, chrome: {chromedriverVersion: 119.0.6045.105 (38c72552c5e..., userDataDir: C:\Users\RBT\AppData\Local\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54772}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54772/devtoo..., se:cdpVersion: 119.0.6045.200, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 99b00960ea8b1a3e08d95d691bb173c6
+21:02:11.994 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.B_InsertPopUpTC - Clicked the content checkbox.
+21:02:12.176 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.B_InsertPopUpTC - Verified that the border is blinking after selecting content first.
+21:02:12.177 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.B_InsertPopUpTC - Test TC382_verifyBorderBlinkingforPlacement completed.
+21:02:16.511 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.B_InsertPopUpTC - Starting test TC377_verifyDoubleClickMediObjectInsert.
+21:02:21.060 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.B_InsertPopUpTC - Starting test TC383_verifyPlacementRadioButtons.
+21:02:54.270 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.B_InsertPopUpTC - Starting test TC374_verifyInsertElements.
+21:03:16.408 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.B_InsertPopUpTC - Logged in and clicked Edit.
+21:03:16.454 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.B_InsertPopUpTC - Switched to frame 0.
+21:03:17.268 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.B_InsertPopUpTC - Double-clicked the first paragraph.
+21:03:17.972 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.B_InsertPopUpTC - Logged in and searched for the file, then clicked Edit.
+21:03:17.973 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.B_InsertPopUpTC - Created B_Verify_Insert_PopUp object.
+21:03:18.298 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.B_InsertPopUpTC - Clicked the Insert Plugin button.
+21:03:18.565 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.B_InsertPopUpTC - Clicked on the Insert plugin.
+21:03:18.703 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.B_InsertPopUpTC - Verified that Insert Radio Button Options are displayed correctly.
+21:03:18.703 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.B_InsertPopUpTC - Test TC383_verifyPlacementRadioButtons completed.
+21:03:23.658 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.B_InsertPopUpTC - Clicked the Img Inside element.
+21:03:23.919 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.B_InsertPopUpTC - Clicked the media object.
+21:03:24.586 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.B_InsertPopUpTC - Verified that the info message is displayed.
+21:03:24.586 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.B_InsertPopUpTC - Test TC377_verifyDoubleClickMediObjectInsert completed.
+21:03:27.381 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.B_InsertPopUpTC - Starting test TC384_verifyFrequentlyusedInsertOptions.
+21:03:37.941 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.B_InsertPopUpTC - Starting test TC388_verifyInsertFrequentlyUsedElementAlUpdated.
+21:04:13.103 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.B_InsertPopUpTC - Logged in and searched for the file, then clicked Edit.
+21:04:13.531 [TestNG-test=RetryMultipleFailedTestcases-1] ERROR sprint5_TestCases.B_InsertPopUpTC - Exception while quitting WebDriver: Timed out waiting for driver server to stop.
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [918f084c30176d32ef6e7d6b3ee4c6ea, quit {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 119.0.6045.200, chrome: {chromedriverVersion: 119.0.6045.105 (38c72552c5e..., userDataDir: C:\Users\RBT\AppData\Local\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55111}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55111/devtoo..., se:cdpVersion: 119.0.6045.200, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 918f084c30176d32ef6e7d6b3ee4c6ea
+21:04:14.053 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.B_InsertPopUpTC - Clicked on the first paragraph and switched back to default content.
+21:04:14.593 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.B_InsertPopUpTC - Clicked on the Insert plugin.
+21:04:14.885 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.B_InsertPopUpTC - Verified the 'No elements found' text is visible.
+21:04:27.585 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.B_InsertPopUpTC - Starting test TC381_verifyFrequentlyUsedMediaObject.
+21:05:00.374 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.B_InsertPopUpTC - Verified that the 'No elements found' text is not visible after choosing 'Insert Into'.
+21:05:02.818 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.B_InsertPopUpTC - Verified that the 'Insert Element' can insert an element.
+21:05:02.905 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.B_InsertPopUpTC - Verified that the inserted element is present in the iframe.
+21:05:03.616 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.B_InsertPopUpTC - Verified that the inserted element is present in Quick Preview.
+21:05:04.108 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.B_InsertPopUpTC - Verified that the inserted element is present in CodeView.
+21:05:04.108 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.B_InsertPopUpTC - Test TC374_verifyInsertElements completed.
+21:05:12.827 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.B_InsertPopUpTC - Starting test TC396_verifyInsertElementsBefore.
+21:05:29.925 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.B_InsertPopUpTC - Logged in and searched for the file, then clicked Edit.
+21:05:30.447 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.B_InsertPopUpTC - Clicked on the first paragraph and switched back to default content.
+21:05:30.983 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.B_InsertPopUpTC - Clicked on the Insert plugin and verified that 'Frequently Used' is displayed.
+21:05:38.932 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.B_InsertPopUpTC - Clicked on the checkbox next to 'section-heading' in 'Frequently Used'.
+21:06:01.906 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.B_InsertPopUpTC - Starting test TC388_verifyInsertFrequentlyUsedElementAlUpdated.
+21:08:15.951 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.B_InsertPopUpTC - Logged in and searched for the file, then clicked Edit.
+21:08:16.487 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.B_InsertPopUpTC - Clicked on the first paragraph and switched back to default content.
+21:08:16.900 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.B_InsertPopUpTC - Clicked on the Insert plugin.
+21:08:20.158 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.B_InsertPopUpTC - Logged in and searched for the file, then clicked Edit.
+21:08:20.620 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.B_InsertPopUpTC - Clicked on the first paragraph and switched back to default content.
+21:08:21.025 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.B_InsertPopUpTC - Clicked on the Insert plugin and verified that 'Frequently Used' is displayed.
+21:08:24.980 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.B_InsertPopUpTC - Verified that 'Insert Before' items are displayed correctly.
+21:08:24.980 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.B_InsertPopUpTC - Test TC396_verifyInsertElementsBefore completed.
+21:08:26.497 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.B_InsertPopUpTC - Clicked on the checkbox next to 'section-heading' in 'Frequently Used'.
+21:08:31.042 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.B_InsertPopUpTC - Starting test TC397_verifyInsertElementsInto.
+21:08:45.047 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.B_InsertPopUpTC - Starting test TC388_verifyInsertFrequentlyUsedElementAlUpdated.
+21:09:14.303 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.B_InsertPopUpTC - Starting test TC384_verifyFrequentlyusedInsertOptions.
+21:09:25.284 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.B_InsertPopUpTC - Logged in and searched for the file, then clicked Edit.
+21:09:25.753 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.B_InsertPopUpTC - Clicked on the first paragraph and switched back to default content.
+21:09:26.226 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.B_InsertPopUpTC - Clicked on the Insert plugin.
+21:09:27.040 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.B_InsertPopUpTC - Clicked on 'Insert Into'.
+21:09:27.265 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.B_InsertPopUpTC - Clicked on the content checkbox three.
+21:09:27.976 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.B_InsertPopUpTC - Clicked on the Insert button.
+21:09:29.295 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.B_InsertPopUpTC - Verified that 'Insert Into' items are displayed correctly.
+21:09:29.295 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.B_InsertPopUpTC - Test TC397_verifyInsertElementsInto completed.
+21:09:43.570 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.B_InsertPopUpTC - Starting test TC398_verifyInsertElementsAfter.
+21:12:10.129 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.B_InsertPopUpTC - Logged in and searched for the file, then clicked Edit.
+21:12:43.775 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.B_InsertPopUpTC - Logged in and searched for the file, then clicked Edit.
+21:14:51.127 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.B_InsertPopUpTC - Starting test TC398_verifyInsertElementsAfter.
+21:16:37.588 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.B_InsertPopUpTC - Logged in and searched for the file, then clicked Edit.
+21:17:57.522 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.B_InsertPopUpTC - Starting test TC399_verifySearchElements.
+21:18:15.924 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.B_InsertPopUpTC - Starting test TC398_verifyInsertElementsAfter.
+21:18:18.373 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.B_InsertPopUpTC - Starting test TC400_verifyMediaObjectGridView.
+21:18:19.939 [TestNG-test=RetryMultipleFailedTestcases-4] ERROR sprint5_TestCases.B_InsertPopUpTC - Exception while quitting WebDriver: Timed out waiting for driver server to stop.
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [da5f781b6d27a5c5953a81ad9f907f9c, quit {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 119.0.6045.200, chrome: {chromedriverVersion: 119.0.6045.105 (38c72552c5e..., userDataDir: C:\Users\RBT\AppData\Local\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58505}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58505/devtoo..., se:cdpVersion: 119.0.6045.200, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: da5f781b6d27a5c5953a81ad9f907f9c
+21:18:31.586 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.B_InsertPopUpTC - Starting test TC384_verifyFrequentlyusedInsertOptions.
+21:19:53.312 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.B_InsertPopUpTC - Logged in and searched for the file, then clicked Edit.
+21:19:53.820 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.B_InsertPopUpTC - Clicked on the first paragraph and switched back to default content.
+21:19:54.245 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.B_InsertPopUpTC - Clicked on the Insert plugin.
+21:19:56.756 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.B_InsertPopUpTC - Clicked on 'Insert After Position 3'.
+21:19:56.895 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.B_InsertPopUpTC - Verified that 'Insert After' items are displayed correctly.
+21:19:56.895 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.B_InsertPopUpTC - Test TC398_verifyInsertElementsAfter completed.
+21:19:59.111 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.B_InsertPopUpTC - Clicked the 'Img' option inside the Insert plugin.
+21:20:05.189 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.B_InsertPopUpTC - Starting test TC401_verifyMediaObjectListview.
+21:20:57.884 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.B_InsertPopUpTC - Logged in and searched for the file, then clicked Edit.
+21:20:59.040 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.B_InsertPopUpTC - Starting test TC402_verifyInsertMediaOjectSearch.
+21:21:18.563 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.B_InsertPopUpTC - Logged in and searched for the file, then clicked Edit.
+21:22:05.041 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.B_InsertPopUpTC - Logged in and searched for the file, then clicked Edit.
+21:22:05.501 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.B_InsertPopUpTC - Clicked on the first paragraph and switched back to default content.
+21:22:08.604 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.B_InsertPopUpTC - Entered '2.7.1' in the search box.
+21:22:43.584 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.B_InsertPopUpTC - Starting test TC402_verifyInsertMediaOjectSearch.
+21:23:38.378 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.B_InsertPopUpTC - Starting test TC400_verifyMediaObjectGridView.
+21:23:41.618 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.B_InsertPopUpTC - Logged in and searched for the file, then clicked Edit.
+21:23:50.597 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.B_InsertPopUpTC - Starting test TC402_verifyInsertMediaOjectSearch.
+21:23:51.248 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.B_InsertPopUpTC - Starting test TC399_verifySearchElements.
+21:24:32.908 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.B_InsertPopUpTC - Logged in and searched for the file, then clicked Edit.
+21:24:47.452 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.B_InsertPopUpTC - Logged in and searched for the file, then clicked Edit.
+21:24:48.395 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.B_InsertPopUpTC - Clicked on the first paragraph and switched back to default content.
+21:24:50.525 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.B_InsertPopUpTC - Logged in and searched for the file, then clicked Edit.
+21:24:50.654 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.B_InsertPopUpTC - Verified that the 'Insert' is displayed.
+21:24:52.122 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.B_InsertPopUpTC - Verified that the text box is empty.
+21:24:53.549 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.B_InsertPopUpTC - Clicked on the 'Grid View' option.
+21:24:53.608 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.B_InsertPopUpTC - Verified that Media Object Grid View is present.
+21:24:53.608 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.B_InsertPopUpTC - Test TC400_verifyMediaObjectGridView completed.
+21:24:56.935 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.B_InsertPopUpTC - Performed search and inserted an element.
+21:24:56.935 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.B_InsertPopUpTC - Test TC399_verifySearchElements completed.
+21:25:00.924 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.B_InsertPopUpTC - Starting test TC403_verifyMediaObjectPlacement.
+21:25:04.252 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.B_InsertPopUpTC - Logged in and searched for the file, then clicked Edit.
+21:25:05.103 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.B_InsertPopUpTC - Clicked on the first paragraph and switched back to default content.
+21:25:07.454 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.B_InsertPopUpTC - Entered '2.7.1' in the search box.
+21:25:07.749 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.B_InsertPopUpTC - Verified that Placement is highlighted.
+21:25:09.001 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.B_InsertPopUpTC - Clicked on 'Insert Before' and the 'Insert' button.
+21:25:09.962 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.B_InsertPopUpTC - Verified that Media Object is inserted.
+21:25:10.035 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.B_InsertPopUpTC - Switched to Visual Editor and verified that it is updated with media object.
+21:25:11.673 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.B_InsertPopUpTC - Switched to Quick Preview and verified that it is updated with media object.
+21:25:11.673 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.B_InsertPopUpTC - Test TC402_verifyInsertMediaOjectSearch completed.
+21:25:14.004 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.B_InsertPopUpTC - Starting test TC407_verifyInsertMediaObjectSelectInsertAfterandInsertInto.
+21:25:19.488 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.B_InsertPopUpTC - Starting test TC408_verifyInsertMediaObjects.
+21:25:42.708 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.B_InsertPopUpTC - Starting test TC401_verifyMediaObjectListview.
+21:26:27.770 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.B_InsertPopUpTC - Verified that Insert options are not enabled before clicking inside content.
+21:26:38.658 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.B_InsertPopUpTC - Logged in and searched for the file, then clicked Edit.
+21:26:39.251 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.B_InsertPopUpTC - Clicked on the first paragraph and switched back to default content.
+21:26:43.434 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.B_InsertPopUpTC - Logged in and clicked Edit.
+21:26:44.016 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.B_InsertPopUpTC - Switched to frame 0 and clicked on the first paragraph.
+21:26:46.478 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.B_InsertPopUpTC - Clicked the Insert Plugin and Image Inside buttons.
+21:26:48.294 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.B_InsertPopUpTC - Logged in and searched for the file, then clicked Edit.
+21:26:48.783 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.B_InsertPopUpTC - Inserted a Media Object before the paragraph.
+21:26:49.102 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.B_InsertPopUpTC - Clicked on the first paragraph and switched back to default content.
+21:27:08.724 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.B_InsertPopUpTC - Clicked the Insert Plugin and Image Inside buttons.
+21:27:16.768 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.B_InsertPopUpTC - Starting test TC403_verifyMediaObjectPlacement.
+21:27:27.685 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.B_InsertPopUpTC - Clicked on the first image inside the Insert popup.
+21:27:28.229 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.B_InsertPopUpTC - Verified that Insert radio buttons are enabled before clicking inside content.
+21:27:29.703 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.B_InsertPopUpTC - Clicked on the 'Insert' button.
+21:27:31.590 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.B_InsertPopUpTC - Verified that the Media Object is inserted.
+21:27:31.698 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.B_InsertPopUpTC - Switched to Visual Editor and verified that the inserted Media Object is present.
+21:27:33.231 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.B_InsertPopUpTC - Starting test TC401_verifyMediaObjectListview.
+21:27:34.407 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.B_InsertPopUpTC - Switched to Quick Preview and verified that the inserted Media Object is present.
+21:27:34.407 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.B_InsertPopUpTC - Test TC408_verifyInsertMediaObjects completed.
+21:27:44.668 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.B_InsertPopUpTC - Starting test TC410_verifySymbolsSearchNumber.
+21:27:52.077 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.B_InsertPopUpTC - Starting test TC407_verifyInsertMediaObjectSelectInsertAfterandInsertInto.
+21:28:56.438 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.B_InsertPopUpTC - Verified that Insert options are not enabled before clicking inside content.
+21:29:07.278 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.B_InsertPopUpTC - Logged in and clicked Edit.
+21:29:08.079 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.B_InsertPopUpTC - Logged in and searched for the file, then clicked Edit.
+21:29:08.149 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.B_InsertPopUpTC - Verified that the 'Insert' is displayed.
+21:29:09.153 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.B_InsertPopUpTC - Performed symbol search for '1'.
+21:29:10.415 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.B_InsertPopUpTC - Verified the inserted symbol in Visual Editor.
+21:29:11.073 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.B_InsertPopUpTC - Verified the inserted symbol in Quick Preview.
+21:29:11.073 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.B_InsertPopUpTC - Test TC410_verifySymbolsSearchNumber completed.
+21:29:15.303 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.B_InsertPopUpTC - Starting test TC407_verifyInsertMediaObjectSelectInsertAfterandInsertInto.
+21:29:21.101 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.B_InsertPopUpTC - Starting test TC411_verifySymbolsSearch.
+21:29:24.596 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.B_InsertPopUpTC - Starting test TC403_verifyMediaObjectPlacement.
+21:31:08.194 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.B_InsertPopUpTC - Logged in and clicked Edit.
+21:31:08.715 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.B_InsertPopUpTC - Switched to frame 0 and clicked on the first paragraph.
+21:31:09.396 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.B_InsertPopUpTC - Logged in and searched for the file, then clicked Edit.
+21:31:17.118 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.B_InsertPopUpTC - Clicked the Insert Plugin and Image Inside buttons.
+21:31:25.001 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.B_InsertPopUpTC - Logged in and searched for the file, then clicked Edit.
+21:31:25.178 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.B_InsertPopUpTC - Verified that the 'Insert' is displayed.
+21:31:26.930 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.B_InsertPopUpTC - Inserted a symbol and verified it in Visual Editor.
+21:31:27.674 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.B_InsertPopUpTC - Verified the inserted symbol in Quick Preview.
+21:31:27.674 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.B_InsertPopUpTC - Test TC411_verifySymbolsSearch completed.
+21:31:35.491 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.B_InsertPopUpTC - Starting test TC412_verifySymbolSearchByTitleSymbol.
+21:31:45.402 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.B_InsertPopUpTC - Starting test TC414_verifyInsertVariables.
+21:34:12.408 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.B_InsertPopUpTC - Logged in and searched for the file, then clicked Edit.
+21:34:12.890 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.B_InsertPopUpTC - Clicked on the first paragraph and switched back to default content.
+21:35:08.684 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.B_InsertPopUpTC - Logged in and searched for the file, then clicked Edit.
+21:38:23.840 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.B_InsertPopUpTC - Starting test TC414_verifyInsertVariables.
+21:38:24.467 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.B_InsertPopUpTC - Starting test TC417_verifyInsertAfterSectionNumbertoList.
+21:38:29.487 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.B_InsertPopUpTC - Starting test TC416_verifyInsertBeforeSectionHeadingtoAddress.
+21:38:37.323 [TestNG-test=RetryMultipleFailedTestcases-4] ERROR sprint5_TestCases.B_InsertPopUpTC - Exception while quitting WebDriver: Timed out waiting for driver server to stop.
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [7dc4d2e4373ae9e4c8888929ecde77ef, quit {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 119.0.6045.200, chrome: {chromedriverVersion: 119.0.6045.105 (38c72552c5e..., userDataDir: C:\Users\RBT\AppData\Local\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51483}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51483/devtoo..., se:cdpVersion: 119.0.6045.200, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 7dc4d2e4373ae9e4c8888929ecde77ef
+21:39:54.994 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.B_InsertPopUpTC - Logged in and searched for the file, then clicked Edit.
+21:39:55.503 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.B_InsertPopUpTC - Clicked on the first paragraph and switched back to default content.
+21:39:56.423 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.B_InsertPopUpTC - Clicked on the 'Variables' tab.
+21:39:58.454 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.B_InsertPopUpTC - Logged in and clicked Edit.
+21:39:58.878 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.B_InsertPopUpTC - Switched to frame 0 and clicked an element.
+21:39:59.254 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.B_InsertPopUpTC - Clicked the Insert Plugin button.
+21:39:59.352 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.B_InsertPopUpTC - Clicked on the Variables for insertion.
+21:39:59.458 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.B_InsertPopUpTC - Clicked the Element button.
+21:39:59.905 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.B_InsertPopUpTC - Clicked on the 'Insert' button.
+21:40:00.314 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.B_InsertPopUpTC - Switched to Visual Editor and verified that the inserted Variable is present.
+21:40:01.057 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.B_InsertPopUpTC - Switched to Quick Preview and verified that the inserted Variable is present.
+21:40:01.057 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.B_InsertPopUpTC - Test TC414_verifyInsertVariables completed.
+21:40:10.104 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.B_InsertPopUpTC - Starting test TC410_verifyInsertSymbols.
+21:40:51.319 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.B_InsertPopUpTC - Starting test TC417_verifyInsertAfterSectionNumbertoList.
+21:41:36.885 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.B_InsertPopUpTC - Logged in and clicked Edit.
+21:41:40.377 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.B_InsertPopUpTC - Starting test TC412_verifySymbolSearchByTitleSymbol.
+21:44:14.075 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.B_InsertPopUpTC - Logged in and searched for the file, then clicked Edit.
+21:44:18.386 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.B_InsertPopUpTC - Logged in and clicked Edit.
+21:44:21.611 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.B_InsertPopUpTC - Logged in and searched for the file, then clicked Edit.
+21:45:01.957 [TestNG-test=RetryMultipleFailedTestcases-2] ERROR sprint5_TestCases.B_InsertPopUpTC - Exception while quitting WebDriver: Timed out waiting for driver server to stop.
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [db8986cf609c5c2eb0d096717286a25a, quit {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 119.0.6045.200, chrome: {chromedriverVersion: 119.0.6045.105 (38c72552c5e..., userDataDir: C:\Users\RBT\AppData\Local\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52765}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52765/devtoo..., se:cdpVersion: 119.0.6045.200, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: db8986cf609c5c2eb0d096717286a25a
+21:45:09.678 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.B_InsertPopUpTC - Starting test TC416_verifyInsertBeforeSectionHeadingtoAddress.
+21:45:10.001 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.B_InsertPopUpTC - Starting test TC412_verifySymbolSearchByTitleSymbol.
+21:46:18.641 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.B_InsertPopUpTC - Logged in and clicked Edit.
+21:46:28.908 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.B_InsertPopUpTC - Starting test TC416_verifyInsertBeforeSectionHeadingtoAddress.

@@ -1,0 +1,399 @@
+15:21:29.084 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.E_CommonTC - Clicked on Replace Button.
+15:21:29.490 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.E_CommonTC - Clicked on Replace Button.
+15:21:29.533 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.E_CommonTC - Switched to frame 0.
+15:21:29.569 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.E_CommonTC - Verified Replace is working fine
+15:21:29.569 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.E_CommonTC - Finished verifyReplaceCyclic ..
+15:26:04.826 [main] INFO  Elements_Testcases.Ag_FindNReplaceTC - Starting TC077_verifyReplace
+15:26:28.060 [main] INFO  Elements_Testcases.Ag_FindNReplaceTC - Logged in and searched for a file, then clicked Edit.
+15:26:28.076 [main] INFO  Elements_Testcases.Ag_FindNReplaceTC - Switched to frame 0.
+15:26:28.535 [main] INFO  Elements_Testcases.Ag_FindNReplaceTC - Clicked on first para VE.
+15:26:28.714 [main] INFO  Elements_Testcases.Ag_FindNReplaceTC - Switched to default content.
+15:26:29.209 [main] INFO  Elements_Testcases.Ag_FindNReplaceTC - Clicked on Replace
+15:26:30.253 [main] INFO  Elements_Testcases.Ag_FindNReplaceTC - clicked on find what box
+15:26:30.575 [main] INFO  Elements_Testcases.Ag_FindNReplaceTC - Clicked on Replace button
+15:26:30.726 [main] INFO  Elements_Testcases.Ag_FindNReplaceTC - Clicked Track Change
+15:26:30.743 [main] INFO  Elements_Testcases.Ag_FindNReplaceTC - Switched to frame 0.
+15:26:31.038 [main] INFO  Elements_Testcases.Ag_FindNReplaceTC - Clicked on first para VE.
+15:28:29.382 [main] INFO  Elements_Testcases.Ag_FindNReplaceTC - Starting TC077_verifyReplace
+15:28:53.090 [main] INFO  Elements_Testcases.Ag_FindNReplaceTC - Logged in and searched for a file, then clicked Edit.
+15:28:53.158 [main] INFO  Elements_Testcases.Ag_FindNReplaceTC - Switched to frame 0.
+15:28:53.479 [main] INFO  Elements_Testcases.Ag_FindNReplaceTC - Clicked on first para VE.
+15:28:53.628 [main] INFO  Elements_Testcases.Ag_FindNReplaceTC - Switched to default content.
+15:28:54.139 [main] INFO  Elements_Testcases.Ag_FindNReplaceTC - Clicked on Replace
+15:28:55.042 [main] INFO  Elements_Testcases.Ag_FindNReplaceTC - clicked on find what box
+15:28:55.345 [main] INFO  Elements_Testcases.Ag_FindNReplaceTC - Clicked on Replace button
+15:28:55.486 [main] INFO  Elements_Testcases.Ag_FindNReplaceTC - Clicked Track Change
+15:28:55.503 [main] INFO  Elements_Testcases.Ag_FindNReplaceTC - Switched to frame 0.
+15:28:55.871 [main] INFO  Elements_Testcases.Ag_FindNReplaceTC - Clicked on first para VE.
+15:29:47.637 [main] INFO  Elements_Testcases.Ag_FindNReplaceTC - Starting TC077_verifyReplace
+15:30:18.424 [main] INFO  Elements_Testcases.Ag_FindNReplaceTC - Logged in and searched for a file, then clicked Edit.
+15:30:18.473 [main] INFO  Elements_Testcases.Ag_FindNReplaceTC - Switched to frame 0.
+15:30:18.839 [main] INFO  Elements_Testcases.Ag_FindNReplaceTC - Clicked on first para VE.
+15:30:19.022 [main] INFO  Elements_Testcases.Ag_FindNReplaceTC - Switched to default content.
+15:30:19.558 [main] INFO  Elements_Testcases.Ag_FindNReplaceTC - Clicked on Replace
+15:30:20.557 [main] INFO  Elements_Testcases.Ag_FindNReplaceTC - clicked on find what box
+15:30:20.832 [main] INFO  Elements_Testcases.Ag_FindNReplaceTC - Clicked on Replace button
+15:30:21.055 [main] INFO  Elements_Testcases.Ag_FindNReplaceTC - Clicked Track Change
+15:30:21.071 [main] INFO  Elements_Testcases.Ag_FindNReplaceTC - Switched to frame 0.
+15:30:21.419 [main] INFO  Elements_Testcases.Ag_FindNReplaceTC - Clicked on first para VE.
+15:30:21.492 [main] INFO  Elements_Testcases.Ag_FindNReplaceTC - Finished TC331_verifyAddedContentInAllTabsCheckTC ..
+15:31:07.211 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F12_UndoRedoTC - Starting verify_Insert_Table
+15:31:07.562 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F12_UndoRedoTC - Starting verify_Insert_Table
+15:31:07.566 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ab_ParaTC - ****    Starting --> paraTC    ****
+15:31:35.951 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F12_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+15:31:35.971 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F12_UndoRedoTC - Created F4_Table instance.
+15:31:36.089 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F12_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+15:31:36.093 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F12_UndoRedoTC - Created F4_Table instance.
+15:31:36.837 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ab_ParaTC - clicked on second section from DS
+15:31:37.304 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ab_ParaTC - clicked on second sections 2nd para from DS
+15:31:37.557 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ab_ParaTC - clicked on Enter key
+15:31:37.629 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ab_ParaTC - Verifying new para present into DS
+15:31:42.925 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F12_UndoRedoTC - Inserted table using ReusableMethods.
+15:31:43.071 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F12_UndoRedoTC - Switched to frame 0.
+15:31:43.134 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F12_UndoRedoTC - Table is inserted in the Visual Editor.
+15:31:43.137 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F12_UndoRedoTC - Switched back to default content.
+15:31:49.295 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F12_UndoRedoTC - Inserted table using ReusableMethods.
+15:31:49.381 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F12_UndoRedoTC - Switched to frame 0.
+15:31:49.468 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F12_UndoRedoTC - Table is inserted in the Visual Editor.
+15:31:49.473 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F12_UndoRedoTC - Switched back to default content.
+15:32:17.958 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ab_ParaTC - verifying content validation not occured in code view
+15:32:17.958 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ab_ParaTC - ****    Finished --> paraTC    ****
+15:32:24.386 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.An_CursorPositionTC - ****    Starting --> paraTC    ****
+15:32:25.808 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.J_CommonTestcases - Starting insertTableCBAddContentToListRejectChanges
+15:32:51.257 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.J_CommonTestcases - Logged in and searched for a file, then clicked Edit.
+15:33:00.214 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.J_CommonTestcases - Inserted Table in DS
+15:33:01.580 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.J_CommonTestcases - clicked on Number list from VE
+15:33:01.706 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.J_CommonTestcases - Switched to frame 0.
+15:33:49.626 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Bc_FootnoteTC - Starting TC325_verifyFootnoteRemoveElementBlockCB
+15:34:20.763 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Bc_FootnoteTC - Logged in and searched for a file, then clicked Edit.
+15:34:20.787 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Bc_FootnoteTC - Switched to frame 0.
+15:34:21.436 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Bc_FootnoteTC - Clicked on first para VE.
+15:34:21.477 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Bc_FootnoteTC - Switched to default content.
+15:34:21.778 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Bc_FootnoteTC - clicked on new footnote plugin
+15:34:25.756 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Bc_FootnoteTC - clicked on new footnote box
+15:34:26.363 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Bc_FootnoteTC - clicked on footnote ok button
+15:34:27.289 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Bc_FootnoteTC - Switched to frame 0.
+15:34:27.678 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Bc_FootnoteTC - Switched to default content.
+15:34:29.161 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Bc_FootnoteTC - Switched to frame 0.
+15:34:29.391 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Bc_FootnoteTC - clicked on remove element block
+15:34:29.633 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Bc_FootnoteTC - Clicked on first para VE.
+15:34:29.671 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Bc_FootnoteTC - Switched to default content.
+15:34:29.919 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Bc_FootnoteTC - clicked on Accept Change
+15:34:29.954 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Bc_FootnoteTC - clicked on footnote plugin
+15:34:33.188 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Bc_FootnoteTC - clicked on new footnote box
+15:34:34.033 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Bc_FootnoteTC - clicked on footnote ok button
+15:34:37.848 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.E_CommonTC - Starting verifyDeleteXrefParaAddTable
+15:35:00.066 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.E_CommonTC - Logged in, searched for a file, and clicked Edit.
+15:35:00.114 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.E_CommonTC - Switched to frame 0.
+15:35:00.645 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.E_CommonTC - doublebclicked on First Para
+15:35:00.645 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.E_CommonTC - Double clicked on First para
+15:35:00.689 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.E_CommonTC - Switched back to default content.
+15:35:00.838 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.E_CommonTC - clicked on Cross Reference button 
+15:35:17.891 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.E_CommonTC - Starting verifySelectFootnoteAddSymbol
+15:35:24.355 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Cj_ChangeElementTC - Starting verifyChangeParaToSHCheckInDS
+15:35:39.663 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.E_CommonTC - Logged in, searched for a file, and clicked Edit.
+15:35:39.689 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.E_CommonTC - Switched to frame 0.
+15:35:46.109 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Cj_ChangeElementTC - Logged in, searched for a file, and clicked Edit.
+15:35:46.118 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Cj_ChangeElementTC - Created G_ChangeElement instance.
+15:50:58.581 [main] INFO  Elements_Testcases.An_CursorPositionTC - ****    Starting --> paraTC    ****
+15:52:16.587 [main] INFO  Elements_Testcases.An_CursorPositionTC - ****    Starting --> paraTC    ****
+16:09:28.382 [main] INFO  sprint5_TestCases.E_CommonTC - Starting verifyFootnoteCutPasteAtBootom
+16:09:55.234 [main] INFO  sprint5_TestCases.E_CommonTC - Logged in, searched for a file, and clicked Edit.
+16:09:55.300 [main] INFO  sprint5_TestCases.E_CommonTC - Switched to frame 0.
+16:11:25.702 [main] INFO  sprint5_TestCases.E_CommonTC - Starting verifySelectFootnoteAddSymbol
+16:11:50.807 [main] INFO  sprint5_TestCases.E_CommonTC - Logged in, searched for a file, and clicked Edit.
+16:12:38.910 [main] INFO  sprint5_TestCases.E_CommonTC - Starting verifySelectFootnoteAddSymbol
+16:13:02.629 [main] INFO  sprint5_TestCases.E_CommonTC - Logged in, searched for a file, and clicked Edit.
+16:13:02.710 [main] INFO  sprint5_TestCases.E_CommonTC - Switched to default content.
+16:13:02.997 [main] INFO  sprint5_TestCases.E_CommonTC - Clicked on first para VE.
+16:13:03.013 [main] INFO  sprint5_TestCases.E_CommonTC - Switched to default content.
+16:13:03.174 [main] INFO  sprint5_TestCases.E_CommonTC - clicked on footnote plugin
+16:13:06.132 [main] INFO  sprint5_TestCases.E_CommonTC - clicked on new footnote box
+16:13:06.579 [main] INFO  sprint5_TestCases.E_CommonTC - clicked on footnote ok button
+16:13:52.588 [main] INFO  sprint5_TestCases.E_CommonTC - Starting verifySelectFootnoteAddSymbol
+16:14:13.332 [main] INFO  sprint5_TestCases.E_CommonTC - Logged in, searched for a file, and clicked Edit.
+16:14:13.361 [main] INFO  sprint5_TestCases.E_CommonTC - Switched to default content.
+16:14:13.613 [main] INFO  sprint5_TestCases.E_CommonTC - Clicked on first para VE.
+16:14:13.668 [main] INFO  sprint5_TestCases.E_CommonTC - Switched to default content.
+16:14:13.808 [main] INFO  sprint5_TestCases.E_CommonTC - clicked on footnote plugin
+16:14:16.474 [main] INFO  sprint5_TestCases.E_CommonTC - clicked on new footnote box
+16:14:16.853 [main] INFO  sprint5_TestCases.E_CommonTC - clicked on footnote ok button
+16:14:17.387 [main] INFO  sprint5_TestCases.E_CommonTC - Finished verifySelectFootnoteAddSymbol ..
+16:15:14.001 [main] INFO  sprint5_TestCases.E_CommonTC - Starting verifyDeleteXrefParaAddTable
+16:15:33.500 [main] INFO  sprint5_TestCases.E_CommonTC - Logged in, searched for a file, and clicked Edit.
+16:15:33.525 [main] INFO  sprint5_TestCases.E_CommonTC - Switched to frame 0.
+16:15:33.896 [main] INFO  sprint5_TestCases.E_CommonTC - doublebclicked on First Para
+16:15:33.916 [main] INFO  sprint5_TestCases.E_CommonTC - Switched back to default content.
+16:15:34.117 [main] INFO  sprint5_TestCases.E_CommonTC - clicked on Cross Reference button 
+16:16:47.187 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ab_ParaTC - ****    Starting --> paraTC    ****
+16:16:47.210 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F12_UndoRedoTC - Starting verify_Insert_Table
+16:16:47.371 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F12_UndoRedoTC - Starting verify_Insert_Table
+16:17:11.447 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F12_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+16:17:11.474 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F12_UndoRedoTC - Created F4_Table instance.
+16:17:11.879 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F12_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+16:17:11.883 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F12_UndoRedoTC - Created F4_Table instance.
+16:17:15.278 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ab_ParaTC - clicked on second section from DS
+16:17:15.713 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ab_ParaTC - clicked on second sections 2nd para from DS
+16:17:15.963 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ab_ParaTC - clicked on Enter key
+16:17:16.065 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ab_ParaTC - Verifying new para present into DS
+16:17:18.857 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F12_UndoRedoTC - Inserted table using ReusableMethods.
+16:17:18.931 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F12_UndoRedoTC - Switched to frame 0.
+16:17:19.078 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F12_UndoRedoTC - Table is inserted in the Visual Editor.
+16:17:19.088 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F12_UndoRedoTC - Switched back to default content.
+16:17:25.935 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F12_UndoRedoTC - Inserted table using ReusableMethods.
+16:17:26.087 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F12_UndoRedoTC - Switched to frame 0.
+16:17:26.284 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F12_UndoRedoTC - Table is inserted in the Visual Editor.
+16:17:26.288 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F12_UndoRedoTC - Switched back to default content.
+16:17:56.600 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ab_ParaTC - verifying content validation not occured in code view
+16:17:56.600 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ab_ParaTC - ****    Finished --> paraTC    ****
+16:18:04.228 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.An_CursorPositionTC - ****    Starting --> paraTC    ****
+16:18:04.471 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint4_TestCases.J_CommonTestcases - Starting insertTableCBAddContentToListRejectChanges
+16:18:28.424 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint4_TestCases.J_CommonTestcases - Logged in and searched for a file, then clicked Edit.
+16:18:37.955 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint4_TestCases.J_CommonTestcases - Inserted Table in DS
+16:18:39.509 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint4_TestCases.J_CommonTestcases - clicked on Number list from VE
+16:18:39.634 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint4_TestCases.J_CommonTestcases - Switched to frame 0.
+16:19:30.531 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Bc_FootnoteTC - Starting TC325_verifyFootnoteRemoveElementBlockCB
+16:19:56.909 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Bc_FootnoteTC - Logged in and searched for a file, then clicked Edit.
+16:19:56.934 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Bc_FootnoteTC - Switched to frame 0.
+16:19:57.568 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Bc_FootnoteTC - Clicked on first para VE.
+16:19:57.612 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Bc_FootnoteTC - Switched to default content.
+16:19:58.022 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Bc_FootnoteTC - clicked on new footnote plugin
+16:20:01.161 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Bc_FootnoteTC - Switched to frame 0.
+16:20:01.876 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Bc_FootnoteTC - Clicked on first para VE.
+16:20:01.925 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Bc_FootnoteTC - Switched to default content.
+16:20:02.064 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Bc_FootnoteTC - clicked on new footnote box
+16:20:02.388 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Bc_FootnoteTC - clicked on footnote plugin
+16:20:03.070 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Bc_FootnoteTC - clicked on footnote ok button
+16:20:04.070 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Bc_FootnoteTC - Switched to frame 0.
+16:20:04.491 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Bc_FootnoteTC - Switched to default content.
+16:20:05.239 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Bc_FootnoteTC - clicked on new footnote box
+16:20:05.896 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Bc_FootnoteTC - clicked on footnote ok button
+16:20:06.394 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Bc_FootnoteTC - clicked on remove element block
+16:20:06.894 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Bc_FootnoteTC - clicked on Accept Change
+16:20:14.134 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.E_CommonTC - Starting verifyDeleteXrefParaAddTable
+16:20:36.635 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.E_CommonTC - Logged in, searched for a file, and clicked Edit.
+16:20:36.695 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.E_CommonTC - Switched to frame 0.
+16:20:37.111 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.E_CommonTC - doublebclicked on First Para
+16:20:37.141 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.E_CommonTC - Switched back to default content.
+16:20:37.458 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.E_CommonTC - clicked on Cross Reference button 
+16:20:55.270 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.E_CommonTC - Starting verifySelectFootnoteAddSymbol
+16:20:59.530 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Cj_ChangeElementTC - Starting verifyChangeParaToSHCheckInDS
+16:21:17.667 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.E_CommonTC - clicked on Code Cross Reference checkbox 
+16:21:18.034 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.E_CommonTC - clicked on Cross Reference popup ok button 
+16:21:20.178 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.E_CommonTC - Logged in, searched for a file, and clicked Edit.
+16:21:20.238 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.E_CommonTC - Switched to default content.
+16:21:20.676 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.E_CommonTC - Clicked on first para VE.
+16:21:20.727 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.E_CommonTC - Switched to default content.
+16:21:20.945 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.E_CommonTC - clicked on footnote plugin
+16:21:22.236 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Cj_ChangeElementTC - Logged in, searched for a file, and clicked Edit.
+16:21:22.245 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Cj_ChangeElementTC - Created G_ChangeElement instance.
+16:21:23.948 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.E_CommonTC - clicked on new footnote box
+16:21:24.450 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.E_CommonTC - clicked on footnote ok button
+16:21:25.112 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.E_CommonTC - Finished verifySelectFootnoteAddSymbol ..
+16:26:22.666 [main] INFO  Elements_Testcases.Cj_ChangeElementTC - Starting verifyChangeParaToSHCheckInDS
+16:26:42.218 [main] INFO  Elements_Testcases.Cj_ChangeElementTC - Logged in, searched for a file, and clicked Edit.
+16:26:42.225 [main] INFO  Elements_Testcases.Cj_ChangeElementTC - Created G_ChangeElement instance.
+16:26:42.453 [main] INFO  Elements_Testcases.Cj_ChangeElementTC - Created Actions class instance.
+16:26:46.934 [main] INFO  Elements_Testcases.Cj_ChangeElementTC - Finished verifyChangeParaToSHCheckInDS
+16:31:38.273 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F12_UndoRedoTC - Starting verify_Insert_Table
+16:31:38.280 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F12_UndoRedoTC - Starting verify_Insert_Table
+16:31:38.343 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ab_ParaTC - ****    Starting --> paraTC    ****
+16:32:08.639 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F12_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+16:32:08.653 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F12_UndoRedoTC - Created F4_Table instance.
+16:32:08.730 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F12_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+16:32:08.732 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F12_UndoRedoTC - Created F4_Table instance.
+16:32:09.255 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ab_ParaTC - clicked on second section from DS
+16:32:09.855 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ab_ParaTC - clicked on second sections 2nd para from DS
+16:32:10.121 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ab_ParaTC - clicked on Enter key
+16:32:10.187 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ab_ParaTC - Verifying new para present into DS
+16:32:15.462 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F12_UndoRedoTC - Inserted table using ReusableMethods.
+16:32:15.547 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F12_UndoRedoTC - Switched to frame 0.
+16:32:15.635 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F12_UndoRedoTC - Table is inserted in the Visual Editor.
+16:32:15.637 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F12_UndoRedoTC - Switched back to default content.
+16:32:21.409 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F12_UndoRedoTC - Inserted table using ReusableMethods.
+16:32:21.610 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F12_UndoRedoTC - Switched to frame 0.
+16:32:21.757 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F12_UndoRedoTC - Table is inserted in the Visual Editor.
+16:32:21.761 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F12_UndoRedoTC - Switched back to default content.
+16:32:50.505 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ab_ParaTC - verifying content validation not occured in code view
+16:32:50.506 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ab_ParaTC - ****    Finished --> paraTC    ****
+16:32:58.872 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.An_CursorPositionTC - ****    Starting --> paraTC    ****
+16:32:58.954 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.J_CommonTestcases - Starting insertTableCBAddContentToListRejectChanges
+16:33:27.856 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.J_CommonTestcases - Logged in and searched for a file, then clicked Edit.
+16:33:35.778 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.J_CommonTestcases - Inserted Table in DS
+16:33:36.436 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.J_CommonTestcases - clicked on Number list from VE
+16:33:36.553 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.J_CommonTestcases - Switched to frame 0.
+16:34:29.442 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Bc_FootnoteTC - Starting TC325_verifyFootnoteRemoveElementBlockCB
+16:34:46.653 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.E_CommonTC - Starting verifyDeleteXrefParaAddTable
+16:34:52.304 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Bc_FootnoteTC - Switched to frame 0.
+16:34:52.539 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Bc_FootnoteTC - Logged in and searched for a file, then clicked Edit.
+16:34:52.733 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Bc_FootnoteTC - Switched to frame 0.
+16:34:53.124 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Bc_FootnoteTC - Clicked on first para VE.
+16:34:53.183 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Bc_FootnoteTC - Switched to default content.
+16:34:53.367 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Bc_FootnoteTC - Clicked on first para VE.
+16:34:53.441 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Bc_FootnoteTC - Switched to default content.
+16:34:53.497 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Bc_FootnoteTC - clicked on footnote plugin
+16:34:53.969 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Bc_FootnoteTC - clicked on new footnote plugin
+16:34:56.469 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Bc_FootnoteTC - clicked on new footnote box
+16:34:56.632 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Bc_FootnoteTC - clicked on new footnote box
+16:34:57.402 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Bc_FootnoteTC - clicked on footnote ok button
+16:34:57.508 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Bc_FootnoteTC - clicked on footnote ok button
+16:34:58.780 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Bc_FootnoteTC - Switched to frame 0.
+16:34:59.464 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Bc_FootnoteTC - Switched to default content.
+16:35:01.450 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Bc_FootnoteTC - clicked on remove element block
+16:35:01.977 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Bc_FootnoteTC - clicked on Accept Change
+16:35:13.896 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.E_CommonTC - Starting verifySelectFootnoteAddSymbol
+16:35:14.012 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.E_CommonTC - Logged in, searched for a file, and clicked Edit.
+16:35:14.265 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.E_CommonTC - Switched to frame 0.
+16:35:14.848 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.E_CommonTC - doublebclicked on First Para
+16:35:14.926 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.E_CommonTC - Switched back to default content.
+16:35:15.571 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.E_CommonTC - clicked on Cross Reference button 
+16:35:34.681 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.E_CommonTC - Logged in, searched for a file, and clicked Edit.
+16:35:34.735 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.E_CommonTC - Switched to default content.
+16:35:35.145 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.E_CommonTC - Clicked on first para VE.
+16:35:35.168 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.E_CommonTC - Switched to default content.
+16:35:35.428 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.E_CommonTC - clicked on footnote plugin
+16:35:38.393 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.E_CommonTC - clicked on new footnote box
+16:35:39.132 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.E_CommonTC - clicked on footnote ok button
+16:35:40.346 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.E_CommonTC - Finished verifySelectFootnoteAddSymbol ..
+16:35:45.309 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Cj_ChangeElementTC - Starting verifyChangeParaToSHCheckInDS
+16:35:55.794 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.E_CommonTC - clicked on Code Cross Reference checkbox 
+16:35:56.106 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint5_TestCases.E_CommonTC - clicked on Cross Reference popup ok button 
+16:36:04.990 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Cj_ChangeElementTC - Logged in, searched for a file, and clicked Edit.
+16:36:04.994 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Cj_ChangeElementTC - Created G_ChangeElement instance.
+16:36:05.317 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Cj_ChangeElementTC - Created Actions class instance.
+16:37:18.458 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F12_UndoRedoTC - Starting verify_Insert_Table
+16:37:18.692 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F12_UndoRedoTC - Starting verify_Insert_Table
+16:37:18.774 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ab_ParaTC - ****    Starting --> paraTC    ****
+16:37:45.639 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ab_ParaTC - clicked on second section from DS
+16:37:45.835 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F12_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+16:37:45.844 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F12_UndoRedoTC - Created F4_Table instance.
+16:37:45.905 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F12_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+16:37:45.906 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F12_UndoRedoTC - Created F4_Table instance.
+16:37:46.231 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ab_ParaTC - clicked on second sections 2nd para from DS
+16:37:46.462 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ab_ParaTC - clicked on Enter key
+16:37:46.556 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ab_ParaTC - Verifying new para present into DS
+16:37:52.671 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F12_UndoRedoTC - Inserted table using ReusableMethods.
+16:37:52.748 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F12_UndoRedoTC - Switched to frame 0.
+16:37:52.868 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F12_UndoRedoTC - Table is inserted in the Visual Editor.
+16:37:52.883 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F12_UndoRedoTC - Switched back to default content.
+16:37:59.339 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F12_UndoRedoTC - Inserted table using ReusableMethods.
+16:37:59.501 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F12_UndoRedoTC - Switched to frame 0.
+16:37:59.596 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F12_UndoRedoTC - Table is inserted in the Visual Editor.
+16:37:59.600 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F12_UndoRedoTC - Switched back to default content.
+16:38:26.972 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ab_ParaTC - verifying content validation not occured in code view
+16:38:26.972 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ab_ParaTC - ****    Finished --> paraTC    ****
+16:38:35.141 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.J_CommonTestcases - Starting insertTableCBAddContentToListRejectChanges
+16:38:39.313 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F12_UndoRedoTC - Starting verify_Insert_Table
+16:38:50.667 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F12_UndoRedoTC - Starting verify_Insert_Table
+16:39:01.411 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.J_CommonTestcases - Logged in and searched for a file, then clicked Edit.
+16:39:09.878 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F12_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+16:39:09.879 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F12_UndoRedoTC - Created F4_Table instance.
+16:39:12.649 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.J_CommonTestcases - Inserted Table in DS
+16:39:13.495 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.J_CommonTestcases - clicked on Number list from VE
+16:39:13.622 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.J_CommonTestcases - Switched to frame 0.
+16:39:18.555 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F12_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+16:39:18.556 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F12_UndoRedoTC - Created F4_Table instance.
+16:39:19.355 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F12_UndoRedoTC - Inserted table using ReusableMethods.
+16:39:19.435 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F12_UndoRedoTC - Switched to frame 0.
+16:39:19.495 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F12_UndoRedoTC - Table is inserted in the Visual Editor.
+16:39:19.497 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F12_UndoRedoTC - Switched back to default content.
+16:39:24.621 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F12_UndoRedoTC - Inserted table using ReusableMethods.
+16:39:24.709 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F12_UndoRedoTC - Switched to frame 0.
+16:39:24.750 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F12_UndoRedoTC - Table is inserted in the Visual Editor.
+16:39:24.752 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F12_UndoRedoTC - Switched back to default content.
+16:39:54.077 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.An_CursorPositionTC - ****    Starting --> paraTC    ****
+16:40:00.622 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.J_CommonTestcases - Starting insertTableCBAddContentToListRejectChanges
+16:40:34.165 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.J_CommonTestcases - Logged in and searched for a file, then clicked Edit.
+16:40:45.439 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.J_CommonTestcases - Inserted Table in DS
+16:40:46.500 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.J_CommonTestcases - clicked on Number list from VE
+16:40:46.626 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.J_CommonTestcases - Switched to frame 0.
+16:41:39.786 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Bc_FootnoteTC - Starting TC325_verifyFootnoteRemoveElementBlockCB
+16:42:07.758 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Bc_FootnoteTC - Logged in and searched for a file, then clicked Edit.
+16:42:07.781 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Bc_FootnoteTC - Switched to frame 0.
+16:42:08.625 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Bc_FootnoteTC - Clicked on first para VE.
+16:42:08.765 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Bc_FootnoteTC - Switched to default content.
+16:42:09.764 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Bc_FootnoteTC - clicked on new footnote plugin
+16:42:13.001 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Bc_FootnoteTC - clicked on new footnote box
+16:42:14.226 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Bc_FootnoteTC - clicked on footnote ok button
+16:42:15.283 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Bc_FootnoteTC - Switched to frame 0.
+16:42:15.933 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Bc_FootnoteTC - Switched to default content.
+16:42:17.465 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Bc_FootnoteTC - Switched to frame 0.
+16:42:18.089 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Bc_FootnoteTC - clicked on remove element block
+16:42:18.404 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Bc_FootnoteTC - Clicked on first para VE.
+16:42:18.447 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Bc_FootnoteTC - Switched to default content.
+16:42:18.768 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Bc_FootnoteTC - clicked on Accept Change
+16:42:18.791 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Bc_FootnoteTC - clicked on footnote plugin
+16:42:22.630 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Bc_FootnoteTC - clicked on new footnote box
+16:42:23.749 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Bc_FootnoteTC - clicked on footnote ok button
+16:42:27.165 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.E_CommonTC - Starting verifyDeleteXrefParaAddTable
+16:42:50.646 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.E_CommonTC - Logged in, searched for a file, and clicked Edit.
+16:42:50.680 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.E_CommonTC - Switched to frame 0.
+16:42:51.326 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.E_CommonTC - doublebclicked on First Para
+16:42:51.362 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.E_CommonTC - Switched back to default content.
+16:42:51.699 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.E_CommonTC - clicked on Cross Reference button 
+16:42:57.903 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.E_CommonTC - Starting verifySelectFootnoteAddSymbol
+16:43:17.748 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Cj_ChangeElementTC - Starting verifyChangeParaToSHCheckInDS
+16:43:22.562 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.E_CommonTC - Logged in, searched for a file, and clicked Edit.
+16:43:22.620 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.E_CommonTC - Switched to default content.
+16:43:23.166 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.E_CommonTC - Clicked on first para VE.
+16:43:23.206 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.E_CommonTC - Switched to default content.
+16:43:23.542 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.E_CommonTC - clicked on footnote plugin
+16:43:26.110 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.E_CommonTC - clicked on new footnote box
+16:43:26.660 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.E_CommonTC - clicked on footnote ok button
+16:43:27.993 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.E_CommonTC - Finished verifySelectFootnoteAddSymbol ..
+16:43:31.933 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.E_CommonTC - clicked on Code Cross Reference checkbox 
+16:43:32.230 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.E_CommonTC - clicked on Cross Reference popup ok button 
+16:43:37.447 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Bc_FootnoteTC - Switched to frame 0.
+16:43:38.065 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Bc_FootnoteTC - Clicked on first para VE.
+16:43:38.102 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Bc_FootnoteTC - Switched to default content.
+16:43:38.347 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Bc_FootnoteTC - clicked on footnote plugin
+16:43:40.015 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Cj_ChangeElementTC - Logged in, searched for a file, and clicked Edit.
+16:43:40.019 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Cj_ChangeElementTC - Created G_ChangeElement instance.
+16:43:40.354 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Cj_ChangeElementTC - Created Actions class instance.
+16:43:41.460 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Bc_FootnoteTC - clicked on new footnote box
+16:43:42.094 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Bc_FootnoteTC - clicked on footnote ok button
+16:44:18.234 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.E_CommonTC - Starting verifyDeleteXrefParaAddTable
+16:44:28.634 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Cj_ChangeElementTC - Starting verifyChangeParaToSHCheckInDS
+16:44:37.953 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.E_CommonTC - Logged in, searched for a file, and clicked Edit.
+16:44:37.973 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.E_CommonTC - Switched to frame 0.
+16:44:38.432 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.E_CommonTC - doublebclicked on First Para
+16:44:38.474 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.E_CommonTC - Switched back to default content.
+16:44:38.729 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.E_CommonTC - clicked on Cross Reference button 
+16:44:47.864 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Cj_ChangeElementTC - Logged in, searched for a file, and clicked Edit.
+16:44:47.865 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Cj_ChangeElementTC - Created G_ChangeElement instance.
+16:44:48.311 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Cj_ChangeElementTC - Created Actions class instance.
+16:45:18.930 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.E_CommonTC - clicked on Code Cross Reference checkbox 
+16:45:19.168 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint5_TestCases.E_CommonTC - clicked on Cross Reference popup ok button 
+16:49:15.437 [main] INFO  Elements_Testcases.Cj_ChangeElementTC - Starting verifyChangeParaToSHCheckInDS
+16:49:34.734 [main] INFO  Elements_Testcases.Cj_ChangeElementTC - Logged in, searched for a file, and clicked Edit.
+16:49:34.741 [main] INFO  Elements_Testcases.Cj_ChangeElementTC - Created G_ChangeElement instance.
+16:49:35.069 [main] INFO  Elements_Testcases.Cj_ChangeElementTC - Created Actions class instance.
+16:49:39.644 [main] INFO  Elements_Testcases.Cj_ChangeElementTC - Finished verifyChangeParaToSHCheckInDS
+16:51:54.733 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ab_ParaTC - ****    Starting --> paraTC    ****
+16:51:54.833 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F12_UndoRedoTC - Starting verify_Insert_Table
+16:51:55.019 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F12_UndoRedoTC - Starting verify_Insert_Table
+16:52:21.607 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F12_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+16:52:21.704 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F12_UndoRedoTC - Created F4_Table instance.
+16:52:23.235 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ab_ParaTC - clicked on second section from DS
+16:52:23.562 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F12_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+16:52:23.564 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F12_UndoRedoTC - Created F4_Table instance.
+16:52:23.979 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ab_ParaTC - clicked on second sections 2nd para from DS
+16:52:24.222 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ab_ParaTC - clicked on Enter key
+16:52:24.291 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ab_ParaTC - Verifying new para present into DS
+16:52:30.130 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F12_UndoRedoTC - Inserted table using ReusableMethods.
+16:52:30.257 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F12_UndoRedoTC - Switched to frame 0.
+16:52:30.704 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F12_UndoRedoTC - Table is inserted in the Visual Editor.
+16:52:30.710 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F12_UndoRedoTC - Switched back to default content.
+16:52:37.407 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F12_UndoRedoTC - Inserted table using ReusableMethods.
+16:52:37.517 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F12_UndoRedoTC - Switched to frame 0.
+16:52:37.606 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F12_UndoRedoTC - Table is inserted in the Visual Editor.
+16:52:37.610 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F12_UndoRedoTC - Switched back to default content.
+16:53:04.697 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ab_ParaTC - verifying content validation not occured in code view
+16:53:04.697 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ab_ParaTC - ****    Finished --> paraTC    ****
+16:53:13.269 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.J_CommonTestcases - Starting insertTableCBAddContentToListRejectChanges
+16:53:18.332 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F12_UndoRedoTC - Starting verify_Insert_Table
+16:53:25.646 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  BasicEditingTC.F12_UndoRedoTC - Starting verify_Insert_Table
+16:53:37.640 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.J_CommonTestcases - Logged in and searched for a file, then clicked Edit.
+16:53:42.983 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F12_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+16:53:42.985 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  BasicEditingTC.F12_UndoRedoTC - Created F4_Table instance.
+16:53:45.739 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint4_TestCases.J_CommonTestcases - Inserted Table in DS

@@ -1,0 +1,1198 @@
+<html>
+<head>
+<title>TestNG:  RetryMultipleFailedTestcases</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>RetryMultipleFailedTestcases</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>104/2/11</td>
+</tr><tr>
+<td>Started on:</td><td>Wed Oct 04 18:25:40 IST 2023</td>
+</tr>
+<tr><td>Total time:</td><td>1770 seconds (1770674 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-failed'>
+<tr><td colspan='4' align='center'><b>FAILED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='sprint1_TestCases.B_Verify_TitleBarOptionsTC.TC023_verifySaveErrorMessage()'><b>TC023_verifySaveErrorMessage</b><br>Test class: sprint1_TestCases.B_Verify_TitleBarOptionsTC</td>
+<td><div><pre>java.lang.AssertionError: No changes to save message is not displayed expected [true] but found [false]
+	at sprint1_TestCases.B_Verify_TitleBarOptionsTC.TC023_verifySaveErrorMessage(B_Verify_TitleBarOptionsTC.java:117)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+... Removed 15 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace1114673507", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1114673507'><pre>java.lang.AssertionError: No changes to save message is not displayed expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:99)
+	at org.testng.Assert.failNotEquals(Assert.java:1037)
+	at org.testng.Assert.assertTrue(Assert.java:45)
+	at sprint1_TestCases.B_Verify_TitleBarOptionsTC.TC023_verifySaveErrorMessage(B_Verify_TitleBarOptionsTC.java:117)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+	at org.testng.internal.TestInvoker.retryFailed(TestInvoker.java:213)
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:58)
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+</pre></div></td>
+<td>69</td>
+<td>sprint1_TestCases.B_Verify_TitleBarOptionsTC@5b247367</td></tr>
+<tr>
+<td title='sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC.TC062_verifyCMSMenuManageLogout()'><b>TC062_verifyCMSMenuManageLogout</b><br>Test class: sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC</td>
+<td><div><pre>org.openqa.selenium.UnhandledAlertException: unexpected alert open: {Alert text : }
+  (Session info: chrome=117.0.5938.132): {Alert text : 
+Build info: version: &apos;4.11.0&apos;, revision: &apos;040bc5406b&apos;
+System info: os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.7&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ea9e08064ceb459221921305215cde2d, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 117.0.5938.132, chrome: {chromedriverVersion: 117.0.5938.92 (67649b10b92b..., userDataDir: C:\Users\ITRENT~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64912}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64912/devtoo..., se:cdpVersion: 117.0.5938.132, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ea9e08064ceb459221921305215cde2d
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:131)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:196)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:171)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:591)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:595)
+	at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:321)
+	at org.openqa.selenium.support.ThreadGuard$WebDriverInvocationHandler.invokeUnderlying(ThreadGuard.java:99)
+	at org.openqa.selenium.support.ThreadGuard$WebDriverInvocationHandler.invoke(ThreadGuard.java:91)
+	at jdk.proxy2/jdk.proxy2.$Proxy34.getScreenshotAs(Unknown Source)
+	at d_utilities.ExtentReportManager.captureScreen(ExtentReportManager.java:261)
+	at d_utilities.ExtentReportManager.onTestFailure(ExtentReportManager.java:152)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+... Removed 13 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace1980921006", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1980921006'><pre>org.openqa.selenium.UnhandledAlertException: unexpected alert open: {Alert text : }
+  (Session info: chrome=117.0.5938.132): {Alert text : 
+Build info: version: &apos;4.11.0&apos;, revision: &apos;040bc5406b&apos;
+System info: os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.7&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ea9e08064ceb459221921305215cde2d, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 117.0.5938.132, chrome: {chromedriverVersion: 117.0.5938.92 (67649b10b92b..., userDataDir: C:\Users\ITRENT~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64912}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64912/devtoo..., se:cdpVersion: 117.0.5938.132, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ea9e08064ceb459221921305215cde2d
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:131)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:196)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:171)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:591)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:595)
+	at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:321)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.openqa.selenium.support.ThreadGuard$WebDriverInvocationHandler.invokeUnderlying(ThreadGuard.java:99)
+	at org.openqa.selenium.support.ThreadGuard$WebDriverInvocationHandler.invoke(ThreadGuard.java:91)
+	at jdk.proxy2/jdk.proxy2.$Proxy34.getScreenshotAs(Unknown Source)
+	at d_utilities.ExtentReportManager.captureScreen(ExtentReportManager.java:261)
+	at d_utilities.ExtentReportManager.onTestFailure(ExtentReportManager.java:152)
+	at org.testng.internal.TestListenerHelper.runTestListeners(TestListenerHelper.java:96)
+	at org.testng.internal.TestInvoker.runTestResultListener(TestInvoker.java:219)
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:656)
+	at org.testng.internal.TestInvoker.retryFailed(TestInvoker.java:213)
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:58)
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+</pre></div></td>
+<td>137</td>
+<td>sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC@268f106e</td></tr>
+</table><p>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='sprint1_TestCases.D_TabViewOptionsTC.TC087_verifyQuickPreviewEnabled()'><b>TC087_verifyQuickPreviewEnabled</b><br>Test class: sprint1_TestCases.D_TabViewOptionsTC</td>
+<td></td>
+<td>53</td>
+<td>sprint1_TestCases.D_TabViewOptionsTC@6e9a5ed8</td></tr>
+<tr>
+<td title='sprint2_TestCases.B_Verify_RightClick_OptionsTC.TC180_verifySearchInvalidContentCheckResults()'><b>TC180_verifySearchInvalidContentCheckResults</b><br>Test class: sprint2_TestCases.B_Verify_RightClick_OptionsTC</td>
+<td></td>
+<td>31</td>
+<td>sprint2_TestCases.B_Verify_RightClick_OptionsTC@5890e879</td></tr>
+<tr>
+<td title='sprint1_TestCases.B_Verify_TitleBarOptionsTC.TC017_verifyCheckInHighlighted()'><b>TC017_verifyCheckInHighlighted</b><br>Test class: sprint1_TestCases.B_Verify_TitleBarOptionsTC</td>
+<td></td>
+<td>41</td>
+<td>sprint1_TestCases.B_Verify_TitleBarOptionsTC@5b247367</td></tr>
+<tr>
+<td title='sprint1_TestCases.A_Login_PageTC.verify_Login()'><b>verify_Login</b><br>Test class: sprint1_TestCases.A_Login_PageTC</td>
+<td></td>
+<td>4</td>
+<td>sprint1_TestCases.A_Login_PageTC@5e2c3d18</td></tr>
+<tr>
+<td title='sprint2_TestCases.B_Verify_RightClick_OptionsTC.TC130_verifyDeleteCBParaNotAcceptChange()'><b>TC130_verifyDeleteCBParaNotAcceptChange</b><br>Test class: sprint2_TestCases.B_Verify_RightClick_OptionsTC</td>
+<td></td>
+<td>50</td>
+<td>sprint2_TestCases.B_Verify_RightClick_OptionsTC@5890e879</td></tr>
+<tr>
+<td title='sprint2_TestCases.A_Verify_ContentBlockTC.TC108_VerifySelectEmphasisVerifyInContentBlock()'><b>TC108_VerifySelectEmphasisVerifyInContentBlock</b><br>Test class: sprint2_TestCases.A_Verify_ContentBlockTC</td>
+<td></td>
+<td>41</td>
+<td>sprint2_TestCases.A_Verify_ContentBlockTC@6c284af</td></tr>
+<tr>
+<td title='sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC.TC066_verifyCMSMenuRejectChange()'><b>TC066_verifyCMSMenuRejectChange</b><br>Test class: sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC</td>
+<td></td>
+<td>73</td>
+<td>sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC@268f106e</td></tr>
+<tr>
+<td title='sprint2_TestCases.B_Verify_RightClick_OptionsTC.TC120_verifyContentBlockRightClickInsertAfterAllOptions()'><b>TC120_verifyContentBlockRightClickInsertAfterAllOptions</b><br>Test class: sprint2_TestCases.B_Verify_RightClick_OptionsTC</td>
+<td></td>
+<td>44</td>
+<td>sprint2_TestCases.B_Verify_RightClick_OptionsTC@5890e879</td></tr>
+<tr>
+<td title='sprint1_TestCases.D_TabViewOptionsTC.TC089_verifyPrintPriviewExpanded()'><b>TC089_verifyPrintPriviewExpanded</b><br>Test class: sprint1_TestCases.D_TabViewOptionsTC</td>
+<td></td>
+<td>47</td>
+<td>sprint1_TestCases.D_TabViewOptionsTC@6e9a5ed8</td></tr>
+<tr>
+<td title='sprint2_TestCases.B_Verify_RightClick_OptionsTC.TC132_verifyDeleteSectionNumberWithOutAcceptChangeVE()'><b>TC132_verifyDeleteSectionNumberWithOutAcceptChangeVE</b><br>Test class: sprint2_TestCases.B_Verify_RightClick_OptionsTC</td>
+<td></td>
+<td>44</td>
+<td>sprint2_TestCases.B_Verify_RightClick_OptionsTC@5890e879</td></tr>
+<tr>
+<td title='sprint2_TestCases.A_Verify_ContentBlockTC.TC111_verifyContentPanelHandlerIcon()'><b>TC111_verifyContentPanelHandlerIcon</b><br>Test class: sprint2_TestCases.A_Verify_ContentBlockTC</td>
+<td></td>
+<td>44</td>
+<td>sprint2_TestCases.A_Verify_ContentBlockTC@6c284af</td></tr>
+<tr>
+<td title='sprint1_TestCases.B_Verify_TitleBarOptionsTC.TC014_verifySaveHighlighted()'><b>TC014_verifySaveHighlighted</b><br>Test class: sprint1_TestCases.B_Verify_TitleBarOptionsTC</td>
+<td></td>
+<td>30</td>
+<td>sprint1_TestCases.B_Verify_TitleBarOptionsTC@5b247367</td></tr>
+<tr>
+<td title='sprint1_TestCases.B_Verify_TitleBarOptionsTC.TC022_verifySaveTimeOnBrowserMinimize()'><b>TC022_verifySaveTimeOnBrowserMinimize</b><br>Test class: sprint1_TestCases.B_Verify_TitleBarOptionsTC</td>
+<td></td>
+<td>43</td>
+<td>sprint1_TestCases.B_Verify_TitleBarOptionsTC@5b247367</td></tr>
+<tr>
+<td title='sprint2_TestCases.B_Verify_RightClick_OptionsTC.TC128_verifyAddingCaptionInsertAfterInCB()'><b>TC128_verifyAddingCaptionInsertAfterInCB</b><br>Test class: sprint2_TestCases.B_Verify_RightClick_OptionsTC</td>
+<td></td>
+<td>48</td>
+<td>sprint2_TestCases.B_Verify_RightClick_OptionsTC@5890e879</td></tr>
+<tr>
+<td title='sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC.TC049_verifyCMSMenuAddingFile()'><b>TC049_verifyCMSMenuAddingFile</b><br>Test class: sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC</td>
+<td></td>
+<td>47</td>
+<td>sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC@268f106e</td></tr>
+<tr>
+<td title='sprint2_TestCases.B_Verify_RightClick_OptionsTC.TC133_verifyDeleteSectionNumberAcceptChangeVE()'><b>TC133_verifyDeleteSectionNumberAcceptChangeVE</b><br>Test class: sprint2_TestCases.B_Verify_RightClick_OptionsTC</td>
+<td></td>
+<td>74</td>
+<td>sprint2_TestCases.B_Verify_RightClick_OptionsTC@5890e879</td></tr>
+<tr>
+<td title='sprint2_TestCases.A_Verify_ContentBlockTC.TC105_verifyEditorAreaHighlighted()'><b>TC105_verifyEditorAreaHighlighted</b><br>Test class: sprint2_TestCases.A_Verify_ContentBlockTC</td>
+<td></td>
+<td>32</td>
+<td>sprint2_TestCases.A_Verify_ContentBlockTC@6c284af</td></tr>
+<tr>
+<td title='sprint2_TestCases.B_Verify_RightClick_OptionsTC.TC123_verifyRightClickSearchOptionsVE()'><b>TC123_verifyRightClickSearchOptionsVE</b><br>Test class: sprint2_TestCases.B_Verify_RightClick_OptionsTC</td>
+<td></td>
+<td>45</td>
+<td>sprint2_TestCases.B_Verify_RightClick_OptionsTC@5890e879</td></tr>
+<tr>
+<td title='sprint1_TestCases.D_TabViewOptionsTC.TC086_verifyCodeViewTab()'><b>TC086_verifyCodeViewTab</b><br>Test class: sprint1_TestCases.D_TabViewOptionsTC</td>
+<td></td>
+<td>91</td>
+<td>sprint1_TestCases.D_TabViewOptionsTC@6e9a5ed8</td></tr>
+<tr>
+<td title='sprint2_TestCases.A_Verify_ContentBlockTC.TC101_verifyXrefIconIndication()'><b>TC101_verifyXrefIconIndication</b><br>Test class: sprint2_TestCases.A_Verify_ContentBlockTC</td>
+<td></td>
+<td>45</td>
+<td>sprint2_TestCases.A_Verify_ContentBlockTC@6c284af</td></tr>
+<tr>
+<td title='sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC.TC054_verifyCMSCollapseByClickingValidateButton()'><b>TC054_verifyCMSCollapseByClickingValidateButton</b><br>Test class: sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC</td>
+<td></td>
+<td>39</td>
+<td>sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC@268f106e</td></tr>
+<tr>
+<td title='sprint2_TestCases.C_Verify_GeneralAttributes_PanalTC.TC154_verifyAttributeAstrictMark()'><b>TC154_verifyAttributeAstrictMark</b><br>Test class: sprint2_TestCases.C_Verify_GeneralAttributes_PanalTC</td>
+<td></td>
+<td>39</td>
+<td>sprint2_TestCases.C_Verify_GeneralAttributes_PanalTC@6440112d</td></tr>
+<tr>
+<td title='sprint1_TestCases.B_Verify_TitleBarOptionsTC.TC019_verifyLastSaveWithRealTime()'><b>TC019_verifyLastSaveWithRealTime</b><br>Test class: sprint1_TestCases.B_Verify_TitleBarOptionsTC</td>
+<td></td>
+<td>42</td>
+<td>sprint1_TestCases.B_Verify_TitleBarOptionsTC@5b247367</td></tr>
+<tr>
+<td title='sprint1_TestCases.B_Verify_TitleBarOptionsTC.TC002_verifyTitleBar()'><b>TC002_verifyTitleBar</b><br>Test class: sprint1_TestCases.B_Verify_TitleBarOptionsTC</td>
+<td></td>
+<td>30</td>
+<td>sprint1_TestCases.B_Verify_TitleBarOptionsTC@5b247367</td></tr>
+<tr>
+<td title='sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC.TC061_verifyCMSRejectLogout()'><b>TC061_verifyCMSRejectLogout</b><br>Test class: sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC</td>
+<td></td>
+<td>30</td>
+<td>sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC@268f106e</td></tr>
+<tr>
+<td title='sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC.TC045_verifyCMSMenuCollapse()'><b>TC045_verifyCMSMenuCollapse</b><br>Test class: sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC</td>
+<td></td>
+<td>33</td>
+<td>sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC@268f106e</td></tr>
+<tr>
+<td title='sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC.TC043_verifyCMSHambergerMenuHighlighted()'><b>TC043_verifyCMSHambergerMenuHighlighted</b><br>Test class: sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC</td>
+<td></td>
+<td>69</td>
+<td>sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC@268f106e</td></tr>
+<tr>
+<td title='sprint2_TestCases.B_Verify_RightClick_OptionsTC.TC118_verifyContentBlockRightClickInsertIntoAllOptions()'><b>TC118_verifyContentBlockRightClickInsertIntoAllOptions</b><br>Test class: sprint2_TestCases.B_Verify_RightClick_OptionsTC</td>
+<td></td>
+<td>59</td>
+<td>sprint2_TestCases.B_Verify_RightClick_OptionsTC@5890e879</td></tr>
+<tr>
+<td title='sprint2_TestCases.B_Verify_RightClick_OptionsTC.TC124_verifyAddingCaptionInsertBeforeInCB()'><b>TC124_verifyAddingCaptionInsertBeforeInCB</b><br>Test class: sprint2_TestCases.B_Verify_RightClick_OptionsTC</td>
+<td></td>
+<td>49</td>
+<td>sprint2_TestCases.B_Verify_RightClick_OptionsTC@5890e879</td></tr>
+<tr>
+<td title='sprint2_TestCases.B_Verify_RightClick_OptionsTC.TC121_verifyInsertAfterOptionsVE()'><b>TC121_verifyInsertAfterOptionsVE</b><br>Test class: sprint2_TestCases.B_Verify_RightClick_OptionsTC</td>
+<td></td>
+<td>51</td>
+<td>sprint2_TestCases.B_Verify_RightClick_OptionsTC@5890e879</td></tr>
+<tr>
+<td title='sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC.TC059_verifyCMSMenuLogoutManageProfile()'><b>TC059_verifyCMSMenuLogoutManageProfile</b><br>Test class: sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC</td>
+<td></td>
+<td>28</td>
+<td>sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC@268f106e</td></tr>
+<tr>
+<td title='sprint2_TestCases.B_Verify_RightClick_OptionsTC.TC119_verifyInsertInToOptionsVE()'><b>TC119_verifyInsertInToOptionsVE</b><br>Test class: sprint2_TestCases.B_Verify_RightClick_OptionsTC</td>
+<td></td>
+<td>70</td>
+<td>sprint2_TestCases.B_Verify_RightClick_OptionsTC@5890e879</td></tr>
+<tr>
+<td title='sprint1_TestCases.B_Verify_TitleBarOptionsTC.TC015_verifyResetHighlighted()'><b>TC015_verifyResetHighlighted</b><br>Test class: sprint1_TestCases.B_Verify_TitleBarOptionsTC</td>
+<td></td>
+<td>35</td>
+<td>sprint1_TestCases.B_Verify_TitleBarOptionsTC@5b247367</td></tr>
+<tr>
+<td title='sprint1_TestCases.B_Verify_TitleBarOptionsTC.TC027_verifyChangeElementSimpeParaValidateFile()'><b>TC027_verifyChangeElementSimpeParaValidateFile</b><br>Test class: sprint1_TestCases.B_Verify_TitleBarOptionsTC</td>
+<td></td>
+<td>43</td>
+<td>sprint1_TestCases.B_Verify_TitleBarOptionsTC@5b247367</td></tr>
+<tr>
+<td title='sprint1_TestCases.B_Verify_TitleBarOptionsTC.TC013_verifyTooltipsOnWindowResize()'><b>TC013_verifyTooltipsOnWindowResize</b><br>Test class: sprint1_TestCases.B_Verify_TitleBarOptionsTC</td>
+<td></td>
+<td>47</td>
+<td>sprint1_TestCases.B_Verify_TitleBarOptionsTC@5b247367</td></tr>
+<tr>
+<td title='sprint2_TestCases.C_Verify_GeneralAttributes_PanalTC.TC143_verifyGeneralAttributes()'><b>TC143_verifyGeneralAttributes</b><br>Test class: sprint2_TestCases.C_Verify_GeneralAttributes_PanalTC</td>
+<td></td>
+<td>43</td>
+<td>sprint2_TestCases.C_Verify_GeneralAttributes_PanalTC@6440112d</td></tr>
+<tr>
+<td title='sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC.TC058_verifyCMSMenuUserProfile()'><b>TC058_verifyCMSMenuUserProfile</b><br>Test class: sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC</td>
+<td></td>
+<td>31</td>
+<td>sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC@268f106e</td></tr>
+<tr>
+<td title='sprint1_TestCases.D_TabViewOptionsTC.verifySelectTextInVisualEditor()'><b>verifySelectTextInVisualEditor</b><br>Test class: sprint1_TestCases.D_TabViewOptionsTC</td>
+<td></td>
+<td>25</td>
+<td>sprint1_TestCases.D_TabViewOptionsTC@6e9a5ed8</td></tr>
+<tr>
+<td title='sprint1_TestCases.B_Verify_TitleBarOptionsTC.TC030_verifyCheckIn()'><b>TC030_verifyCheckIn</b><br>Test class: sprint1_TestCases.B_Verify_TitleBarOptionsTC</td>
+<td></td>
+<td>29</td>
+<td>sprint1_TestCases.B_Verify_TitleBarOptionsTC@5b247367</td></tr>
+<tr>
+<td title='sprint1_TestCases.B_Verify_TitleBarOptionsTC.TC016_verifyValidateHighlighted()'><b>TC016_verifyValidateHighlighted</b><br>Test class: sprint1_TestCases.B_Verify_TitleBarOptionsTC</td>
+<td></td>
+<td>47</td>
+<td>sprint1_TestCases.B_Verify_TitleBarOptionsTC@5b247367</td></tr>
+<tr>
+<td title='sprint2_TestCases.A_Verify_ContentBlockTC.TC091_verifyContentBlock()'><b>TC091_verifyContentBlock</b><br>Test class: sprint2_TestCases.A_Verify_ContentBlockTC</td>
+<td></td>
+<td>38</td>
+<td>sprint2_TestCases.A_Verify_ContentBlockTC@6c284af</td></tr>
+<tr>
+<td title='sprint2_TestCases.C_Verify_GeneralAttributes_PanalTC.TC165_verifyAttributePlaceholder()'><b>TC165_verifyAttributePlaceholder</b><br>Test class: sprint2_TestCases.C_Verify_GeneralAttributes_PanalTC</td>
+<td></td>
+<td>38</td>
+<td>sprint2_TestCases.C_Verify_GeneralAttributes_PanalTC@6440112d</td></tr>
+<tr>
+<td title='sprint2_TestCases.B_Verify_RightClick_OptionsTC.TC115_verifyAddingImgWithoutInsertingVE()'><b>TC115_verifyAddingImgWithoutInsertingVE</b><br>Test class: sprint2_TestCases.B_Verify_RightClick_OptionsTC</td>
+<td></td>
+<td>88</td>
+<td>sprint2_TestCases.B_Verify_RightClick_OptionsTC@5890e879</td></tr>
+<tr>
+<td title='sprint2_TestCases.A_Verify_ContentBlockTC.TC092_verifyContentBlockSwitchBetweenWindows()'><b>TC092_verifyContentBlockSwitchBetweenWindows</b><br>Test class: sprint2_TestCases.A_Verify_ContentBlockTC</td>
+<td></td>
+<td>52</td>
+<td>sprint2_TestCases.A_Verify_ContentBlockTC@6c284af</td></tr>
+<tr>
+<td title='sprint1_TestCases.D_TabViewOptionsTC.TC072_verifyTabViewOptions()'><b>TC072_verifyTabViewOptions</b><br>Test class: sprint1_TestCases.D_TabViewOptionsTC</td>
+<td></td>
+<td>36</td>
+<td>sprint1_TestCases.D_TabViewOptionsTC@6e9a5ed8</td></tr>
+<tr>
+<td title='sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC.verifyMediaLibrarySearchOption()'><b>verifyMediaLibrarySearchOption</b><br>Test class: sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC</td>
+<td></td>
+<td>46</td>
+<td>sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC@268f106e</td></tr>
+<tr>
+<td title='sprint1_TestCases.B_Verify_TitleBarOptionsTC.TC024_verifyLastSaveTimeAfterResetFile()'><b>TC024_verifyLastSaveTimeAfterResetFile</b><br>Test class: sprint1_TestCases.B_Verify_TitleBarOptionsTC</td>
+<td></td>
+<td>43</td>
+<td>sprint1_TestCases.B_Verify_TitleBarOptionsTC@5b247367</td></tr>
+<tr>
+<td title='sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC.TC050_verifyCMSCollapseByClickingEditorView()'><b>TC050_verifyCMSCollapseByClickingEditorView</b><br>Test class: sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC</td>
+<td></td>
+<td>88</td>
+<td>sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC@268f106e</td></tr>
+<tr>
+<td title='sprint1_TestCases.D_TabViewOptionsTC.TC088_verifyQuickPreviewHighLighted()'><b>TC088_verifyQuickPreviewHighLighted</b><br>Test class: sprint1_TestCases.D_TabViewOptionsTC</td>
+<td></td>
+<td>46</td>
+<td>sprint1_TestCases.D_TabViewOptionsTC@6e9a5ed8</td></tr>
+<tr>
+<td title='sprint2_TestCases.B_Verify_RightClick_OptionsTC.TC116_verifyContentBlockRightClickInsertBeforeAllOptions()'><b>TC116_verifyContentBlockRightClickInsertBeforeAllOptions</b><br>Test class: sprint2_TestCases.B_Verify_RightClick_OptionsTC</td>
+<td></td>
+<td>56</td>
+<td>sprint2_TestCases.B_Verify_RightClick_OptionsTC@5890e879</td></tr>
+<tr>
+<td title='sprint2_TestCases.A_Verify_ContentBlockTC.TC109_verifyContentBlockCollapse()'><b>TC109_verifyContentBlockCollapse</b><br>Test class: sprint2_TestCases.A_Verify_ContentBlockTC</td>
+<td></td>
+<td>42</td>
+<td>sprint2_TestCases.A_Verify_ContentBlockTC@6c284af</td></tr>
+<tr>
+<td title='sprint2_TestCases.C_Verify_GeneralAttributes_PanalTC.TC146_verifyParaElementAttributes()'><b>TC146_verifyParaElementAttributes</b><br>Test class: sprint2_TestCases.C_Verify_GeneralAttributes_PanalTC</td>
+<td></td>
+<td>39</td>
+<td>sprint2_TestCases.C_Verify_GeneralAttributes_PanalTC@6440112d</td></tr>
+<tr>
+<td title='sprint2_TestCases.C_Verify_GeneralAttributes_PanalTC.TC145_verifySectionAttributes()'><b>TC145_verifySectionAttributes</b><br>Test class: sprint2_TestCases.C_Verify_GeneralAttributes_PanalTC</td>
+<td></td>
+<td>43</td>
+<td>sprint2_TestCases.C_Verify_GeneralAttributes_PanalTC@6440112d</td></tr>
+<tr>
+<td title='sprint2_TestCases.B_Verify_RightClick_OptionsTC.TC126_verifyAddingListInsertIntoInCB()'><b>TC126_verifyAddingListInsertIntoInCB</b><br>Test class: sprint2_TestCases.B_Verify_RightClick_OptionsTC</td>
+<td></td>
+<td>55</td>
+<td>sprint2_TestCases.B_Verify_RightClick_OptionsTC@5890e879</td></tr>
+<tr>
+<td title='sprint1_TestCases.B_Verify_TitleBarOptionsTC.TC025_verifyResetFile()'><b>TC025_verifyResetFile</b><br>Test class: sprint1_TestCases.B_Verify_TitleBarOptionsTC</td>
+<td></td>
+<td>42</td>
+<td>sprint1_TestCases.B_Verify_TitleBarOptionsTC@5b247367</td></tr>
+<tr>
+<td title='sprint2_TestCases.C_Verify_GeneralAttributes_PanalTC.TC147_verifySectionNumberAttributes()'><b>TC147_verifySectionNumberAttributes</b><br>Test class: sprint2_TestCases.C_Verify_GeneralAttributes_PanalTC</td>
+<td></td>
+<td>38</td>
+<td>sprint2_TestCases.C_Verify_GeneralAttributes_PanalTC@6440112d</td></tr>
+<tr>
+<td title='sprint2_TestCases.A_Verify_ContentBlockTC.TC093_verifyContentBlockAfterRefresh()'><b>TC093_verifyContentBlockAfterRefresh</b><br>Test class: sprint2_TestCases.A_Verify_ContentBlockTC</td>
+<td></td>
+<td>42</td>
+<td>sprint2_TestCases.A_Verify_ContentBlockTC@6c284af</td></tr>
+<tr>
+<td title='sprint2_TestCases.A_Verify_ContentBlockTC.TC106_verifyImgInContentBlockHighlighted()'><b>TC106_verifyImgInContentBlockHighlighted</b><br>Test class: sprint2_TestCases.A_Verify_ContentBlockTC</td>
+<td></td>
+<td>50</td>
+<td>sprint2_TestCases.A_Verify_ContentBlockTC@6c284af</td></tr>
+<tr>
+<td title='sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC.TC047_verifyMediaObjectInCMSMenu()'><b>TC047_verifyMediaObjectInCMSMenu</b><br>Test class: sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC</td>
+<td></td>
+<td>59</td>
+<td>sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC@268f106e</td></tr>
+<tr>
+<td title='sprint2_TestCases.B_Verify_RightClick_OptionsTC.TC117_verifyInsertBeforeOptionsVE()'><b>TC117_verifyInsertBeforeOptionsVE</b><br>Test class: sprint2_TestCases.B_Verify_RightClick_OptionsTC</td>
+<td></td>
+<td>64</td>
+<td>sprint2_TestCases.B_Verify_RightClick_OptionsTC@5890e879</td></tr>
+<tr>
+<td title='sprint2_TestCases.B_Verify_RightClick_OptionsTC.TC125_verifyAddingImgInsertBeforeInSectionHeadingVE()'><b>TC125_verifyAddingImgInsertBeforeInSectionHeadingVE</b><br>Test class: sprint2_TestCases.B_Verify_RightClick_OptionsTC</td>
+<td></td>
+<td>43</td>
+<td>sprint2_TestCases.B_Verify_RightClick_OptionsTC@5890e879</td></tr>
+<tr>
+<td title='sprint1_TestCases.D_TabViewOptionsTC.TC076_verifyTabOptionsTooltips()'><b>TC076_verifyTabOptionsTooltips</b><br>Test class: sprint1_TestCases.D_TabViewOptionsTC</td>
+<td></td>
+<td>35</td>
+<td>sprint1_TestCases.D_TabViewOptionsTC@6e9a5ed8</td></tr>
+<tr>
+<td title='sprint2_TestCases.B_Verify_RightClick_OptionsTC.TC131_verifyDeleteContentBlockParaAcceptChange()'><b>TC131_verifyDeleteContentBlockParaAcceptChange</b><br>Test class: sprint2_TestCases.B_Verify_RightClick_OptionsTC</td>
+<td></td>
+<td>91</td>
+<td>sprint2_TestCases.B_Verify_RightClick_OptionsTC@5890e879</td></tr>
+<tr>
+<td title='sprint2_TestCases.A_Verify_ContentBlockTC.TC102_verifyContentBlockHighlighted()'><b>TC102_verifyContentBlockHighlighted</b><br>Test class: sprint2_TestCases.A_Verify_ContentBlockTC</td>
+<td></td>
+<td>33</td>
+<td>sprint2_TestCases.A_Verify_ContentBlockTC@6c284af</td></tr>
+<tr>
+<td title='sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC.TC037_verifyCMSMenuEnabled()'><b>TC037_verifyCMSMenuEnabled</b><br>Test class: sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC</td>
+<td></td>
+<td>36</td>
+<td>sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC@268f106e</td></tr>
+<tr>
+<td title='sprint2_TestCases.B_Verify_RightClick_OptionsTC.TC113_verifyContentBlockRightClickOptions()'><b>TC113_verifyContentBlockRightClickOptions</b><br>Test class: sprint2_TestCases.B_Verify_RightClick_OptionsTC</td>
+<td></td>
+<td>75</td>
+<td>sprint2_TestCases.B_Verify_RightClick_OptionsTC@5890e879</td></tr>
+<tr>
+<td title='sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC.TC190_verifyMediaObjectSearchInvalidImage()'><b>TC190_verifyMediaObjectSearchInvalidImage</b><br>Test class: sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC</td>
+<td></td>
+<td>54</td>
+<td>sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC@268f106e</td></tr>
+<tr>
+<td title='sprint1_TestCases.D_TabViewOptionsTC.TC085_verifyCodeViewEnabled()'><b>TC085_verifyCodeViewEnabled</b><br>Test class: sprint1_TestCases.D_TabViewOptionsTC</td>
+<td></td>
+<td>47</td>
+<td>sprint1_TestCases.D_TabViewOptionsTC@6e9a5ed8</td></tr>
+<tr>
+<td title='sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC.TC189_verifyMediaObjectSearchValidImage()'><b>TC189_verifyMediaObjectSearchValidImage</b><br>Test class: sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC</td>
+<td></td>
+<td>53</td>
+<td>sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC@268f106e</td></tr>
+<tr>
+<td title='sprint1_TestCases.B_Verify_TitleBarOptionsTC.TC031_verifyCheckInCancelButton()'><b>TC031_verifyCheckInCancelButton</b><br>Test class: sprint1_TestCases.B_Verify_TitleBarOptionsTC</td>
+<td></td>
+<td>32</td>
+<td>sprint1_TestCases.B_Verify_TitleBarOptionsTC@5b247367</td></tr>
+<tr>
+<td title='sprint1_TestCases.D_TabViewOptionsTC.TC082_verifyVisualEditorHighLighted()'><b>TC082_verifyVisualEditorHighLighted</b><br>Test class: sprint1_TestCases.D_TabViewOptionsTC</td>
+<td></td>
+<td>40</td>
+<td>sprint1_TestCases.D_TabViewOptionsTC@6e9a5ed8</td></tr>
+<tr>
+<td title='sprint2_TestCases.C_Verify_GeneralAttributes_PanalTC.TC148_verifyLinkElementAttributes()'><b>TC148_verifyLinkElementAttributes</b><br>Test class: sprint2_TestCases.C_Verify_GeneralAttributes_PanalTC</td>
+<td></td>
+<td>36</td>
+<td>sprint2_TestCases.C_Verify_GeneralAttributes_PanalTC@6440112d</td></tr>
+<tr>
+<td title='sprint2_TestCases.B_Verify_RightClick_OptionsTC.TC127_verifyAddingListInsertIntoInParaVE()'><b>TC127_verifyAddingListInsertIntoInParaVE</b><br>Test class: sprint2_TestCases.B_Verify_RightClick_OptionsTC</td>
+<td></td>
+<td>41</td>
+<td>sprint2_TestCases.B_Verify_RightClick_OptionsTC@5890e879</td></tr>
+<tr>
+<td title='sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC.TC040_verifyCMSMenuCloseBtn()'><b>TC040_verifyCMSMenuCloseBtn</b><br>Test class: sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC</td>
+<td></td>
+<td>30</td>
+<td>sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC@268f106e</td></tr>
+<tr>
+<td title='sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC.TC044_verifyCMSMenuByResizing()'><b>TC044_verifyCMSMenuByResizing</b><br>Test class: sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC</td>
+<td></td>
+<td>40</td>
+<td>sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC@268f106e</td></tr>
+<tr>
+<td title='sprint2_TestCases.A_Verify_ContentBlockTC.TC099_verifyListIconIndication()'><b>TC099_verifyListIconIndication</b><br>Test class: sprint2_TestCases.A_Verify_ContentBlockTC</td>
+<td></td>
+<td>61</td>
+<td>sprint2_TestCases.A_Verify_ContentBlockTC@6c284af</td></tr>
+<tr>
+<td title='sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC.TC065_verifyCMSMenuManage()'><b>TC065_verifyCMSMenuManage</b><br>Test class: sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC</td>
+<td></td>
+<td>32</td>
+<td>sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC@268f106e</td></tr>
+<tr>
+<td title='sprint1_TestCases.B_Verify_TitleBarOptionsTC.TC029_verifyValidateFile()'><b>TC029_verifyValidateFile</b><br>Test class: sprint1_TestCases.B_Verify_TitleBarOptionsTC</td>
+<td></td>
+<td>38</td>
+<td>sprint1_TestCases.B_Verify_TitleBarOptionsTC@5b247367</td></tr>
+<tr>
+<td title='sprint2_TestCases.A_Verify_ContentBlockTC.TC103_verifyImgInContentBlockInEditorHighlighted()'><b>TC103_verifyImgInContentBlockInEditorHighlighted</b><br>Test class: sprint2_TestCases.A_Verify_ContentBlockTC</td>
+<td></td>
+<td>40</td>
+<td>sprint2_TestCases.A_Verify_ContentBlockTC@6c284af</td></tr>
+<tr>
+<td title='sprint2_TestCases.A_Verify_ContentBlockTC.TC100_verifyImgIconIndication()'><b>TC100_verifyImgIconIndication</b><br>Test class: sprint2_TestCases.A_Verify_ContentBlockTC</td>
+<td></td>
+<td>75</td>
+<td>sprint2_TestCases.A_Verify_ContentBlockTC@6c284af</td></tr>
+<tr>
+<td title='sprint2_TestCases.B_Verify_RightClick_OptionsTC.TC114_verifyRightClickOptionsVE()'><b>TC114_verifyRightClickOptionsVE</b><br>Test class: sprint2_TestCases.B_Verify_RightClick_OptionsTC</td>
+<td></td>
+<td>51</td>
+<td>sprint2_TestCases.B_Verify_RightClick_OptionsTC@5890e879</td></tr>
+<tr>
+<td title='sprint2_TestCases.A_Verify_ContentBlockTC.TC097_verifyContentSectionBlockExpanded()'><b>TC097_verifyContentSectionBlockExpanded</b><br>Test class: sprint2_TestCases.A_Verify_ContentBlockTC</td>
+<td></td>
+<td>64</td>
+<td>sprint2_TestCases.A_Verify_ContentBlockTC@6c284af</td></tr>
+<tr>
+<td title='sprint2_TestCases.A_Verify_ContentBlockTC.TC110_verifyContentBlockCollapseTooltip()'><b>TC110_verifyContentBlockCollapseTooltip</b><br>Test class: sprint2_TestCases.A_Verify_ContentBlockTC</td>
+<td></td>
+<td>47</td>
+<td>sprint2_TestCases.A_Verify_ContentBlockTC@6c284af</td></tr>
+<tr>
+<td title='sprint2_TestCases.C_Verify_GeneralAttributes_PanalTC.TC164_verifyAttributeTab()'><b>TC164_verifyAttributeTab</b><br>Test class: sprint2_TestCases.C_Verify_GeneralAttributes_PanalTC</td>
+<td></td>
+<td>51</td>
+<td>sprint2_TestCases.C_Verify_GeneralAttributes_PanalTC@6440112d</td></tr>
+<tr>
+<td title='sprint1_TestCases.D_TabViewOptionsTC.TC090_verifyPrintPriviewHighLighted()'><b>TC090_verifyPrintPriviewHighLighted</b><br>Test class: sprint1_TestCases.D_TabViewOptionsTC</td>
+<td></td>
+<td>26</td>
+<td>sprint1_TestCases.D_TabViewOptionsTC@6e9a5ed8</td></tr>
+<tr>
+<td title='sprint2_TestCases.C_Verify_GeneralAttributes_PanalTC.TC162_verifyChangeAttributeAndSave()'><b>TC162_verifyChangeAttributeAndSave</b><br>Test class: sprint2_TestCases.C_Verify_GeneralAttributes_PanalTC</td>
+<td></td>
+<td>43</td>
+<td>sprint2_TestCases.C_Verify_GeneralAttributes_PanalTC@6440112d</td></tr>
+<tr>
+<td title='sprint2_TestCases.B_Verify_RightClick_OptionsTC.TC122_verifyContentBlockRightclickSearchOptions()'><b>TC122_verifyContentBlockRightclickSearchOptions</b><br>Test class: sprint2_TestCases.B_Verify_RightClick_OptionsTC</td>
+<td></td>
+<td>58</td>
+<td>sprint2_TestCases.B_Verify_RightClick_OptionsTC@5890e879</td></tr>
+<tr>
+<td title='sprint2_TestCases.A_Verify_ContentBlockTC.TC104_verifyclickParaBlockIsHighlighted()'><b>TC104_verifyclickParaBlockIsHighlighted</b><br>Test class: sprint2_TestCases.A_Verify_ContentBlockTC</td>
+<td></td>
+<td>33</td>
+<td>sprint2_TestCases.A_Verify_ContentBlockTC@6c284af</td></tr>
+<tr>
+<td title='sprint2_TestCases.A_Verify_ContentBlockTC.TC098_verifyTableIcon()'><b>TC098_verifyTableIcon</b><br>Test class: sprint2_TestCases.A_Verify_ContentBlockTC</td>
+<td></td>
+<td>69</td>
+<td>sprint2_TestCases.A_Verify_ContentBlockTC@6c284af</td></tr>
+<tr>
+<td title='sprint1_TestCases.D_TabViewOptionsTC.TC084_verifyCodeView_HighLighted()'><b>TC084_verifyCodeView_HighLighted</b><br>Test class: sprint1_TestCases.D_TabViewOptionsTC</td>
+<td></td>
+<td>44</td>
+<td>sprint1_TestCases.D_TabViewOptionsTC@6e9a5ed8</td></tr>
+<tr>
+<td title='sprint1_TestCases.D_TabViewOptionsTC.TC077_verifyTooltipsOnWindowResize()'><b>TC077_verifyTooltipsOnWindowResize</b><br>Test class: sprint1_TestCases.D_TabViewOptionsTC</td>
+<td></td>
+<td>42</td>
+<td>sprint1_TestCases.D_TabViewOptionsTC@6e9a5ed8</td></tr>
+<tr>
+<td title='sprint2_TestCases.C_Verify_GeneralAttributes_PanalTC.TC144_verifyGeneralAttributesAfterRefresh()'><b>TC144_verifyGeneralAttributesAfterRefresh</b><br>Test class: sprint2_TestCases.C_Verify_GeneralAttributes_PanalTC</td>
+<td></td>
+<td>36</td>
+<td>sprint2_TestCases.C_Verify_GeneralAttributes_PanalTC@6440112d</td></tr>
+<tr>
+<td title='sprint1_TestCases.B_Verify_TitleBarOptionsTC.TC021_verifySaveFunctionality()'><b>TC021_verifySaveFunctionality</b><br>Test class: sprint1_TestCases.B_Verify_TitleBarOptionsTC</td>
+<td></td>
+<td>44</td>
+<td>sprint1_TestCases.B_Verify_TitleBarOptionsTC@5b247367</td></tr>
+<tr>
+<td title='sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC.TC046_verifyCMSMenuMediaLibSectionInsertError()'><b>TC046_verifyCMSMenuMediaLibSectionInsertError</b><br>Test class: sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC</td>
+<td></td>
+<td>43</td>
+<td>sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC@268f106e</td></tr>
+<tr>
+<td title='sprint2_TestCases.C_Verify_GeneralAttributes_PanalTC.TC149_verifyEmphasisStyleAttribute()'><b>TC149_verifyEmphasisStyleAttribute</b><br>Test class: sprint2_TestCases.C_Verify_GeneralAttributes_PanalTC</td>
+<td></td>
+<td>58</td>
+<td>sprint2_TestCases.C_Verify_GeneralAttributes_PanalTC@6440112d</td></tr>
+<tr>
+<td title='sprint1_TestCases.D_TabViewOptionsTC.TC083_verifyVisualEditorTab()'><b>TC083_verifyVisualEditorTab</b><br>Test class: sprint1_TestCases.D_TabViewOptionsTC</td>
+<td></td>
+<td>49</td>
+<td>sprint1_TestCases.D_TabViewOptionsTC@6e9a5ed8</td></tr>
+<tr>
+<td title='sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC.TC052_verifyCMSCollapseByClickingAttributePanel()'><b>TC052_verifyCMSCollapseByClickingAttributePanel</b><br>Test class: sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC</td>
+<td></td>
+<td>69</td>
+<td>sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC@268f106e</td></tr>
+<tr>
+<td title='sprint1_TestCases.D_TabViewOptionsTC.TC075_verifyTabOptionsOnRefresh()'><b>TC075_verifyTabOptionsOnRefresh</b><br>Test class: sprint1_TestCases.D_TabViewOptionsTC</td>
+<td></td>
+<td>37</td>
+<td>sprint1_TestCases.D_TabViewOptionsTC@6e9a5ed8</td></tr>
+<tr>
+<td title='sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC.TC051_verifyCMSCollapseByClickinCodeVeiw()'><b>TC051_verifyCMSCollapseByClickinCodeVeiw</b><br>Test class: sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC</td>
+<td></td>
+<td>80</td>
+<td>sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC@268f106e</td></tr>
+<tr>
+<td title='sprint2_TestCases.C_Verify_GeneralAttributes_PanalTC.TC166_verifyAttributeCancelX()'><b>TC166_verifyAttributeCancelX</b><br>Test class: sprint2_TestCases.C_Verify_GeneralAttributes_PanalTC</td>
+<td></td>
+<td>37</td>
+<td>sprint2_TestCases.C_Verify_GeneralAttributes_PanalTC@6440112d</td></tr>
+<tr>
+<td title='sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC.TC188_verifyMediaObjectClose()'><b>TC188_verifyMediaObjectClose</b><br>Test class: sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC</td>
+<td></td>
+<td>102</td>
+<td>sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC@268f106e</td></tr>
+<tr>
+<td title='sprint1_TestCases.B_Verify_TitleBarOptionsTC.TC028_verifyChangeElementAddressValidateFile()'><b>TC028_verifyChangeElementAddressValidateFile</b><br>Test class: sprint1_TestCases.B_Verify_TitleBarOptionsTC</td>
+<td></td>
+<td>38</td>
+<td>sprint1_TestCases.B_Verify_TitleBarOptionsTC@5b247367</td></tr>
+<tr>
+<td title='sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC.TC039_verifyCMSHambergerMenu()'><b>TC039_verifyCMSHambergerMenu</b><br>Test class: sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC</td>
+<td></td>
+<td>72</td>
+<td>sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC@268f106e</td></tr>
+<tr>
+<td title='sprint2_TestCases.B_Verify_RightClick_OptionsTC.TC129_verifyAddingImgInsertAfterWithInsertingVE()'><b>TC129_verifyAddingImgInsertAfterWithInsertingVE</b><br>Test class: sprint2_TestCases.B_Verify_RightClick_OptionsTC</td>
+<td></td>
+<td>37</td>
+<td>sprint2_TestCases.B_Verify_RightClick_OptionsTC@5890e879</td></tr>
+</table><p>
+<table width='100%' border='1' class='invocation-skipped'>
+<tr><td colspan='4' align='center'><b>SKIPPED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC.TC062_verifyCMSMenuManageLogout()'><b>TC062_verifyCMSMenuManageLogout</b><br>Test class: sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC</td>
+<td><div><pre>java.lang.AssertionError: expected [true] but found [false]
+	at sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC.TC062_verifyCMSMenuManageLogout(C_Verify_CMSMenu_FunctionalityTC.java:250)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+... Removed 16 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace1442250214", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1442250214'><pre>java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:99)
+	at org.testng.Assert.failNotEquals(Assert.java:1037)
+	at org.testng.Assert.assertTrue(Assert.java:45)
+	at org.testng.Assert.assertTrue(Assert.java:55)
+	at sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC.TC062_verifyCMSMenuManageLogout(C_Verify_CMSMenu_FunctionalityTC.java:250)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+</pre></div></td>
+<td>28</td>
+<td>sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC@268f106e</td></tr>
+<tr>
+<td title='sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC.TC047_verifyMediaObjectInCMSMenu()'><b>TC047_verifyMediaObjectInCMSMenu</b><br>Test class: sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC</td>
+<td><div><pre>org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator &apos;By.xpath: (//a[contains(text(),&apos;Insert&apos;)])[1]&apos; (tried for 10 second(s) with 500 milliseconds interval)
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:230)
+	at b_pageObjects.BasePage.clickElement(BasePage.java:36)
+	at sprint1_PageObjects.C_CMSMenu_Functionality.clickMediaObjectInsert(C_CMSMenu_Functionality.java:261)
+	at sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC.TC047_verifyMediaObjectInCMSMenu(C_Verify_CMSMenu_FunctionalityTC.java:498)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;(//a[contains(text(),&apos;Insert&apos;)])[1]&quot;}
+  (Session info: chrome=117.0.5938.132)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: &apos;4.11.0&apos;, revision: &apos;040bc5406b&apos;
+System info: os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.7&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [33e2634f1b94e6d08a7d0eca60523b35, findElement {using=xpath, value=(//a[contains(text(),&apos;Insert&apos;)])[1]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 117.0.5938.132, chrome: {chromedriverVersion: 117.0.5938.92 (67649b10b92b..., userDataDir: C:\Users\ITRENT~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63995}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63995/devtoo..., se:cdpVersion: 117.0.5938.132, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 33e2634f1b94e6d08a7d0eca60523b35
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:196)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:171)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:349)
+	at org.openqa.selenium.support.ThreadGuard$WebDriverInvocationHandler.invokeUnderlying(ThreadGuard.java:99)
+	at org.openqa.selenium.support.ThreadGuard$WebDriverInvocationHandler.invoke(ThreadGuard.java:91)
+	at jdk.proxy2/jdk.proxy2.$Proxy34.findElement(Unknown Source)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at jdk.proxy2/jdk.proxy2.$Proxy37.isDisplayed(Unknown Source)
+	at org.openqa.selenium.support.ui.ExpectedConditions.elementIfVisible(ExpectedConditions.java:304)
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:37)
+	at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:290)
+	at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:287)
+	at org.openqa.selenium.support.ui.ExpectedConditions$23.apply(ExpectedConditions.java:656)
+	at org.openqa.selenium.support.ui.ExpectedConditions$23.apply(ExpectedConditions.java:652)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:205)
+	... 18 more
+... Removed 19 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace1445323060", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1445323060'><pre>org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator &apos;By.xpath: (//a[contains(text(),&apos;Insert&apos;)])[1]&apos; (tried for 10 second(s) with 500 milliseconds interval)
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:230)
+	at b_pageObjects.BasePage.clickElement(BasePage.java:36)
+	at sprint1_PageObjects.C_CMSMenu_Functionality.clickMediaObjectInsert(C_CMSMenu_Functionality.java:261)
+	at sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC.TC047_verifyMediaObjectInCMSMenu(C_Verify_CMSMenu_FunctionalityTC.java:498)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;(//a[contains(text(),&apos;Insert&apos;)])[1]&quot;}
+  (Session info: chrome=117.0.5938.132)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: &apos;4.11.0&apos;, revision: &apos;040bc5406b&apos;
+System info: os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.7&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [33e2634f1b94e6d08a7d0eca60523b35, findElement {using=xpath, value=(//a[contains(text(),&apos;Insert&apos;)])[1]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 117.0.5938.132, chrome: {chromedriverVersion: 117.0.5938.92 (67649b10b92b..., userDataDir: C:\Users\ITRENT~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63995}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63995/devtoo..., se:cdpVersion: 117.0.5938.132, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 33e2634f1b94e6d08a7d0eca60523b35
+	at jdk.internal.reflect.GeneratedConstructorAccessor53.newInstance(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:196)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:171)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:349)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.openqa.selenium.support.ThreadGuard$WebDriverInvocationHandler.invokeUnderlying(ThreadGuard.java:99)
+	at org.openqa.selenium.support.ThreadGuard$WebDriverInvocationHandler.invoke(ThreadGuard.java:91)
+	at jdk.proxy2/jdk.proxy2.$Proxy34.findElement(Unknown Source)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at jdk.proxy2/jdk.proxy2.$Proxy37.isDisplayed(Unknown Source)
+	at org.openqa.selenium.support.ui.ExpectedConditions.elementIfVisible(ExpectedConditions.java:304)
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:37)
+	at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:290)
+	at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:287)
+	at org.openqa.selenium.support.ui.ExpectedConditions$23.apply(ExpectedConditions.java:656)
+	at org.openqa.selenium.support.ui.ExpectedConditions$23.apply(ExpectedConditions.java:652)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:205)
+	... 18 more
+</pre></div></td>
+<td>77</td>
+<td>sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC@268f106e</td></tr>
+<tr>
+<td title='sprint1_TestCases.B_Verify_TitleBarOptionsTC.TC023_verifySaveErrorMessage()'><b>TC023_verifySaveErrorMessage</b><br>Test class: sprint1_TestCases.B_Verify_TitleBarOptionsTC</td>
+<td><div><pre>java.lang.AssertionError: No changes to save message is not displayed expected [true] but found [false]
+	at sprint1_TestCases.B_Verify_TitleBarOptionsTC.TC023_verifySaveErrorMessage(B_Verify_TitleBarOptionsTC.java:117)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+... Removed 15 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace2080331773", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace2080331773'><pre>java.lang.AssertionError: No changes to save message is not displayed expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:99)
+	at org.testng.Assert.failNotEquals(Assert.java:1037)
+	at org.testng.Assert.assertTrue(Assert.java:45)
+	at sprint1_TestCases.B_Verify_TitleBarOptionsTC.TC023_verifySaveErrorMessage(B_Verify_TitleBarOptionsTC.java:117)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+	at org.testng.internal.TestInvoker.retryFailed(TestInvoker.java:213)
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:58)
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+</pre></div></td>
+<td>71</td>
+<td>sprint1_TestCases.B_Verify_TitleBarOptionsTC@5b247367</td></tr>
+<tr>
+<td title='sprint1_TestCases.D_TabViewOptionsTC.TC090_verifyPrintPriviewHighLighted()'><b>TC090_verifyPrintPriviewHighLighted</b><br>Test class: sprint1_TestCases.D_TabViewOptionsTC</td>
+<td><div><pre>java.lang.AssertionError: expected [true] but found [false]
+	at sprint1_TestCases.D_TabViewOptionsTC.TC090_verifyPrintPriviewHighLighted(D_TabViewOptionsTC.java:361)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+... Removed 16 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace704971719", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace704971719'><pre>java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:99)
+	at org.testng.Assert.failNotEquals(Assert.java:1037)
+	at org.testng.Assert.assertTrue(Assert.java:45)
+	at org.testng.Assert.assertTrue(Assert.java:55)
+	at sprint1_TestCases.D_TabViewOptionsTC.TC090_verifyPrintPriviewHighLighted(D_TabViewOptionsTC.java:361)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+</pre></div></td>
+<td>23</td>
+<td>sprint1_TestCases.D_TabViewOptionsTC@6e9a5ed8</td></tr>
+<tr>
+<td title='sprint1_TestCases.B_Verify_TitleBarOptionsTC.TC023_verifySaveErrorMessage()'><b>TC023_verifySaveErrorMessage</b><br>Test class: sprint1_TestCases.B_Verify_TitleBarOptionsTC</td>
+<td><div><pre>java.lang.AssertionError: No changes to save message is not displayed expected [true] but found [false]
+	at sprint1_TestCases.B_Verify_TitleBarOptionsTC.TC023_verifySaveErrorMessage(B_Verify_TitleBarOptionsTC.java:117)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+... Removed 15 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace946063168", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace946063168'><pre>java.lang.AssertionError: No changes to save message is not displayed expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:99)
+	at org.testng.Assert.failNotEquals(Assert.java:1037)
+	at org.testng.Assert.assertTrue(Assert.java:45)
+	at sprint1_TestCases.B_Verify_TitleBarOptionsTC.TC023_verifySaveErrorMessage(B_Verify_TitleBarOptionsTC.java:117)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+</pre></div></td>
+<td>71</td>
+<td>sprint1_TestCases.B_Verify_TitleBarOptionsTC@5b247367</td></tr>
+<tr>
+<td title='sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC.TC066_verifyCMSMenuRejectChange()'><b>TC066_verifyCMSMenuRejectChange</b><br>Test class: sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC</td>
+<td><div><pre>java.lang.AssertionError: Title is displayed expected [false] but found [true]
+	at sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC.TC066_verifyCMSMenuRejectChange(C_Verify_CMSMenu_FunctionalityTC.java:214)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+... Removed 15 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace655644567", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace655644567'><pre>java.lang.AssertionError: Title is displayed expected [false] but found [true]
+	at org.testng.Assert.fail(Assert.java:99)
+	at org.testng.Assert.failNotEquals(Assert.java:1037)
+	at org.testng.Assert.assertFalse(Assert.java:67)
+	at sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC.TC066_verifyCMSMenuRejectChange(C_Verify_CMSMenu_FunctionalityTC.java:214)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+</pre></div></td>
+<td>38</td>
+<td>sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC@268f106e</td></tr>
+<tr>
+<td title='sprint2_TestCases.B_Verify_RightClick_OptionsTC.TC129_verifyAddingImgInsertAfterWithInsertingVE()'><b>TC129_verifyAddingImgInsertAfterWithInsertingVE</b><br>Test class: sprint2_TestCases.B_Verify_RightClick_OptionsTC</td>
+<td><div><pre>org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//li[@id=&apos;935&apos;]&quot;}
+  (Session info: chrome=117.0.5938.132)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: &apos;4.11.0&apos;, revision: &apos;040bc5406b&apos;
+System info: os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.7&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [4a708540019fcd3de2b1292e0f7cf64a, findElement {using=xpath, value=//li[@id=&apos;935&apos;]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 117.0.5938.132, chrome: {chromedriverVersion: 117.0.5938.92 (67649b10b92b..., userDataDir: C:\Users\ITRENT~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62209}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62209/devtoo..., se:cdpVersion: 117.0.5938.132, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4a708540019fcd3de2b1292e0f7cf64a
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:196)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:171)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:349)
+	at org.openqa.selenium.support.ThreadGuard$WebDriverInvocationHandler.invokeUnderlying(ThreadGuard.java:99)
+	at org.openqa.selenium.support.ThreadGuard$WebDriverInvocationHandler.invoke(ThreadGuard.java:91)
+	at jdk.proxy2/jdk.proxy2.$Proxy34.findElement(Unknown Source)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at jdk.proxy2/jdk.proxy2.$Proxy37.getAttribute(Unknown Source)
+	at sprint2_TestCases.B_Verify_RightClick_OptionsTC.TC129_verifyAddingImgInsertAfterWithInsertingVE(B_Verify_RightClick_OptionsTC.java:350)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+... Removed 20 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace1524728213", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1524728213'><pre>org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//li[@id=&apos;935&apos;]&quot;}
+  (Session info: chrome=117.0.5938.132)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: &apos;4.11.0&apos;, revision: &apos;040bc5406b&apos;
+System info: os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.7&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [4a708540019fcd3de2b1292e0f7cf64a, findElement {using=xpath, value=//li[@id=&apos;935&apos;]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 117.0.5938.132, chrome: {chromedriverVersion: 117.0.5938.92 (67649b10b92b..., userDataDir: C:\Users\ITRENT~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62209}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62209/devtoo..., se:cdpVersion: 117.0.5938.132, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4a708540019fcd3de2b1292e0f7cf64a
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:196)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:171)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:349)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.openqa.selenium.support.ThreadGuard$WebDriverInvocationHandler.invokeUnderlying(ThreadGuard.java:99)
+	at org.openqa.selenium.support.ThreadGuard$WebDriverInvocationHandler.invoke(ThreadGuard.java:91)
+	at jdk.proxy2/jdk.proxy2.$Proxy34.findElement(Unknown Source)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at jdk.proxy2/jdk.proxy2.$Proxy37.getAttribute(Unknown Source)
+	at sprint2_TestCases.B_Verify_RightClick_OptionsTC.TC129_verifyAddingImgInsertAfterWithInsertingVE(B_Verify_RightClick_OptionsTC.java:350)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+</pre></div></td>
+<td>70</td>
+<td>sprint2_TestCases.B_Verify_RightClick_OptionsTC@5890e879</td></tr>
+<tr>
+<td title='sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC.TC189_verifyMediaObjectSearchValidImage()'><b>TC189_verifyMediaObjectSearchValidImage</b><br>Test class: sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC</td>
+<td><div><pre>java.lang.AssertionError: Search label is not displayed expected [true] but found [false]
+	at sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC.TC189_verifyMediaObjectSearchValidImage(C_Verify_CMSMenu_FunctionalityTC.java:640)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+... Removed 15 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace1682915850", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1682915850'><pre>java.lang.AssertionError: Search label is not displayed expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:99)
+	at org.testng.Assert.failNotEquals(Assert.java:1037)
+	at org.testng.Assert.assertTrue(Assert.java:45)
+	at sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC.TC189_verifyMediaObjectSearchValidImage(C_Verify_CMSMenu_FunctionalityTC.java:640)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+</pre></div></td>
+<td>67</td>
+<td>sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC@268f106e</td></tr>
+<tr>
+<td title='sprint1_TestCases.D_TabViewOptionsTC.TC090_verifyPrintPriviewHighLighted()'><b>TC090_verifyPrintPriviewHighLighted</b><br>Test class: sprint1_TestCases.D_TabViewOptionsTC</td>
+<td><div><pre>java.lang.AssertionError: expected [true] but found [false]
+	at sprint1_TestCases.D_TabViewOptionsTC.TC090_verifyPrintPriviewHighLighted(D_TabViewOptionsTC.java:361)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+... Removed 16 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace1436792406", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1436792406'><pre>java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:99)
+	at org.testng.Assert.failNotEquals(Assert.java:1037)
+	at org.testng.Assert.assertTrue(Assert.java:45)
+	at org.testng.Assert.assertTrue(Assert.java:55)
+	at sprint1_TestCases.D_TabViewOptionsTC.TC090_verifyPrintPriviewHighLighted(D_TabViewOptionsTC.java:361)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+	at org.testng.internal.TestInvoker.retryFailed(TestInvoker.java:213)
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:58)
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+</pre></div></td>
+<td>56</td>
+<td>sprint1_TestCases.D_TabViewOptionsTC@6e9a5ed8</td></tr>
+<tr>
+<td title='sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC.TC062_verifyCMSMenuManageLogout()'><b>TC062_verifyCMSMenuManageLogout</b><br>Test class: sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC</td>
+<td><div><pre>java.lang.AssertionError: expected [true] but found [false]
+	at sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC.TC062_verifyCMSMenuManageLogout(C_Verify_CMSMenu_FunctionalityTC.java:250)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+... Removed 16 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace1155362934", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1155362934'><pre>java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:99)
+	at org.testng.Assert.failNotEquals(Assert.java:1037)
+	at org.testng.Assert.assertTrue(Assert.java:45)
+	at org.testng.Assert.assertTrue(Assert.java:55)
+	at sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC.TC062_verifyCMSMenuManageLogout(C_Verify_CMSMenu_FunctionalityTC.java:250)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+	at org.testng.internal.TestInvoker.retryFailed(TestInvoker.java:213)
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:58)
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+</pre></div></td>
+<td>44</td>
+<td>sprint1_TestCases.C_Verify_CMSMenu_FunctionalityTC@268f106e</td></tr>
+<tr>
+<td title='sprint1_TestCases.B_Verify_TitleBarOptionsTC.TC028_verifyChangeElementAddressValidateFile()'><b>TC028_verifyChangeElementAddressValidateFile</b><br>Test class: sprint1_TestCases.B_Verify_TitleBarOptionsTC</td>
+<td><div><pre>java.lang.AssertionError: expected [Validation success] but found [Content validation failed.]
+	at sprint1_TestCases.B_Verify_TitleBarOptionsTC.TC028_verifyChangeElementAddressValidateFile(B_Verify_TitleBarOptionsTC.java:437)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+... Removed 18 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace390163983", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace390163983'><pre>java.lang.AssertionError: expected [Validation success] but found [Content validation failed.]
+	at org.testng.Assert.fail(Assert.java:99)
+	at org.testng.Assert.failNotEquals(Assert.java:1037)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:140)
+	at org.testng.Assert.assertEquals(Assert.java:122)
+	at org.testng.Assert.assertEquals(Assert.java:629)
+	at org.testng.Assert.assertEquals(Assert.java:639)
+	at sprint1_TestCases.B_Verify_TitleBarOptionsTC.TC028_verifyChangeElementAddressValidateFile(B_Verify_TitleBarOptionsTC.java:437)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+</pre></div></td>
+<td>39</td>
+<td>sprint1_TestCases.B_Verify_TitleBarOptionsTC@5b247367</td></tr>
+</table><p>
+</body>
+</html>

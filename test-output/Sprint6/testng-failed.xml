@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="4" parallel="methods" name="Failed suite [sprint6]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="b_utilities.ExtentReportManager"/>
+    <listener class-name="b_utilities.AnnotationTransfer"/>
+  </listeners>
+  <test thread-count="4" parallel="methods" name="RetryMultipleFailedTestcases(failed)">
+    <classes>
+      <class name="sprint6_TestCases.HE_InsertPluginTC">
+        <methods>
+          <include name="TC535_verifyInsertElementsCheckTC"/>
+          <include name="initialize"/>
+          <include name="setup"/>
+          <include name="printThreadDetails"/>
+          <include name="TC542_verifyInsertPopupNumberedParaSPMPCheckTC"/>
+          <include name="tearDown"/>
+          <include name="initializeSuit"/>
+        </methods>
+      </class> <!-- sprint6_TestCases.HE_InsertPluginTC -->
+      <class name="sprint6_TestCases.HI_FigureElementTC">
+        <methods>
+          <include name="TC416_verifyFigureWithoutHeading"/>
+          <include name="TC409_verifyDeleteFigureAcceptChange"/>
+          <include name="TC412_verifyDeleteFigureHeadingRejectChange"/>
+          <include name="initialize"/>
+          <include name="printThreadDetails"/>
+          <include name="setup"/>
+          <include name="TC414_verifyDeleteFigureBodyRejectChange"/>
+          <include name="tearDown"/>
+          <include name="initializeSuit"/>
+          <include name="TC410_verifyDeleteFigureRejectChange"/>
+        </methods>
+      </class> <!-- sprint6_TestCases.HI_FigureElementTC -->
+      <class name="sprint6_TestCases.HF_EntityTrackChangesTC">
+        <methods>
+          <include name="TC597_verifyAddEntityRefreshCheckTC"/>
+          <include name="TC216_verify_InsertChangeEnityRightclickoptionCheckTc"/>
+          <include name="TC596_verifyAddEntityInSNRefreshCheckTC"/>
+          <include name="initialize"/>
+          <include name="printThreadDetails"/>
+          <include name="setup"/>
+          <include name="TC385_verifyEntityAcceptChangeTC"/>
+          <include name="tearDown"/>
+          <include name="initializeSuit"/>
+          <include name="TC286_verifyAcceptchangeEntityUndoRedoCheckTC"/>
+        </methods>
+      </class> <!-- sprint6_TestCases.HF_EntityTrackChangesTC -->
+      <class name="sprint6_TestCases.HL_CommonBugsTC">
+        <methods>
+          <include name="initialize"/>
+          <include name="printThreadDetails"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="TC584_verifyDeleteAllCodeViewCheckVE"/>
+          <include name="initializeSuit"/>
+        </methods>
+      </class> <!-- sprint6_TestCases.HL_CommonBugsTC -->
+      <class name="sprint6_TestCases.E_ShowHideTrackChangesTC">
+        <methods>
+          <include name="TC108_verifyAddMediaObjectShowHideDisableTrackChangePanel"/>
+          <include name="setup"/>
+          <include name="printThreadDetails"/>
+          <include name="initialize"/>
+          <include name="TC123_verifyRightclickOptionsShowHideDisable"/>
+          <include name="tearDown"/>
+          <include name="TC109_verifyDeleteMediaObjectShowHideDisableTrackChangePanel"/>
+          <include name="TC111_verifyRmoveTableShowHideDisableTrackChangePanel"/>
+          <include name="initializeSuit"/>
+          <include name="TC110_verifyAddTableShowHideDisableTrackChangePanel"/>
+        </methods>
+      </class> <!-- sprint6_TestCases.E_ShowHideTrackChangesTC -->
+      <class name="sprint6_TestCases.B_AcceptRejectTrackChangesTC">
+        <methods>
+          <include name="TC058_verifyAddMORejectChangeInTC"/>
+          <include name="TC060_verifyDeleteMORejectChangeCheckTC"/>
+          <include name="TC059_verifyDeleteMOAcceptChangeCheckTC"/>
+          <include name="initialize"/>
+          <include name="printThreadDetails"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="TC050_verifyAddContentRejectChangeTB"/>
+          <include name="initializeSuit"/>
+          <include name="TC057_verifyAddMOAcceptChangeInTb"/>
+        </methods>
+      </class> <!-- sprint6_TestCases.B_AcceptRejectTrackChangesTC -->
+      <class name="sprint6_TestCases.HA_ChangeElementBlockTC">
+        <methods>
+          <include name="TC297_verify_ChangeMOToFigure_CheckTC"/>
+          <include name="TC296_verify_ChangeMOToTable_CheckTC"/>
+          <include name="setup"/>
+          <include name="initialize"/>
+          <include name="printThreadDetails"/>
+          <include name="TC295_verify_ChangeMOToPara_CheckTC"/>
+          <include name="tearDown"/>
+          <include name="TC298_verify_ChangeTableToMO_CheckTC"/>
+          <include name="initializeSuit"/>
+        </methods>
+      </class> <!-- sprint6_TestCases.HA_ChangeElementBlockTC -->
+      <class name="sprint6_TestCases.H_CommonTC">
+        <methods>
+          <include name="TC250_verifyInsertAfterSectionNumberCheckTC"/>
+          <include name="TC259_verifyRemoveSHAcceptChange"/>
+          <include name="TC260_verifyRemoveSHRejectChange"/>
+          <include name="TC441_verifyInsertPopupEmphasisCheckTC"/>
+          <include name="setup"/>
+          <include name="initialize"/>
+          <include name="TC272_verifyRightClickInsertInto"/>
+          <include name="initializeSuit"/>
+          <include name="TC256_verifyInsertAfterSectionHeadingCheckTC"/>
+          <include name="TC271_verifyRightClickInsertAfter"/>
+          <include name="TC747_verifyRemoveSHCheckTC"/>
+          <include name="TC286_verifyEntityUndoCheckTC"/>
+          <include name="printThreadDetails"/>
+          <include name="TC246_verifyInsertAfterSubSectionCheckTC"/>
+          <include name="TC270_verifyRightClickInsertBefore"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- sprint6_TestCases.H_CommonTC -->
+      <class name="sprint6_TestCases.HD_FootnoteTrackChangesTC">
+        <methods>
+          <include name="printThreadDetails"/>
+          <include name="initialize"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="TC545_verifyAddFootnoteRefreshCheckTC"/>
+          <include name="TC571_verifyInsertFootnoteClickShowHideCheckFootnoteAtBottom"/>
+          <include name="initializeSuit"/>
+          <include name="TC553_verifyCopyPasteExistingFootnoteAcceptChangeTc"/>
+        </methods>
+      </class> <!-- sprint6_TestCases.HD_FootnoteTrackChangesTC -->
+      <class name="sprint6_TestCases.G_SpecialScenarioConditionsTC">
+        <methods>
+          <include name="TC210_verifyTableInsertIntoMODeleteCheckTC"/>
+          <include name="TC309_verifyInsertAfterMoselectVEChecktC"/>
+          <include name="setup"/>
+          <include name="initialize"/>
+          <include name="printThreadDetails"/>
+          <include name="TC209_verifyTableInsertIntoMOCheckTC"/>
+          <include name="tearDown"/>
+          <include name="TC308_verifyInsertAfterMoWithoutInsertingChecktC"/>
+          <include name="initializeSuit"/>
+        </methods>
+      </class> <!-- sprint6_TestCases.G_SpecialScenarioConditionsTC -->
+      <class name="sprint6_TestCases.F_EnableDisableTrackChangesTC">
+        <methods>
+          <include name="TC132_verifyAddContentEnableDisableEnablingCardNumberData"/>
+          <include name="printThreadDetails"/>
+          <include name="initialize"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="initializeSuit"/>
+        </methods>
+      </class> <!-- sprint6_TestCases.F_EnableDisableTrackChangesTC -->
+      <class name="sprint6_TestCases.HH_SectionSymbolTC">
+        <methods>
+          <include name="TC245_verifyInsertAfterSectionRejectChange"/>
+          <include name="TC765_verifyInsertIntoSectionCheckTC"/>
+          <include name="printThreadDetails"/>
+          <include name="initialize"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="initializeSuit"/>
+        </methods>
+      </class> <!-- sprint6_TestCases.HH_SectionSymbolTC -->
+      <class name="sprint6_TestCases.HG_CrossReferenceTC">
+        <methods>
+          <include name="TC763_verifyCrossReferenceUsingSearchBox"/>
+          <include name="printThreadDetails"/>
+          <include name="initialize"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="initializeSuit"/>
+        </methods>
+      </class> <!-- sprint6_TestCases.HG_CrossReferenceTC -->
+      <class name="sprint6_TestCases.HK_MediaObjectTC">
+        <methods>
+          <include name="TC177_verifyAddMediaObjectDeleteAcceptChange"/>
+          <include name="TC175_verifyAddMediaObjectAcceptChange"/>
+          <include name="setup"/>
+          <include name="printThreadDetails"/>
+          <include name="initialize"/>
+          <include name="tearDown"/>
+          <include name="TC178_verifyAddMediaObjectDeleteRejectChange"/>
+          <include name="initializeSuit"/>
+          <include name="TC176_verifyAddMediaObjectRejectChange"/>
+        </methods>
+      </class> <!-- sprint6_TestCases.HK_MediaObjectTC -->
+      <class name="sprint6_TestCases.HB_RemoveElementBlockTC">
+        <methods>
+          <include name="TC337_verifyRemoveIndexCheckTC"/>
+          <include name="TC338_verifyRemoveIndexAcceptTC"/>
+          <include name="TC339_verifyRemoveIndexRejectTC"/>
+          <include name="TC345_verifyRemoveSecondaryKeyRejectTC"/>
+          <include name="TC344_verifyRemoveSecondaryKeyAcceptTC"/>
+          <include name="printThreadDetails"/>
+          <include name="setup"/>
+          <include name="initialize"/>
+          <include name="TC343_verifyRemoveSecondaryKeyCheckTC"/>
+          <include name="tearDown"/>
+          <include name="initializeSuit"/>
+        </methods>
+      </class> <!-- sprint6_TestCases.HB_RemoveElementBlockTC -->
+    </classes>
+  </test> <!-- RetryMultipleFailedTestcases(failed) -->
+</suite> <!-- Failed suite [sprint6] -->

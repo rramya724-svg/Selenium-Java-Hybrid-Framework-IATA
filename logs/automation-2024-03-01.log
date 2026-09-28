@@ -1,0 +1,408 @@
+16:49:08.663 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ag_FindNReplaceTC - Clicked on Replace
+16:49:09.597 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ag_FindNReplaceTC - clicked on find what box
+16:49:10.074 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ag_FindNReplaceTC - clicked on Find button
+16:49:10.315 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ag_FindNReplaceTC - clicked on Find button
+16:49:10.537 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ag_FindNReplaceTC - clicked on Find button
+16:49:10.814 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ag_FindNReplaceTC - clicked on Find button
+16:49:11.146 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ag_FindNReplaceTC - clicked on Find button
+16:49:11.484 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ag_FindNReplaceTC - clicked on Find button
+16:49:11.822 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ag_FindNReplaceTC - clicked on Find button
+16:49:12.213 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ag_FindNReplaceTC - clicked on Find button
+16:49:12.484 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ag_FindNReplaceTC - clicked on Find button
+16:49:12.931 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ag_FindNReplaceTC - clicked on Find button
+16:49:13.274 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ag_FindNReplaceTC - Clicked Track Change
+16:49:13.371 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ag_FindNReplaceTC - Track Change count is increased by 10.
+16:49:15.113 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ag_FindNReplaceTC - Logged in and searched for a file, then clicked Edit.
+16:49:15.621 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ag_FindNReplaceTC - Clicked on Replace
+16:49:16.108 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ag_FindNReplaceTC - clicked on find what box
+16:49:16.716 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ag_FindNReplaceTC - clicked on Find button
+16:49:17.059 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ag_FindNReplaceTC - Clicked Track Change
+16:49:17.125 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ag_FindNReplaceTC - Finished TC331_verifyAddedContentInAllTabsCheckTC ..
+16:49:23.420 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ag_FindNReplaceTC - Starting verifyReplaceForWrongContent
+16:49:23.795 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ag_FindNReplaceTC - Logged in and searched for a file, then clicked Edit.
+16:49:27.078 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ag_FindNReplaceTC - clicked on Find plugin
+16:49:27.383 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ag_FindNReplaceTC - Starting verifyFindBySelectingMultipleContent
+16:49:27.952 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ag_FindNReplaceTC - clicked on Find search
+16:49:28.337 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ag_FindNReplaceTC - clicked on Find button
+16:49:28.557 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Ag_FindNReplaceTC - Finished verifyFindBySelectingMultipleContent
+16:49:36.269 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.C_CommonBugsTC - Starting test TC760_verifyFindEscapeCursorPostion.
+16:49:36.644 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ag_FindNReplaceTC - Verified that Data card is displayed.
+16:49:37.105 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Ag_FindNReplaceTC - Finished TC331_verifyAddedContentInAllTabsCheckTC ..
+16:49:46.973 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ag_FindNReplaceTC - Logged in and searched for a file, then clicked Edit.
+16:49:47.441 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ag_FindNReplaceTC - Clicked on Replace
+16:49:48.050 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ag_FindNReplaceTC - clicked on find what box
+16:49:49.270 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Ag_FindNReplaceTC - clicked on Find button
+16:49:50.098 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.E_CommonTC - Starting verifyReplaceCyclic
+16:49:52.387 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ag_FindNReplaceTC - Logged in and searched for a file, then clicked Edit.
+16:50:01.903 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Ag_FindNReplaceTC - clicked on Find plugin
+16:50:02.621 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.C_CommonBugsTC - Logged in and clicked on Edit.
+16:50:03.254 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.C_CommonBugsTC - Clicked on the third paragraph.
+16:50:03.682 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.C_CommonBugsTC - Clicked on the find button.
+16:50:04.515 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.C_CommonBugsTC - Verified that the Find input field is displayed.
+16:50:04.690 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.C_CommonBugsTC - Pressed the ESCAPE key.
+16:50:04.715 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.C_CommonBugsTC - Verified that the cursor position is changed after pressing ESCAPE key.
+16:50:04.715 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint5_TestCases.C_CommonBugsTC - Test TC760_verifyFindEscapeCursorPostion completed.
+16:50:22.776 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.E_CommonTC - Logged in, searched for a file, and clicked Edit.
+16:50:22.787 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.E_CommonTC - Created E_Common instance.
+16:50:23.349 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.E_CommonTC - Clicked on Replace plugon.
+16:50:24.338 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.E_CommonTC - Created Actions class instance.
+16:50:24.525 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.E_CommonTC - Clicked on Replace Button.
+16:50:24.697 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.E_CommonTC - Clicked on Replace Button.
+16:50:24.857 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.E_CommonTC - Clicked on Replace Button.
+16:50:25.022 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.E_CommonTC - Clicked on Replace Button.
+16:50:25.206 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.E_CommonTC - Clicked on Replace Button.
+16:50:25.429 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.E_CommonTC - Clicked on Replace Button.
+16:50:25.482 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.E_CommonTC - Switched to frame 0.
+16:50:25.512 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.E_CommonTC - Verified Replace is working fine
+16:50:25.512 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint5_TestCases.E_CommonTC - Finished verifyReplaceCyclic ..
+16:50:55.177 [main] INFO  Elements_Testcases.Ag_FindNReplaceTC - Starting TC077_verifyReplace
+16:51:17.092 [main] INFO  Elements_Testcases.Ag_FindNReplaceTC - Logged in and searched for a file, then clicked Edit.
+16:51:17.115 [main] INFO  Elements_Testcases.Ag_FindNReplaceTC - Switched to frame 0.
+16:51:17.615 [main] INFO  Elements_Testcases.Ag_FindNReplaceTC - Clicked on first para VE.
+16:51:17.783 [main] INFO  Elements_Testcases.Ag_FindNReplaceTC - Switched to default content.
+16:51:18.261 [main] INFO  Elements_Testcases.Ag_FindNReplaceTC - Clicked on Replace
+16:51:19.203 [main] INFO  Elements_Testcases.Ag_FindNReplaceTC - clicked on find what box
+16:51:19.563 [main] INFO  Elements_Testcases.Ag_FindNReplaceTC - Clicked on Replace button
+16:51:19.711 [main] INFO  Elements_Testcases.Ag_FindNReplaceTC - Clicked Track Change
+16:51:19.727 [main] INFO  Elements_Testcases.Ag_FindNReplaceTC - Switched to frame 0.
+16:51:20.029 [main] INFO  Elements_Testcases.Ag_FindNReplaceTC - Clicked on first para VE.
+16:51:20.087 [main] INFO  Elements_Testcases.Ag_FindNReplaceTC - Finished TC331_verifyAddedContentInAllTabsCheckTC ..
+16:52:03.806 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Aa_ListTC - Starting verifyChangeAddressToList
+16:52:03.822 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Aa_ListTC - Starting verifyChangeNumberListToBulletList
+16:52:03.927 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Aa_ListTC - Starting verifyChangeCrossReferenceToList
+16:52:04.958 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Aa_ListTC - Starting verifyChangeFootnoteToList
+16:52:30.604 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Aa_ListTC - Logged in and searched for a file, then clicked Edit.
+16:52:30.728 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Aa_ListTC - Created List instance.
+16:52:31.475 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Aa_ListTC - Logged in and searched for a file, then clicked Edit.
+16:52:31.485 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Aa_ListTC - Created List instance.
+16:52:31.924 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Aa_ListTC - Logged in and searched for a file, then clicked Edit.
+16:52:31.933 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Aa_ListTC - Created List instance.
+16:52:32.031 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Aa_ListTC - clicked On Footnote Plugin
+16:52:32.656 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Aa_ListTC - Logged in and searched for a file, then clicked Edit.
+16:52:32.669 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Aa_ListTC - Created List instance.
+16:52:32.722 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Aa_ListTC - Double clicked on First para
+16:52:32.937 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Aa_ListTC - Switched to frame 0.
+16:52:33.348 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Aa_ListTC - clicked on Cross Reference button 
+16:52:33.515 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Aa_ListTC - Clicked on the first paragraph.
+16:52:33.549 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Aa_ListTC - Switched back to default content.
+16:52:35.371 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Aa_ListTC - Clicked on the Bullet List.
+16:52:35.552 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Aa_ListTC - clicked on new footnote box
+16:52:35.552 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Aa_ListTC - Created Actions class instance.
+16:52:36.796 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Aa_ListTC - clicked on footnote ok button
+16:53:04.679 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Aa_ListTC - Starting verifyChangeImgToList
+16:53:06.693 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Aa_ListTC - Starting verify_List_Properties_VE
+16:53:13.567 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Aa_ListTC - clicked on Code Cross Reference checkbox 
+16:53:13.976 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Aa_ListTC - clicked on Cross Reference popup ok button 
+16:53:19.831 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Aa_ListTC - Starting verify_List_Properties_VE
+16:53:26.853 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Aa_ListTC - Logged in and searched for a file, then clicked Edit.
+16:53:26.855 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Aa_ListTC - Created List instance.
+16:53:26.988 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Aa_ListTC - Switched to frame 0.
+16:53:28.030 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Aa_ListTC - Switched back to default content.
+16:53:28.955 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Aa_ListTC - Switched back to default content.
+16:53:29.723 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Aa_ListTC - Logged in, searched for a file, and clicked Edit.
+16:53:29.738 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Aa_ListTC - Created Para instance.
+16:53:29.857 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Aa_ListTC - Switched to frame 0.
+16:53:29.892 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Aa_ListTC - Clicked insert img button
+16:53:30.327 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Aa_ListTC - Clicked RHS insert Button
+16:53:43.591 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Aa_ListTC - Logged in, searched for a file, and clicked Edit.
+16:53:43.602 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Aa_ListTC - Created F3_List instance.
+16:53:43.653 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Aa_ListTC - Switched to frame 0.
+16:53:44.474 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Aa_ListTC - Clicked on First Paragraph.
+16:53:44.510 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Aa_ListTC - Switched back to default content.
+16:53:47.714 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Aa_ListTC - Clicked on Number List.
+16:53:47.848 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Aa_ListTC - Switched back to frame 0.
+16:53:48.557 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Aa_ListTC - Context clicked on Inserted List in Paragraph.
+16:53:48.693 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Aa_ListTC - Switched back to default content.
+16:53:48.708 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Aa_ListTC - Switched to frame 1.
+16:53:49.079 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Aa_ListTC - Clicked on Right-click List Properties.
+16:53:49.140 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Aa_ListTC - Found List Properties Box element.
+16:53:49.618 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Aa_ListTC - Selected 'lower-roman' from the dropdown.
+16:53:49.807 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Aa_ListTC - Clicked on List Properties OK Button.
+16:53:49.904 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Aa_ListTC - Verified that 'lower-roman' is Inserted.
+16:53:50.503 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Aa_ListTC - Performed context click on Inserted List in Paragraph.
+16:53:50.874 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Aa_ListTC - Clicked on Right-click List Properties.
+16:53:50.897 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Aa_ListTC - Found List Properties Box element.
+16:53:51.141 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Aa_ListTC - Selected 'ndash' from the dropdown.
+16:53:51.294 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Aa_ListTC - Clicked on List Properties OK Button.
+16:53:51.482 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Aa_ListTC - Verified that 'ndash' is Inserted.
+16:53:51.482 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Aa_ListTC - Finished verify_List_Properties_VE
+16:53:58.780 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Aa_ListTC - Starting verifyChangeNumberListToBulletList
+16:54:01.584 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Aa_ListTC - Starting verify_List_Properties_VE
+16:54:17.386 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Aa_ListTC - Starting verify_List_Properties_VE
+16:54:25.133 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Aa_ListTC - Logged in and searched for a file, then clicked Edit.
+16:54:25.135 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Aa_ListTC - Created List instance.
+16:54:25.151 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Aa_ListTC - Logged in, searched for a file, and clicked Edit.
+16:54:25.153 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Aa_ListTC - Created Aa_List instance.
+16:54:25.157 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Aa_ListTC - Switched to frame 0.
+16:54:25.187 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Aa_ListTC - Switched to frame 0.
+16:54:25.944 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Aa_ListTC - Clicked on the first paragraph.
+16:54:25.999 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Aa_ListTC - Switched back to default content.
+16:54:26.081 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Aa_ListTC - Clicked on the first paragraph.
+16:54:26.140 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Aa_ListTC - Switched back to default content.
+16:54:26.450 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Aa_ListTC - Starting verifyChangeParaToList
+16:54:28.252 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Aa_ListTC - Clicked on the Number List.
+16:54:28.617 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Aa_ListTC - Clicked on the Number List.
+16:54:44.815 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Aa_ListTC - Logged in, searched for a file, and clicked Edit.
+16:54:44.817 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Aa_ListTC - Created Aa_List instance.
+16:54:44.998 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Aa_ListTC - Switched to frame 0.
+16:54:45.478 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Aa_ListTC - Clicked on the first paragraph.
+16:54:45.523 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Aa_ListTC - Switched back to default content.
+16:54:46.969 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Aa_ListTC - Clicked on the Number List.
+16:54:50.441 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Aa_ListTC - Logged in and searched for a file, then clicked Edit.
+16:54:50.442 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Aa_ListTC - Created List instance.
+16:54:53.092 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Aa_ListTC - Clicked change Element
+16:54:57.059 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Aa_ListTC - Clicked List change Element
+16:54:57.222 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Aa_ListTC - Finished TC452_verifyParaToListCheckTC ..
+16:54:58.293 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Aa_ListTC - Starting verifyChangeParaToListAndCheckAlign
+16:54:58.585 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Aa_ListTC - Starting verify_ExistingList_PropertiesPopup
+16:55:04.361 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Aa_ListTC - Starting verifyChangeSectionHeadingToList
+16:55:15.839 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Aa_ListTC - Starting verifyChangeSectionNumberToList
+16:55:24.952 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Aa_ListTC - Logged in and searched for a file, then clicked Edit.
+16:55:24.953 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Aa_ListTC - Created List instance.
+16:55:28.842 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Aa_ListTC - Logged in, searched for a file, and clicked Edit.
+16:55:29.014 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Aa_ListTC - Clicked change Element
+16:55:29.059 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Aa_ListTC - Switched to frame 0.
+16:55:30.030 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Aa_ListTC - Clicked on the first paragraph.
+16:55:30.088 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Aa_ListTC - Switched back to default content.
+16:55:30.510 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Aa_ListTC - Logged in and searched for a file, then clicked Edit.
+16:55:30.511 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Aa_ListTC - Created List instance.
+16:55:31.169 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Aa_ListTC - Clicked the first para.
+16:55:31.205 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Aa_ListTC - Switched back to default content.
+16:55:34.164 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Aa_ListTC - Clicked change Element
+16:55:35.081 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Aa_ListTC - Clicked on the Number List.
+16:55:35.904 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Aa_ListTC - Verified that List Number is present in DS.
+16:55:36.950 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Aa_ListTC - Clicked List change Element
+16:55:36.974 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Aa_ListTC - Performed context click on Inserted List in Paragraph.
+16:55:37.660 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Aa_ListTC - Finished verifyChangeParaToListAndCheckAlign ..
+16:55:40.806 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Aa_ListTC - Logged in and searched for a file, then clicked Edit.
+16:55:40.807 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Aa_ListTC - Created List instance.
+16:55:42.881 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Aa_ListTC - Clicked change Element
+16:55:42.934 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Aa_ListTC - Finished verifyChangeSectionNumberToList ..
+16:55:48.931 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Aa_ListTC - Starting verify_ExistingList_PropertiesPopup
+16:55:53.013 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Aa_ListTC - Starting verify_ExistingList_PropertiesPopup
+16:55:58.618 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Aa_ListTC - Starting verify_ExistingList_PropertiesPopup
+16:56:14.791 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Aa_ListTC - Logged in, searched for a file, and clicked Edit.
+16:56:14.818 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Aa_ListTC - Switched to frame 0.
+16:56:14.995 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Aa_ListTC - Number of list items before deleting: 15
+16:56:20.984 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Aa_ListTC - Logged in, searched for a file, and clicked Edit.
+16:56:21.003 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Aa_ListTC - Switched to frame 0.
+16:56:21.021 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Aa_ListTC - Number of list items before deleting: 15
+16:56:23.215 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Aa_ListTC - Starting verify_ExistingList_PropertiesPopup
+16:56:24.296 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Aa_ListTC - Logged in, searched for a file, and clicked Edit.
+16:56:24.394 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Aa_ListTC - Switched to frame 0.
+16:56:24.449 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Aa_ListTC - Number of list items before deleting: 15
+16:56:45.559 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Aa_ListTC - Logged in, searched for a file, and clicked Edit.
+16:56:45.785 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Aa_ListTC - Switched to frame 0.
+16:56:45.919 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Aa_ListTC - Number of list items before deleting: 15
+16:56:50.963 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Aa_ListTC - Starting verifyInsertAfterSimpleParaExistingList
+16:56:54.237 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Aa_ListTC - Starting InsertList_ToExistingList_DS
+16:57:09.050 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Aa_ListTC - Logged in and searched for a file, then clicked Edit.
+16:57:09.051 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Aa_ListTC - Created List instance.
+16:57:09.068 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Aa_ListTC - Switched to frame 0.
+16:57:15.377 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Aa_ListTC - Logged in, searched for a file, and clicked Edit.
+16:57:15.395 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Aa_ListTC - Switched to frame 0.
+16:57:15.823 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Aa_ListTC - Starting verify_List_Properties_VE
+16:57:18.460 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Aa_ListTC - Logged in, searched for a file, and clicked Edit.
+16:57:18.524 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Aa_ListTC - Switched to frame 0.
+17:02:48.941 [main] INFO  Elements_Testcases.Aa_ListTC - Starting verifyChangeNumberListToBulletList
+17:03:10.639 [main] INFO  Elements_Testcases.Aa_ListTC - Logged in and searched for a file, then clicked Edit.
+17:03:10.660 [main] INFO  Elements_Testcases.Aa_ListTC - Created List instance.
+17:03:10.700 [main] INFO  Elements_Testcases.Aa_ListTC - Switched to frame 0.
+17:03:11.237 [main] INFO  Elements_Testcases.Aa_ListTC - Clicked on the first paragraph.
+17:03:11.261 [main] INFO  Elements_Testcases.Aa_ListTC - Switched back to default content.
+17:03:13.133 [main] INFO  Elements_Testcases.Aa_ListTC - Clicked on the Bullet List.
+17:03:13.259 [main] INFO  Elements_Testcases.Aa_ListTC - Verified that List bullet is present in DS.
+17:03:13.280 [main] INFO  Elements_Testcases.Aa_ListTC - Switched back to frame 0.
+17:03:13.339 [main] INFO  Elements_Testcases.Aa_ListTC - Switched back to default content.
+17:03:13.628 [main] INFO  Elements_Testcases.Aa_ListTC - Clicked on the Number List.
+17:03:13.699 [main] INFO  Elements_Testcases.Aa_ListTC - Verified that List Number is present in DS.
+17:03:13.699 [main] INFO  Elements_Testcases.Aa_ListTC - Finished verifyChangeNumberListToBulletList ..
+17:04:07.288 [main] INFO  Elements_Testcases.Aa_ListTC - Starting verifyChangeFootnoteToList
+17:04:30.506 [main] INFO  Elements_Testcases.Aa_ListTC - Logged in and searched for a file, then clicked Edit.
+17:04:30.530 [main] INFO  Elements_Testcases.Aa_ListTC - Created List instance.
+17:04:30.907 [main] INFO  Elements_Testcases.Aa_ListTC - clicked On Footnote Plugin
+17:04:34.486 [main] INFO  Elements_Testcases.Aa_ListTC - clicked on new footnote box
+17:04:34.486 [main] INFO  Elements_Testcases.Aa_ListTC - Created Actions class instance.
+17:04:34.968 [main] INFO  Elements_Testcases.Aa_ListTC - clicked on footnote ok button
+17:06:44.159 [main] INFO  Elements_Testcases.Aa_ListTC - Starting verifyChangeFootnoteToList
+17:07:06.351 [main] INFO  Elements_Testcases.Aa_ListTC - Logged in and searched for a file, then clicked Edit.
+17:07:06.367 [main] INFO  Elements_Testcases.Aa_ListTC - Created List instance.
+17:07:06.751 [main] INFO  Elements_Testcases.Aa_ListTC - clicked On Footnote Plugin
+17:07:09.669 [main] INFO  Elements_Testcases.Aa_ListTC - clicked on new footnote box
+17:07:09.670 [main] INFO  Elements_Testcases.Aa_ListTC - Created Actions class instance.
+17:07:10.168 [main] INFO  Elements_Testcases.Aa_ListTC - clicked on footnote ok button
+17:07:10.492 [main] INFO  Elements_Testcases.Aa_ListTC - Clicked change Element
+17:07:10.557 [main] INFO  Elements_Testcases.Aa_ListTC - Finished verifyChangeFootnoteToList ..
+17:12:13.862 [main] INFO  Elements_Testcases.Aa_ListTC - Starting verifyChangeAddressToList
+17:12:37.913 [main] INFO  Elements_Testcases.Aa_ListTC - Logged in and searched for a file, then clicked Edit.
+17:15:55.650 [main] INFO  Elements_Testcases.Aa_ListTC - Starting verifyChangeAddressToList
+17:16:21.667 [main] INFO  Elements_Testcases.Aa_ListTC - Logged in and searched for a file, then clicked Edit.
+17:16:21.691 [main] INFO  Elements_Testcases.Aa_ListTC - Created List instance.
+17:16:22.542 [main] INFO  Elements_Testcases.Aa_ListTC - Clicked on Para Element 
+17:16:23.389 [main] INFO  Elements_Testcases.Aa_ListTC - Context Clicked on Para element 
+17:16:23.614 [main] INFO  Elements_Testcases.Aa_ListTC - Clicked on Insert After 
+17:16:23.614 [main] INFO  Elements_Testcases.Aa_ListTC - Created Actions class instance.
+17:16:23.679 [main] INFO  Elements_Testcases.Aa_ListTC - Caption element searched.
+17:16:23.691 [main] INFO  Elements_Testcases.Aa_ListTC - Clicked on TAB 
+17:16:23.838 [main] INFO  Elements_Testcases.Aa_ListTC - Clicked on ENTER 
+17:16:23.949 [main] INFO  Elements_Testcases.Aa_ListTC - Caption is inserted in DS
+17:16:25.360 [main] INFO  Elements_Testcases.Aa_ListTC - Clicked change Element
+17:16:25.418 [main] INFO  Elements_Testcases.Aa_ListTC - Finished verifyChangeAddressToList ..
+17:16:59.389 [main] INFO  Elements_Testcases.Aa_ListTC - Starting verifyChangeCrossReferenceToList
+17:17:22.116 [main] INFO  Elements_Testcases.Aa_ListTC - Logged in and searched for a file, then clicked Edit.
+17:17:22.141 [main] INFO  Elements_Testcases.Aa_ListTC - Created List instance.
+17:17:22.577 [main] INFO  Elements_Testcases.Aa_ListTC - Double clicked on First para
+17:17:23.010 [main] INFO  Elements_Testcases.Aa_ListTC - clicked on Cross Reference button 
+17:18:03.431 [main] INFO  Elements_Testcases.Aa_ListTC - clicked on Code Cross Reference checkbox 
+17:18:04.015 [main] INFO  Elements_Testcases.Aa_ListTC - clicked on Cross Reference popup ok button 
+17:20:59.853 [main] INFO  Elements_Testcases.Aa_ListTC - Starting verifyChangeCrossReferenceToList
+17:21:22.637 [main] INFO  Elements_Testcases.Aa_ListTC - Logged in and searched for a file, then clicked Edit.
+17:21:22.661 [main] INFO  Elements_Testcases.Aa_ListTC - Created List instance.
+17:21:23.375 [main] INFO  Elements_Testcases.Aa_ListTC - Double clicked on First para
+17:21:23.648 [main] INFO  Elements_Testcases.Aa_ListTC - clicked on Cross Reference button 
+17:22:46.266 [main] INFO  Elements_Testcases.Aa_ListTC - Starting verifyChangeCrossReferenceToList
+17:23:37.040 [main] INFO  Elements_Testcases.Aa_ListTC - Logged in and searched for a file, then clicked Edit.
+17:23:37.049 [main] INFO  Elements_Testcases.Aa_ListTC - Created List instance.
+17:23:37.783 [main] INFO  Elements_Testcases.Aa_ListTC - Double clicked on First para
+17:23:38.147 [main] INFO  Elements_Testcases.Aa_ListTC - clicked on Cross Reference button 
+17:25:00.191 [main] INFO  Elements_Testcases.Aa_ListTC - Starting verifyChangeCrossReferenceToList
+17:25:49.507 [main] INFO  Elements_Testcases.Aa_ListTC - Logged in and searched for a file, then clicked Edit.
+17:25:49.519 [main] INFO  Elements_Testcases.Aa_ListTC - Created List instance.
+17:25:50.218 [main] INFO  Elements_Testcases.Aa_ListTC - Double clicked on First para
+17:25:50.609 [main] INFO  Elements_Testcases.Aa_ListTC - clicked on Cross Reference button 
+17:26:30.974 [main] INFO  Elements_Testcases.Aa_ListTC - clicked on Code Cross Reference checkbox 
+17:26:31.594 [main] INFO  Elements_Testcases.Aa_ListTC - clicked on Cross Reference popup ok button 
+17:34:46.436 [main] INFO  Elements_Testcases.Aa_ListTC - Starting verify_List_Properties_VE
+17:35:17.723 [main] INFO  Elements_Testcases.Aa_ListTC - Logged in, searched for a file, and clicked Edit.
+17:35:17.744 [main] INFO  Elements_Testcases.Aa_ListTC - Created Para instance.
+17:43:03.398 [main] INFO  Elements_Testcases.Aa_ListTC - Starting verify_List_Properties_VE
+17:43:28.085 [main] INFO  Elements_Testcases.Aa_ListTC - Logged in, searched for a file, and clicked Edit.
+17:43:28.107 [main] INFO  Elements_Testcases.Aa_ListTC - Created Para instance.
+17:43:28.194 [main] INFO  Elements_Testcases.Aa_ListTC - Switched to frame 0.
+17:43:28.617 [main] INFO  Elements_Testcases.Aa_ListTC - Clicked List Before Paragraph.
+17:43:29.587 [main] INFO  Elements_Testcases.Aa_ListTC - Clicked DS Existing Ordered List.
+17:43:30.523 [main] INFO  Elements_Testcases.Aa_ListTC - Clicked DS Existing List Item.
+17:43:32.328 [main] INFO  Elements_Testcases.Aa_ListTC - Clicked change Element
+17:44:08.460 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Aa_ListTC - Starting verifyChangeAddressToList
+17:44:08.606 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Aa_ListTC - Starting verifyChangeNumberListToBulletList
+17:44:08.904 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Aa_ListTC - Starting verifyChangeFootnoteToList
+17:44:10.412 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Aa_ListTC - Starting verifyChangeCrossReferenceToList
+17:44:33.251 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Aa_ListTC - Logged in and searched for a file, then clicked Edit.
+17:44:33.267 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Aa_ListTC - Created List instance.
+17:44:33.325 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Aa_ListTC - Logged in and searched for a file, then clicked Edit.
+17:44:33.331 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Aa_ListTC - Created List instance.
+17:44:33.356 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Aa_ListTC - Switched to frame 0.
+17:44:33.941 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Aa_ListTC - Clicked on the first paragraph.
+17:44:33.997 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Aa_ListTC - Switched back to default content.
+17:44:34.372 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Aa_ListTC - Clicked on Para Element 
+17:44:35.758 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Aa_ListTC - Context Clicked on Para element 
+17:44:35.885 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Aa_ListTC - Clicked on the Bullet List.
+17:44:35.955 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Aa_ListTC - Clicked on Insert After 
+17:44:35.955 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Aa_ListTC - Created Actions class instance.
+17:44:36.067 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Aa_ListTC - Caption element searched.
+17:44:36.081 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Aa_ListTC - Clicked on TAB 
+17:44:36.118 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Aa_ListTC - Verified that List bullet is present in DS.
+17:44:36.136 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Aa_ListTC - Switched back to frame 0.
+17:44:36.198 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Aa_ListTC - Switched back to default content.
+17:44:36.320 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Aa_ListTC - Clicked on ENTER 
+17:44:36.644 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Aa_ListTC - Clicked on the Number List.
+17:44:36.689 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Aa_ListTC - Caption is inserted in DS
+17:44:36.702 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Aa_ListTC - Verified that List Number is present in DS.
+17:44:36.703 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Aa_ListTC - Finished verifyChangeNumberListToBulletList ..
+17:44:38.172 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Aa_ListTC - Logged in and searched for a file, then clicked Edit.
+17:44:38.174 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Aa_ListTC - Created List instance.
+17:44:38.951 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Aa_ListTC - Clicked change Element
+17:44:38.951 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Aa_ListTC - Double clicked on First para
+17:44:38.992 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Aa_ListTC - Finished verifyChangeAddressToList ..
+17:44:39.462 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Aa_ListTC - clicked on Cross Reference button 
+17:44:40.028 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Aa_ListTC - Logged in and searched for a file, then clicked Edit.
+17:44:40.029 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Aa_ListTC - Created List instance.
+17:44:40.155 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Aa_ListTC - clicked On Footnote Plugin
+17:44:46.369 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Aa_ListTC - Starting verifyChangeImgToList
+17:44:47.833 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Aa_ListTC - Starting verify_List_Properties_VE
+17:45:13.504 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Aa_ListTC - Logged in and searched for a file, then clicked Edit.
+17:45:13.505 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Aa_ListTC - Created List instance.
+17:45:13.517 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Aa_ListTC - Switched to frame 0.
+17:45:14.655 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Aa_ListTC - Switched back to default content.
+17:45:18.586 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Aa_ListTC - Logged in, searched for a file, and clicked Edit.
+17:45:18.591 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Aa_ListTC - Created Para instance.
+17:45:18.610 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Aa_ListTC - Switched to frame 0.
+17:45:19.185 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Aa_ListTC - Clicked List Before Paragraph.
+17:45:19.776 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Aa_ListTC - clicked on Code Cross Reference checkbox 
+17:45:20.080 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Aa_ListTC - Clicked DS Existing Ordered List.
+17:45:20.162 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Aa_ListTC - clicked on Cross Reference popup ok button 
+17:45:21.067 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Aa_ListTC - Clicked DS Existing List Item.
+17:45:23.160 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Aa_ListTC - Clicked change Element
+17:45:31.729 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Aa_ListTC - Starting verify_List_Properties_VE
+17:45:34.209 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Aa_ListTC - Starting verifyChangeNumberListToBulletList
+17:45:35.590 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Aa_ListTC - Starting verify_List_Properties_VE
+17:45:57.603 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Aa_ListTC - Logged in, searched for a file, and clicked Edit.
+17:45:57.609 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Aa_ListTC - Created F3_List instance.
+17:45:57.667 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Aa_ListTC - Switched to frame 0.
+17:45:58.339 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Aa_ListTC - Clicked on First Paragraph.
+17:45:58.457 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Aa_ListTC - Switched back to default content.
+17:46:01.953 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Aa_ListTC - Logged in and searched for a file, then clicked Edit.
+17:46:01.955 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Aa_ListTC - Created List instance.
+17:46:01.985 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Aa_ListTC - Switched to frame 0.
+17:46:02.255 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Aa_ListTC - Logged in, searched for a file, and clicked Edit.
+17:46:02.256 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Aa_ListTC - Created Aa_List instance.
+17:46:02.568 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Aa_ListTC - Switched to frame 0.
+17:46:02.650 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Aa_ListTC - Clicked on the first paragraph.
+17:46:02.745 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Aa_ListTC - Switched back to default content.
+17:46:03.261 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Aa_ListTC - Clicked on the first paragraph.
+17:46:03.303 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Aa_ListTC - Switched back to default content.
+17:46:04.642 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Aa_ListTC - Clicked on Number List.
+17:46:04.999 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Aa_ListTC - Switched back to frame 0.
+17:46:05.813 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Aa_ListTC - Context clicked on Inserted List in Paragraph.
+17:46:05.879 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Aa_ListTC - Switched back to default content.
+17:46:05.904 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Aa_ListTC - Switched to frame 1.
+17:46:06.537 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Aa_ListTC - Clicked on Right-click List Properties.
+17:46:06.731 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Aa_ListTC - Found List Properties Box element.
+17:46:06.959 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Aa_ListTC - Clicked on the Number List.
+17:46:07.149 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Aa_ListTC - Clicked on the Number List.
+17:46:07.539 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Aa_ListTC - Verified that List Number is present in DS.
+17:46:07.567 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Aa_ListTC - Verified that List Number is present in DS.
+17:46:07.601 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Aa_ListTC - Switched back to frame 0.
+17:46:07.616 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Aa_ListTC - Switched back to frame 0.
+17:46:07.666 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Aa_ListTC - Switched back to default content.
+17:46:07.702 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Aa_ListTC - Switched back to default content.
+17:46:07.835 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Aa_ListTC - Selected 'lower-roman' from the dropdown.
+17:46:08.118 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Aa_ListTC - Clicked on the Bullet List.
+17:46:08.148 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Aa_ListTC - Clicked on the Bullet List.
+17:46:08.217 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Aa_ListTC - Verified that List bullet is present in DS.
+17:46:08.218 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Aa_ListTC - Finished verifyChangeNumberListToBulletList ..
+17:46:08.221 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Aa_ListTC - Verified that List bullet is present in DS.
+17:46:08.338 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Aa_ListTC - Clicked on List Properties OK Button.
+17:46:08.588 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Aa_ListTC - Verified that 'lower-roman' is Inserted.
+17:46:10.024 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Aa_ListTC - Performed context click on Inserted List in Paragraph.
+17:46:10.871 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Aa_ListTC - Clicked on Right-click List Properties.
+17:46:11.103 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Aa_ListTC - Found List Properties Box element.
+17:46:11.442 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Aa_ListTC - Selected 'ndash' from the dropdown.
+17:46:11.855 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Aa_ListTC - Clicked on List Properties OK Button.
+17:46:11.875 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Aa_ListTC - Starting verify_List_Properties_VE
+17:46:12.414 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Aa_ListTC - Verified that 'ndash' is Inserted.
+17:46:12.415 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Aa_ListTC - Finished verify_List_Properties_VE
+17:46:20.585 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Aa_ListTC - Starting verifyChangeParaToList
+17:46:20.800 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Aa_ListTC - Starting verifyChangeParaToListAndCheckAlign
+17:46:22.639 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Aa_ListTC - Starting verify_ExistingList_PropertiesPopup
+17:46:35.989 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Aa_ListTC - Logged in, searched for a file, and clicked Edit.
+17:46:35.990 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Aa_ListTC - Created Aa_List instance.
+17:46:36.007 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Aa_ListTC - Switched to frame 0.
+17:46:36.755 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Aa_ListTC - Clicked on the first paragraph.
+17:46:36.809 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Aa_ListTC - Switched back to default content.
+17:46:40.121 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Aa_ListTC - Clicked on the Number List.
+17:46:40.325 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Aa_ListTC - Verified that List Number is present in DS.
+17:46:40.346 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Aa_ListTC - Switched back to frame 0.
+17:46:40.383 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Aa_ListTC - Switched back to default content.
+17:46:40.705 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Aa_ListTC - Clicked on the Bullet List.
+17:46:40.823 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  Elements_Testcases.Aa_ListTC - Verified that List bullet is present in DS.
+17:46:45.216 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Aa_ListTC - Logged in and searched for a file, then clicked Edit.
+17:46:45.219 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Aa_ListTC - Created List instance.
+17:46:46.062 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Aa_ListTC - Logged in and searched for a file, then clicked Edit.
+17:46:46.063 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Aa_ListTC - Created List instance.
+17:46:47.161 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Aa_ListTC - Logged in, searched for a file, and clicked Edit.
+17:46:47.190 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Aa_ListTC - Switched to frame 0.
+17:46:47.739 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Aa_ListTC - Clicked on the first paragraph.
+17:46:47.781 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  Elements_Testcases.Aa_ListTC - Switched back to default content.
+17:46:49.107 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  Elements_Testcases.Aa_ListTC - Clicked change Element
+17:46:49.474 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  Elements_Testcases.Aa_ListTC - Clicked change Element

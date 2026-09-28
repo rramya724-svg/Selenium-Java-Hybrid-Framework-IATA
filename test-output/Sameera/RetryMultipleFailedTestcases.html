@@ -1,0 +1,1183 @@
+<html>
+<head>
+<title>TestNG:  RetryMultipleFailedTestcases</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>RetryMultipleFailedTestcases</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>60/3/6</td>
+</tr><tr>
+<td>Started on:</td><td>Sun Nov 24 21:17:33 IST 2024</td>
+</tr>
+<tr><td>Total time:</td><td>1329 seconds (1329488 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-failed'>
+<tr><td colspan='4' align='center'><b>FAILED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td><b>Attribute(s)</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='Sameera_Testcases.Ab_ParaTC.TC045_verifyInsertAfterNewParaInImageQuickInsert()'><b>TC045_verifyInsertAfterNewParaInImageQuickInsert</b><br>Test class: Sameera_Testcases.Ab_ParaTC</td>
+<td><div><pre>org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: [[ChromeDriver: chrome on windows (35e8bedaf62dce3e86ce19baedbaf0b1)] -&gt; xpath: //p[text()=&apos;ichm-en-9.4.1.1.jpg&apos;]/following-sibling::a|//*[@id=&quot;image-container&quot;]/div[3]/div[9]/div/div[2]/a] (tried for 60 second(s) with 500 milliseconds interval)
+Build info: version: &apos;4.11.0&apos;, revision: &apos;040bc5406b&apos;
+System info: os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.11&apos;
+Driver info: jdk.proxy2.$Proxy33
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:230)
+	at d_loginPage.BasePage.clickElement(BasePage.java:36)
+	at Sameera_PageObjects.Ab_Para.ClickimgInsert(Ab_Para.java:286)
+	at Sameera_Testcases.Ab_ParaTC.TC045_verifyInsertAfterNewParaInImageQuickInsert(Ab_ParaTC.java:1046)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+... Removed 13 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace243925658", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace243925658'><pre>org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: [[ChromeDriver: chrome on windows (35e8bedaf62dce3e86ce19baedbaf0b1)] -&gt; xpath: //p[text()=&apos;ichm-en-9.4.1.1.jpg&apos;]/following-sibling::a|//*[@id=&quot;image-container&quot;]/div[3]/div[9]/div/div[2]/a] (tried for 60 second(s) with 500 milliseconds interval)
+Build info: version: &apos;4.11.0&apos;, revision: &apos;040bc5406b&apos;
+System info: os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.11&apos;
+Driver info: jdk.proxy2.$Proxy33
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:230)
+	at d_loginPage.BasePage.clickElement(BasePage.java:36)
+	at Sameera_PageObjects.Ab_Para.ClickimgInsert(Ab_Para.java:286)
+	at Sameera_Testcases.Ab_ParaTC.TC045_verifyInsertAfterNewParaInImageQuickInsert(Ab_ParaTC.java:1046)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686)
+	at org.testng.internal.invokers.TestInvoker.retryFailed(TestInvoker.java:269)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:76)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at org.testng.internal.thread.graph.TestNGFutureTask.run(TestNGFutureTask.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+</pre></div></td>
+<td>104</td>
+<td>Sameera_Testcases.Ab_ParaTC@7dfd3c81</td></tr>
+<tr>
+<td title='Sameera_Testcases.Ab_ParaTC.TC018_verifyInsertIntoNewParaInListVE()'><b>TC018_verifyInsertIntoNewParaInListVE</b><br>Test class: Sameera_Testcases.Ab_ParaTC</td>
+<td><div><pre>org.openqa.selenium.json.JsonException: java.lang.reflect.InvocationTargetException
+Build info: version: &apos;4.11.0&apos;, revision: &apos;040bc5406b&apos;
+System info: os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.11&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d21d60a09aefdc693ab5ea3837ef50f3, actions {actions=[org.openqa.selenium.interactions.Sequence@46a67969]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 130.0.6723.117, chrome: {chromedriverVersion: 130.0.6723.116 (6ac35f94ae3..., userDataDir: C:\Users\GCV\AppData\Local\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58463}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58463/devtoo..., se:cdpVersion: 130.0.6723.117, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d21d60a09aefdc693ab5ea3837ef50f3
+	at org.openqa.selenium.json.JsonOutput.convertUsingMethod(JsonOutput.java:415)
+	at org.openqa.selenium.json.JsonOutput.lambda$new$16(JsonOutput.java:178)
+	at org.openqa.selenium.json.JsonOutput.write0(JsonOutput.java:341)
+	at org.openqa.selenium.json.JsonOutput.lambda$new$22(JsonOutput.java:200)
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183)
+	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179)
+	at java.base/java.util.Iterator.forEachRemaining(Iterator.java:133)
+	at java.base/java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1845)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150)
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
+	at org.openqa.selenium.json.JsonOutput.lambda$new$23(JsonOutput.java:200)
+	at org.openqa.selenium.json.JsonOutput.write0(JsonOutput.java:341)
+	at org.openqa.selenium.json.JsonOutput.lambda$new$24(JsonOutput.java:218)
+	at com.google.common.collect.SingletonImmutableBiMap.forEach(SingletonImmutableBiMap.java:68)
+	at org.openqa.selenium.json.JsonOutput.lambda$new$25(JsonOutput.java:213)
+	at org.openqa.selenium.json.JsonOutput.write0(JsonOutput.java:341)
+	at org.openqa.selenium.json.JsonOutput.write(JsonOutput.java:332)
+	at org.openqa.selenium.json.Json.toJson(Json.java:47)
+	at org.openqa.selenium.json.Json.toJson(Json.java:41)
+	at org.openqa.selenium.remote.codec.AbstractHttpCommandCodec.encode(AbstractHttpCommandCodec.java:273)
+	at org.openqa.selenium.remote.codec.AbstractHttpCommandCodec.encode(AbstractHttpCommandCodec.java:127)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:179)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:196)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:171)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
+	at org.openqa.selenium.remote.RemoteWebDriver.perform(RemoteWebDriver.java:604)
+	at org.openqa.selenium.support.ThreadGuard$WebDriverInvocationHandler.invokeUnderlying(ThreadGuard.java:99)
+	at org.openqa.selenium.support.ThreadGuard$WebDriverInvocationHandler.invoke(ThreadGuard.java:91)
+	at jdk.proxy2/jdk.proxy2.$Proxy33.perform(Unknown Source)
+	at org.openqa.selenium.interactions.Actions$BuiltAction.perform(Actions.java:605)
+	at org.openqa.selenium.interactions.Actions.perform(Actions.java:574)
+	at Sameera_Testcases.Ab_ParaTC.TC018_verifyInsertIntoNewParaInListVE(Ab_ParaTC.java:432)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+	Suppressed: org.openqa.selenium.json.JsonException: Attempting to close incomplete json stream
+Build info: version: &apos;4.11.0&apos;, revision: &apos;040bc5406b&apos;
+System info: os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.11&apos;
+Driver info: driver.version: RemoteWebDriver
+		at org.openqa.selenium.json.JsonOutput.close(JsonOutput.java:357)
+		at org.openqa.selenium.json.Json.toJson(Json.java:45)
+		... 35 more
+	at org.openqa.selenium.json.JsonOutput.convertUsingMethod(JsonOutput.java:411)
+	... 56 more
+Caused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;(//h2[@id=&apos;20&apos;]//button)[1]|(//h2[@id=&apos;20&apos;]//button)[1]|(//h2[@id=&apos;17&apos;]//button)[1]|//span[@id=&apos;contentBlockAcordianItemName-17&apos;]&quot;}
+  (Session info: chrome=130.0.6723.117)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: &apos;4.11.0&apos;, revision: &apos;040bc5406b&apos;
+System info: os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.11&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d21d60a09aefdc693ab5ea3837ef50f3, findElement {using=xpath, value=(//h2[@id=&apos;20&apos;]//button)[1]|(//h2[@id=&apos;20&apos;]//button)[1]|(//h2[@id=&apos;17&apos;]//button)[1]|//span[@id=&apos;contentBlockAcordianItemName-17&apos;]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 130.0.6723.117, chrome: {chromedriverVersion: 130.0.6723.116 (6ac35f94ae3..., userDataDir: C:\Users\GCV\AppData\Local\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58463}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58463/devtoo..., se:cdpVersion: 130.0.6723.117, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d21d60a09aefdc693ab5ea3837ef50f3
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:196)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:171)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:349)
+	at org.openqa.selenium.support.ThreadGuard$WebDriverInvocationHandler.invokeUnderlying(ThreadGuard.java:99)
+	at org.openqa.selenium.support.ThreadGuard$WebDriverInvocationHandler.invoke(ThreadGuard.java:91)
+	at jdk.proxy2/jdk.proxy2.$Proxy33.findElement(Unknown Source)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at jdk.proxy2/jdk.proxy2.$Proxy36.getWrappedElement(Unknown Source)
+	at org.openqa.selenium.interactions.PointerInput$Origin.asArg(PointerInput.java:275)
+	at org.openqa.selenium.interactions.PointerInput$Move.encode(PointerInput.java:224)
+	at org.openqa.selenium.interactions.Sequence.encode(Sequence.java:72)
+	at org.openqa.selenium.interactions.Sequence.toJson(Sequence.java:81)
+	... 60 more
+... Removed 28 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace1139703030", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1139703030'><pre>org.openqa.selenium.json.JsonException: java.lang.reflect.InvocationTargetException
+Build info: version: &apos;4.11.0&apos;, revision: &apos;040bc5406b&apos;
+System info: os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.11&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d21d60a09aefdc693ab5ea3837ef50f3, actions {actions=[org.openqa.selenium.interactions.Sequence@46a67969]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 130.0.6723.117, chrome: {chromedriverVersion: 130.0.6723.116 (6ac35f94ae3..., userDataDir: C:\Users\GCV\AppData\Local\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58463}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58463/devtoo..., se:cdpVersion: 130.0.6723.117, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d21d60a09aefdc693ab5ea3837ef50f3
+	at org.openqa.selenium.json.JsonOutput.convertUsingMethod(JsonOutput.java:415)
+	at org.openqa.selenium.json.JsonOutput.lambda$new$16(JsonOutput.java:178)
+	at org.openqa.selenium.json.JsonOutput.write0(JsonOutput.java:341)
+	at org.openqa.selenium.json.JsonOutput.lambda$new$22(JsonOutput.java:200)
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183)
+	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179)
+	at java.base/java.util.Iterator.forEachRemaining(Iterator.java:133)
+	at java.base/java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1845)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150)
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
+	at org.openqa.selenium.json.JsonOutput.lambda$new$23(JsonOutput.java:200)
+	at org.openqa.selenium.json.JsonOutput.write0(JsonOutput.java:341)
+	at org.openqa.selenium.json.JsonOutput.lambda$new$24(JsonOutput.java:218)
+	at com.google.common.collect.SingletonImmutableBiMap.forEach(SingletonImmutableBiMap.java:68)
+	at org.openqa.selenium.json.JsonOutput.lambda$new$25(JsonOutput.java:213)
+	at org.openqa.selenium.json.JsonOutput.write0(JsonOutput.java:341)
+	at org.openqa.selenium.json.JsonOutput.write(JsonOutput.java:332)
+	at org.openqa.selenium.json.Json.toJson(Json.java:47)
+	at org.openqa.selenium.json.Json.toJson(Json.java:41)
+	at org.openqa.selenium.remote.codec.AbstractHttpCommandCodec.encode(AbstractHttpCommandCodec.java:273)
+	at org.openqa.selenium.remote.codec.AbstractHttpCommandCodec.encode(AbstractHttpCommandCodec.java:127)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:179)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:196)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:171)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
+	at org.openqa.selenium.remote.RemoteWebDriver.perform(RemoteWebDriver.java:604)
+	at jdk.internal.reflect.GeneratedMethodAccessor5.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.openqa.selenium.support.ThreadGuard$WebDriverInvocationHandler.invokeUnderlying(ThreadGuard.java:99)
+	at org.openqa.selenium.support.ThreadGuard$WebDriverInvocationHandler.invoke(ThreadGuard.java:91)
+	at jdk.proxy2/jdk.proxy2.$Proxy33.perform(Unknown Source)
+	at org.openqa.selenium.interactions.Actions$BuiltAction.perform(Actions.java:605)
+	at org.openqa.selenium.interactions.Actions.perform(Actions.java:574)
+	at Sameera_Testcases.Ab_ParaTC.TC018_verifyInsertIntoNewParaInListVE(Ab_ParaTC.java:432)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686)
+	at org.testng.internal.invokers.TestInvoker.retryFailed(TestInvoker.java:269)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:76)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at org.testng.internal.thread.graph.TestNGFutureTask.run(TestNGFutureTask.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+	Suppressed: org.openqa.selenium.json.JsonException: Attempting to close incomplete json stream
+Build info: version: &apos;4.11.0&apos;, revision: &apos;040bc5406b&apos;
+System info: os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.11&apos;
+Driver info: driver.version: RemoteWebDriver
+		at org.openqa.selenium.json.JsonOutput.close(JsonOutput.java:357)
+		at org.openqa.selenium.json.Json.toJson(Json.java:45)
+		... 35 more
+Caused by: java.lang.reflect.InvocationTargetException
+	at jdk.internal.reflect.GeneratedMethodAccessor6.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.openqa.selenium.json.JsonOutput.convertUsingMethod(JsonOutput.java:411)
+	... 56 more
+Caused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;(//h2[@id=&apos;20&apos;]//button)[1]|(//h2[@id=&apos;20&apos;]//button)[1]|(//h2[@id=&apos;17&apos;]//button)[1]|//span[@id=&apos;contentBlockAcordianItemName-17&apos;]&quot;}
+  (Session info: chrome=130.0.6723.117)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: &apos;4.11.0&apos;, revision: &apos;040bc5406b&apos;
+System info: os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.11&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d21d60a09aefdc693ab5ea3837ef50f3, findElement {using=xpath, value=(//h2[@id=&apos;20&apos;]//button)[1]|(//h2[@id=&apos;20&apos;]//button)[1]|(//h2[@id=&apos;17&apos;]//button)[1]|//span[@id=&apos;contentBlockAcordianItemName-17&apos;]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 130.0.6723.117, chrome: {chromedriverVersion: 130.0.6723.116 (6ac35f94ae3..., userDataDir: C:\Users\GCV\AppData\Local\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58463}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58463/devtoo..., se:cdpVersion: 130.0.6723.117, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d21d60a09aefdc693ab5ea3837ef50f3
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:196)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:171)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:349)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.openqa.selenium.support.ThreadGuard$WebDriverInvocationHandler.invokeUnderlying(ThreadGuard.java:99)
+	at org.openqa.selenium.support.ThreadGuard$WebDriverInvocationHandler.invoke(ThreadGuard.java:91)
+	at jdk.proxy2/jdk.proxy2.$Proxy33.findElement(Unknown Source)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at jdk.proxy2/jdk.proxy2.$Proxy36.getWrappedElement(Unknown Source)
+	at org.openqa.selenium.interactions.PointerInput$Origin.asArg(PointerInput.java:275)
+	at org.openqa.selenium.interactions.PointerInput$Move.encode(PointerInput.java:224)
+	at org.openqa.selenium.interactions.Sequence.encode(Sequence.java:72)
+	at org.openqa.selenium.interactions.Sequence.toJson(Sequence.java:81)
+	... 60 more
+</pre></div></td>
+<td>52</td>
+<td>Sameera_Testcases.Ab_ParaTC@7dfd3c81</td></tr>
+<tr>
+<td title='Sameera_Testcases.Ab_ParaTC.TC022_verifyInsertAfterNewParaInImageVE()'><b>TC022_verifyInsertAfterNewParaInImageVE</b><br>Test class: Sameera_Testcases.Ab_ParaTC</td>
+<td><div><pre>org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: [[ChromeDriver: chrome on windows (00afc04fda6ab56f7fc532e9b2cb4b3d)] -&gt; xpath: //p[text()=&apos;ichm-en-9.4.1.1.jpg&apos;]/following-sibling::a|//*[@id=&quot;image-container&quot;]/div[3]/div[9]/div/div[2]/a] (tried for 60 second(s) with 500 milliseconds interval)
+Build info: version: &apos;4.11.0&apos;, revision: &apos;040bc5406b&apos;
+System info: os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.11&apos;
+Driver info: jdk.proxy2.$Proxy33
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:230)
+	at d_loginPage.BasePage.clickElement(BasePage.java:36)
+	at Sameera_PageObjects.Ab_Para.ClickimgInsert(Ab_Para.java:286)
+	at Sameera_Testcases.Ab_ParaTC.TC022_verifyInsertAfterNewParaInImageVE(Ab_ParaTC.java:492)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+... Removed 13 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace1014089071", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1014089071'><pre>org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: [[ChromeDriver: chrome on windows (00afc04fda6ab56f7fc532e9b2cb4b3d)] -&gt; xpath: //p[text()=&apos;ichm-en-9.4.1.1.jpg&apos;]/following-sibling::a|//*[@id=&quot;image-container&quot;]/div[3]/div[9]/div/div[2]/a] (tried for 60 second(s) with 500 milliseconds interval)
+Build info: version: &apos;4.11.0&apos;, revision: &apos;040bc5406b&apos;
+System info: os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.11&apos;
+Driver info: jdk.proxy2.$Proxy33
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:230)
+	at d_loginPage.BasePage.clickElement(BasePage.java:36)
+	at Sameera_PageObjects.Ab_Para.ClickimgInsert(Ab_Para.java:286)
+	at Sameera_Testcases.Ab_ParaTC.TC022_verifyInsertAfterNewParaInImageVE(Ab_ParaTC.java:492)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686)
+	at org.testng.internal.invokers.TestInvoker.retryFailed(TestInvoker.java:269)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:76)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at org.testng.internal.thread.graph.TestNGFutureTask.run(TestNGFutureTask.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+</pre></div></td>
+<td>102</td>
+<td>Sameera_Testcases.Ab_ParaTC@7dfd3c81</td></tr>
+</table><p>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td><b>Attribute(s)</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='Sameera_Testcases.Ab_ParaTC.TC011_verifyTableInPara()'><b>TC011_verifyTableInPara</b><br>Test class: Sameera_Testcases.Ab_ParaTC</td>
+<td></td>
+<td>49</td>
+<td>Sameera_Testcases.Ab_ParaTC@7dfd3c81</td></tr>
+<tr>
+<td title='Sameera_Testcases.Ab_ParaTC.TC034_verifyInsertAfterNewParaInImagetDS()'><b>TC034_verifyInsertAfterNewParaInImagetDS</b><br>Test class: Sameera_Testcases.Ab_ParaTC</td>
+<td></td>
+<td>61</td>
+<td>Sameera_Testcases.Ab_ParaTC@7dfd3c81</td></tr>
+<tr>
+<td title='Sameera_Testcases.Ab_ParaTC.TC026_verifyInsertBeforeNewParaInListDS()'><b>TC026_verifyInsertBeforeNewParaInListDS</b><br>Test class: Sameera_Testcases.Ab_ParaTC</td>
+<td></td>
+<td>44</td>
+<td>Sameera_Testcases.Ab_ParaTC@7dfd3c81</td></tr>
+<tr>
+<td title='Sameera_Testcases.Ab_ParaTC.TC044_verifyInsertAfterNewParaInTableQuickInsert()'><b>TC044_verifyInsertAfterNewParaInTableQuickInsert</b><br>Test class: Sameera_Testcases.Ab_ParaTC</td>
+<td></td>
+<td>48</td>
+<td>Sameera_Testcases.Ab_ParaTC@7dfd3c81</td></tr>
+<tr>
+<td title='Sameera_Testcases.Ab_ParaTC.TC012_verifyInsertBeforeNewParaInSectionVE()'><b>TC012_verifyInsertBeforeNewParaInSectionVE</b><br>Test class: Sameera_Testcases.Ab_ParaTC</td>
+<td></td>
+<td>36</td>
+<td>Sameera_Testcases.Ab_ParaTC@7dfd3c81</td></tr>
+<tr>
+<td title='Sameera_Testcases.Ab_ParaTC.TC032_verifyInsertAfterNewParaInTableDS()'><b>TC032_verifyInsertAfterNewParaInTableDS</b><br>Test class: Sameera_Testcases.Ab_ParaTC</td>
+<td></td>
+<td>45</td>
+<td>Sameera_Testcases.Ab_ParaTC@7dfd3c81</td></tr>
+<tr>
+<td title='Sameera_Testcases.Ab_ParaTC.TC041_verifyInsertIntoNewParaInListQuickInsert()'><b>TC041_verifyInsertIntoNewParaInListQuickInsert</b><br>Test class: Sameera_Testcases.Ab_ParaTC</td>
+<td></td>
+<td>36</td>
+<td>Sameera_Testcases.Ab_ParaTC@7dfd3c81</td></tr>
+<tr>
+<td title='Sameera_Testcases.Ab_ParaTC.TC051_verifyEnterKeyEndParaVE()'><b>TC051_verifyEnterKeyEndParaVE</b><br>Test class: Sameera_Testcases.Ab_ParaTC</td>
+<td></td>
+<td>114</td>
+<td>Sameera_Testcases.Ab_ParaTC@7dfd3c81</td></tr>
+<tr>
+<td title='Sameera_Testcases.Ab_ParaTC.TC015_verifyInsertBeforeNewParaInImageVE()'><b>TC015_verifyInsertBeforeNewParaInImageVE</b><br>Test class: Sameera_Testcases.Ab_ParaTC</td>
+<td></td>
+<td>68</td>
+<td>Sameera_Testcases.Ab_ParaTC@7dfd3c81</td></tr>
+<tr>
+<td title='Sameera_Testcases.Ab_ParaTC.TC010_verifyImgInsertAfterPara()'><b>TC010_verifyImgInsertAfterPara</b><br>Test class: Sameera_Testcases.Ab_ParaTC</td>
+<td></td>
+<td>61</td>
+<td>Sameera_Testcases.Ab_ParaTC@7dfd3c81</td></tr>
+<tr>
+<td title='Sameera_Testcases.Ab_ParaTC.TC024_verifyInsertBeforeNewParaInParaDS()'><b>TC024_verifyInsertBeforeNewParaInParaDS</b><br>Test class: Sameera_Testcases.Ab_ParaTC</td>
+<td></td>
+<td>45</td>
+<td>Sameera_Testcases.Ab_ParaTC@7dfd3c81</td></tr>
+<tr>
+<td title='Sameera_Testcases.Ab_ParaTC.TC036_verifyInsertBeforeNewParaInParaQuickInsert()'><b>TC036_verifyInsertBeforeNewParaInParaQuickInsert</b><br>Test class: Sameera_Testcases.Ab_ParaTC</td>
+<td></td>
+<td>49</td>
+<td>Sameera_Testcases.Ab_ParaTC@7dfd3c81</td></tr>
+<tr>
+<td title='Sameera_Testcases.Ab_ParaTC.TC039_verifyInsertBeforeNewParaInListQuickInsert()'><b>TC039_verifyInsertBeforeNewParaInListQuickInsert</b><br>Test class: Sameera_Testcases.Ab_ParaTC</td>
+<td></td>
+<td>124</td>
+<td>Sameera_Testcases.Ab_ParaTC@7dfd3c81</td></tr>
+<tr>
+<td title='Sameera_Testcases.Ab_ParaTC.TC037_verifyInsertBeforeNewParaInTableQuickInsert()'><b>TC037_verifyInsertBeforeNewParaInTableQuickInsert</b><br>Test class: Sameera_Testcases.Ab_ParaTC</td>
+<td></td>
+<td>53</td>
+<td>Sameera_Testcases.Ab_ParaTC@7dfd3c81</td></tr>
+<tr>
+<td title='Sameera_Testcases.Ab_ParaTC.TC006_verifySelectMultipleContentAddEmphsis()'><b>TC006_verifySelectMultipleContentAddEmphsis</b><br>Test class: Sameera_Testcases.Ab_ParaTC</td>
+<td></td>
+<td>52</td>
+<td>Sameera_Testcases.Ab_ParaTC@7dfd3c81</td></tr>
+<tr>
+<td title='Sameera_Testcases.Ab_ParaTC.TC007_verifySelectMultipleParaAddEmphasis()'><b>TC007_verifySelectMultipleParaAddEmphasis</b><br>Test class: Sameera_Testcases.Ab_ParaTC</td>
+<td></td>
+<td>55</td>
+<td>Sameera_Testcases.Ab_ParaTC@7dfd3c81</td></tr>
+<tr>
+<td title='Sameera_Testcases.Ab_ParaTC.TC046_verifyInsertAfterNewParaInListQuickInsert()'><b>TC046_verifyInsertAfterNewParaInListQuickInsert</b><br>Test class: Sameera_Testcases.Ab_ParaTC</td>
+<td></td>
+<td>127</td>
+<td>Sameera_Testcases.Ab_ParaTC@7dfd3c81</td></tr>
+<tr>
+<td title='Sameera_Testcases.Ab_ParaTC.TC023_verifyInsertBeforeNewParaInSectionDS()'><b>TC023_verifyInsertBeforeNewParaInSectionDS</b><br>Test class: Sameera_Testcases.Ab_ParaTC</td>
+<td></td>
+<td>48</td>
+<td>Sameera_Testcases.Ab_ParaTC@7dfd3c81</td></tr>
+<tr>
+<td title='Sameera_Testcases.Ab_ParaTC.TC048_verifyChangeSectionHeadingToPara()'><b>TC048_verifyChangeSectionHeadingToPara</b><br>Test class: Sameera_Testcases.Ab_ParaTC</td>
+<td></td>
+<td>34</td>
+<td>Sameera_Testcases.Ab_ParaTC@7dfd3c81</td></tr>
+<tr>
+<td title='Sameera_Testcases.Ab_ParaTC.TC038_verifyInsertBeforeNewParaInImageQuickInsert()'><b>TC038_verifyInsertBeforeNewParaInImageQuickInsert</b><br>Test class: Sameera_Testcases.Ab_ParaTC</td>
+<td></td>
+<td>39</td>
+<td>Sameera_Testcases.Ab_ParaTC@7dfd3c81</td></tr>
+<tr>
+<td title='Sameera_Testcases.Ab_ParaTC.TC055_verifyBackspacePara()'><b>TC055_verifyBackspacePara</b><br>Test class: Sameera_Testcases.Ab_ParaTC</td>
+<td></td>
+<td>117</td>
+<td>Sameera_Testcases.Ab_ParaTC@7dfd3c81</td></tr>
+<tr>
+<td title='Sameera_Testcases.Ab_ParaTC.TC043_verifyInsertAfterNewParaInParaQuickInsert()'><b>TC043_verifyInsertAfterNewParaInParaQuickInsert</b><br>Test class: Sameera_Testcases.Ab_ParaTC</td>
+<td></td>
+<td>35</td>
+<td>Sameera_Testcases.Ab_ParaTC@7dfd3c81</td></tr>
+<tr>
+<td title='Sameera_Testcases.Ab_ParaTC.TC061_verifySelectMultipleParaCheckRemoveElementBlock()'><b>TC061_verifySelectMultipleParaCheckRemoveElementBlock</b><br>Test class: Sameera_Testcases.Ab_ParaTC</td>
+<td></td>
+<td>50</td>
+<td>Sameera_Testcases.Ab_ParaTC@7dfd3c81</td></tr>
+<tr>
+<td title='Sameera_Testcases.Ab_ParaTC.TC063_verifySelectContentFromParaAddInsertInline()'><b>TC063_verifySelectContentFromParaAddInsertInline</b><br>Test class: Sameera_Testcases.Ab_ParaTC</td>
+<td></td>
+<td>118</td>
+<td>Sameera_Testcases.Ab_ParaTC@7dfd3c81</td></tr>
+<tr>
+<td title='Sameera_Testcases.Ab_ParaTC.TC062_verifySelectMultipleParaAddEmphasis()'><b>TC062_verifySelectMultipleParaAddEmphasis</b><br>Test class: Sameera_Testcases.Ab_ParaTC</td>
+<td></td>
+<td>42</td>
+<td>Sameera_Testcases.Ab_ParaTC@7dfd3c81</td></tr>
+<tr>
+<td title='Sameera_Testcases.Ab_ParaTC.TC030_verifyInsertAfterNewParaInsectionDS()'><b>TC030_verifyInsertAfterNewParaInsectionDS</b><br>Test class: Sameera_Testcases.Ab_ParaTC</td>
+<td></td>
+<td>144</td>
+<td>Sameera_Testcases.Ab_ParaTC@7dfd3c81</td></tr>
+<tr>
+<td title='Sameera_Testcases.Ab_ParaTC.TC009_verifyRemoveMultipleEmphasisInPara()'><b>TC009_verifyRemoveMultipleEmphasisInPara</b><br>Test class: Sameera_Testcases.Ab_ParaTC</td>
+<td></td>
+<td>61</td>
+<td>Sameera_Testcases.Ab_ParaTC@7dfd3c81</td></tr>
+<tr>
+<td title='Sameera_Testcases.Ab_ParaTC.TC033_verifyInsertAfterNewParaInListDS()'><b>TC033_verifyInsertAfterNewParaInListDS</b><br>Test class: Sameera_Testcases.Ab_ParaTC</td>
+<td></td>
+<td>43</td>
+<td>Sameera_Testcases.Ab_ParaTC@7dfd3c81</td></tr>
+<tr>
+<td title='Sameera_Testcases.Ab_ParaTC.TC057_verifySelectParaAndREB()'><b>TC057_verifySelectParaAndREB</b><br>Test class: Sameera_Testcases.Ab_ParaTC</td>
+<td></td>
+<td>34</td>
+<td>Sameera_Testcases.Ab_ParaTC@7dfd3c81</td></tr>
+<tr>
+<td title='Sameera_Testcases.Ab_ParaTC.TC008_verifyAddMultipleEmphasisToPara()'><b>TC008_verifyAddMultipleEmphasisToPara</b><br>Test class: Sameera_Testcases.Ab_ParaTC</td>
+<td></td>
+<td>57</td>
+<td>Sameera_Testcases.Ab_ParaTC@7dfd3c81</td></tr>
+<tr>
+<td title='Sameera_Testcases.Ab_ParaTC.TC027_verifyInsertBeforeNewParaInImageDS()'><b>TC027_verifyInsertBeforeNewParaInImageDS</b><br>Test class: Sameera_Testcases.Ab_ParaTC</td>
+<td></td>
+<td>50</td>
+<td>Sameera_Testcases.Ab_ParaTC@7dfd3c81</td></tr>
+<tr>
+<td title='Sameera_Testcases.Ab_ParaTC.TC040_verifyInsertIntoNewParaInSectionQuickInsert()'><b>TC040_verifyInsertIntoNewParaInSectionQuickInsert</b><br>Test class: Sameera_Testcases.Ab_ParaTC</td>
+<td></td>
+<td>34</td>
+<td>Sameera_Testcases.Ab_ParaTC@7dfd3c81</td></tr>
+<tr>
+<td title='Sameera_Testcases.Ab_ParaTC.TC049_verifyChangeImageToPara()'><b>TC049_verifyChangeImageToPara</b><br>Test class: Sameera_Testcases.Ab_ParaTC</td>
+<td></td>
+<td>38</td>
+<td>Sameera_Testcases.Ab_ParaTC@7dfd3c81</td></tr>
+<tr>
+<td title='Sameera_Testcases.Ab_ParaTC.TC004_verifySelectParaAndDelete()'><b>TC004_verifySelectParaAndDelete</b><br>Test class: Sameera_Testcases.Ab_ParaTC</td>
+<td></td>
+<td>67</td>
+<td>Sameera_Testcases.Ab_ParaTC@7dfd3c81</td></tr>
+<tr>
+<td title='Sameera_Testcases.Ab_ParaTC.TC019_verifyInsertAfterNewParaInsectionVE()'><b>TC019_verifyInsertAfterNewParaInsectionVE</b><br>Test class: Sameera_Testcases.Ab_ParaTC</td>
+<td></td>
+<td>114</td>
+<td>Sameera_Testcases.Ab_ParaTC@7dfd3c81</td></tr>
+<tr>
+<td title='Sameera_Testcases.Ab_ParaTC.TC014_verifyInsertParaBeforeTableCheckTC()'><b>TC014_verifyInsertParaBeforeTableCheckTC</b><br>Test class: Sameera_Testcases.Ab_ParaTC</td>
+<td></td>
+<td>55</td>
+<td>Sameera_Testcases.Ab_ParaTC@7dfd3c81</td></tr>
+<tr>
+<td title='Sameera_Testcases.Ab_ParaTC.TC052_verifyEnterKeyEndOfNewTable()'><b>TC052_verifyEnterKeyEndOfNewTable</b><br>Test class: Sameera_Testcases.Ab_ParaTC</td>
+<td></td>
+<td>51</td>
+<td>Sameera_Testcases.Ab_ParaTC@7dfd3c81</td></tr>
+<tr>
+<td title='Sameera_Testcases.Ab_ParaTC.TC060_verifySelectMultipleParaAndDelete()'><b>TC060_verifySelectMultipleParaAndDelete</b><br>Test class: Sameera_Testcases.Ab_ParaTC</td>
+<td></td>
+<td>46</td>
+<td>Sameera_Testcases.Ab_ParaTC@7dfd3c81</td></tr>
+<tr>
+<td title='Sameera_Testcases.Ab_ParaTC.TC016_verifyInsertIntoNewParaInSectionVE()'><b>TC016_verifyInsertIntoNewParaInSectionVE</b><br>Test class: Sameera_Testcases.Ab_ParaTC</td>
+<td></td>
+<td>46</td>
+<td>Sameera_Testcases.Ab_ParaTC@7dfd3c81</td></tr>
+<tr>
+<td title='Sameera_Testcases.Ab_ParaTC.TC058_verifyDeleteExistingParaByREB()'><b>TC058_verifyDeleteExistingParaByREB</b><br>Test class: Sameera_Testcases.Ab_ParaTC</td>
+<td></td>
+<td>33</td>
+<td>Sameera_Testcases.Ab_ParaTC@7dfd3c81</td></tr>
+<tr>
+<td title='Sameera_Testcases.Ab_ParaTC.TC003_verifySelectParaAndBackspace()'><b>TC003_verifySelectParaAndBackspace</b><br>Test class: Sameera_Testcases.Ab_ParaTC</td>
+<td></td>
+<td>68</td>
+<td>Sameera_Testcases.Ab_ParaTC@7dfd3c81</td></tr>
+<tr>
+<td title='Sameera_Testcases.Ab_ParaTC.TC021_verifyInsertParaAfterTableCheckTC()'><b>TC021_verifyInsertParaAfterTableCheckTC</b><br>Test class: Sameera_Testcases.Ab_ParaTC</td>
+<td></td>
+<td>51</td>
+<td>Sameera_Testcases.Ab_ParaTC@7dfd3c81</td></tr>
+<tr>
+<td title='Sameera_Testcases.Ab_ParaTC.TC025_verifyInsertBeforeNewParaInTableDS()'><b>TC025_verifyInsertBeforeNewParaInTableDS</b><br>Test class: Sameera_Testcases.Ab_ParaTC</td>
+<td></td>
+<td>45</td>
+<td>Sameera_Testcases.Ab_ParaTC@7dfd3c81</td></tr>
+<tr>
+<td title='Sameera_Testcases.Ab_ParaTC.TC050_verifyHitEnterInSectionHeadingCheckMsg()'><b>TC050_verifyHitEnterInSectionHeadingCheckMsg</b><br>Test class: Sameera_Testcases.Ab_ParaTC</td>
+<td></td>
+<td>34</td>
+<td>Sameera_Testcases.Ab_ParaTC@7dfd3c81</td></tr>
+<tr>
+<td title='Sameera_Testcases.Ab_ParaTC.TC017_verifyInsertIntoNewParaInTableVE()'><b>TC017_verifyInsertIntoNewParaInTableVE</b><br>Test class: Sameera_Testcases.Ab_ParaTC</td>
+<td></td>
+<td>137</td>
+<td>Sameera_Testcases.Ab_ParaTC@7dfd3c81</td></tr>
+<tr>
+<td title='Sameera_Testcases.Ab_ParaTC.TC028_verifyInsertIntoNewParaInSectionDS()'><b>TC028_verifyInsertIntoNewParaInSectionDS</b><br>Test class: Sameera_Testcases.Ab_ParaTC</td>
+<td></td>
+<td>47</td>
+<td>Sameera_Testcases.Ab_ParaTC@7dfd3c81</td></tr>
+<tr>
+<td title='Sameera_Testcases.Ab_ParaTC.TC020_verifyInsertAfterNewParaInParaVE()'><b>TC020_verifyInsertAfterNewParaInParaVE</b><br>Test class: Sameera_Testcases.Ab_ParaTC</td>
+<td></td>
+<td>44</td>
+<td>Sameera_Testcases.Ab_ParaTC@7dfd3c81</td></tr>
+<tr>
+<td title='Sameera_Testcases.Ab_ParaTC.TC053_verifyEnterInImage()'><b>TC053_verifyEnterInImage</b><br>Test class: Sameera_Testcases.Ab_ParaTC</td>
+<td></td>
+<td>116</td>
+<td>Sameera_Testcases.Ab_ParaTC@7dfd3c81</td></tr>
+<tr>
+<td title='Sameera_Testcases.Ab_ParaTC.TC042_verifyInsertAfterNewParaInsectionQuickInsert()'><b>TC042_verifyInsertAfterNewParaInsectionQuickInsert</b><br>Test class: Sameera_Testcases.Ab_ParaTC</td>
+<td></td>
+<td>119</td>
+<td>Sameera_Testcases.Ab_ParaTC@7dfd3c81</td></tr>
+<tr>
+<td title='Sameera_Testcases.Ab_ParaTC.TC013_verifyInsertBeforeNewParaInParaVE()'><b>TC013_verifyInsertBeforeNewParaInParaVE</b><br>Test class: Sameera_Testcases.Ab_ParaTC</td>
+<td></td>
+<td>42</td>
+<td>Sameera_Testcases.Ab_ParaTC@7dfd3c81</td></tr>
+<tr>
+<td title='Sameera_Testcases.Ab_ParaTC.TC029_verifyInsertIntoNewParaInListDS()'><b>TC029_verifyInsertIntoNewParaInListDS</b><br>Test class: Sameera_Testcases.Ab_ParaTC</td>
+<td></td>
+<td>48</td>
+<td>Sameera_Testcases.Ab_ParaTC@7dfd3c81</td></tr>
+<tr>
+<td title='Sameera_Testcases.Ab_ParaTC.TC035_verifyInsertBeforeNewParaInSectionQuickInsert()'><b>TC035_verifyInsertBeforeNewParaInSectionQuickInsert</b><br>Test class: Sameera_Testcases.Ab_ParaTC</td>
+<td></td>
+<td>45</td>
+<td>Sameera_Testcases.Ab_ParaTC@7dfd3c81</td></tr>
+<tr>
+<td title='Sameera_Testcases.Ab_ParaTC.TC059_verifyDeleteExistingParaFromDS()'><b>TC059_verifyDeleteExistingParaFromDS</b><br>Test class: Sameera_Testcases.Ab_ParaTC</td>
+<td></td>
+<td>114</td>
+<td>Sameera_Testcases.Ab_ParaTC@7dfd3c81</td></tr>
+<tr>
+<td title='Sameera_Testcases.Ab_ParaTC.TC031_verifyInsertAfterNewParaInParaDS()'><b>TC031_verifyInsertAfterNewParaInParaDS</b><br>Test class: Sameera_Testcases.Ab_ParaTC</td>
+<td></td>
+<td>35</td>
+<td>Sameera_Testcases.Ab_ParaTC@7dfd3c81</td></tr>
+<tr>
+<td title='Sameera_Testcases.Ab_ParaTC.TC001_verifyInsertAfterNewPara()'><b>TC001_verifyInsertAfterNewPara</b><br>Test class: Sameera_Testcases.Ab_ParaTC</td>
+<td></td>
+<td>67</td>
+<td>Sameera_Testcases.Ab_ParaTC@7dfd3c81</td></tr>
+<tr>
+<td title='Sameera_Testcases.Ab_ParaTC.TC054_verifyEnterKeyEndOfOL()'><b>TC054_verifyEnterKeyEndOfOL</b><br>Test class: Sameera_Testcases.Ab_ParaTC</td>
+<td></td>
+<td>36</td>
+<td>Sameera_Testcases.Ab_ParaTC@7dfd3c81</td></tr>
+<tr>
+<td title='Sameera_Testcases.Ab_ParaTC.TC047_verifyChangeSectionNumberToPara()'><b>TC047_verifyChangeSectionNumberToPara</b><br>Test class: Sameera_Testcases.Ab_ParaTC</td>
+<td></td>
+<td>36</td>
+<td>Sameera_Testcases.Ab_ParaTC@7dfd3c81</td></tr>
+<tr>
+<td title='Sameera_Testcases.Ab_ParaTC.TC002_verifyInsertNewParaByGivingEnterInPara()'><b>TC002_verifyInsertNewParaByGivingEnterInPara</b><br>Test class: Sameera_Testcases.Ab_ParaTC</td>
+<td></td>
+<td>146</td>
+<td>Sameera_Testcases.Ab_ParaTC@7dfd3c81</td></tr>
+<tr>
+<td title='Sameera_Testcases.Ab_ParaTC.TC005_verifyDeleteExistingParaByREB()'><b>TC005_verifyDeleteExistingParaByREB</b><br>Test class: Sameera_Testcases.Ab_ParaTC</td>
+<td></td>
+<td>57</td>
+<td>Sameera_Testcases.Ab_ParaTC@7dfd3c81</td></tr>
+<tr>
+<td title='Sameera_Testcases.Ab_ParaTC.TC056_verifyDeletePara()'><b>TC056_verifyDeletePara</b><br>Test class: Sameera_Testcases.Ab_ParaTC</td>
+<td></td>
+<td>115</td>
+<td>Sameera_Testcases.Ab_ParaTC@7dfd3c81</td></tr>
+</table><p>
+<table width='100%' border='1' class='invocation-skipped'>
+<tr><td colspan='4' align='center'><b>SKIPPED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td><b>Attribute(s)</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='Sameera_Testcases.Ab_ParaTC.TC038_verifyInsertBeforeNewParaInImageQuickInsert()'><b>TC038_verifyInsertBeforeNewParaInImageQuickInsert</b><br>Test class: Sameera_Testcases.Ab_ParaTC</td>
+<td><div><pre>org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: [[ChromeDriver: chrome on windows (307914f15b345d59564853a57ac9304c)] -&gt; xpath: //p[text()=&apos;ichm-en-9.4.1.1.jpg&apos;]/following-sibling::a|//*[@id=&quot;image-container&quot;]/div[3]/div[9]/div/div[2]/a] (tried for 60 second(s) with 500 milliseconds interval)
+Build info: version: &apos;4.11.0&apos;, revision: &apos;040bc5406b&apos;
+System info: os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.11&apos;
+Driver info: jdk.proxy2.$Proxy33
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:230)
+	at d_loginPage.BasePage.clickElement(BasePage.java:36)
+	at Sameera_PageObjects.Ab_Para.ClickimgInsert(Ab_Para.java:286)
+	at Sameera_Testcases.Ab_ParaTC.TC038_verifyInsertBeforeNewParaInImageQuickInsert(Ab_ParaTC.java:860)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+... Removed 13 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace1626609637", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1626609637'><pre>org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: [[ChromeDriver: chrome on windows (307914f15b345d59564853a57ac9304c)] -&gt; xpath: //p[text()=&apos;ichm-en-9.4.1.1.jpg&apos;]/following-sibling::a|//*[@id=&quot;image-container&quot;]/div[3]/div[9]/div/div[2]/a] (tried for 60 second(s) with 500 milliseconds interval)
+Build info: version: &apos;4.11.0&apos;, revision: &apos;040bc5406b&apos;
+System info: os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.11&apos;
+Driver info: jdk.proxy2.$Proxy33
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:230)
+	at d_loginPage.BasePage.clickElement(BasePage.java:36)
+	at Sameera_PageObjects.Ab_Para.ClickimgInsert(Ab_Para.java:286)
+	at Sameera_Testcases.Ab_ParaTC.TC038_verifyInsertBeforeNewParaInImageQuickInsert(Ab_ParaTC.java:860)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at org.testng.internal.thread.graph.TestNGFutureTask.run(TestNGFutureTask.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+</pre></div></td>
+<td>99</td>
+<td>Sameera_Testcases.Ab_ParaTC@7dfd3c81</td></tr>
+<tr>
+<td title='Sameera_Testcases.Ab_ParaTC.TC045_verifyInsertAfterNewParaInImageQuickInsert()'><b>TC045_verifyInsertAfterNewParaInImageQuickInsert</b><br>Test class: Sameera_Testcases.Ab_ParaTC</td>
+<td><div><pre>org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: [[ChromeDriver: chrome on windows (a590ecbc43add4084071d67d9f0f7d10)] -&gt; xpath: //p[text()=&apos;ichm-en-9.4.1.1.jpg&apos;]/following-sibling::a|//*[@id=&quot;image-container&quot;]/div[3]/div[9]/div/div[2]/a] (tried for 60 second(s) with 500 milliseconds interval)
+Build info: version: &apos;4.11.0&apos;, revision: &apos;040bc5406b&apos;
+System info: os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.11&apos;
+Driver info: jdk.proxy2.$Proxy33
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:230)
+	at d_loginPage.BasePage.clickElement(BasePage.java:36)
+	at Sameera_PageObjects.Ab_Para.ClickimgInsert(Ab_Para.java:286)
+	at Sameera_Testcases.Ab_ParaTC.TC045_verifyInsertAfterNewParaInImageQuickInsert(Ab_ParaTC.java:1046)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+... Removed 13 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace304984028", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace304984028'><pre>org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: [[ChromeDriver: chrome on windows (a590ecbc43add4084071d67d9f0f7d10)] -&gt; xpath: //p[text()=&apos;ichm-en-9.4.1.1.jpg&apos;]/following-sibling::a|//*[@id=&quot;image-container&quot;]/div[3]/div[9]/div/div[2]/a] (tried for 60 second(s) with 500 milliseconds interval)
+Build info: version: &apos;4.11.0&apos;, revision: &apos;040bc5406b&apos;
+System info: os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.11&apos;
+Driver info: jdk.proxy2.$Proxy33
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:230)
+	at d_loginPage.BasePage.clickElement(BasePage.java:36)
+	at Sameera_PageObjects.Ab_Para.ClickimgInsert(Ab_Para.java:286)
+	at Sameera_Testcases.Ab_ParaTC.TC045_verifyInsertAfterNewParaInImageQuickInsert(Ab_ParaTC.java:1046)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at org.testng.internal.thread.graph.TestNGFutureTask.run(TestNGFutureTask.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+</pre></div></td>
+<td>106</td>
+<td>Sameera_Testcases.Ab_ParaTC@7dfd3c81</td></tr>
+<tr>
+<td title='Sameera_Testcases.Ab_ParaTC.TC020_verifyInsertAfterNewParaInParaVE()'><b>TC020_verifyInsertAfterNewParaInParaVE</b><br>Test class: Sameera_Testcases.Ab_ParaTC</td>
+<td><div><pre>org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=130.0.6723.117)
+Build info: version: &apos;4.11.0&apos;, revision: &apos;040bc5406b&apos;
+System info: os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.11&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6775b62142de20c884b0b0a51c4ef6d4, clickElement {id=f.85C54C838B08A5BA938061F3737B3760.d.5D382AB727C657BF0058103886B307AB.e.347}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 130.0.6723.117, chrome: {chromedriverVersion: 130.0.6723.116 (6ac35f94ae3..., userDataDir: C:\Users\GCV\AppData\Local\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58296}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58296/devtoo..., se:cdpVersion: 130.0.6723.117, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (6775b62142de20c884b0b0a51c4ef6d4)] -&gt; xpath: //a[@aria-label=&apos;Insert After&apos;]]
+Session ID: 6775b62142de20c884b0b0a51c4ef6d4
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:196)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:171)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:224)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:77)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+	at jdk.proxy2/jdk.proxy2.$Proxy36.click(Unknown Source)
+	at d_loginPage.BasePage.clickElement(BasePage.java:37)
+	at Sameera_PageObjects.Ab_Para.clickOninsertAfter(Ab_Para.java:264)
+	at Sameera_Testcases.Ab_ParaTC.TC020_verifyInsertAfterNewParaInParaVE(Ab_ParaTC.java:460)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+... Removed 21 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace785905293", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace785905293'><pre>org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=130.0.6723.117)
+Build info: version: &apos;4.11.0&apos;, revision: &apos;040bc5406b&apos;
+System info: os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.11&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6775b62142de20c884b0b0a51c4ef6d4, clickElement {id=f.85C54C838B08A5BA938061F3737B3760.d.5D382AB727C657BF0058103886B307AB.e.347}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 130.0.6723.117, chrome: {chromedriverVersion: 130.0.6723.116 (6ac35f94ae3..., userDataDir: C:\Users\GCV\AppData\Local\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58296}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58296/devtoo..., se:cdpVersion: 130.0.6723.117, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (6775b62142de20c884b0b0a51c4ef6d4)] -&gt; xpath: //a[@aria-label=&apos;Insert After&apos;]]
+Session ID: 6775b62142de20c884b0b0a51c4ef6d4
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:196)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:171)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:224)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:77)
+	at jdk.internal.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+	at jdk.proxy2/jdk.proxy2.$Proxy36.click(Unknown Source)
+	at d_loginPage.BasePage.clickElement(BasePage.java:37)
+	at Sameera_PageObjects.Ab_Para.clickOninsertAfter(Ab_Para.java:264)
+	at Sameera_Testcases.Ab_ParaTC.TC020_verifyInsertAfterNewParaInParaVE(Ab_ParaTC.java:460)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at org.testng.internal.thread.graph.TestNGFutureTask.run(TestNGFutureTask.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+</pre></div></td>
+<td>53</td>
+<td>Sameera_Testcases.Ab_ParaTC@7dfd3c81</td></tr>
+<tr>
+<td title='Sameera_Testcases.Ab_ParaTC.TC022_verifyInsertAfterNewParaInImageVE()'><b>TC022_verifyInsertAfterNewParaInImageVE</b><br>Test class: Sameera_Testcases.Ab_ParaTC</td>
+<td><div><pre>org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: [[ChromeDriver: chrome on windows (c9671517f7d709c5aeabd4001a0736b0)] -&gt; xpath: //p[text()=&apos;ichm-en-9.4.1.1.jpg&apos;]/following-sibling::a|//*[@id=&quot;image-container&quot;]/div[3]/div[9]/div/div[2]/a] (tried for 60 second(s) with 500 milliseconds interval)
+Build info: version: &apos;4.11.0&apos;, revision: &apos;040bc5406b&apos;
+System info: os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.11&apos;
+Driver info: jdk.proxy2.$Proxy33
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:230)
+	at d_loginPage.BasePage.clickElement(BasePage.java:36)
+	at Sameera_PageObjects.Ab_Para.ClickimgInsert(Ab_Para.java:286)
+	at Sameera_Testcases.Ab_ParaTC.TC022_verifyInsertAfterNewParaInImageVE(Ab_ParaTC.java:492)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+... Removed 13 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace2021236292", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace2021236292'><pre>org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: [[ChromeDriver: chrome on windows (c9671517f7d709c5aeabd4001a0736b0)] -&gt; xpath: //p[text()=&apos;ichm-en-9.4.1.1.jpg&apos;]/following-sibling::a|//*[@id=&quot;image-container&quot;]/div[3]/div[9]/div/div[2]/a] (tried for 60 second(s) with 500 milliseconds interval)
+Build info: version: &apos;4.11.0&apos;, revision: &apos;040bc5406b&apos;
+System info: os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.11&apos;
+Driver info: jdk.proxy2.$Proxy33
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:230)
+	at d_loginPage.BasePage.clickElement(BasePage.java:36)
+	at Sameera_PageObjects.Ab_Para.ClickimgInsert(Ab_Para.java:286)
+	at Sameera_Testcases.Ab_ParaTC.TC022_verifyInsertAfterNewParaInImageVE(Ab_ParaTC.java:492)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at org.testng.internal.thread.graph.TestNGFutureTask.run(TestNGFutureTask.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+</pre></div></td>
+<td>104</td>
+<td>Sameera_Testcases.Ab_ParaTC@7dfd3c81</td></tr>
+<tr>
+<td title='Sameera_Testcases.Ab_ParaTC.TC018_verifyInsertIntoNewParaInListVE()'><b>TC018_verifyInsertIntoNewParaInListVE</b><br>Test class: Sameera_Testcases.Ab_ParaTC</td>
+<td><div><pre>org.openqa.selenium.json.JsonException: java.lang.reflect.InvocationTargetException
+Build info: version: &apos;4.11.0&apos;, revision: &apos;040bc5406b&apos;
+System info: os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.11&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [175e7a4e791e09b88e41458c861dc993, actions {actions=[org.openqa.selenium.interactions.Sequence@44a26b2f]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 130.0.6723.117, chrome: {chromedriverVersion: 130.0.6723.116 (6ac35f94ae3..., userDataDir: C:\Users\GCV\AppData\Local\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58203}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58203/devtoo..., se:cdpVersion: 130.0.6723.117, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 175e7a4e791e09b88e41458c861dc993
+	at org.openqa.selenium.json.JsonOutput.convertUsingMethod(JsonOutput.java:415)
+	at org.openqa.selenium.json.JsonOutput.lambda$new$16(JsonOutput.java:178)
+	at org.openqa.selenium.json.JsonOutput.write0(JsonOutput.java:341)
+	at org.openqa.selenium.json.JsonOutput.lambda$new$22(JsonOutput.java:200)
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183)
+	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179)
+	at java.base/java.util.Iterator.forEachRemaining(Iterator.java:133)
+	at java.base/java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1845)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150)
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
+	at org.openqa.selenium.json.JsonOutput.lambda$new$23(JsonOutput.java:200)
+	at org.openqa.selenium.json.JsonOutput.write0(JsonOutput.java:341)
+	at org.openqa.selenium.json.JsonOutput.lambda$new$24(JsonOutput.java:218)
+	at com.google.common.collect.SingletonImmutableBiMap.forEach(SingletonImmutableBiMap.java:68)
+	at org.openqa.selenium.json.JsonOutput.lambda$new$25(JsonOutput.java:213)
+	at org.openqa.selenium.json.JsonOutput.write0(JsonOutput.java:341)
+	at org.openqa.selenium.json.JsonOutput.write(JsonOutput.java:332)
+	at org.openqa.selenium.json.Json.toJson(Json.java:47)
+	at org.openqa.selenium.json.Json.toJson(Json.java:41)
+	at org.openqa.selenium.remote.codec.AbstractHttpCommandCodec.encode(AbstractHttpCommandCodec.java:273)
+	at org.openqa.selenium.remote.codec.AbstractHttpCommandCodec.encode(AbstractHttpCommandCodec.java:127)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:179)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:196)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:171)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
+	at org.openqa.selenium.remote.RemoteWebDriver.perform(RemoteWebDriver.java:604)
+	at org.openqa.selenium.support.ThreadGuard$WebDriverInvocationHandler.invokeUnderlying(ThreadGuard.java:99)
+	at org.openqa.selenium.support.ThreadGuard$WebDriverInvocationHandler.invoke(ThreadGuard.java:91)
+	at jdk.proxy2/jdk.proxy2.$Proxy33.perform(Unknown Source)
+	at org.openqa.selenium.interactions.Actions$BuiltAction.perform(Actions.java:605)
+	at org.openqa.selenium.interactions.Actions.perform(Actions.java:574)
+	at Sameera_Testcases.Ab_ParaTC.TC018_verifyInsertIntoNewParaInListVE(Ab_ParaTC.java:432)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+	Suppressed: org.openqa.selenium.json.JsonException: Attempting to close incomplete json stream
+Build info: version: &apos;4.11.0&apos;, revision: &apos;040bc5406b&apos;
+System info: os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.11&apos;
+Driver info: driver.version: RemoteWebDriver
+		at org.openqa.selenium.json.JsonOutput.close(JsonOutput.java:357)
+		at org.openqa.selenium.json.Json.toJson(Json.java:45)
+		... 35 more
+	at org.openqa.selenium.json.JsonOutput.convertUsingMethod(JsonOutput.java:411)
+	... 56 more
+Caused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;(//h2[@id=&apos;20&apos;]//button)[1]|(//h2[@id=&apos;20&apos;]//button)[1]|(//h2[@id=&apos;17&apos;]//button)[1]|//span[@id=&apos;contentBlockAcordianItemName-17&apos;]&quot;}
+  (Session info: chrome=130.0.6723.117)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: &apos;4.11.0&apos;, revision: &apos;040bc5406b&apos;
+System info: os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.11&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [175e7a4e791e09b88e41458c861dc993, findElement {using=xpath, value=(//h2[@id=&apos;20&apos;]//button)[1]|(//h2[@id=&apos;20&apos;]//button)[1]|(//h2[@id=&apos;17&apos;]//button)[1]|//span[@id=&apos;contentBlockAcordianItemName-17&apos;]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 130.0.6723.117, chrome: {chromedriverVersion: 130.0.6723.116 (6ac35f94ae3..., userDataDir: C:\Users\GCV\AppData\Local\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58203}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58203/devtoo..., se:cdpVersion: 130.0.6723.117, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 175e7a4e791e09b88e41458c861dc993
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:196)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:171)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:349)
+	at org.openqa.selenium.support.ThreadGuard$WebDriverInvocationHandler.invokeUnderlying(ThreadGuard.java:99)
+	at org.openqa.selenium.support.ThreadGuard$WebDriverInvocationHandler.invoke(ThreadGuard.java:91)
+	at jdk.proxy2/jdk.proxy2.$Proxy33.findElement(Unknown Source)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at jdk.proxy2/jdk.proxy2.$Proxy36.getWrappedElement(Unknown Source)
+	at org.openqa.selenium.interactions.PointerInput$Origin.asArg(PointerInput.java:275)
+	at org.openqa.selenium.interactions.PointerInput$Move.encode(PointerInput.java:224)
+	at org.openqa.selenium.interactions.Sequence.encode(Sequence.java:72)
+	at org.openqa.selenium.interactions.Sequence.toJson(Sequence.java:81)
+	... 60 more
+... Removed 28 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace393293183", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace393293183'><pre>org.openqa.selenium.json.JsonException: java.lang.reflect.InvocationTargetException
+Build info: version: &apos;4.11.0&apos;, revision: &apos;040bc5406b&apos;
+System info: os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.11&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [175e7a4e791e09b88e41458c861dc993, actions {actions=[org.openqa.selenium.interactions.Sequence@44a26b2f]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 130.0.6723.117, chrome: {chromedriverVersion: 130.0.6723.116 (6ac35f94ae3..., userDataDir: C:\Users\GCV\AppData\Local\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58203}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58203/devtoo..., se:cdpVersion: 130.0.6723.117, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 175e7a4e791e09b88e41458c861dc993
+	at org.openqa.selenium.json.JsonOutput.convertUsingMethod(JsonOutput.java:415)
+	at org.openqa.selenium.json.JsonOutput.lambda$new$16(JsonOutput.java:178)
+	at org.openqa.selenium.json.JsonOutput.write0(JsonOutput.java:341)
+	at org.openqa.selenium.json.JsonOutput.lambda$new$22(JsonOutput.java:200)
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183)
+	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179)
+	at java.base/java.util.Iterator.forEachRemaining(Iterator.java:133)
+	at java.base/java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1845)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150)
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
+	at org.openqa.selenium.json.JsonOutput.lambda$new$23(JsonOutput.java:200)
+	at org.openqa.selenium.json.JsonOutput.write0(JsonOutput.java:341)
+	at org.openqa.selenium.json.JsonOutput.lambda$new$24(JsonOutput.java:218)
+	at com.google.common.collect.SingletonImmutableBiMap.forEach(SingletonImmutableBiMap.java:68)
+	at org.openqa.selenium.json.JsonOutput.lambda$new$25(JsonOutput.java:213)
+	at org.openqa.selenium.json.JsonOutput.write0(JsonOutput.java:341)
+	at org.openqa.selenium.json.JsonOutput.write(JsonOutput.java:332)
+	at org.openqa.selenium.json.Json.toJson(Json.java:47)
+	at org.openqa.selenium.json.Json.toJson(Json.java:41)
+	at org.openqa.selenium.remote.codec.AbstractHttpCommandCodec.encode(AbstractHttpCommandCodec.java:273)
+	at org.openqa.selenium.remote.codec.AbstractHttpCommandCodec.encode(AbstractHttpCommandCodec.java:127)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:179)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:196)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:171)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
+	at org.openqa.selenium.remote.RemoteWebDriver.perform(RemoteWebDriver.java:604)
+	at jdk.internal.reflect.GeneratedMethodAccessor5.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.openqa.selenium.support.ThreadGuard$WebDriverInvocationHandler.invokeUnderlying(ThreadGuard.java:99)
+	at org.openqa.selenium.support.ThreadGuard$WebDriverInvocationHandler.invoke(ThreadGuard.java:91)
+	at jdk.proxy2/jdk.proxy2.$Proxy33.perform(Unknown Source)
+	at org.openqa.selenium.interactions.Actions$BuiltAction.perform(Actions.java:605)
+	at org.openqa.selenium.interactions.Actions.perform(Actions.java:574)
+	at Sameera_Testcases.Ab_ParaTC.TC018_verifyInsertIntoNewParaInListVE(Ab_ParaTC.java:432)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at org.testng.internal.thread.graph.TestNGFutureTask.run(TestNGFutureTask.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+	Suppressed: org.openqa.selenium.json.JsonException: Attempting to close incomplete json stream
+Build info: version: &apos;4.11.0&apos;, revision: &apos;040bc5406b&apos;
+System info: os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.11&apos;
+Driver info: driver.version: RemoteWebDriver
+		at org.openqa.selenium.json.JsonOutput.close(JsonOutput.java:357)
+		at org.openqa.selenium.json.Json.toJson(Json.java:45)
+		... 35 more
+Caused by: java.lang.reflect.InvocationTargetException
+	at jdk.internal.reflect.GeneratedMethodAccessor6.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.openqa.selenium.json.JsonOutput.convertUsingMethod(JsonOutput.java:411)
+	... 56 more
+Caused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;(//h2[@id=&apos;20&apos;]//button)[1]|(//h2[@id=&apos;20&apos;]//button)[1]|(//h2[@id=&apos;17&apos;]//button)[1]|//span[@id=&apos;contentBlockAcordianItemName-17&apos;]&quot;}
+  (Session info: chrome=130.0.6723.117)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: &apos;4.11.0&apos;, revision: &apos;040bc5406b&apos;
+System info: os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.11&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [175e7a4e791e09b88e41458c861dc993, findElement {using=xpath, value=(//h2[@id=&apos;20&apos;]//button)[1]|(//h2[@id=&apos;20&apos;]//button)[1]|(//h2[@id=&apos;17&apos;]//button)[1]|//span[@id=&apos;contentBlockAcordianItemName-17&apos;]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 130.0.6723.117, chrome: {chromedriverVersion: 130.0.6723.116 (6ac35f94ae3..., userDataDir: C:\Users\GCV\AppData\Local\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58203}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58203/devtoo..., se:cdpVersion: 130.0.6723.117, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 175e7a4e791e09b88e41458c861dc993
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:196)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:171)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:349)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.openqa.selenium.support.ThreadGuard$WebDriverInvocationHandler.invokeUnderlying(ThreadGuard.java:99)
+	at org.openqa.selenium.support.ThreadGuard$WebDriverInvocationHandler.invoke(ThreadGuard.java:91)
+	at jdk.proxy2/jdk.proxy2.$Proxy33.findElement(Unknown Source)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at jdk.proxy2/jdk.proxy2.$Proxy36.getWrappedElement(Unknown Source)
+	at org.openqa.selenium.interactions.PointerInput$Origin.asArg(PointerInput.java:275)
+	at org.openqa.selenium.interactions.PointerInput$Move.encode(PointerInput.java:224)
+	at org.openqa.selenium.interactions.Sequence.encode(Sequence.java:72)
+	at org.openqa.selenium.interactions.Sequence.toJson(Sequence.java:81)
+	... 60 more
+</pre></div></td>
+<td>59</td>
+<td>Sameera_Testcases.Ab_ParaTC@7dfd3c81</td></tr>
+<tr>
+<td title='Sameera_Testcases.Ab_ParaTC.TC049_verifyChangeImageToPara()'><b>TC049_verifyChangeImageToPara</b><br>Test class: Sameera_Testcases.Ab_ParaTC</td>
+<td><div><pre>org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: [[ChromeDriver: chrome on windows (4702b985ce6d4c7a086a9aacf34937d5)] -&gt; xpath: (//a[contains(@class,&apos;btn btn-primary&apos;)])[4]] (tried for 60 second(s) with 500 milliseconds interval)
+Build info: version: &apos;4.11.0&apos;, revision: &apos;040bc5406b&apos;
+System info: os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.11&apos;
+Driver info: jdk.proxy2.$Proxy33
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:230)
+	at d_loginPage.BasePage.clickElement(BasePage.java:36)
+	at Elements_PageObjects.Cj_ChangeElement.ClickimgInsert(Cj_ChangeElement.java:1301)
+	at Sameera_Testcases.Ab_ParaTC.TC049_verifyChangeImageToPara(Ab_ParaTC.java:1104)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+... Removed 13 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace160783755", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace160783755'><pre>org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: [[ChromeDriver: chrome on windows (4702b985ce6d4c7a086a9aacf34937d5)] -&gt; xpath: (//a[contains(@class,&apos;btn btn-primary&apos;)])[4]] (tried for 60 second(s) with 500 milliseconds interval)
+Build info: version: &apos;4.11.0&apos;, revision: &apos;040bc5406b&apos;
+System info: os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.11&apos;
+Driver info: jdk.proxy2.$Proxy33
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:230)
+	at d_loginPage.BasePage.clickElement(BasePage.java:36)
+	at Elements_PageObjects.Cj_ChangeElement.ClickimgInsert(Cj_ChangeElement.java:1301)
+	at Sameera_Testcases.Ab_ParaTC.TC049_verifyChangeImageToPara(Ab_ParaTC.java:1104)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at org.testng.internal.thread.graph.TestNGFutureTask.run(TestNGFutureTask.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+</pre></div></td>
+<td>101</td>
+<td>Sameera_Testcases.Ab_ParaTC@7dfd3c81</td></tr>
+</table><p>
+</body>
+</html>

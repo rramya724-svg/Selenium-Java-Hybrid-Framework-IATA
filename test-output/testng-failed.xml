@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="4" parallel="methods" name="Failed suite [Module - InlinElements | Internal-UAT |]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="b_utilities.ExtentReportManager"/>
+    <listener class-name="b_utilities.AnnotationTransfer"/>
+  </listeners>
+  <test thread-count="4" parallel="methods" name="RetryMultipleFailedTestcases(failed)">
+    <groups>
+      <run>
+        <include name="Undo_Redo"/>
+        <include name="RightClickOption"/>
+        <include name="Para"/>
+        <include name="List"/>
+        <include name="Revision"/>
+        <include name="EnterDeleteBackspace"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="para.ParaTestCases4">
+        <methods>
+          <include name="verifyInsertUlAfterParaQIChangeListProperties"/>
+          <include name="verifyInsertSymbolOrImageInHighlightedTextPara"/>
+          <include name="verifyInsertOlUsingQuickInsertDeleteSingleListCheckCountAndSequence"/>
+          <include name="verifyInsertOlAfterParaRcCheckTcUnameRoll"/>
+          <include name="verifyInsertOrderedListInDS"/>
+          <include name="verifyInsertOlBeforeNewPara"/>
+          <include name="verifyInsertNumParaUsingRcSelectParaRejectChanges"/>
+          <include name="verifyInsertUlAfterParaHitTwoTimesBackspace"/>
+          <include name="verifyInsertTableBeforeParaFromRightClickVe"/>
+          <include name="verifyInsertOlAfterParaRcAddTextCheckTc"/>
+          <include name="setup"/>
+          <include name="verifyInsertOlAddTextThenHitDeleteKey"/>
+          <include name="verifyInsertTableBeforeParaFromDsRightClick"/>
+          <include name="initialize"/>
+          <include name="verifyInsertUlAfterParaByRCHitEnterValidateTcUnameRoll"/>
+          <include name="initializeSuite"/>
+          <include name="verifyInsertTwoSymbolsEndOfParaCheckDSVE"/>
+          <include name="verifyInsertUlAfterParaRCSingleListBackspaceCheckVETC"/>
+          <include name="verifyInsertOlBeforeParaUsingQuickInsertCheckVE"/>
+          <include name="verifyInsertOlBeforeParaQuickInsertChangeListProperties"/>
+          <include name="verifyInsertRevisionToParaAndHitEnter"/>
+          <include name="logThreadDetails"/>
+          <include name="verifyInsertUlAfterParaRcChangeListProperties"/>
+          <include name="verifyInsertNumberedParaAndPlaceCursorInPElement"/>
+          <include name="verifyInsertUlAfterParaByRCValidateTcUnameRoll"/>
+          <include name="verifyInsertUlAfterParaRCBackspaceCheckVETC"/>
+          <include name="tearDown"/>
+          <include name="verifyInsertOlAfterParaUsingQIRemoveOlValidateTCCard"/>
+          <include name="verifyInsertParaAfterPopup"/>
+          <include name="verifyInsertOrderedListInVE"/>
+          <include name="verifyInsertParaAfterWithTrackChange"/>
+          <include name="verifyInsertUlAfterParaRcAddTextCheckTc"/>
+          <include name="verifyInsertUlAfterParaRCDeleteCheckVETC"/>
+          <include name="verifyInsertUlAfterParaByRCValidateVeAP"/>
+          <include name="verifyInsertParaAfterInVE"/>
+          <include name="verifyInsertOlBeforeParaUsingQuickInsertCheckDS"/>
+          <include name="verifyInsertNewParaAndBackspaceCheckTC"/>
+          <include name="verifyInsertNotesCheckItalicDisableFromToolbar"/>
+          <include name="verifyInsertTableFromToolbar"/>
+          <include name="verifyInsertOlAddTextThenHitBackspaceKey"/>
+          <include name="verifyInsertUlAfterParaDSCheckTcDeatils"/>
+          <include name="verifyInsertOrderedListBeforeParaUsingQuickInsert"/>
+          <include name="verifyInsertParaAfterSectionOrImageUsingRightClickMenu"/>
+          <include name="verifyInsertOlBeforeParaRCChangeListProperties"/>
+          <include name="verifyInsertParaAfterEnterKey"/>
+          <include name="verifyInsertUlAfterParaByRCValidateVE"/>
+          <include name="verifyInsertOlAfterNewParaRC"/>
+        </methods>
+      </class> <!-- para.ParaTestCases4 -->
+      <class name="enter_delete_backspace.ebdTestCases1">
+        <methods>
+          <include name="verifyShiftEnterSectionHeading"/>
+          <include name="verifyAddCommentInsertEnter"/>
+          <include name="verifyEnterBySelectingImage"/>
+          <include name="setup"/>
+          <include name="initialize"/>
+          <include name="initializeSuite"/>
+          <include name="verifyEnterInXref"/>
+          <include name="verifyInsertAfterParaByEnterKey"/>
+          <include name="logThreadDetails"/>
+          <include name="verifyEnterAtFootnote"/>
+          <include name="verifyClickingShiftEnterEndOfPara"/>
+          <include name="tearDown"/>
+          <include name="verifyInsertCrossReferenceAcceptchangeEnter"/>
+          <include name="verifyClickingEnterMiddleOfPara"/>
+          <include name="verifyClickingEnterMiddleOfExample"/>
+          <include name="verifyEnterKeyMiddlePara"/>
+          <include name="verifyEnterKeyMiddleOfOL"/>
+          <include name="verifyFigureDeleteBakspacecheckTC"/>
+          <include name="verifyEnterAtFootnoteBottom"/>
+          <include name="verifyEnterKeyMiddleOfUL"/>
+          <include name="verifyEnterKeyEndParaVE"/>
+          <include name="verifyEnterKeyStartingOfBoldPara"/>
+          <include name="verifyInsertCrossReferenceEnter"/>
+          <include name="verifyHitEnterBeforeNumberedPara"/>
+          <include name="verifyClickingEnterMiddleOfAddress"/>
+          <include name="verifyClickingEnterEndOfNotes"/>
+          <include name="verifyClickingEnterMiddleOfNewPara"/>
+          <include name="verifyEnterInNewParaAfterGinvingSpace"/>
+        </methods>
+      </class> <!-- enter_delete_backspace.ebdTestCases1 -->
+      <class name="list.ListTestCases1">
+        <methods>
+          <include name="initialize"/>
+          <include name="setup"/>
+          <include name="verifyExistingEmphasisListandUnlist"/>
+          <include name="verifyChangeAddressToList"/>
+          <include name="initializeSuite"/>
+          <include name="verifyInsertListToExistingListWithOtherElement"/>
+          <include name="verifyChangeOlToUL"/>
+          <include name="verifyChangeBulleListToNumberList"/>
+          <include name="verifyChangeNumberListToBulletList"/>
+          <include name="verifyChangeOlToULAndUndoRedo"/>
+          <include name="logThreadDetails"/>
+          <include name="verifyChangeImgToList"/>
+          <include name="tearDown"/>
+          <include name="verifyInsertImgInParaAddList"/>
+        </methods>
+      </class> <!-- list.ListTestCases1 -->
+      <class name="RevisionSymbol.RevisionTestCases3">
+        <methods>
+          <include name="logThreadDetails"/>
+          <include name="verifyRemoveRevInsertedToFootnoteParaFromToolbar"/>
+          <include name="verifyRemoveRevInsertedToFootnoteParaFromAP"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+          <include name="initialize"/>
+          <include name="initializeSuite"/>
+        </methods>
+      </class> <!-- RevisionSymbol.RevisionTestCases3 -->
+      <class name="para.ParaTestCases1">
+        <methods>
+          <include name="logThreadDetails"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+          <include name="initialize"/>
+          <include name="initializeSuite"/>
+          <include name="verifyCursorPlacementInExistingParaDS"/>
+          <include name="verifyClickingEnterMiddleOfParaAndRejectChange"/>
+          <include name="verifyArrowKeysTableCells"/>
+          <include name="verifyBackspacePara"/>
+          <include name="verifyChangeBackgrounColourInTable"/>
+          <include name="verifyBackspaceParaCheckTrackChange"/>
+        </methods>
+      </class> <!-- para.ParaTestCases1 -->
+      <class name="para.ParaTestCases3">
+        <methods>
+          <include name="verifyInsertBlockImageCheckTCAndAcceptChange"/>
+          <include name="verifyInsertFootnoteCheckDSAp"/>
+          <include name="setup"/>
+          <include name="verifyInsertBeforeParaInAddressVE"/>
+          <include name="initialize"/>
+          <include name="initializeSuite"/>
+          <include name="verifyInsertBeforeParaInAddressQuickInsert"/>
+          <include name="verifyInsertAfterParaInAddressVE"/>
+          <include name="verifyInsertBeforeNewBlockImageInParaVE"/>
+          <include name="verifyInsertFootnotePopup"/>
+          <include name="logThreadDetails"/>
+          <include name="verifyInsertBeforeNewParaInParaVE"/>
+          <include name="tearDown"/>
+          <include name="verifyInsertBoldAnditalicToCompletePara"/>
+          <include name="verifyInsertBeforeNewULInParaDS"/>
+          <include name="verifyInsertCrossReferenceInPara"/>
+          <include name="verifyInsertBoldContentAndFootnoteToPara"/>
+          <include name="verifyInsertIntoFootnoteParaCheckParaRightClickOptions"/>
+          <include name="verifyInsertIntoNewInlineImageInParaVE"/>
+          <include name="verifyInsertIntoNewInlineImageInParaDS"/>
+        </methods>
+      </class> <!-- para.ParaTestCases3 -->
+      <class name="para.ParaTestCases6">
+        <methods>
+          <include name="verifyPlaceCursorAtStartingOFParaAndCheckInsertBeforePopup"/>
+          <include name="logThreadDetails"/>
+          <include name="verifyPlaceCursorAtEndOFParaAndCheckInsertAfterPopup"/>
+          <include name="verifyPlaceCursorAtMiddleOFParaAndCheckInsertAfterPopup"/>
+          <include name="tearDown"/>
+          <include name="verifyPlaceCursorAtMiddleOFParaAndCheckInsertBeforePopup"/>
+          <include name="setup"/>
+          <include name="initialize"/>
+          <include name="verifyRcInsertTableAfterParaFromDs"/>
+          <include name="verifyRcInsertTableBeforeParaFromDs"/>
+          <include name="verifyPlaceCursorAtEndOFParaAndCheckInsertBeforePopup"/>
+          <include name="initializeSuite"/>
+          <include name="verifyRcInsertTableAfterParaCheckTCDetails"/>
+        </methods>
+      </class> <!-- para.ParaTestCases6 -->
+      <class name="list.ListTestCases2">
+        <methods>
+          <include name="logThreadDetails"/>
+          <include name="tearDown"/>
+          <include name="verifyListPropertiesLowerRoman"/>
+          <include name="initialize"/>
+          <include name="setup"/>
+          <include name="verifyListPropertiesndash"/>
+          <include name="initializeSuite"/>
+          <include name="verifyListPropertiesAlPhabetical"/>
+          <include name="verifyListPropertiesCircle"/>
+        </methods>
+      </class> <!-- list.ListTestCases2 -->
+      <class name="para.ParaTestCases7">
+        <methods>
+          <include name="logThreadDetails"/>
+          <include name="tearDown"/>
+          <include name="initialize"/>
+          <include name="setup"/>
+          <include name="verifyTableRighClickInsertRowBeforeAndDeleteColumn"/>
+          <include name="initializeSuite"/>
+          <include name="verifySelectTextRightClickCheckOptions"/>
+          <include name="verifyRemoveNewParaCheckDeletedPara"/>
+        </methods>
+      </class> <!-- para.ParaTestCases7 -->
+      <class name="enter_delete_backspace.ebdTestCases2">
+        <methods>
+          <include name="verifyHitEnterBeforeAddressPara"/>
+          <include name="verifyHitEnterInMiddleOfContentNewTable"/>
+          <include name="verifyInsertXrefEmphasisEnterKeyEndoftheElement"/>
+          <include name="setup"/>
+          <include name="verifyDeleteSectionfromDSUsingDeleteKey"/>
+          <include name="initialize"/>
+          <include name="initializeSuite"/>
+          <include name="verifyDeleteNewTableDeleteKey"/>
+          <include name="verifyEnterinMiddleofPara"/>
+          <include name="verifyHitEnterinListElement"/>
+          <include name="verifyInsertCrossReferencebeforeEnter"/>
+          <include name="logThreadDetails"/>
+          <include name="verifyDeleteSectionNumberBackSpacekey"/>
+          <include name="verifyHitEnterInNumberedPara"/>
+          <include name="tearDown"/>
+          <include name="verifyInsertListHitEnterAndTabKey"/>
+          <include name="verifyEnterAfterImage"/>
+          <include name="verifyDeleteNewTableEnterKey"/>
+          <include name="verifyEnterkeyStartParaNewpara"/>
+          <include name="verifyEnterKeyBeforeImage"/>
+          <include name="verifyHitEnterAtMiddleOfPara"/>
+        </methods>
+      </class> <!-- enter_delete_backspace.ebdTestCases2 -->
+      <class name="para.ParaTestCases5">
+        <methods>
+          <include name="verifyInsertUlUsingQuickInsertDeleteSingleListCheckCountAndSequence"/>
+          <include name="verifyInsertUlBeforeParaQIChangeListProperties"/>
+          <include name="logThreadDetails"/>
+          <include name="tearDown"/>
+          <include name="verifyInsertUlUsingQIandCreateSubListUsingTabKey"/>
+          <include name="initialize"/>
+          <include name="setup"/>
+          <include name="verifyNewImageBeforeParaAfterAcceptChanges"/>
+          <include name="initializeSuite"/>
+          <include name="verifyInsertUlBeforeParaHitTwoTimesBackspace"/>
+          <include name="verifyNewparaBoldContetInsertAfterPara"/>
+          <include name="verifyInsertUlAfterParaUsingQIAcceptChange"/>
+          <include name="verifyInsertUlUsingRcDeleteSingleListCheckCountAndSequence"/>
+        </methods>
+      </class> <!-- para.ParaTestCases5 -->
+      <class name="enter_delete_backspace.ebdTestCases3">
+        <methods>
+          <include name="logThreadDetails"/>
+          <include name="tearDown"/>
+          <include name="verifySelectImgHitEnter"/>
+          <include name="setup"/>
+          <include name="initialize"/>
+          <include name="initializeSuite"/>
+          <include name="verifySectionHeadingEndSpaceDeletion"/>
+          <include name="verifyInsertXrefSectionHeadingEnterKeyEndoftheElement"/>
+          <include name="verifyInsertXrefTableEnterKey"/>
+          <include name="verifyInsertXrefEnterKeyEndoftheElement"/>
+          <include name="verifyMediObjectInsertAfterEnterKey"/>
+        </methods>
+      </class> <!-- enter_delete_backspace.ebdTestCases3 -->
+      <class name="undo_redo.UndoRedoTestCases1">
+        <methods>
+          <include name="logThreadDetails"/>
+          <include name="tearDown"/>
+          <include name="initialize"/>
+          <include name="setup"/>
+          <include name="initializeSuite"/>
+          <include name="verifyRedoHilighted"/>
+          <include name="verifyRedoEnabled"/>
+        </methods>
+      </class> <!-- undo_redo.UndoRedoTestCases1 -->
+      <class name="RevisionSymbol.RevisionTestCases4">
+        <methods>
+          <include name="logThreadDetails"/>
+          <include name="tearDown"/>
+          <include name="verifyRemoveRevInsertedToNewSectionFromAP"/>
+          <include name="setup"/>
+          <include name="initialize"/>
+          <include name="initializeSuite"/>
+          <include name="verifyRemoveRevSymbolToSecHeadingFromAttributePanel"/>
+          <include name="verifyRevisionSymbolsDisableInSection"/>
+        </methods>
+      </class> <!-- RevisionSymbol.RevisionTestCases4 -->
+      <class name="guided_authoring.GuidedAuthoringTestCases">
+        <methods>
+          <include name="verifRCInsertTableAfterTableDS"/>
+          <include name="setup"/>
+          <include name="initialize"/>
+          <include name="verifyChapterLevelChangesPDF"/>
+          <include name="initializeSuite"/>
+          <include name="verifyRCInsertTableBeforeImgFromVE"/>
+          <include name="verifyInsertAfterParaInNotesDS"/>
+          <include name="verifyInsertAfterImgParaDS"/>
+          <include name="verifyImageInsertAfterImgVE"/>
+          <include name="verifyRemoveParentElementAndRejectChanges"/>
+          <include name="logThreadDetails"/>
+          <include name="verifyRemoveElementblockSectionfromDScheckTC"/>
+          <include name="tearDown"/>
+          <include name="verifRCInsertTableBeforeTableDS"/>
+          <include name="verifyRCInsertTableAfterImgFromVE"/>
+          <include name="verifyInsertAfterSectionInImageDS"/>
+          <include name="verifyChangeParaToListFromAttribute"/>
+          <include name="verifyInsertBeforeNewListInTableDS"/>
+          <include name="verifyRCInsertTableBeforeParaFromDS"/>
+          <include name="verifyChangeParaToListFromDS"/>
+          <include name="verifyInsertBeforeParaInAddressVE"/>
+          <include name="verifRCInsertTableBeforeParaVE"/>
+          <include name="verifRCInsertTableAfterTableVE"/>
+          <include name="verifyImgInsertBeforeAInlineVE"/>
+          <include name="verifyImgInsertAfterAInlineVE"/>
+          <include name="verifRCInsertTableAfterParaVE"/>
+          <include name="verifyRCInsertTableBeforeImgFromDS"/>
+          <include name="verifyInsertAfterParaInAddressDS"/>
+          <include name="verifyInsertAfterSectionInTableDS"/>
+          <include name="verifyRCInsertTableAfterParaFromDS"/>
+          <include name="verifyRemoverootSectionDS"/>
+          <include name="verifyInsertIntoParaInNote"/>
+          <include name="verifRCInsertTableBeforeTableVE"/>
+          <include name="verifyInsertImgIntoSectionVE"/>
+          <include name="verifyRCInsertTableAfterImgFromDS"/>
+          <include name="verifyInsertBeforeParaInNotesDS"/>
+          <include name="verifyRcInsertBeforeBottomSectionDS"/>
+          <include name="verifySectionInsertAfterTableCheckVE"/>
+        </methods>
+      </class> <!-- guided_authoring.GuidedAuthoringTestCases -->
+      <class name="RevisionSymbol.RevisionTestCases2">
+        <methods>
+          <include name="verifyApplyRevInsertedToInFootnoteFromAP"/>
+          <include name="verifyApplyRevInsertedToFootnoteFromToolBar"/>
+          <include name="verifyApplyRevInsertedToSecHeadingFromAttributePanel"/>
+          <include name="initialize"/>
+          <include name="verifyApplyRevInsertedToDeletedSecHeadingFromToolBar"/>
+          <include name="setup"/>
+          <include name="initializeSuite"/>
+          <include name="verifyApplyRevInsertedToNewSectionFromToolbar"/>
+          <include name="verifyApplyRevDeletedToNewSectionFromToolbar"/>
+          <include name="logThreadDetails"/>
+          <include name="verifyApplyRevInsertedToFootnoteParaFromAP"/>
+          <include name="tearDown"/>
+          <include name="verifyApplyRevDeletedToSecHeadingFromAttributePanel"/>
+          <include name="verifyApplyRevInsertedToAddressFromToolBar"/>
+          <include name="verifyApplyRevInsertedToFootnoteParaFromToolbar"/>
+        </methods>
+      </class> <!-- RevisionSymbol.RevisionTestCases2 -->
+      <class name="RevisionSymbol.RevisionTestCases">
+        <methods>
+          <include name="verifyAddressAddRevisionSymbol"/>
+          <include name="setup"/>
+          <include name="initialize"/>
+          <include name="initializeSuite"/>
+          <include name="verifyApplyRevDeletedToFootnoteParaFromAP"/>
+          <include name="verifyApplyRevChangedToFootnoteParaFromToolbar"/>
+          <include name="verifyApplyRevChangedToNewSectionFromToolbar"/>
+          <include name="verifyApplyRevChangedToSecHeadingFromAttributePanel"/>
+          <include name="verifyApplyRevChangedToSecHeadingFromToolBar"/>
+          <include name="logThreadDetails"/>
+          <include name="tearDown"/>
+          <include name="verifyApplyRevDeletedToFootnoteParaFromToolbar"/>
+          <include name="verifyApplyRevChangedToFootnoteParaFromAP"/>
+          <include name="verifyApplyRevDeletedToDeleteNewSectionFromToolbar"/>
+          <include name="checkRevisionForInlineElement"/>
+        </methods>
+      </class> <!-- RevisionSymbol.RevisionTestCases -->
+      <class name="para.ParaTestCases2">
+        <methods>
+          <include name="verifyInsertAfterNumberedPara"/>
+          <include name="verifyInsertAfterParaInAddressQuickInsert"/>
+          <include name="verifyInsertAfterNewListInParaVEAndAccepptChange"/>
+          <include name="verifyElementHighlightedInDocStructure"/>
+          <include name="verifyInsertAfterDefinationInParaVEAndValidate"/>
+          <include name="verifyInsertAfterNotesAddContentAcceptChange"/>
+          <include name="initialize"/>
+          <include name="setup"/>
+          <include name="initializeSuite"/>
+          <include name="verifyInsertAfterNewListInParaVEAndRejectChange"/>
+          <include name="verifyInsertAfterNewBlockImageInParaVE"/>
+          <include name="verifyFootnoteInBoldPara"/>
+          <include name="logThreadDetails"/>
+          <include name="tearDown"/>
+          <include name="verifyInsertAfterIndexInSectionHeadingVEAndValidate"/>
+          <include name="verifyDeleteNewParaFromDsusingDeleteBackspaceKey"/>
+          <include name="verifyDeleteNewParaFromDS"/>
+        </methods>
+      </class> <!-- para.ParaTestCases2 -->
+    </classes>
+  </test> <!-- RetryMultipleFailedTestcases(failed) -->
+</suite> <!-- Failed suite [Module - InlinElements | Internal-UAT |] -->

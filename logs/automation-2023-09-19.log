@@ -1,0 +1,423 @@
+17:56:23.091 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F8_TrackChangesTC - Clicked on Track changes Accept Change.
+17:56:48.260 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F8_TrackChangesTC - Logged in and searched for a file, then clicked Edit.
+17:56:59.203 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F8_TrackChangesTC - Switched to frame 0.
+20:39:43.756 [main] INFO  c_testCases.F12_UndoRedoTC - Starting verify_ExistingList_PropertiesPopup
+20:40:13.818 [main] INFO  c_testCases.F12_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+20:40:13.840 [main] INFO  c_testCases.F12_UndoRedoTC - Switched to frame 0.
+20:40:14.061 [main] INFO  c_testCases.F12_UndoRedoTC - Performed right-click on the existing list item.
+20:40:14.064 [main] INFO  c_testCases.F12_UndoRedoTC - Switched back to default content.
+20:40:49.914 [main] INFO  c_testCases.F12_UndoRedoTC - Starting verify_ExistingList_PropertiesPopup
+20:41:20.153 [main] INFO  c_testCases.F12_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+20:41:20.182 [main] INFO  c_testCases.F12_UndoRedoTC - Switched to frame 0.
+20:41:20.598 [main] INFO  c_testCases.F12_UndoRedoTC - Performed right-click on the existing list item.
+20:41:20.688 [main] INFO  c_testCases.F12_UndoRedoTC - Switched back to default content.
+20:41:20.743 [main] INFO  c_testCases.F12_UndoRedoTC - Switched to frame 1.
+20:41:21.140 [main] INFO  c_testCases.F12_UndoRedoTC - Clicked on Remove Element Block.
+20:41:21.168 [main] INFO  c_testCases.F12_UndoRedoTC - Switched back to default content.
+20:41:21.191 [main] INFO  c_testCases.F12_UndoRedoTC - Switched back to frame 0.
+20:45:35.253 [main] INFO  c_testCases.F12_UndoRedoTC - Starting verify_ExistingList_PropertiesPopup
+20:46:01.330 [main] INFO  c_testCases.F12_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+20:46:01.360 [main] INFO  c_testCases.F12_UndoRedoTC - Switched to frame 0.
+20:46:01.765 [main] INFO  c_testCases.F12_UndoRedoTC - Performed right-click on the existing list item.
+20:46:01.803 [main] INFO  c_testCases.F12_UndoRedoTC - Switched back to default content.
+20:46:01.826 [main] INFO  c_testCases.F12_UndoRedoTC - Switched to frame 1.
+20:46:02.155 [main] INFO  c_testCases.F12_UndoRedoTC - Clicked on Remove Element Block.
+20:46:02.184 [main] INFO  c_testCases.F12_UndoRedoTC - Switched back to default content.
+20:46:02.208 [main] INFO  c_testCases.F12_UndoRedoTC - Switched back to frame 0.
+20:50:20.082 [main] INFO  c_testCases.F12_UndoRedoTC - Starting verify_ExistingList_PropertiesPopup
+20:51:09.140 [main] INFO  c_testCases.F12_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+20:51:09.184 [main] INFO  c_testCases.F12_UndoRedoTC - Switched to frame 0.
+20:51:09.506 [main] INFO  c_testCases.F12_UndoRedoTC - Performed right-click on the existing list item.
+20:51:09.511 [main] INFO  c_testCases.F12_UndoRedoTC - Switched back to default content.
+20:55:16.736 [main] INFO  c_testCases.F12_UndoRedoTC - Starting verify_ExistingList_PropertiesPopup
+20:55:44.789 [main] INFO  c_testCases.F12_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+20:55:44.820 [main] INFO  c_testCases.F12_UndoRedoTC - Switched to frame 0.
+20:55:45.253 [main] INFO  c_testCases.F12_UndoRedoTC - Performed right-click on the existing list item.
+20:55:45.306 [main] INFO  c_testCases.F12_UndoRedoTC - Switched back to default content.
+20:55:45.328 [main] INFO  c_testCases.F12_UndoRedoTC - Switched to frame 1.
+20:55:45.731 [main] INFO  c_testCases.F12_UndoRedoTC - Clicked on Remove Element Block.
+20:55:45.761 [main] INFO  c_testCases.F12_UndoRedoTC - Switched back to default content.
+20:55:45.784 [main] INFO  c_testCases.F12_UndoRedoTC - Switched back to frame 0.
+20:55:45.818 [main] INFO  c_testCases.F12_UndoRedoTC - Verified that the list is deleted in VE.
+20:55:46.941 [main] INFO  c_testCases.F12_UndoRedoTC - Switched back to frame 0.
+20:57:06.278 [main] INFO  c_testCases.F12_UndoRedoTC - Starting verify_ExistingList_PropertiesPopup
+20:57:35.165 [main] INFO  c_testCases.F12_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+20:57:35.210 [main] INFO  c_testCases.F12_UndoRedoTC - Switched to frame 0.
+20:57:35.696 [main] INFO  c_testCases.F12_UndoRedoTC - Performed right-click on the existing list item.
+20:57:35.757 [main] INFO  c_testCases.F12_UndoRedoTC - Switched back to default content.
+20:57:35.817 [main] INFO  c_testCases.F12_UndoRedoTC - Switched to frame 1.
+20:57:36.120 [main] INFO  c_testCases.F12_UndoRedoTC - Clicked on Remove Element Block.
+20:57:36.149 [main] INFO  c_testCases.F12_UndoRedoTC - Switched back to default content.
+20:57:36.174 [main] INFO  c_testCases.F12_UndoRedoTC - Switched back to frame 0.
+20:57:36.210 [main] INFO  c_testCases.F12_UndoRedoTC - Verified that the list is deleted in VE.
+20:57:37.324 [main] INFO  c_testCases.F12_UndoRedoTC - Switched back to frame 0.
+21:00:12.739 [main] INFO  c_testCases.F12_UndoRedoTC - Starting verify_ExistingList_PropertiesPopup
+21:00:43.302 [main] INFO  c_testCases.F12_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+21:00:43.330 [main] INFO  c_testCases.F12_UndoRedoTC - Switched to frame 0.
+21:00:43.682 [main] INFO  c_testCases.F12_UndoRedoTC - Performed right-click on the existing list item.
+21:00:43.736 [main] INFO  c_testCases.F12_UndoRedoTC - Switched back to default content.
+21:00:43.753 [main] INFO  c_testCases.F12_UndoRedoTC - Switched to frame 1.
+21:00:44.105 [main] INFO  c_testCases.F12_UndoRedoTC - Clicked on Remove Element Block.
+21:00:44.147 [main] INFO  c_testCases.F12_UndoRedoTC - Switched back to default content.
+21:00:44.172 [main] INFO  c_testCases.F12_UndoRedoTC - Switched back to frame 0.
+21:00:44.226 [main] INFO  c_testCases.F12_UndoRedoTC - Verified that the list is deleted in VE.
+21:00:45.953 [main] INFO  c_testCases.F12_UndoRedoTC - Switched back to frame 0.
+21:00:45.987 [main] INFO  c_testCases.F12_UndoRedoTC - Verified that the list is deleted in VE.
+21:01:56.640 [main] INFO  c_testCases.F12_UndoRedoTC - Starting verify_ExistingList_PropertiesPopup
+21:02:23.608 [main] INFO  c_testCases.F12_UndoRedoTC - Logged in, searched for a file, and clicked Edit.
+21:02:23.657 [main] INFO  c_testCases.F12_UndoRedoTC - Switched to frame 0.
+21:02:24.081 [main] INFO  c_testCases.F12_UndoRedoTC - Performed right-click on the existing list item.
+21:02:24.156 [main] INFO  c_testCases.F12_UndoRedoTC - Switched back to default content.
+21:02:24.224 [main] INFO  c_testCases.F12_UndoRedoTC - Switched to frame 1.
+21:02:24.628 [main] INFO  c_testCases.F12_UndoRedoTC - Clicked on Remove Element Block.
+21:02:24.666 [main] INFO  c_testCases.F12_UndoRedoTC - Switched back to default content.
+21:02:24.695 [main] INFO  c_testCases.F12_UndoRedoTC - Switched back to frame 0.
+21:02:24.772 [main] INFO  c_testCases.F12_UndoRedoTC - Verified that the list is deleted in VE.
+21:02:25.775 [main] INFO  c_testCases.F12_UndoRedoTC - Switched back to frame 0.
+21:02:25.798 [main] INFO  c_testCases.F12_UndoRedoTC - Verified that the list is deleted in VE.
+21:02:26.262 [main] INFO  c_testCases.F12_UndoRedoTC - Switched back to frame 0.
+21:02:26.288 [main] INFO  c_testCases.F12_UndoRedoTC - Verified that the list is deleted in VE.
+22:31:53.297 [main] INFO  c_testCases.F12_UndoRedoTC - ****    Starting --> UndoTC    ****
+22:32:27.909 [main] INFO  c_testCases.F12_UndoRedoTC - clicked on First para from VE
+22:32:29.201 [main] INFO  c_testCases.F12_UndoRedoTC - Verifying Address present in VE
+22:41:02.845 [main] INFO  c_testCases.F12_UndoRedoTC - ****    Starting --> UndoTC    ****
+22:41:26.876 [main] INFO  c_testCases.F12_UndoRedoTC - clicked on First para from VE
+22:41:28.747 [main] INFO  c_testCases.F12_UndoRedoTC - Verifying Address present in VE
+22:42:13.367 [main] INFO  c_testCases.F12_UndoRedoTC - ****    Starting --> UndoTC    ****
+22:42:48.528 [main] INFO  c_testCases.F12_UndoRedoTC - clicked on First para from VE
+22:42:49.968 [main] INFO  c_testCases.F12_UndoRedoTC - Verifying Address present in VE
+22:46:39.543 [main] INFO  c_testCases.F12_UndoRedoTC - ****    Starting --> UndoTC    ****
+22:47:04.762 [main] INFO  c_testCases.F12_UndoRedoTC - clicked on First para from VE
+22:47:06.200 [main] INFO  c_testCases.F12_UndoRedoTC - Verifying Address present in VE
+22:48:27.588 [main] INFO  c_testCases.F12_UndoRedoTC - ****    Starting --> UndoTC    ****
+22:48:55.392 [main] INFO  c_testCases.F12_UndoRedoTC - clicked on First para from VE
+22:48:56.815 [main] INFO  c_testCases.F12_UndoRedoTC - Verifying Address present in VE
+22:50:53.480 [main] INFO  c_testCases.F12_UndoRedoTC - ****    Starting --> paraTC    ****
+22:51:24.143 [main] INFO  c_testCases.F12_UndoRedoTC - clicked on second section from DS
+22:51:25.141 [main] INFO  c_testCases.F12_UndoRedoTC - clicked on second sections 2nd para from DS
+22:51:25.324 [main] INFO  c_testCases.F12_UndoRedoTC - clicked on Enter key
+22:51:26.215 [main] INFO  c_testCases.F12_UndoRedoTC - Verifying new para present in VE
+22:53:33.216 [main] INFO  c_testCases.F12_UndoRedoTC - ****    Starting --> paraTC    ****
+22:53:59.607 [main] INFO  c_testCases.F12_UndoRedoTC - clicked on second section from DS
+22:54:00.608 [main] INFO  c_testCases.F12_UndoRedoTC - clicked on second sections 2nd para from DS
+22:54:00.812 [main] INFO  c_testCases.F12_UndoRedoTC - clicked on Enter key
+22:54:01.349 [main] INFO  c_testCases.F12_UndoRedoTC - Verifying new para present in VE
+23:03:09.948 [main] INFO  c_testCases.F12_UndoRedoTC - ****    Starting --> paraTC    ****
+23:03:59.694 [main] INFO  c_testCases.F12_UndoRedoTC - clicked on First para from VE
+23:04:00.968 [main] INFO  c_testCases.F12_UndoRedoTC - clicked on simple-para selement
+23:04:01.195 [main] INFO  c_testCases.F12_UndoRedoTC - Verifying Simple Para present in VE
+23:04:01.272 [main] INFO  c_testCases.F12_UndoRedoTC - Verifying Simple Para present into DS
+23:04:37.371 [main] INFO  c_testCases.F12_UndoRedoTC - ****    Starting --> paraTC    ****
+23:05:02.194 [main] INFO  c_testCases.F12_UndoRedoTC - clicked on First para from VE
+23:05:03.493 [main] INFO  c_testCases.F12_UndoRedoTC - clicked on simple-para selement
+23:05:03.635 [main] INFO  c_testCases.F12_UndoRedoTC - Verifying Simple Para present in VE
+23:05:03.668 [main] INFO  c_testCases.F12_UndoRedoTC - Verifying Simple Para present into DS
+23:07:37.982 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F1_SectionTC - ****    Starting --> SectionTC    ****
+23:07:40.312 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F1_SectionTC - Double Clicked on Section Number....
+23:07:40.583 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F1_SectionTC - ****    Starting --> SectionTC    ****
+23:07:41.407 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F1_SectionTC -  Clicked on deleted Section Number from VE....
+23:07:41.904 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F1_SectionTC - Clicked on Document structure First section....
+23:07:42.099 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F1_SectionTC - ****    Starting --> SectionTC    ****
+23:07:43.373 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F1_SectionTC - Clicked on Document structure First section....
+23:07:44.173 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F1_SectionTC - Clicked on Accept changes Button....
+23:07:44.814 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F1_SectionTC - Right clicked and removerd section Number
+23:07:45.956 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F1_SectionTC - Right clicked and removerd section heading
+23:07:46.643 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F1_SectionTC - ****    Starting --> SectionTC    ****
+23:07:46.875 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F1_SectionTC - Verifying section presence in Visual Editor...
+23:07:47.146 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F1_SectionTC - Clicked on Accept changes Button....
+23:07:47.482 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F1_SectionTC - Clicked on Quick Preview Button....
+23:07:47.818 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F1_SectionTC - Verifying section presence in Quick Preview...
+23:07:47.947 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F1_SectionTC - New Section Number is Inserted In VE
+23:07:48.807 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F1_SectionTC - Clicked on visual Editor Button....
+23:07:49.326 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F1_SectionTC - Clicked on Accept changes Button....
+23:07:49.497 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F1_SectionTC - Clicked on Accept changes Button....
+23:07:50.321 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F1_SectionTC - Clicked on Code View Button....
+23:07:51.186 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F1_SectionTC - Right clicked and click on Remove element....
+23:07:53.201 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F1_SectionTC - Clicked on Accept changes Button....
+23:08:30.552 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F1_SectionTC - Verifying content validation is not Occured...
+23:08:30.962 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F1_SectionTC - Verifying section Heading is not present in Visual Editor...
+23:08:30.999 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F1_SectionTC - Clicked on Quick Preview Button....
+23:08:31.266 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F1_SectionTC - Verifying section Number is not present in Visual Editor...
+23:08:31.838 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F1_SectionTC - Clicked on Code View Button....
+23:08:32.074 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F1_SectionTC - Clicked on Code View Button....
+23:08:35.499 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F1_SectionTC - Verifying section is not present in Visual Editor...
+23:08:36.568 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F1_SectionTC - Clicked on Code View Button....
+23:09:11.145 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F1_SectionTC - Verifying section Number is not present in Quick Preview...
+23:09:11.145 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F1_SectionTC - ****    Finished --> SectionTc    ****
+23:09:11.951 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F1_SectionTC - Verifying content validation is not Occured...
+23:09:12.237 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F1_SectionTC - Verifying content validation is not Occured...
+23:09:12.360 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F1_SectionTC - Clicked on Quick Preview Button....
+23:09:12.777 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F1_SectionTC - Clicked on Quick Preview Button....
+23:09:16.770 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F1_SectionTC - Verifying content validation is not Occured...
+23:09:17.126 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F1_SectionTC - Clicked on Quick Preview Button....
+23:09:52.467 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F1_SectionTC - Verifying section heading is not present in Quick Preview...
+23:09:52.467 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F1_SectionTC - ****    Finished --> SectionTc    ****
+23:09:52.957 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F1_SectionTC - Verifying section Number is not present in Quick Preview...
+23:09:52.957 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F1_SectionTC - ****    Finished --> SectionTc    ****
+23:09:57.435 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F1_SectionTC - Verifying section is not present in Quick Preview...
+23:09:57.435 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F1_SectionTC - ****    Finished --> SectionTc    ****
+23:32:40.738 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F1_SectionTC - ****    Starting --> SectionTC    ****
+23:32:41.464 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F1_SectionTC - Verifying section presence in Visual Editor...
+23:32:41.991 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F1_SectionTC - Clicked on Quick Preview Button....
+23:32:42.261 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F1_SectionTC - Verifying section presence in Quick Preview...
+23:32:43.136 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F1_SectionTC - Clicked on visual Editor Button....
+23:32:43.970 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F1_SectionTC - ****    Starting --> SectionTC    ****
+23:32:44.056 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F1_SectionTC - ****    Starting --> SectionTC    ****
+23:32:44.106 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F1_SectionTC - ****    Starting --> SectionTC    ****
+23:32:44.983 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F1_SectionTC - Clicked on Document structure First section....
+23:32:44.985 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F1_SectionTC - Clicked on Document structure First section....
+23:32:45.058 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F1_SectionTC - Right clicked and click on Remove element....
+23:32:45.066 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F1_SectionTC - Double Clicked on Section Number....
+23:32:46.004 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F1_SectionTC -  Clicked on deleted Section Number from VE....
+23:32:46.573 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F1_SectionTC - Right clicked and removerd section heading
+23:32:46.593 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F1_SectionTC - Right clicked and removerd section Number
+23:32:47.181 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F1_SectionTC - Clicked on Accept changes Button....
+23:32:47.193 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F1_SectionTC - Clicked on Accept changes Button....
+23:32:47.714 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F1_SectionTC - Clicked on Accept changes Button....
+23:32:48.459 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F1_SectionTC - Clicked on Accept changes Button....
+23:32:50.251 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F1_SectionTC - New Section Number is Inserted In VE
+23:32:50.595 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F1_SectionTC - Clicked on Accept changes Button....
+23:32:50.873 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F1_SectionTC - Clicked on Code View Button....
+23:33:29.051 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F1_SectionTC - Verifying section Heading is not present in Visual Editor...
+23:33:29.237 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F1_SectionTC - Verifying section is not present in Visual Editor...
+23:33:29.375 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F1_SectionTC - Clicked on Code View Button....
+23:33:29.636 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F1_SectionTC - Clicked on Code View Button....
+23:33:30.200 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F1_SectionTC - Verifying section Number is not present in Visual Editor...
+23:33:30.611 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F1_SectionTC - Clicked on Code View Button....
+23:33:31.066 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F1_SectionTC - Verifying content validation is not Occured...
+23:33:31.493 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F1_SectionTC - Clicked on Quick Preview Button....
+23:34:09.468 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F1_SectionTC - Verifying content validation is not Occured...
+23:34:09.698 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F1_SectionTC - Clicked on Quick Preview Button....
+23:34:09.802 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F1_SectionTC - Verifying content validation is not Occured...
+23:34:10.077 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F1_SectionTC - Clicked on Quick Preview Button....
+23:34:10.776 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F1_SectionTC - Verifying content validation is not Occured...
+23:34:10.982 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F1_SectionTC - Clicked on Quick Preview Button....
+23:34:11.587 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F1_SectionTC - Verifying section Number is not present in Quick Preview...
+23:34:11.587 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F1_SectionTC - ****    Finished --> SectionTc    ****
+23:34:49.751 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F1_SectionTC - Verifying section heading is not present in Quick Preview...
+23:34:49.751 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F1_SectionTC - ****    Finished --> SectionTc    ****
+23:34:50.233 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F1_SectionTC - Verifying section is not present in Quick Preview...
+23:34:50.233 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F1_SectionTC - ****    Finished --> SectionTc    ****
+23:34:51.057 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F1_SectionTC - Verifying section Number is not present in Quick Preview...
+23:34:51.057 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F1_SectionTC - ****    Finished --> SectionTc    ****
+23:38:57.835 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F2_ParaTC - ****    Starting --> paraTC    ****
+23:39:27.990 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F2_ParaTC - clicked on second section from DS
+23:39:29.326 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F2_ParaTC - clicked on second sections 2nd para from DS
+23:39:29.826 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F2_ParaTC - Added some text intop para element
+23:39:30.060 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F2_ParaTC - Verifying para element is present in VE
+23:39:30.094 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F2_ParaTC - Verifying Hello text is added into para
+23:39:30.130 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F2_ParaTC - Verifying para element is present in DS
+23:39:30.130 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F2_ParaTC - ****    Finished --> paraTC    ****
+23:40:13.865 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F2_ParaTC - ****    Starting --> paraTC    ****
+23:40:14.875 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F2_ParaTC - ****    Starting --> paraTC    ****
+23:40:40.125 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F2_ParaTC - clicked on First para from VE
+23:40:42.763 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F2_ParaTC - Verifying Address present in VE
+23:40:42.816 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F2_ParaTC - Verifying Address present into DS
+23:40:45.809 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F2_ParaTC - clicked on second section from DS
+23:40:47.077 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F2_ParaTC - clicked on second sections first para from DS
+23:40:47.678 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F2_ParaTC - clicked on change element and search for simple-para
+23:40:49.091 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F2_ParaTC - clicked on simple-para selement
+23:41:23.428 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F2_ParaTC - verifying content validation not occured in code view
+23:41:23.428 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F2_ParaTC - ****    Finished --> paraTC    ****
+23:41:29.862 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F2_ParaTC - verifying content validation not occured in code view
+23:41:29.862 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F2_ParaTC - ****    Finished --> paraTC    ****
+23:42:14.911 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F2_ParaTC - Rightclicked on First para from VE
+23:42:15.570 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F2_ParaTC - clicked on Insert After button from VE
+23:42:15.810 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F2_ParaTC - clicked on Insert after simple para
+23:42:17.604 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F2_ParaTC - Verifying Simple Para present in VE
+23:42:17.633 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F2_ParaTC - Verifying Simple Para present into DS
+23:42:25.831 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F2_ParaTC - ****    Starting --> paraTC    ****
+23:42:26.285 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F2_ParaTC - Rightclicked on First para from VE
+23:42:26.762 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F2_ParaTC - clicked on Insert After button from VE
+23:42:26.976 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F2_ParaTC - clicked on Insert after simple para
+23:42:27.450 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F2_ParaTC - clicked on insert element button from inseet after popup
+23:42:28.494 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F2_ParaTC - Verifying Simple Para present in VE
+23:42:28.526 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F2_ParaTC - Verifying Simple Para present into DS
+23:42:58.093 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F2_ParaTC - verifying content validation not occured in code view
+23:42:58.093 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F2_ParaTC - ****    Finished --> paraTC    ****
+23:43:08.937 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F2_ParaTC - verifying content validation not occured in code view
+23:43:08.938 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F2_ParaTC - ****    Finished --> paraTC    ****
+23:44:09.311 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F2_ParaTC - ****    Starting --> paraTC    ****
+23:44:13.680 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F2_ParaTC - Rightclicked on First para from VE
+23:44:14.238 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F2_ParaTC - clicked on Insert After button from VE
+23:44:14.472 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F2_ParaTC - clicked on Insert after simple para
+23:44:16.371 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F2_ParaTC - Verifying Simple Para present in VE
+23:44:16.399 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F2_ParaTC - Verifying Simple Para present into DS
+23:44:37.896 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F2_ParaTC - ****    Starting --> paraTC    ****
+23:44:38.537 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F2_ParaTC - clicked on First para from VE
+23:44:40.099 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F2_ParaTC - clicked on simple-para selement
+23:44:40.464 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F2_ParaTC - Verifying Simple Para present in VE
+23:44:40.508 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F2_ParaTC - Verifying Simple Para present into DS
+23:44:48.902 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F2_ParaTC - ****    Starting --> paraTC    ****
+23:44:56.795 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F2_ParaTC - verifying content validation not occured in code view
+23:44:56.795 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F2_ParaTC - ****    Finished --> paraTC    ****
+23:45:05.401 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F2_ParaTC - clicked on second section from DS
+23:45:06.761 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F2_ParaTC - clicked on second sections 2nd para from DS
+23:45:07.149 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F2_ParaTC - clicked on Enter key
+23:45:08.479 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F2_ParaTC - Verifying new para present in VE
+23:45:08.522 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F2_ParaTC - Verifying new para present into DS
+23:45:15.995 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F2_ParaTC - clicked on First para from VE
+23:45:17.811 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F2_ParaTC - clicked on simple-para selement
+23:45:18.001 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F2_ParaTC - Verifying Simple Para present in VE
+23:45:18.034 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F2_ParaTC - Verifying Simple Para present into DS
+23:45:49.305 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F2_ParaTC - verifying content validation not occured in code view
+23:45:49.305 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F2_ParaTC - ****    Finished --> paraTC    ****
+23:45:55.362 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F2_ParaTC - ****    Starting --> paraTC    ****
+23:45:58.483 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F2_ParaTC - verifying content validation not occured in code view
+23:45:58.483 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F2_ParaTC - ****    Finished --> paraTC    ****
+23:46:20.992 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F2_ParaTC - clicked on Bold para from VE
+23:46:21.511 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F2_ParaTC - Performed Shift+Enter Action 
+23:46:22.140 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F2_ParaTC - clicked on Code View Button
+23:46:31.528 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F2_ParaTC - Logged in and searched for a file, then clicked Edit.
+23:46:31.541 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F2_ParaTC - Switched to frame 0.
+23:46:31.555 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F2_ParaTC - Number of list items before deleting: 5
+23:46:32.008 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F2_ParaTC - Clicked on Existing List Item.
+23:46:34.082 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F2_ParaTC - Switched back to frame 0.
+23:46:36.698 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F2_ParaTC - Logged in and searched for a file, then clicked Edit.
+23:46:36.892 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F2_ParaTC - Switched to frame 0.
+23:46:36.913 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F2_ParaTC - Number of list items before deleting: 5
+23:46:37.769 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F2_ParaTC - Clicked on Existing List Item.
+23:46:41.182 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F2_ParaTC - Switched back to frame 0.
+23:47:02.288 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F2_ParaTC - verifying content validation not occured in code view
+23:47:02.289 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F2_ParaTC - ****    Finished --> paraTC    ****
+23:47:12.745 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F2_ParaTC - Logged in and searched for a file, then clicked Edit.
+23:47:12.798 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F2_ParaTC - Switched to frame 0.
+23:47:12.824 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F2_ParaTC - Number of list items before deleting: 5
+23:47:13.329 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F2_ParaTC - Clicked on Existing List Item.
+23:47:13.562 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F2_ParaTC - Logged in and searched for a file, then clicked Edit.
+23:47:13.590 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F2_ParaTC - Switched to frame 0.
+23:47:13.609 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F2_ParaTC - Number of list items before deleting: 5
+23:47:14.432 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F2_ParaTC - Clicked on Existing List Item.
+23:47:15.000 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F2_ParaTC - Switched back to frame 0.
+23:47:17.664 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F2_ParaTC - Switched back to frame 0.
+23:47:43.624 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F2_ParaTC - Logged in and searched for a file, then clicked Edit.
+23:47:49.748 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F3_ListTC - Starting AddList_To_ExistingList_CheckCount
+23:47:50.648 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F3_ListTC - Starting InsertAfterNotes_To_ExistingList
+23:47:56.878 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F2_ParaTC - Logged in and searched for a file, then clicked Edit.
+23:47:56.904 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F2_ParaTC - Switched to frame 0.
+23:47:56.920 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F2_ParaTC - Number of list items before deleting: 5
+23:47:57.835 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F2_ParaTC - Clicked on Existing List Item.
+23:48:00.570 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F2_ParaTC - Logged in and searched for a file, then clicked Edit.
+23:48:00.639 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F2_ParaTC - Switched to frame 0.
+23:48:00.659 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F2_ParaTC - Number of list items before deleting: 5
+23:48:01.169 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F2_ParaTC - Clicked on Existing List Item.
+23:48:01.385 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F2_ParaTC - Switched back to frame 0.
+23:48:03.489 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F2_ParaTC - Switched back to frame 0.
+23:48:24.676 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F3_ListTC - Logged in, searched for a file, and clicked Edit.
+23:48:24.701 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F3_ListTC - Switched to frame 0.
+23:48:24.717 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F3_ListTC - Number of list items before adding: 5
+23:48:25.223 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F3_ListTC - Clicked on Existing List Item.
+23:48:25.419 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F3_ListTC - Logged in, searched for a file, and clicked Edit.
+23:48:25.419 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F3_ListTC - UIUX-2906
+23:48:25.438 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F3_ListTC - Switched to frame 0.
+23:48:25.940 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F3_ListTC - Performed ENTER key press.
+23:48:26.308 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F3_ListTC - Performed right-click on Existing List Item.
+23:48:26.470 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F3_ListTC - Switched to frame 1.
+23:48:27.020 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F3_ListTC - Clicked VE Insert After.
+23:48:27.308 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F3_ListTC - Clicked Insert After Notes.
+23:48:27.830 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F3_ListTC - Clicked RHS Insert Button.
+23:48:28.203 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F3_ListTC - Typed 'Hello'.
+23:48:28.727 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F3_ListTC - Finished InsertAfterNotes_To_ExistingList
+23:48:29.117 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F3_ListTC - Verified that Accept Change Element is enabled.
+23:48:29.155 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F3_ListTC - Verified that Reject Change Element is enabled.
+23:48:34.889 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F3_ListTC - Starting InsertAfter_SimplePara_ExistingList
+23:48:45.617 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F2_ParaTC - Logged in and searched for a file, then clicked Edit.
+23:48:45.635 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F2_ParaTC - Switched to frame 0.
+23:48:45.652 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F2_ParaTC - Number of list items before deleting: 5
+23:48:46.128 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F2_ParaTC - Clicked on Existing List Item.
+23:48:46.481 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F2_ParaTC - Logged in and searched for a file, then clicked Edit.
+23:48:46.498 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F2_ParaTC - Switched to frame 0.
+23:48:46.521 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F2_ParaTC - Number of list items before deleting: 5
+23:48:47.166 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F2_ParaTC - Clicked on Existing List Item.
+23:48:49.157 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F2_ParaTC - Switched back to frame 0.
+23:48:49.170 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F2_ParaTC - Switched back to frame 0.
+23:48:55.788 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F3_ListTC - Starting InsertList_ToExistingList_DS
+23:48:56.769 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F3_ListTC - Starting InsertList_To_ExistingList_ThroughRHS
+23:49:04.130 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F3_ListTC - Logged in, searched for a file, and clicked Edit.
+23:49:04.130 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F3_ListTC - UIUX-2906
+23:49:04.149 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F3_ListTC - Switched to frame 0.
+23:49:04.693 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F3_ListTC - Performed right-click on Existing List Item.
+23:49:04.826 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F3_ListTC - Switched to frame 1.
+23:49:05.299 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F3_ListTC - Clicked VE Insert After.
+23:49:05.496 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F3_ListTC - Clicked Insert After Simple Para.
+23:49:06.090 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F3_ListTC - Clicked RHS Insert Button.
+23:49:07.333 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F3_ListTC - Finished InsertAfter_SimplePara_ExistingList
+23:49:09.254 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F3_ListTC - Verifying if attributeLiButton is not displayed.
+23:49:09.254 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F3_ListTC - Verified that attributeLiButton is not displayed.
+23:49:09.261 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F3_ListTC - Verified that the list count increased by 1 after adding.
+23:49:13.282 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F3_ListTC - Starting PressEnter2Times_ToExistingList
+23:49:25.045 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F3_ListTC - Logged in, searched for a file, and clicked Edit.
+23:49:25.061 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F3_ListTC - Switched to frame 0.
+23:49:25.081 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F3_ListTC - Number of list items before adding: 5
+23:49:25.660 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F3_ListTC - Performed context click on Existing List Item.
+23:49:25.813 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F3_ListTC - Switched to frame 1.
+23:49:26.232 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F3_ListTC - Clicked on VE Insert After.
+23:49:26.422 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F3_ListTC - Clicked on Insert After List.
+23:49:28.057 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F3_ListTC - Clicked on RHS Insert Button.
+23:49:28.749 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F3_ListTC - Verified that Accept Change Element is enabled.
+23:49:28.783 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F3_ListTC - Verified that Reject Change Element is enabled.
+23:49:28.808 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F3_ListTC - Verified that the list count increased by 1 after adding.
+23:49:28.837 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F3_ListTC - Verified that List is highlighted in VE.
+23:49:28.837 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F3_ListTC - Finished InsertList_To_ExistingList_ThroughRHS
+23:49:29.114 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F3_ListTC - Logged in, searched for a file, and clicked Edit.
+23:49:29.144 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F3_ListTC - Switched to frame 0.
+23:49:29.702 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F3_ListTC - Clicked List Before Paragraph.
+23:49:30.192 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F3_ListTC - Clicked DS Existing Ordered List.
+23:49:31.350 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F3_ListTC - Clicked DS Existing List Item.
+23:49:31.636 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F3_ListTC - Performed right-click on DS Existing List Item.
+23:49:31.818 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F3_ListTC - Clicked DS Insert After.
+23:49:33.913 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F3_ListTC - Pressed TAB and ENTER keys.
+23:49:34.182 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F3_ListTC - Finished InsertList_ToExistingList_DS
+23:49:35.406 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F3_ListTC - Starting PressEnterAtEnd_ToExistingList_CheckCount
+23:49:38.444 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F3_ListTC - Logged in, searched for a file, and clicked Edit.
+23:49:38.606 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F3_ListTC - Switched to frame 0.
+23:49:39.325 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F3_ListTC - Clicked on Existing List Item.
+23:49:39.687 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F3_ListTC - Pressed ENTER key once.
+23:49:40.887 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F3_ListTC - Starting AddList_To_ExistingList_CheckCount
+23:49:40.999 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F3_ListTC - Pressed ENTER key again.
+23:49:41.965 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F3_ListTC - Pressed ENTER key one more time.
+23:49:42.479 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F3_ListTC - Verifying if Insert After popup is visible.
+23:49:42.479 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F3_ListTC - Finished PressEnter2Times_ToExistingList
+23:49:48.900 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F3_ListTC - Starting Verify_AddListToTable ..
+23:49:49.704 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F3_ListTC - Verified that Content Validation error is not present in Code View.
+23:49:49.704 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F3_ListTC - Finished AddList_To_ExistingList_CheckCount
+23:49:55.342 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F3_ListTC - Starting Verify_ListToFigHeading ..
+23:50:03.149 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F3_ListTC - Logged in, searched for a file, and clicked Edit.
+23:50:03.166 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F3_ListTC - Switched to frame 0.
+23:50:03.183 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F3_ListTC - List count before adding: 5
+23:50:03.779 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F3_ListTC - Clicked on List before Para.
+23:50:04.299 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F3_ListTC - Clicked on DS Existing OL.
+23:50:05.255 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F3_ListTC - Clicked on DS Existing List Item.
+23:50:05.546 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F3_ListTC - Pressed ENTER key.
+23:50:06.322 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F3_ListTC - Accept Change button is enabled.
+23:50:06.350 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F3_ListTC - Reject Change button is enabled.
+23:50:20.443 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F3_ListTC - Logged in, searched for a file, and clicked Edit.
+23:50:20.461 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F3_ListTC - Switched to frame 0.
+23:50:20.476 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F3_ListTC - Number of list items before adding: 5
+23:50:20.955 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F3_ListTC - Clicked on Existing List Item.
+23:50:21.381 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F3_ListTC - Performed ENTER key press.
+23:50:22.917 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F3_ListTC - Typed 'Hello'.
+23:50:24.096 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F3_ListTC - Verified that Accept Change Element is enabled.
+23:50:24.129 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F3_ListTC - Verified that Reject Change Element is enabled.
+23:50:32.568 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F3_ListTC - New Table is inserted into VE
+23:50:33.190 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F3_ListTC - Clicked on new table Cell
+23:50:33.813 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F3_ListTC - Clicked on Number List.
+23:50:34.392 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F3_ListTC - Hello text is added into new table
+23:50:35.394 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F3_ListTC - Right Clicked on Para Element 
+23:50:35.484 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  c_testCases.F3_ListTC - clicked on Code View button 
+23:50:36.095 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F3_ListTC - Clicked on Insert After 
+23:50:36.377 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F3_ListTC - Searched figure element from fearch field 
+23:50:36.534 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F3_ListTC - Clicked on Figure element
+23:50:37.100 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F3_ListTC - Clicked on Insert element Button 
+23:50:41.607 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F3_ListTC - Figure heading is Added 
+23:50:44.019 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F3_ListTC - Clicked on Accept changes 
+23:50:46.307 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F3_ListTC - Verified that List Number is present in DS.
+23:50:46.351 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F3_ListTC - Verified that List Number is Added to Figure Heading In VE.
+23:50:46.351 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F3_ListTC - Finished Verify_ListToFigHeading
+23:50:46.428 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F3_ListTC - Attribute Li button is not displayed.
+23:50:46.440 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F3_ListTC - List count after adding: 6
+23:50:46.440 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F3_ListTC - List count increased by 1 as expected.
+23:50:46.978 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  c_testCases.F3_ListTC - Clicked on Code View.
+23:50:52.282 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  c_testCases.F3_ListTC - Starting Verify_ListToFigHeading ..
+23:51:04.244 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F3_ListTC - Verifying if attributeLiButton is not displayed.
+23:51:04.264 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  c_testCases.F3_ListTC - Verified that the list count increased by 1 after adding.

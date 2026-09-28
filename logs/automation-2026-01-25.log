@@ -1,0 +1,368 @@
+22:52:29.722 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Browser closed for test: verifyEnterkeyStartListExisting
+22:52:29.736 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Thread Name: TestNG-test-RetryMultipleFailedTestcases-4
+22:52:29.736 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Thread ID: 53
+22:52:34.644 [TestNG-test-RetryMultipleFailedTestcases-4] WARN  a_testbase.BaseClass - Test method verifyHitEnterAtMiddleOfPara is not annotated with @ZephyrTestCase. Zephyr updates skipped.
+22:52:34.645 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Starting test: verifyHitEnterAtMiddleOfPara
+22:52:56.985 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - 'Please Wait' has disappeared. Proceeding.
+22:52:58.822 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Finished test: verifyGiveSpaceAndDeleteInLastListItem
+22:53:00.008 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Browser closed for test: verifyGiveSpaceAndDeleteInLastListItem
+22:53:00.010 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Thread Name: TestNG-test-RetryMultipleFailedTestcases-3
+22:53:00.010 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Thread ID: 52
+22:53:02.089 [TestNG-test-RetryMultipleFailedTestcases-4] WARN  a_testbase.BaseClass - No 'Please Wait' element found or already disappeared.
+22:53:05.185 [TestNG-test-RetryMultipleFailedTestcases-3] WARN  a_testbase.BaseClass - Test method verifyHitEnterBeforeAddressPara is not annotated with @ZephyrTestCase. Zephyr updates skipped.
+22:53:05.185 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Starting test: verifyHitEnterBeforeAddressPara
+22:53:05.185 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - IAPPAE-6722
+22:53:09.052 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - 'Please Wait' has disappeared. Proceeding.
+22:53:51.287 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - Finished test: verifyFootnoteEnterKeyEndoftheElement
+22:53:52.465 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - Browser closed for test: verifyFootnoteEnterKeyEndoftheElement
+22:53:52.465 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - Thread Name: TestNG-test-RetryMultipleFailedTestcases-1
+22:53:52.465 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - Thread ID: 50
+22:53:56.564 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - 'Please Wait' has disappeared. Proceeding.
+22:53:57.222 [TestNG-test-RetryMultipleFailedTestcases-1] WARN  a_testbase.BaseClass - Test method verifyHitEnterInBetweenTwoTable is not annotated with @ZephyrTestCase. Zephyr updates skipped.
+22:53:57.222 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - Starting test: verifyHitEnterInBetweenTwoTable
+22:54:23.908 [TestNG-test-RetryMultipleFailedTestcases-1] WARN  a_testbase.BaseClass - No 'Please Wait' element found or already disappeared.
+22:54:24.587 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  b_utilities.RetryAnalyzer - 🔴 Browser closed before retry attempt: 1
+22:54:24.589 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Browser closed for test: verifyHitEnterAtMiddleOfPara
+22:54:24.590 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Thread Name: TestNG-test-RetryMultipleFailedTestcases-4
+22:54:24.590 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Thread ID: 53
+22:54:29.637 [TestNG-test-RetryMultipleFailedTestcases-4] WARN  a_testbase.BaseClass - Test method verifyHitEnterAtMiddleOfPara is not annotated with @ZephyrTestCase. Zephyr updates skipped.
+22:54:29.638 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Starting test: verifyHitEnterAtMiddleOfPara
+22:54:30.931 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  b_utilities.RetryAnalyzer - ⚠ Zephyr Test Case ID not found for: verifyEnterkeyStartParaNewpara
+22:54:32.421 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - Browser closed for test: verifyEnterkeyStartParaNewpara
+22:54:32.422 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - Thread Name: TestNG-test-RetryMultipleFailedTestcases-2
+22:54:32.422 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - Thread ID: 51
+22:54:38.327 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - Finished test: verifyHitEnterInBetweenTwoTable
+22:54:38.856 [TestNG-test-RetryMultipleFailedTestcases-2] WARN  a_testbase.BaseClass - Test method verifyHitEnterInMiddleOfContentExistingTable is not annotated with @ZephyrTestCase. Zephyr updates skipped.
+22:54:38.858 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - Starting test: verifyHitEnterInMiddleOfContentExistingTable
+22:54:39.636 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - Browser closed for test: verifyHitEnterInBetweenTwoTable
+22:54:39.638 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - Thread Name: TestNG-test-RetryMultipleFailedTestcases-1
+22:54:39.639 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - Thread ID: 50
+22:54:45.962 [TestNG-test-RetryMultipleFailedTestcases-1] WARN  a_testbase.BaseClass - Test method verifyHitEnterInMiddleOfContentNewTable is not annotated with @ZephyrTestCase. Zephyr updates skipped.
+22:54:45.964 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - Starting test: verifyHitEnterInMiddleOfContentNewTable
+22:55:16.432 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - 'Please Wait' has disappeared. Proceeding.
+22:55:23.992 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - 'Please Wait' has disappeared. Proceeding.
+22:55:32.280 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - Finished test: verifyHitEnterInMiddleOfContentExistingTable
+22:55:34.811 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  b_utilities.RetryAnalyzer - 🔴 Browser closed before retry attempt: 1
+22:55:34.816 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Browser closed for test: verifyHitEnterBeforeAddressPara
+22:55:34.817 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Thread Name: TestNG-test-RetryMultipleFailedTestcases-3
+22:55:34.817 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Thread ID: 52
+22:55:35.429 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - Browser closed for test: verifyHitEnterInMiddleOfContentExistingTable
+22:55:35.435 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - Thread Name: TestNG-test-RetryMultipleFailedTestcases-2
+22:55:35.435 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - Thread ID: 51
+22:55:42.392 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - 'Please Wait' has disappeared. Proceeding.
+22:55:45.792 [TestNG-test-RetryMultipleFailedTestcases-2] WARN  a_testbase.BaseClass - Test method verifyHitEnterInNumberedPara is not annotated with @ZephyrTestCase. Zephyr updates skipped.
+22:55:45.793 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - Starting test: verifyHitEnterInNumberedPara
+22:55:47.564 [TestNG-test-RetryMultipleFailedTestcases-3] WARN  a_testbase.BaseClass - Test method verifyHitEnterBeforeAddressPara is not annotated with @ZephyrTestCase. Zephyr updates skipped.
+22:55:47.567 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Starting test: verifyHitEnterBeforeAddressPara
+22:55:47.567 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - IAPPAE-6722
+22:55:54.402 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  b_utilities.RetryAnalyzer - 🔴 Browser closed before retry attempt: 1
+22:55:54.411 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - Browser closed for test: verifyHitEnterInMiddleOfContentNewTable
+22:55:54.413 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - Thread Name: TestNG-test-RetryMultipleFailedTestcases-1
+22:55:54.413 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - Thread ID: 50
+22:56:01.257 [TestNG-test-RetryMultipleFailedTestcases-1] WARN  a_testbase.BaseClass - Test method verifyHitEnterInMiddleOfContentNewTable is not annotated with @ZephyrTestCase. Zephyr updates skipped.
+22:56:01.259 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - Starting test: verifyHitEnterInMiddleOfContentNewTable
+22:56:05.835 [TestNG-test-RetryMultipleFailedTestcases-2] WARN  a_testbase.BaseClass - An error occurred: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='email']"}
+  (Session info: chrome=143.0.7499.193)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [557b7dca4ef1acb57eb2302f51843db3, findElement {using=xpath, value=//input[@id='email']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.193, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\IN3915\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55638}, goog:processID: 6416, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55638/devtoo..., se:cdpVersion: 143.0.7499.193, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 557b7dca4ef1acb57eb2302f51843db3
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='email']"}
+  (Session info: chrome=143.0.7499.193)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [557b7dca4ef1acb57eb2302f51843db3, findElement {using=xpath, value=//input[@id='email']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.193, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\IN3915\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55638}, goog:processID: 6416, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55638/devtoo..., se:cdpVersion: 143.0.7499.193, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 557b7dca4ef1acb57eb2302f51843db3
+	at jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:486) ~[?:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200) ~[selenium-remote-driver-4.11.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133) ~[selenium-remote-driver-4.11.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52) ~[selenium-remote-driver-4.11.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191) ~[selenium-remote-driver-4.11.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:196) ~[selenium-remote-driver-4.11.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:171) ~[selenium-remote-driver-4.11.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518) ~[selenium-remote-driver-4.11.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165) ~[selenium-remote-driver-4.11.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59) ~[selenium-remote-driver-4.11.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355) ~[selenium-remote-driver-4.11.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:349) ~[selenium-remote-driver-4.11.0.jar:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.openqa.selenium.support.ThreadGuard$WebDriverInvocationHandler.invokeUnderlying(ThreadGuard.java:99) ~[selenium-support-4.11.0.jar:?]
+	at org.openqa.selenium.support.ThreadGuard$WebDriverInvocationHandler.invoke(ThreadGuard.java:91) ~[selenium-support-4.11.0.jar:?]
+	at jdk.proxy2.$Proxy37.findElement(Unknown Source) ~[?:?]
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68) ~[selenium-support-4.11.0.jar:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38) ~[selenium-support-4.11.0.jar:?]
+	at jdk.proxy2.$Proxy40.sendKeys(Unknown Source) ~[?:?]
+	at d_loginpage.HomePage.inputUsername(HomePage.java:110) ~[test-classes/:?]
+	at b_utilities.ReusableMethods.file2(ReusableMethods.java:78) ~[test-classes/:?]
+	at b_utilities.ReusableMethods.loginAndSearchFileClickEdit(ReusableMethods.java:220) ~[test-classes/:?]
+	at enter_delete_backspace.ebdTestCases2.verifyHitEnterInNumberedPara(ebdTestCases2.java:490) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at org.testng.internal.thread.graph.TestNGFutureTask.run(TestNGFutureTask.java:22) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+22:56:07.514 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  b_utilities.RetryAnalyzer - 🔴 Browser closed before retry attempt: 1
+22:56:07.519 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - Browser closed for test: verifyHitEnterInNumberedPara
+22:56:07.519 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - Thread Name: TestNG-test-RetryMultipleFailedTestcases-2
+22:56:07.519 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - Thread ID: 51
+22:56:11.711 [TestNG-test-RetryMultipleFailedTestcases-2] WARN  a_testbase.BaseClass - Test method verifyHitEnterInNumberedPara is not annotated with @ZephyrTestCase. Zephyr updates skipped.
+22:56:11.713 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - Starting test: verifyHitEnterInNumberedPara
+22:56:21.314 [TestNG-test-RetryMultipleFailedTestcases-1] WARN  a_testbase.BaseClass - An error occurred: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='email']"}
+  (Session info: chrome=143.0.7499.193)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e6ba12449838bab98b040d1984aaddf4, findElement {using=xpath, value=//input[@id='email']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.193, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\IN3915\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54058}, goog:processID: 18832, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54058/devtoo..., se:cdpVersion: 143.0.7499.193, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e6ba12449838bab98b040d1984aaddf4
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='email']"}
+  (Session info: chrome=143.0.7499.193)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e6ba12449838bab98b040d1984aaddf4, findElement {using=xpath, value=//input[@id='email']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.193, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\IN3915\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54058}, goog:processID: 18832, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54058/devtoo..., se:cdpVersion: 143.0.7499.193, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e6ba12449838bab98b040d1984aaddf4
+	at jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:486) ~[?:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200) ~[selenium-remote-driver-4.11.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133) ~[selenium-remote-driver-4.11.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52) ~[selenium-remote-driver-4.11.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191) ~[selenium-remote-driver-4.11.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:196) ~[selenium-remote-driver-4.11.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:171) ~[selenium-remote-driver-4.11.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518) ~[selenium-remote-driver-4.11.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165) ~[selenium-remote-driver-4.11.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59) ~[selenium-remote-driver-4.11.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355) ~[selenium-remote-driver-4.11.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:349) ~[selenium-remote-driver-4.11.0.jar:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.openqa.selenium.support.ThreadGuard$WebDriverInvocationHandler.invokeUnderlying(ThreadGuard.java:99) ~[selenium-support-4.11.0.jar:?]
+	at org.openqa.selenium.support.ThreadGuard$WebDriverInvocationHandler.invoke(ThreadGuard.java:91) ~[selenium-support-4.11.0.jar:?]
+	at jdk.proxy2.$Proxy37.findElement(Unknown Source) ~[?:?]
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68) ~[selenium-support-4.11.0.jar:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38) ~[selenium-support-4.11.0.jar:?]
+	at jdk.proxy2.$Proxy40.sendKeys(Unknown Source) ~[?:?]
+	at d_loginpage.HomePage.inputUsername(HomePage.java:110) ~[test-classes/:?]
+	at b_utilities.ReusableMethods.file1(ReusableMethods.java:45) ~[test-classes/:?]
+	at b_utilities.ReusableMethods.loginAndSearchFileClickEdit(ReusableMethods.java:218) ~[test-classes/:?]
+	at enter_delete_backspace.ebdTestCases2.verifyHitEnterInMiddleOfContentNewTable(ebdTestCases2.java:457) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.retryFailed(TestInvoker.java:269) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:76) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at org.testng.internal.thread.graph.TestNGFutureTask.run(TestNGFutureTask.java:22) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+22:56:31.776 [TestNG-test-RetryMultipleFailedTestcases-2] WARN  a_testbase.BaseClass - An error occurred: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='email']"}
+  (Session info: chrome=143.0.7499.193)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [0a4188b54a73a6d30aabcd3128f23253, findElement {using=xpath, value=//input[@id='email']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.193, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\IN3915\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51686}, goog:processID: 18308, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51686/devtoo..., se:cdpVersion: 143.0.7499.193, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 0a4188b54a73a6d30aabcd3128f23253
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='email']"}
+  (Session info: chrome=143.0.7499.193)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [0a4188b54a73a6d30aabcd3128f23253, findElement {using=xpath, value=//input[@id='email']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.193, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\IN3915\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51686}, goog:processID: 18308, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51686/devtoo..., se:cdpVersion: 143.0.7499.193, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 0a4188b54a73a6d30aabcd3128f23253
+	at jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:486) ~[?:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200) ~[selenium-remote-driver-4.11.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133) ~[selenium-remote-driver-4.11.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52) ~[selenium-remote-driver-4.11.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191) ~[selenium-remote-driver-4.11.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:196) ~[selenium-remote-driver-4.11.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:171) ~[selenium-remote-driver-4.11.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518) ~[selenium-remote-driver-4.11.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165) ~[selenium-remote-driver-4.11.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59) ~[selenium-remote-driver-4.11.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355) ~[selenium-remote-driver-4.11.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:349) ~[selenium-remote-driver-4.11.0.jar:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.openqa.selenium.support.ThreadGuard$WebDriverInvocationHandler.invokeUnderlying(ThreadGuard.java:99) ~[selenium-support-4.11.0.jar:?]
+	at org.openqa.selenium.support.ThreadGuard$WebDriverInvocationHandler.invoke(ThreadGuard.java:91) ~[selenium-support-4.11.0.jar:?]
+	at jdk.proxy2.$Proxy37.findElement(Unknown Source) ~[?:?]
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68) ~[selenium-support-4.11.0.jar:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38) ~[selenium-support-4.11.0.jar:?]
+	at jdk.proxy2.$Proxy40.sendKeys(Unknown Source) ~[?:?]
+	at d_loginpage.HomePage.inputUsername(HomePage.java:110) ~[test-classes/:?]
+	at b_utilities.ReusableMethods.file2(ReusableMethods.java:78) ~[test-classes/:?]
+	at b_utilities.ReusableMethods.loginAndSearchFileClickEdit(ReusableMethods.java:220) ~[test-classes/:?]
+	at enter_delete_backspace.ebdTestCases2.verifyHitEnterInNumberedPara(ebdTestCases2.java:490) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.retryFailed(TestInvoker.java:269) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:76) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at org.testng.internal.thread.graph.TestNGFutureTask.run(TestNGFutureTask.java:22) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+22:56:31.784 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  b_utilities.RetryAnalyzer - ⚠ Zephyr Test Case ID not found for: verifyHitEnterInNumberedPara
+22:56:33.193 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - Browser closed for test: verifyHitEnterInNumberedPara
+22:56:33.196 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - Thread Name: TestNG-test-RetryMultipleFailedTestcases-2
+22:56:33.196 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - Thread ID: 51
+22:56:41.358 [TestNG-test-RetryMultipleFailedTestcases-2] WARN  a_testbase.BaseClass - Test method verifyHitEnterInSectionHeadingCheckMsg is not annotated with @ZephyrTestCase. Zephyr updates skipped.
+22:56:41.363 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - Starting test: verifyHitEnterInSectionHeadingCheckMsg
+22:56:45.687 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  b_utilities.RetryAnalyzer - ⚠ Zephyr Test Case ID not found for: verifyHitEnterAtMiddleOfPara
+22:56:47.113 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Browser closed for test: verifyHitEnterAtMiddleOfPara
+22:56:47.115 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Thread Name: TestNG-test-RetryMultipleFailedTestcases-4
+22:56:47.115 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Thread ID: 53
+22:56:47.253 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - 'Please Wait' has disappeared. Proceeding.
+22:56:52.303 [TestNG-test-RetryMultipleFailedTestcases-4] WARN  a_testbase.BaseClass - Test method verifyHitEnterSectionHeadingCheckTC is not annotated with @ZephyrTestCase. Zephyr updates skipped.
+22:56:52.304 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Starting test: verifyHitEnterSectionHeadingCheckTC
+22:56:52.304 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - UIUX-2999
+22:57:32.948 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - 'Please Wait' has disappeared. Proceeding.
+22:57:33.985 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - Finished test: verifyHitEnterInSectionHeadingCheckMsg
+22:57:35.167 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - Browser closed for test: verifyHitEnterInSectionHeadingCheckMsg
+22:57:35.167 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - Thread Name: TestNG-test-RetryMultipleFailedTestcases-2
+22:57:35.167 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - Thread ID: 51
+22:57:40.028 [TestNG-test-RetryMultipleFailedTestcases-2] WARN  a_testbase.BaseClass - Test method verifyHitEnterinListElement is not annotated with @ZephyrTestCase. Zephyr updates skipped.
+22:57:40.028 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - Starting test: verifyHitEnterinListElement
+22:57:40.028 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - UIUX-3658
+22:57:42.547 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  b_utilities.RetryAnalyzer - ⚠ Zephyr Test Case ID not found for: verifyHitEnterInMiddleOfContentNewTable
+22:57:43.431 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - 'Please Wait' has disappeared. Proceeding.
+22:57:43.907 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - Browser closed for test: verifyHitEnterInMiddleOfContentNewTable
+22:57:43.908 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - Thread Name: TestNG-test-RetryMultipleFailedTestcases-1
+22:57:43.908 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - Thread ID: 50
+22:57:44.784 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Finished test: verifyHitEnterSectionHeadingCheckTC
+22:57:45.912 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Browser closed for test: verifyHitEnterSectionHeadingCheckTC
+22:57:45.914 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Thread Name: TestNG-test-RetryMultipleFailedTestcases-4
+22:57:45.914 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Thread ID: 53
+22:57:48.719 [TestNG-test-RetryMultipleFailedTestcases-1] WARN  a_testbase.BaseClass - Test method verifyHitenterAtLastCellOfNewTable is not annotated with @ZephyrTestCase. Zephyr updates skipped.
+22:57:48.720 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - Starting test: verifyHitenterAtLastCellOfNewTable
+22:57:48.721 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - UIUX-3938
+22:57:50.799 [TestNG-test-RetryMultipleFailedTestcases-4] WARN  a_testbase.BaseClass - Test method verifyIndexEnterKey is not annotated with @ZephyrTestCase. Zephyr updates skipped.
+22:57:50.800 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Starting test: verifyIndexEnterKey
+22:57:50.800 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - UIUX-3935
+22:58:08.450 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  b_utilities.RetryAnalyzer - ⚠ Zephyr Test Case ID not found for: verifyHitEnterBeforeAddressPara
+22:58:09.876 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Browser closed for test: verifyHitEnterBeforeAddressPara
+22:58:09.877 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Thread Name: TestNG-test-RetryMultipleFailedTestcases-3
+22:58:09.877 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Thread ID: 52
+22:58:15.122 [TestNG-test-RetryMultipleFailedTestcases-3] WARN  a_testbase.BaseClass - Test method verifyInsertCrossReferencebeforeEnter is not annotated with @ZephyrTestCase. Zephyr updates skipped.
+22:58:15.124 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Starting test: verifyInsertCrossReferencebeforeEnter
+22:58:15.124 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - UIUX-3263
+22:58:31.168 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - 'Please Wait' has disappeared. Proceeding.
+22:58:40.663 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - 'Please Wait' has disappeared. Proceeding.
+22:58:42.702 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - 'Please Wait' has disappeared. Proceeding.
+22:58:46.737 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Finished test: verifyIndexEnterKey
+22:58:47.930 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Browser closed for test: verifyIndexEnterKey
+22:58:47.931 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Thread Name: TestNG-test-RetryMultipleFailedTestcases-4
+22:58:47.931 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Thread ID: 53
+22:58:52.971 [TestNG-test-RetryMultipleFailedTestcases-4] WARN  a_testbase.BaseClass - Test method verifyInsertFootnoteHitEnterFootnoteSection is not annotated with @ZephyrTestCase. Zephyr updates skipped.
+22:58:52.971 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Starting test: verifyInsertFootnoteHitEnterFootnoteSection
+22:59:07.887 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - 'Please Wait' has disappeared. Proceeding.
+22:59:09.975 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  b_utilities.RetryAnalyzer - 🔴 Browser closed before retry attempt: 1
+22:59:09.975 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Browser closed for test: verifyInsertCrossReferencebeforeEnter
+22:59:09.978 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Thread Name: TestNG-test-RetryMultipleFailedTestcases-3
+22:59:09.978 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Thread ID: 52
+22:59:14.765 [TestNG-test-RetryMultipleFailedTestcases-3] WARN  a_testbase.BaseClass - Test method verifyInsertCrossReferencebeforeEnter is not annotated with @ZephyrTestCase. Zephyr updates skipped.
+22:59:14.766 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Starting test: verifyInsertCrossReferencebeforeEnter
+22:59:14.766 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - UIUX-3263
+22:59:44.131 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - 'Please Wait' has disappeared. Proceeding.
+22:59:50.932 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Finished test: verifyInsertFootnoteHitEnterFootnoteSection
+22:59:52.071 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Browser closed for test: verifyInsertFootnoteHitEnterFootnoteSection
+22:59:52.072 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Thread Name: TestNG-test-RetryMultipleFailedTestcases-4
+22:59:52.072 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Thread ID: 53
+22:59:53.565 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  b_utilities.RetryAnalyzer - 🔴 Browser closed before retry attempt: 1
+22:59:53.578 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - Browser closed for test: verifyHitEnterinListElement
+22:59:53.590 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - Thread Name: TestNG-test-RetryMultipleFailedTestcases-2
+22:59:53.590 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - Thread ID: 51
+22:59:56.958 [TestNG-test-RetryMultipleFailedTestcases-4] WARN  a_testbase.BaseClass - Test method verifyInsertListEnterKey is not annotated with @ZephyrTestCase. Zephyr updates skipped.
+22:59:56.958 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Starting test: verifyInsertListEnterKey
+22:59:59.051 [TestNG-test-RetryMultipleFailedTestcases-2] WARN  a_testbase.BaseClass - Test method verifyHitEnterinListElement is not annotated with @ZephyrTestCase. Zephyr updates skipped.
+22:59:59.052 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - Starting test: verifyHitEnterinListElement
+22:59:59.052 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - UIUX-3658
+23:00:06.629 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - 'Please Wait' has disappeared. Proceeding.
+23:00:06.876 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - Finished test: verifyHitenterAtLastCellOfNewTable
+23:00:07.658 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  b_utilities.RetryAnalyzer - ⚠ Zephyr Test Case ID not found for: verifyInsertCrossReferencebeforeEnter
+23:00:08.004 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - Browser closed for test: verifyHitenterAtLastCellOfNewTable
+23:00:08.005 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - Thread Name: TestNG-test-RetryMultipleFailedTestcases-1
+23:00:08.005 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - Thread ID: 50
+23:00:09.070 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Browser closed for test: verifyInsertCrossReferencebeforeEnter
+23:00:09.072 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Thread Name: TestNG-test-RetryMultipleFailedTestcases-3
+23:00:09.072 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Thread ID: 52
+23:00:13.158 [TestNG-test-RetryMultipleFailedTestcases-1] WARN  a_testbase.BaseClass - Test method verifyInsertListHitEnterAndTabKey is not annotated with @ZephyrTestCase. Zephyr updates skipped.
+23:00:13.160 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - Starting test: verifyInsertListHitEnterAndTabKey
+23:00:14.444 [TestNG-test-RetryMultipleFailedTestcases-3] WARN  a_testbase.BaseClass - Test method verifyInsertXrefEmphasisEnterKeyEndoftheElement is not annotated with @ZephyrTestCase. Zephyr updates skipped.
+23:00:14.445 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Starting test: verifyInsertXrefEmphasisEnterKeyEndoftheElement
+23:00:24.589 [TestNG-test-RetryMultipleFailedTestcases-4] WARN  a_testbase.BaseClass - No 'Please Wait' element found or already disappeared.
+23:00:26.817 [TestNG-test-RetryMultipleFailedTestcases-2] WARN  a_testbase.BaseClass - No 'Please Wait' element found or already disappeared.
+23:00:30.164 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  b_utilities.RetryAnalyzer - 🔴 Browser closed before retry attempt: 1
+23:00:30.167 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Browser closed for test: verifyInsertListEnterKey
+23:00:30.168 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Thread Name: TestNG-test-RetryMultipleFailedTestcases-4
+23:00:30.168 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Thread ID: 53
+23:00:35.385 [TestNG-test-RetryMultipleFailedTestcases-4] WARN  a_testbase.BaseClass - Test method verifyInsertListEnterKey is not annotated with @ZephyrTestCase. Zephyr updates skipped.
+23:00:35.387 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Starting test: verifyInsertListEnterKey
+23:01:05.504 [TestNG-test-RetryMultipleFailedTestcases-1] INFO  a_testbase.BaseClass - 'Please Wait' has disappeared. Proceeding.
+23:01:06.024 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - 'Please Wait' has disappeared. Proceeding.
+23:01:08.483 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  b_utilities.RetryAnalyzer - 🔴 Browser closed before retry attempt: 1
+23:01:08.489 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Browser closed for test: verifyInsertXrefEmphasisEnterKeyEndoftheElement
+23:01:08.490 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Thread Name: TestNG-test-RetryMultipleFailedTestcases-3
+23:01:08.491 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Thread ID: 52
+23:01:13.807 [TestNG-test-RetryMultipleFailedTestcases-3] WARN  a_testbase.BaseClass - Test method verifyInsertXrefEmphasisEnterKeyEndoftheElement is not annotated with @ZephyrTestCase. Zephyr updates skipped.
+23:01:13.808 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - Starting test: verifyInsertXrefEmphasisEnterKeyEndoftheElement
+23:01:28.660 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - 'Please Wait' has disappeared. Proceeding.
+23:01:30.029 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Finished test: verifyInsertListEnterKey
+23:01:31.216 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Browser closed for test: verifyInsertListEnterKey
+23:01:31.218 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Thread Name: TestNG-test-RetryMultipleFailedTestcases-4
+23:01:31.218 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Thread ID: 53
+23:01:35.996 [TestNG-test-RetryMultipleFailedTestcases-4] WARN  a_testbase.BaseClass - Test method verifyInsertXrefEnterKeyEndoftheElement is not annotated with @ZephyrTestCase. Zephyr updates skipped.
+23:01:35.999 [TestNG-test-RetryMultipleFailedTestcases-4] INFO  a_testbase.BaseClass - Starting test: verifyInsertXrefEnterKeyEndoftheElement
+23:01:48.135 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  b_utilities.RetryAnalyzer - ⚠ Zephyr Test Case ID not found for: verifyHitEnterinListElement
+23:01:49.531 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - Browser closed for test: verifyHitEnterinListElement
+23:01:49.533 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - Thread Name: TestNG-test-RetryMultipleFailedTestcases-2
+23:01:49.533 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - Thread ID: 51
+23:01:54.374 [TestNG-test-RetryMultipleFailedTestcases-2] WARN  a_testbase.BaseClass - Test method verifyInsertXrefSectionHeadingEnterKeyEndoftheElement is not annotated with @ZephyrTestCase. Zephyr updates skipped.
+23:01:54.374 [TestNG-test-RetryMultipleFailedTestcases-2] INFO  a_testbase.BaseClass - Starting test: verifyInsertXrefSectionHeadingEnterKeyEndoftheElement
+23:02:04.974 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  a_testbase.BaseClass - 'Please Wait' has disappeared. Proceeding.
+23:02:06.348 [TestNG-test-RetryMultipleFailedTestcases-3] INFO  b_utilities.RetryAnalyzer - ⚠ Zephyr Test Case ID not found for: verifyInsertXrefEmphasisEnterKeyEndoftheElement

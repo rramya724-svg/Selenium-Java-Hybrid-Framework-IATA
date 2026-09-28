@@ -1,0 +1,420 @@
+04:19:08.821 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint6_TestCases.H_CommonTC - Switched to frame 1.
+04:19:10.036 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint6_TestCases.H_CommonTC - Switched to default content.
+04:19:10.160 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Starting TC280_verifyUndoRedoRemoveContent
+04:19:11.565 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint6_TestCases.H_CommonTC - Clicked on insert element.
+04:19:13.774 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint6_TestCases.H_CommonTC - Clicked on track changes.
+04:19:13.904 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint6_TestCases.H_CommonTC - Verified that Data card is not displayed.
+04:19:14.033 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint6_TestCases.H_CommonTC - Verified that List Number is present in DS.
+04:19:14.109 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint6_TestCases.H_CommonTC - Verified thatTable properties icon is displayed.
+04:19:14.109 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint6_TestCases.H_CommonTC - Finished TC275_verifyRightClickMediaObjectInsertAfterTable
+04:19:19.836 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint6_TestCases.H_CommonTC - Starting TC281_verifyUndoAddTable
+04:19:26.725 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint6_TestCases.H_CommonTC - Logged in and searched for a file, then clicked Edit.
+04:19:26.744 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint6_TestCases.H_CommonTC - Switched to frame 0.
+04:19:27.339 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint6_TestCases.H_CommonTC - Clicked on first para VE.
+04:19:29.658 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint6_TestCases.H_CommonTC - Switched to default content.
+04:19:30.388 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint6_TestCases.H_CommonTC - Clicked on Undo.
+04:19:31.113 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint6_TestCases.H_CommonTC - Clicked on Undo.
+04:19:31.877 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint6_TestCases.H_CommonTC - Clicked on track changes.
+04:19:31.938 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint6_TestCases.H_CommonTC - Verified that After clicking on undo there is card in tc panel.
+04:19:32.499 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint6_TestCases.H_CommonTC - Clicked on Redo.
+04:19:33.549 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint6_TestCases.H_CommonTC - Clicked on Redo.
+04:19:33.873 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint6_TestCases.H_CommonTC - Clicked on track changes.
+04:19:33.948 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint6_TestCases.H_CommonTC - Verified that Card is not visible after clicking on redo
+04:19:33.948 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint6_TestCases.H_CommonTC - Finished TC279_verifyUndoRedoAddContent
+04:19:36.589 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint6_TestCases.H_CommonTC - Logged in and searched for a file, then clicked Edit.
+04:19:43.891 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint6_TestCases.H_CommonTC - Starting TC283_verifyUndoAddTableAddRow
+04:19:46.738 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint6_TestCases.H_CommonTC - Clicked on insert after.
+04:19:56.187 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Logged in and searched for a file, then clicked Edit.
+04:19:56.210 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Switched to frame 0.
+04:19:56.658 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Clicked on first para VE.
+04:19:56.960 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Switched to default content.
+04:19:57.799 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Clicked on Undo.
+04:19:58.250 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Clicked on track changes.
+04:19:58.349 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Verified that After clicking on undo there is card in tc panel.
+04:19:58.912 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Clicked on Redo.
+04:19:59.018 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Verified that Card is not visible after clicking on redo.
+04:19:59.018 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Finished TC280_verifyUndoRedoRemoveContent
+04:20:06.280 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint6_TestCases.H_CommonTC - Clicked on track changes.
+04:20:06.315 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint6_TestCases.H_CommonTC - Switched to frame 0.
+04:20:06.983 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint6_TestCases.H_CommonTC - Switched to default content.
+04:20:08.987 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Starting TC284_verifyUndoAddTableAddColumn
+04:20:13.050 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint6_TestCases.H_CommonTC - Logged in and searched for a file, then clicked Edit.
+04:20:14.049 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint6_TestCases.H_CommonTC - Starting TC276_verifyRightClickTableInsertAfterMediaObject
+04:20:21.261 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint6_TestCases.H_CommonTC - Enter tabel after para
+04:20:21.519 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint6_TestCases.H_CommonTC - Clicked on track changes.
+04:20:21.618 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint6_TestCases.H_CommonTC - Verified that Data card is displayed.
+04:20:21.702 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint6_TestCases.H_CommonTC - Verified that Table properties icon is displayed.
+04:20:21.766 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint6_TestCases.H_CommonTC - Verified that List Number is present in DS.
+04:20:23.629 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint6_TestCases.H_CommonTC - Clicked on Undo.
+04:20:24.681 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint6_TestCases.H_CommonTC - Logged in and searched for a file, then clicked Edit.
+04:20:35.010 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint6_TestCases.H_CommonTC - Clicked on track changes.
+04:20:35.106 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint6_TestCases.H_CommonTC - Verified that Data card is displayed.
+04:20:35.163 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint6_TestCases.H_CommonTC - Verified that Data card is displayed.
+04:20:36.079 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint6_TestCases.H_CommonTC - Clicked on Undo.
+04:20:36.266 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint6_TestCases.H_CommonTC - Verified that Data card is displayed.
+04:20:36.266 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint6_TestCases.H_CommonTC - Finished TC283_verifyUndoAddTableAddRow
+04:20:40.621 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Logged in and searched for a file, then clicked Edit.
+04:20:45.892 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint6_TestCases.H_CommonTC - Starting TC286_verifyEntityUndoCheckTC
+04:20:51.058 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Clicked on track changes.
+04:20:51.166 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Verified that Data card is displayed.
+04:20:51.223 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Verified that Data card is displayed.
+04:20:51.494 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint6_TestCases.H_CommonTC - Logged in and searched for a file, then clicked Edit.
+04:20:52.030 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Clicked on Undo.
+04:20:52.267 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Verified that Data card is displayed.
+04:20:52.267 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Finished TC284_verifyUndoAddTableAddColumn
+04:20:58.062 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Starting TC288_verifyUndoAddSection
+04:21:00.525 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint6_TestCases.H_CommonTC - Clicked on insert after.
+04:21:03.425 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint6_TestCases.H_CommonTC - Clicked on track changes.
+04:21:03.459 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint6_TestCases.H_CommonTC - Switched to frame 0.
+04:21:04.063 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint6_TestCases.H_CommonTC - Verified that Data card is displayed
+04:21:04.064 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint6_TestCases.H_CommonTC - Finished TC281_verifyUndoAddTable
+04:21:04.360 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint6_TestCases.H_CommonTC - Switched to default content.
+04:21:11.644 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint6_TestCases.H_CommonTC - Starting TC289_verifyUndoAddFigureCheckTC
+04:21:12.021 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint6_TestCases.H_CommonTC - Starting TC276_verifyRightClickTableInsertAfterMediaObject
+04:21:26.021 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint6_TestCases.H_CommonTC - Logged in and searched for a file, then clicked Edit.
+04:21:26.041 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint6_TestCases.H_CommonTC - Switched to frame 0.
+04:21:26.580 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint6_TestCases.H_CommonTC - Clicked on first para VE.
+04:21:26.616 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint6_TestCases.H_CommonTC - Switched to default content.
+04:21:30.422 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Logged in and searched for a file, then clicked Edit.
+04:21:30.443 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Switched to frame 0.
+04:21:31.011 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Clicked on first para VE.
+04:21:31.738 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint6_TestCases.H_CommonTC - Clicked on track changes.
+04:21:33.510 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Switched to default content.
+04:21:33.534 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Switched to frame 1.
+04:21:34.639 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Switched to default content.
+04:21:38.276 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Clicked on Undo.
+04:21:56.135 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint6_TestCases.H_CommonTC - Logged in and searched for a file, then clicked Edit.
+04:21:56.157 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint6_TestCases.H_CommonTC - Switched to frame 0.
+04:21:58.382 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint6_TestCases.H_CommonTC - Switched to default content.
+04:21:58.421 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint6_TestCases.H_CommonTC - Switched to frame 1.
+04:21:59.511 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint6_TestCases.H_CommonTC - Switched to default content.
+04:22:18.732 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Verified that Data card is displayed.
+04:22:18.732 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Finished TC288_verifyUndoAddSection
+04:22:19.696 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint6_TestCases.H_CommonTC - Starting TC286_verifyEntityUndoCheckTC
+04:22:26.659 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Starting TC375_verifyBlockViewTC
+04:22:28.445 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint6_TestCases.H_CommonTC - Logged in and searched for a file, then clicked Edit.
+04:22:36.230 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint6_TestCases.H_CommonTC - Starting TC289_verifyUndoAddFigureCheckTC
+04:22:39.203 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint6_TestCases.H_CommonTC - Clicked on insert after.
+04:22:42.485 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint6_TestCases.H_CommonTC - Clicked on track changes.
+04:22:42.516 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint6_TestCases.H_CommonTC - Switched to frame 0.
+04:22:43.100 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint6_TestCases.H_CommonTC - Switched to default content.
+04:22:51.067 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint6_TestCases.H_CommonTC - Logged in and searched for a file, then clicked Edit.
+04:22:51.092 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint6_TestCases.H_CommonTC - Switched to frame 0.
+04:22:51.446 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint6_TestCases.H_CommonTC - Starting TC376_verifyFocusModeTC
+04:22:51.791 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint6_TestCases.H_CommonTC - Clicked on first para VE.
+04:22:51.947 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint6_TestCases.H_CommonTC - Switched to default content.
+04:22:54.962 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint6_TestCases.H_CommonTC - Clicked on track changes.
+04:22:55.058 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint6_TestCases.H_CommonTC - Verified that Data card is displayed.
+04:22:55.137 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint6_TestCases.H_CommonTC - Verified that Data card is displayed.
+04:22:56.080 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint6_TestCases.H_CommonTC - Clicked on Undo.
+04:22:56.621 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Logged in and searched for a file, then clicked Edit.
+04:22:56.634 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Switched to frame 0.
+04:22:57.079 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Clicked on first para VE.
+04:22:57.117 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Switched to default content.
+04:22:57.877 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Clicked on track changes.
+04:22:57.961 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Verified that Data card is displayed.
+04:22:58.684 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Clicked on track changes.
+04:22:58.752 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Verified that Data card is displayed.
+04:22:58.753 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Finished TC375_verifyBlockViewTC
+04:23:04.939 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Starting TC377_verifyCopyPasteTC
+04:23:08.360 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint6_TestCases.H_CommonTC - Logged in and searched for a file, then clicked Edit.
+04:23:08.378 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint6_TestCases.H_CommonTC - Switched to frame 0.
+04:23:10.154 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint6_TestCases.H_CommonTC - Switched to default content.
+04:23:10.254 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint6_TestCases.H_CommonTC - Switched to frame 1.
+04:23:11.603 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint6_TestCases.H_CommonTC - Switched to default content.
+04:23:29.724 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint6_TestCases.H_CommonTC - Logged in and searched for a file, then clicked Edit.
+04:23:29.753 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint6_TestCases.H_CommonTC - Switched to frame 0.
+04:23:30.325 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint6_TestCases.H_CommonTC - Clicked on first para VE.
+04:23:30.372 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint6_TestCases.H_CommonTC - Switched to default content.
+04:23:31.151 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint6_TestCases.H_CommonTC - Clicked on track changes.
+04:23:31.209 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint6_TestCases.H_CommonTC - Verified that Data card is displayed.
+04:23:32.474 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint6_TestCases.H_CommonTC - Clicked on track changes.
+04:23:32.541 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint6_TestCases.H_CommonTC - Verified that Data card is displayed.
+04:23:32.541 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint6_TestCases.H_CommonTC - Finished TC376_verifyFocusModeTC
+04:23:36.318 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint6_TestCases.H_CommonTC - Verified that Data card is displayed.
+04:23:36.318 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint6_TestCases.H_CommonTC - Finished TC286_verifyEntityUndoCheckTC
+04:23:41.380 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint6_TestCases.H_CommonTC - Starting TC378_verifyCopyPasteTCAcceptChange
+04:23:45.222 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint6_TestCases.H_CommonTC - Starting TC379_verifyCopyPasteTCRejectChange
+04:23:59.683 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint6_TestCases.H_CommonTC - Starting TC289_verifyUndoAddFigureCheckTC
+04:24:01.012 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Logged in and searched for a file, then clicked Edit.
+04:24:01.042 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Switched to frame 0.
+04:24:01.878 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Switched to default content.
+04:24:01.896 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Switched to frame 0.
+04:24:03.816 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Switched to default content.
+04:24:04.484 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Clicked on track changes.
+04:24:04.524 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Switched to frame 0.
+04:24:05.116 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Switched to default content.
+04:24:05.205 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Verified that Data card is displayed.
+04:24:05.205 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Finished TC377_verifyCopyPasteTC
+04:24:11.683 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Starting TC380_verifyCutPasteTC
+04:24:22.291 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint6_TestCases.H_CommonTC - Logged in and searched for a file, then clicked Edit.
+04:24:22.338 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint6_TestCases.H_CommonTC - Switched to frame 0.
+04:24:22.852 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint6_TestCases.H_CommonTC - Logged in and searched for a file, then clicked Edit.
+04:24:22.885 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint6_TestCases.H_CommonTC - Switched to frame 0.
+04:24:23.481 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint6_TestCases.H_CommonTC - Switched to default content.
+04:24:23.539 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint6_TestCases.H_CommonTC - Switched to frame 0.
+04:24:23.914 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint6_TestCases.H_CommonTC - Switched to default content.
+04:24:23.994 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint6_TestCases.H_CommonTC - Switched to frame 0.
+04:24:25.739 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint6_TestCases.H_CommonTC - Switched to default content.
+04:24:26.266 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint6_TestCases.H_CommonTC - Switched to default content.
+04:24:26.701 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint6_TestCases.H_CommonTC - Clicked on track changes.
+04:24:26.754 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint6_TestCases.H_CommonTC - Switched to frame 0.
+04:24:26.899 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint6_TestCases.H_CommonTC - Clicked on track changes.
+04:24:26.949 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint6_TestCases.H_CommonTC - Switched to frame 0.
+04:24:27.578 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint6_TestCases.H_CommonTC - Switched to default content.
+04:24:27.711 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint6_TestCases.H_CommonTC - Verified that Data card is displayed.
+04:24:27.826 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint6_TestCases.H_CommonTC - Switched to default content.
+04:24:27.951 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint6_TestCases.H_CommonTC - Verified that Data card is displayed.
+04:24:28.408 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint6_TestCases.H_CommonTC - Clicked on Tc Accept Change.
+04:24:28.408 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint6_TestCases.H_CommonTC - Finished TC378_verifyCopyPasteTCAcceptChange
+04:24:28.653 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint6_TestCases.H_CommonTC - Finished TC379_verifyCopyPasteTCRejectChange
+04:24:28.733 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint6_TestCases.H_CommonTC - Logged in and searched for a file, then clicked Edit.
+04:24:28.832 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint6_TestCases.H_CommonTC - Switched to frame 0.
+04:24:30.109 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint6_TestCases.H_CommonTC - Switched to default content.
+04:24:30.153 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint6_TestCases.H_CommonTC - Switched to frame 1.
+04:24:31.143 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint6_TestCases.H_CommonTC - Switched to default content.
+04:24:35.219 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint6_TestCases.H_CommonTC - Starting TC381_verifyCutPasteTCAcceptChange
+04:24:36.998 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint6_TestCases.H_CommonTC - Starting TC382_verifyCutPasteTCRejectChange
+04:24:38.179 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint6_TestCases.H_CommonTC - Clicked on track changes.
+04:24:38.233 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint6_TestCases.H_CommonTC - Verified that data information is correct.
+04:24:39.126 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint6_TestCases.H_CommonTC - Clicked on Undo.
+04:24:39.715 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Logged in and searched for a file, then clicked Edit.
+04:24:39.734 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Switched to frame 0.
+04:24:40.302 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Switched to default content.
+04:24:40.322 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Switched to frame 0.
+04:24:41.684 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Switched to default content.
+04:24:41.993 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Clicked on track changes.
+04:24:42.013 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Switched to frame 0.
+04:24:42.483 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Switched to default content.
+04:24:42.548 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Verified that Data card is displayed.
+04:24:42.696 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Verified that Data card is displayed.
+04:24:42.696 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Finished TC380_verifyCutPasteTC
+04:24:49.249 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Starting TC441_verifyInsertPopupEmphasisCheckTC
+04:25:16.188 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint6_TestCases.H_CommonTC - Logged in and searched for a file, then clicked Edit.
+04:25:16.224 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint6_TestCases.H_CommonTC - Switched to frame 0.
+04:25:17.279 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint6_TestCases.H_CommonTC - Switched to default content.
+04:25:17.317 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint6_TestCases.H_CommonTC - Switched to frame 0.
+04:25:19.317 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint6_TestCases.H_CommonTC - Switched to default content.
+04:25:19.506 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint6_TestCases.H_CommonTC - Verified that After clicking on undo still there is figure element card in the tc panel.
+04:25:19.506 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint6_TestCases.H_CommonTC - Finished TC289_verifyUndoAddFigureCheckTC
+04:25:19.912 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint6_TestCases.H_CommonTC - Clicked on track changes.
+04:25:19.936 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint6_TestCases.H_CommonTC - Switched to frame 0.
+04:25:20.790 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint6_TestCases.H_CommonTC - Switched to default content.
+04:25:21.040 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint6_TestCases.H_CommonTC - Verified that Data card is displayed.
+04:25:21.144 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint6_TestCases.H_CommonTC - Verified that Data card is displayed.
+04:25:23.952 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint6_TestCases.H_CommonTC - Logged in and searched for a file, then clicked Edit.
+04:25:24.024 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint6_TestCases.H_CommonTC - Switched to frame 0.
+04:25:25.001 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint6_TestCases.H_CommonTC - Switched to default content.
+04:25:25.018 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint6_TestCases.H_CommonTC - Switched to frame 0.
+04:25:27.588 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint6_TestCases.H_CommonTC - Starting TC735_verifyInsertspaceChecktC
+04:25:28.094 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint6_TestCases.H_CommonTC - Switched to default content.
+04:25:28.723 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint6_TestCases.H_CommonTC - Clicked on track changes.
+04:25:28.746 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint6_TestCases.H_CommonTC - Switched to frame 0.
+04:25:29.269 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Logged in and searched for a file, then clicked Edit.
+04:25:29.288 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Switched to frame 0.
+04:25:29.441 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint6_TestCases.H_CommonTC - Switched to default content.
+04:25:29.568 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint6_TestCases.H_CommonTC - Verified that Data card is displayed.
+04:25:29.637 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint6_TestCases.H_CommonTC - Verified that Data card is displayed.
+04:25:30.031 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Switched to default content.
+04:25:30.609 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Clicked on Insert plugin.
+04:25:30.780 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint6_TestCases.H_CommonTC - Switched to frame 0.
+04:25:30.904 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Clicked on element button.
+04:25:31.881 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Clicked on insert button.
+04:25:32.639 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Clicked on track changes.
+04:26:02.356 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint6_TestCases.H_CommonTC - Verified that Data card is displayed.
+04:26:02.356 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint6_TestCases.H_CommonTC - Finished TC381_verifyCutPasteTCAcceptChange
+04:26:09.278 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint6_TestCases.H_CommonTC - Starting verifyRemoveSHCheckTC
+04:26:10.878 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint6_TestCases.H_CommonTC - Verified that Data card is displayed.
+04:26:18.738 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint6_TestCases.H_CommonTC - Logged in and searched for a file, then clicked Edit.
+04:26:18.900 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint6_TestCases.H_CommonTC - Clicked on track changes.
+04:26:18.919 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint6_TestCases.H_CommonTC - Switched to frame 0.
+04:26:19.627 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Starting TC441_verifyInsertPopupEmphasisCheckTC
+04:26:19.856 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint6_TestCases.H_CommonTC - Switched to default content.
+04:26:19.991 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint6_TestCases.H_CommonTC - Verified that Data card is displayed.
+04:26:20.210 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint6_TestCases.H_CommonTC - Verified that Data card is displayed.
+04:26:20.210 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint6_TestCases.H_CommonTC - Finished TC735_verifyInsertspaceChecktC
+04:26:26.464 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint6_TestCases.H_CommonTC - Starting TC250_verifyRemoveSNCheckTC
+04:26:38.135 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint6_TestCases.H_CommonTC - Logged in and searched for a file, then clicked Edit.
+04:26:38.842 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint6_TestCases.H_CommonTC - Switched to frame 0.
+04:26:39.627 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint6_TestCases.H_CommonTC - Switched to default content.
+04:26:39.642 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint6_TestCases.H_CommonTC - Switched to frame 1.
+04:26:46.920 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Logged in and searched for a file, then clicked Edit.
+04:26:46.939 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Switched to frame 0.
+04:26:47.492 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Switched to default content.
+04:26:47.830 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Clicked on Insert plugin.
+04:26:48.002 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Clicked on element button.
+04:26:49.104 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Clicked on insert button.
+04:26:49.881 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Clicked on track changes.
+04:26:50.941 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint6_TestCases.H_CommonTC - Verified that Data card is displayed.
+04:26:56.334 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint6_TestCases.H_CommonTC - Logged in and searched for a file, then clicked Edit.
+04:26:57.039 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint6_TestCases.H_CommonTC - Context clicked on section heading button.
+04:26:57.421 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint6_TestCases.H_CommonTC - Clicked on Remove element block.
+04:26:57.750 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint6_TestCases.H_CommonTC - Clicked on track changes.
+04:26:57.827 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint6_TestCases.H_CommonTC - Verified that Data card is not displayed.
+04:26:57.879 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint6_TestCases.H_CommonTC - Verified that data information is correct.
+04:26:57.879 [TestNG-test=RetryMultipleFailedTestcases-4] INFO  sprint6_TestCases.H_CommonTC - Finished TC250_verifyRemoveSNCheckTC
+04:27:25.348 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint6_TestCases.H_CommonTC - Starting verifyRemoveSHCheckTC
+04:27:31.041 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint6_TestCases.H_CommonTC - Verified that Data card is displayed.
+04:27:31.041 [TestNG-test=RetryMultipleFailedTestcases-1] INFO  sprint6_TestCases.H_CommonTC - Finished TC382_verifyCutPasteTCRejectChange
+04:27:36.011 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Starting TC441_verifyInsertPopupEmphasisCheckTC
+04:27:48.650 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint6_TestCases.H_CommonTC - Logged in and searched for a file, then clicked Edit.
+04:27:49.071 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint6_TestCases.H_CommonTC - Switched to frame 0.
+04:27:49.907 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint6_TestCases.H_CommonTC - Switched to default content.
+04:27:49.925 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint6_TestCases.H_CommonTC - Switched to frame 1.
+04:28:07.086 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Logged in and searched for a file, then clicked Edit.
+04:28:07.105 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Switched to frame 0.
+04:28:07.582 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Switched to default content.
+04:28:07.872 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Clicked on Insert plugin.
+04:28:08.029 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Clicked on element button.
+04:28:09.050 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Clicked on insert button.
+04:28:09.811 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Clicked on track changes.
+04:28:36.048 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint6_TestCases.H_CommonTC - Starting verifyRemoveSHCheckTC
+04:28:55.219 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Starting TC441_verifyInsertPopupEmphasisCheckTC
+04:29:03.402 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint6_TestCases.H_CommonTC - Logged in and searched for a file, then clicked Edit.
+04:29:03.805 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint6_TestCases.H_CommonTC - Switched to frame 0.
+04:29:04.681 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint6_TestCases.H_CommonTC - Switched to default content.
+04:29:04.700 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint6_TestCases.H_CommonTC - Switched to frame 1.
+04:29:26.959 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Logged in and searched for a file, then clicked Edit.
+04:29:26.977 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Switched to frame 0.
+04:29:27.497 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Switched to default content.
+04:29:27.852 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Clicked on Insert plugin.
+04:29:28.033 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Clicked on element button.
+04:29:28.936 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Clicked on insert button.
+04:29:29.824 [TestNG-test=RetryMultipleFailedTestcases-3] INFO  sprint6_TestCases.H_CommonTC - Clicked on track changes.
+04:29:50.458 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint6_TestCases.H_CommonTC - Starting verifyRemoveSHCheckTC
+04:30:52.624 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint6_TestCases.H_CommonTC - Logged in and searched for a file, then clicked Edit.
+04:30:52.952 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint6_TestCases.H_CommonTC - Switched to frame 0.
+04:30:53.946 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint6_TestCases.H_CommonTC - Switched to default content.
+04:30:53.959 [TestNG-test=RetryMultipleFailedTestcases-2] INFO  sprint6_TestCases.H_CommonTC - Switched to frame 1.
+10:02:30.425 [main] INFO  sprint7_TestCases.PrintPreviewTC - Starting verify_PrintPriview_GeneratingPDFButton_Disable test...
+10:03:03.992 [main] INFO  sprint7_TestCases.PrintPreviewTC - Logged in and performed search and edit actions.
+10:03:04.135 [main] INFO  sprint7_TestCases.PrintPreviewTC - PrintPreview button is displayed.
+10:03:04.380 [main] INFO  sprint7_TestCases.PrintPreviewTC - Clicked on Print Preview button.
+10:03:04.544 [main] INFO  sprint7_TestCases.PrintPreviewTC - Generating PDF button is present.
+10:03:04.969 [main] INFO  sprint7_TestCases.PrintPreviewTC - Clicked on the Generate PDF button.
+10:11:37.811 [main] INFO  sprint4_TestCases.J_CommonTestcases - Starting verify_MediaObject_Insertinto_In_Para
+10:12:00.421 [main] INFO  sprint4_TestCases.J_CommonTestcases - Logged in and searched for a file, then clicked Edit.
+10:12:00.458 [main] INFO  sprint4_TestCases.J_CommonTestcases - Switched to frame 0.
+10:12:01.503 [main] INFO  sprint4_TestCases.J_CommonTestcases - Right click on first para
+10:12:01.564 [main] INFO  sprint4_TestCases.J_CommonTestcases - Switched back to default content.
+10:12:01.588 [main] INFO  sprint4_TestCases.J_CommonTestcases - Switched to frame 0.
+10:15:58.504 [main] INFO  sprint4_TestCases.J_CommonTestcases - Starting verify_MediaObject_Insertinto_In_Para
+10:16:28.690 [main] INFO  sprint4_TestCases.J_CommonTestcases - Logged in and searched for a file, then clicked Edit.
+10:16:28.725 [main] INFO  sprint4_TestCases.J_CommonTestcases - Switched to frame 0.
+10:16:29.850 [main] INFO  sprint4_TestCases.J_CommonTestcases - Right click on first para
+10:16:29.924 [main] INFO  sprint4_TestCases.J_CommonTestcases - Switched back to default content.
+10:16:29.951 [main] INFO  sprint4_TestCases.J_CommonTestcases - Switched to frame 0.
+10:16:30.905 [main] INFO  sprint4_TestCases.J_CommonTestcases - clicked on insert into From VE
+10:16:30.936 [main] INFO  sprint4_TestCases.J_CommonTestcases - Switched back to default content.
+10:16:31.104 [main] INFO  sprint4_TestCases.J_CommonTestcases - clicked on insert into search field from VE
+10:16:31.152 [main] INFO  sprint4_TestCases.J_CommonTestcases - sending the keys img
+10:16:31.479 [main] INFO  sprint4_TestCases.J_CommonTestcases - sending the enter key
+10:19:49.236 [main] INFO  sprint4_TestCases.J_CommonTestcases - Starting verify_MediaObject_Insertinto_In_Para
+10:20:11.461 [main] INFO  sprint4_TestCases.J_CommonTestcases - Logged in and searched for a file, then clicked Edit.
+10:20:11.507 [main] INFO  sprint4_TestCases.J_CommonTestcases - Switched to frame 0.
+10:20:12.330 [main] INFO  sprint4_TestCases.J_CommonTestcases - Right click on first para
+10:20:12.419 [main] INFO  sprint4_TestCases.J_CommonTestcases - Switched back to default content.
+10:20:12.459 [main] INFO  sprint4_TestCases.J_CommonTestcases - Switched to frame 0.
+10:20:13.727 [main] INFO  sprint4_TestCases.J_CommonTestcases - clicked on insert into From VE
+10:20:13.767 [main] INFO  sprint4_TestCases.J_CommonTestcases - Switched back to default content.
+10:20:13.945 [main] INFO  sprint4_TestCases.J_CommonTestcases - clicked on insert into search field from VE
+10:20:14.008 [main] INFO  sprint4_TestCases.J_CommonTestcases - sending the keys img
+10:20:14.388 [main] INFO  sprint4_TestCases.J_CommonTestcases - sending the enter key
+10:20:14.618 [main] INFO  sprint4_TestCases.J_CommonTestcases - clicked on img insert btn
+10:21:12.938 [main] INFO  sprint4_TestCases.J_CommonTestcases - Starting verify_MediaObject_Insertinto_In_Para
+10:21:38.146 [main] INFO  sprint4_TestCases.J_CommonTestcases - Logged in and searched for a file, then clicked Edit.
+10:21:38.183 [main] INFO  sprint4_TestCases.J_CommonTestcases - Switched to frame 0.
+10:21:39.411 [main] INFO  sprint4_TestCases.J_CommonTestcases - Right click on first para
+10:21:39.517 [main] INFO  sprint4_TestCases.J_CommonTestcases - Switched back to default content.
+10:21:39.549 [main] INFO  sprint4_TestCases.J_CommonTestcases - Switched to frame 0.
+10:21:40.592 [main] INFO  sprint4_TestCases.J_CommonTestcases - clicked on insert into From VE
+10:21:40.677 [main] INFO  sprint4_TestCases.J_CommonTestcases - Switched back to default content.
+10:21:40.886 [main] INFO  sprint4_TestCases.J_CommonTestcases - clicked on insert into search field from VE
+10:21:40.941 [main] INFO  sprint4_TestCases.J_CommonTestcases - sending the keys img
+10:21:41.280 [main] INFO  sprint4_TestCases.J_CommonTestcases - sending the enter key
+10:21:41.492 [main] INFO  sprint4_TestCases.J_CommonTestcases - clicked on img insert btn
+10:22:34.239 [main] INFO  sprint4_TestCases.J_CommonTestcases - Starting verify_MediaObject_Insertinto_In_Para
+10:23:04.531 [main] INFO  sprint4_TestCases.J_CommonTestcases - Logged in and searched for a file, then clicked Edit.
+10:23:04.606 [main] INFO  sprint4_TestCases.J_CommonTestcases - Switched to frame 0.
+10:23:05.696 [main] INFO  sprint4_TestCases.J_CommonTestcases - Right click on first para
+10:23:05.763 [main] INFO  sprint4_TestCases.J_CommonTestcases - Switched back to default content.
+10:23:05.785 [main] INFO  sprint4_TestCases.J_CommonTestcases - Switched to frame 0.
+10:23:06.847 [main] INFO  sprint4_TestCases.J_CommonTestcases - clicked on insert into From VE
+10:23:06.906 [main] INFO  sprint4_TestCases.J_CommonTestcases - Switched back to default content.
+10:23:07.106 [main] INFO  sprint4_TestCases.J_CommonTestcases - clicked on insert into search field from VE
+10:23:07.149 [main] INFO  sprint4_TestCases.J_CommonTestcases - sending the keys img
+10:23:07.472 [main] INFO  sprint4_TestCases.J_CommonTestcases - sending the enter key
+10:23:07.708 [main] INFO  sprint4_TestCases.J_CommonTestcases - clicked on img insert btn
+10:23:09.216 [main] INFO  sprint4_TestCases.J_CommonTestcases - verifying img inserted
+10:23:09.216 [main] INFO  sprint4_TestCases.J_CommonTestcases - Finished verify_MediaObject_Insertinto_In_Para
+10:24:20.996 [main] INFO  sprint5_TestCases.C_CommonBugsTC - Starting test TC759_verifyFigureElement.
+10:24:44.094 [main] INFO  sprint5_TestCases.C_CommonBugsTC - Logged in and clicked on Edit.
+10:24:44.616 [main] INFO  sprint5_TestCases.C_CommonBugsTC - Clicked on the first paragraph.
+10:25:35.510 [main] INFO  sprint5_TestCases.C_CommonBugsTC - Starting test TC759_verifyFigureElement.
+10:26:00.099 [main] INFO  sprint5_TestCases.C_CommonBugsTC - Logged in and clicked on Edit.
+10:27:05.140 [main] INFO  sprint5_TestCases.C_CommonBugsTC - Clicked on the first paragraph.
+10:29:54.549 [main] INFO  sprint5_TestCases.C_CommonBugsTC - Starting test TC759_verifyFigureElement.
+10:30:22.538 [main] INFO  sprint5_TestCases.C_CommonBugsTC - Logged in and clicked on Edit.
+10:30:23.298 [main] INFO  sprint5_TestCases.C_CommonBugsTC - Clicked on the first paragraph.
+10:30:57.569 [main] INFO  sprint5_TestCases.C_CommonBugsTC - Starting test TC759_verifyFigureElement.
+10:31:35.899 [main] INFO  sprint5_TestCases.C_CommonBugsTC - Logged in and clicked on Edit.
+10:31:57.143 [main] INFO  sprint5_TestCases.C_CommonBugsTC - Clicked on the first paragraph.
+10:33:35.731 [main] INFO  sprint5_TestCases.C_CommonBugsTC - Starting test TC759_verifyFigureElement.
+10:34:19.586 [main] INFO  sprint5_TestCases.C_CommonBugsTC - Logged in and clicked on Edit.
+10:34:20.192 [main] INFO  sprint5_TestCases.C_CommonBugsTC - Clicked on the first paragraph.
+10:35:30.854 [main] INFO  sprint5_TestCases.C_CommonBugsTC - Starting test TC759_verifyFigureElement.
+10:36:17.403 [main] INFO  sprint5_TestCases.C_CommonBugsTC - Logged in and clicked on Edit.
+10:36:18.178 [main] INFO  sprint5_TestCases.C_CommonBugsTC - Clicked on the first paragraph.
+10:37:40.574 [main] INFO  sprint5_TestCases.C_CommonBugsTC - Starting test TC759_verifyFigureElement.
+10:38:07.790 [main] INFO  sprint5_TestCases.C_CommonBugsTC - Logged in and clicked on Edit.
+10:38:08.240 [main] INFO  sprint5_TestCases.C_CommonBugsTC - Clicked on the first paragraph.
+10:38:54.494 [main] INFO  sprint5_TestCases.C_CommonBugsTC - Starting test TC759_verifyFigureElement.
+10:39:16.488 [main] INFO  sprint5_TestCases.C_CommonBugsTC - Logged in and clicked on Edit.
+10:39:16.968 [main] INFO  sprint5_TestCases.C_CommonBugsTC - Clicked on the first paragraph.
+10:40:24.752 [main] INFO  sprint5_TestCases.C_CommonBugsTC - Starting test TC759_verifyFigureElement.
+10:40:49.867 [main] INFO  sprint5_TestCases.C_CommonBugsTC - Logged in and clicked on Edit.
+10:40:50.409 [main] INFO  sprint5_TestCases.C_CommonBugsTC - Clicked on the first paragraph.
+10:41:21.139 [main] INFO  sprint5_TestCases.C_CommonBugsTC - Starting test TC759_verifyFigureElement.
+10:41:46.293 [main] INFO  sprint5_TestCases.C_CommonBugsTC - Logged in and clicked on Edit.
+10:41:46.759 [main] INFO  sprint5_TestCases.C_CommonBugsTC - Clicked on the first paragraph.
+10:42:57.278 [main] INFO  sprint5_TestCases.C_CommonBugsTC - Starting test TC759_verifyFigureElement.
+10:43:21.302 [main] INFO  sprint5_TestCases.C_CommonBugsTC - Logged in and clicked on Edit.
+10:43:21.946 [main] INFO  sprint5_TestCases.C_CommonBugsTC - Clicked on the first paragraph.
+10:44:46.554 [main] INFO  sprint5_TestCases.C_CommonBugsTC - Starting test TC759_verifyFigureElement.
+10:45:12.484 [main] INFO  sprint5_TestCases.C_CommonBugsTC - Logged in and clicked on Edit.
+10:45:12.934 [main] INFO  sprint5_TestCases.C_CommonBugsTC - Clicked on the first paragraph.
+10:46:24.427 [main] INFO  sprint5_TestCases.C_CommonBugsTC - Starting test TC759_verifyFigureElement.
+10:46:47.451 [main] INFO  sprint5_TestCases.C_CommonBugsTC - Logged in and clicked on Edit.
+10:46:47.912 [main] INFO  sprint5_TestCases.C_CommonBugsTC - Clicked on the first paragraph.
+10:47:56.261 [main] INFO  sprint5_TestCases.C_CommonBugsTC - Starting test TC759_verifyFigureElement.
+10:48:18.758 [main] INFO  sprint5_TestCases.C_CommonBugsTC - Logged in and clicked on Edit.
+10:48:19.222 [main] INFO  sprint5_TestCases.C_CommonBugsTC - Clicked on the first paragraph.
+10:51:09.284 [main] INFO  sprint5_TestCases.C_CommonBugsTC - Starting test TC759_verifyFigureElement.
+10:51:31.923 [main] INFO  sprint5_TestCases.C_CommonBugsTC - Logged in and clicked on Edit.
+10:51:32.544 [main] INFO  sprint5_TestCases.C_CommonBugsTC - Clicked on the first paragraph.
+10:53:26.186 [main] INFO  sprint5_TestCases.C_CommonBugsTC - Starting test TC759_verifyFigureElement.
+10:53:50.116 [main] INFO  sprint5_TestCases.C_CommonBugsTC - Logged in and clicked on Edit.
+10:53:50.531 [main] INFO  sprint5_TestCases.C_CommonBugsTC - Clicked on the first paragraph.
+11:18:51.096 [main] INFO  sprint7_TestCases.PrintPreviewTC - Starting verify_PrintPriview_GeneratingPDFButton_Disable test...
+11:19:15.141 [main] INFO  sprint7_TestCases.PrintPreviewTC - Logged in and performed search and edit actions.
+11:19:15.316 [main] INFO  sprint7_TestCases.PrintPreviewTC - PrintPreview button is displayed.
+11:19:15.744 [main] INFO  sprint7_TestCases.PrintPreviewTC - Clicked on Print Preview button.
+11:19:15.981 [main] INFO  sprint7_TestCases.PrintPreviewTC - Generating PDF button is present.
+11:19:16.606 [main] INFO  sprint7_TestCases.PrintPreviewTC - Clicked on the Generate PDF button.
+11:19:22.367 [main] INFO  sprint7_TestCases.PrintPreviewTC - Class attribute of Generate PDF button: btn generate_output_file
+11:21:30.197 [main] INFO  sprint5_TestCases.E_CommonTC - Starting verifyChangeParaToMOQPAndVE
+11:21:52.208 [main] INFO  sprint5_TestCases.E_CommonTC - Logged in, searched for a file, and clicked Edit.
+11:21:52.269 [main] INFO  sprint5_TestCases.E_CommonTC - Switched to frame 0.
+11:21:52.726 [main] INFO  sprint5_TestCases.E_CommonTC - clicked on VE First para 
+11:21:52.763 [main] INFO  sprint5_TestCases.E_CommonTC - Switched back to default content.
+11:21:53.000 [main] INFO  sprint5_TestCases.E_CommonTC - Clicked on Change Element
+11:21:53.000 [main] INFO  sprint5_TestCases.E_CommonTC - Clicked on Change Element
+11:22:23.273 [main] INFO  sprint5_TestCases.E_CommonTC - Starting verifyLinkToFigure
+11:22:45.054 [main] INFO  sprint5_TestCases.E_CommonTC - Logged in, searched for a file, and clicked Edit.
+11:22:45.167 [main] INFO  sprint5_TestCases.E_CommonTC - Switched to frame 0.
+11:22:46.003 [main] INFO  sprint5_TestCases.E_CommonTC - clicked on VE First para 
+11:22:47.222 [main] INFO  sprint5_TestCases.E_CommonTC - Right Clicked on First Para
+11:22:47.312 [main] INFO  sprint5_TestCases.E_CommonTC - Switched back to default content.
+11:22:47.447 [main] INFO  sprint5_TestCases.E_CommonTC - Switched to frame 1.
+11:22:48.687 [main] INFO  sprint5_TestCases.E_CommonTC - Right Clicked Insert After 
+11:22:48.802 [main] INFO  sprint5_TestCases.E_CommonTC - Switched back to default content.

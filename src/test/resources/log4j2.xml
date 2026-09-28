@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Configuration status="WARN"> 
+
+<Properties>
+	<Property name="basePath">./logs</Property>
+</Properties>
+<!--   Passing project location path -->
+
+<Appenders>
+  <Console name="Console" target="SYSTEM_OUT">
+	  <PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+  </Console>
+   <!--   Creating file name with time stamp -->
+  <RollingFile name="File" fileName="${basePath}/automation.log" filePattern="${basePath}/automation-%d{yyyy-MM-dd}.log">
+  <PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+      <SizeBasedTriggeringPolicy size="50000" />
+   </RollingFile>
+</Appenders>
+<!--   Appenders - To display the logs in console window we have <console>.... -->
+<!--   Appenders - To generate the logs in file window we have <RollingFile>....-->
+
+  
+<Loggers>
+   <Root level="Info"><!-- Here you can use multiple log levels All < Trace < Debug < Info < Warn < Error < Fatal < Off -->
+   <AppenderRef ref="File"/>  <!-- <AppenderRef ref="Console"/> -->
+   </Root>
+</Loggers>
+ <!--   loggers - section is used to generate different logger sections  -->
+ <!--   type of loggers like - Info logs, debug logs, trace logs, warn logs, fatal logs etc.   -->
+ <!--   At present root level is info if we change to all then all types of logs will be covered.   -->
+  
+</Configuration>
