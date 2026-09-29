@@ -91,7 +91,7 @@ public class ExtentReportManager extends BaseClass implements ITestListener, ISu
     private static final String CONFIG_PROPERTIES = "config.properties";
     private static final String TEST_CYCLE_KEY_PROPERTY = "testCycleKey";
     private static final String DEFAULT_TEST_CYCLE_KEY = "DEFAULT-CYCLE-KEY";
-
+    private boolean isEmailSent = false;
 
     @Override
     public synchronized void onTestStart(ITestResult result) {
@@ -373,6 +373,25 @@ public class ExtentReportManager extends BaseClass implements ITestListener, ISu
             logger.error("Failed to save and close Excel workbook: {}", e.getMessage(), e);
         }
         flushExtentReports();
+
+        ISuite suite = context.getSuite();
+
+        logger.info("onFinish() executed");
+        logger.info("Suite: {}", suite);
+        logger.info("Email already sent: {}", isEmailSent);
+        
+
+        if (!isEmailSent && suite != null && suite.getXmlSuite() != null) {
+        	logger.info("Calling EmailReportSender.sendReport()");
+
+            try {
+                EmailReportSender.sendReport();
+                isEmailSent = true;
+                logger.info("EmailReportSender.sendReport() completed");
+            } catch (Exception e) {
+            	logger.info("Failed to send email: {}", e.getMessage()+ e);
+            }
+        }
     }
 
     @Override
