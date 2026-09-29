@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite name="Sameera" thread-count="4" parallel="methods">
+<suite name="Test" thread-count="4" parallel="methods">
 	<listeners>
 		<listener class-name="b_utilities.ExtentReportManager"></listener>
 		<listener class-name="b_utilities.AnnotationTransfer"></listener>
 	</listeners>
-	<test name="RetryMultipleFailedTestcases">
+	<test name="Text Variable">
 		<groups>
 			<run>
 				<!-- Text Variable -->

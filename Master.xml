@@ -1,106 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite name="Module -All | Internal-UAT |" thread-count="4" parallel="methods">
-    <listeners>
-        <listener class-name="b_utilities.ExtentReportManager"/>
-        <listener class-name="b_utilities.AnnotationTransfer"/>
-    </listeners>
-	<test name="RetryMultipleFailedTestcases">
-    <classes>
+<suite name="Test" thread-count="4" parallel="methods">
+	<listeners>
+		<listener class-name="b_utilities.ExtentReportManager"></listener>
+		<listener class-name="b_utilities.AnnotationTransfer"></listener>
+	</listeners>
+	<test name="Text Variable">
+		<groups>
+			<run>
+				<!-- Text Variable -->
+				<include name="TextVariable" />
 
-        <!-- Section -->
-        <class name="section.Section1TestCase"/>
-        <class name="section.Section2TestCase"/>
+			</run>
+		</groups>
+		<classes>
 
-        <!-- List -->
-        <class name="list.List1TestCase"/>
-        <class name="list.List2TestCase"/>
-        <class name="list.List3TestCase"/>
+			<!-- Text Variable -->
+			<class name="textvariable.TextVariableTestCase" />
 
-        <!-- Undo Redo -->
-        <class name="undo_redo.UndoRedo1TestCase"/>
-        <class name="undo_redo.UndoRedo2TestCase"/>
-        <class name="undo_redo.UndoRedo3TestCase"/>
-
-        <!-- Copy Paste -->
-        <class name="cutcopypaste.CopyPaste1TestCase"/>
-        <class name="cutcopypaste.CopyPaste2TestCase"/>
-        <class name="cutcopypaste.CopyPaste3TestCase"/>
-
-        <!-- Para -->
-        <class name="para.Para1TestCase"/>
-        <class name="para.Para2TestCase"/>
-        <class name="para.Para3TestCase"/>
-        <class name="para.Para4TestCase"/>
-        <class name="para.Para5TestCase"/>
-        <class name="para.Para6TestCase"/>
-        <class name="para.Para7TestCase"/>
-
-        <!-- Document Structure -->
-        <class name="documentstructure.DocumentStructure1TestCase"/>
-        <class name="documentstructure.DocumentStructure2TestCase"/>
-
-        <!-- Guided Authoring -->
-        <class name="guided_authoring.GuidedAuthoring1TestCase"/>
-        <class name="guided_authoring.GuidedAuthoring2TestCase"/>
-        <class name="guided_authoring.GuidedAuthoring3TestCase"/>
-
-        <!-- Track Change -->
-        <class name="trackchange.TrackChange1TestCase"/>
-        <class name="trackchange.TrackChange2TestCase"/>
-        <class name="trackchange.TrackChange3TestCase"/>
-
-        <!-- Text Variable -->
-        <class name="textvariable.TextVariableTestCase"/>
-
-        <!-- Comment -->
-        <class name="comment.Comment1TestCase"/>
-        <class name="comment.Comment2TestCase"/>
-        <class name="comment.Comment3TestCase"/>
-
-        <!-- Table -->
-        <class name="table.Table1TestCase"/>
-        <class name="table.Table2TestCase"/>
-        <class name="table.Table3TestCase"/>
-        <class name="table.Table4TestCase"/>
-
-        <!-- Link -->
-        <class name="link.Link1TestCase"/>
-        <class name="link.Link2TestCase"/>
-        <class name="link.Link3TestCase"/>
-
-        <!-- Inline -->
-        <class name="inlinecontentstyle.Inline1TestCase"/>
-        <class name="inlinecontentstyle.Inline2TestCase"/>
-        <class name="inlinecontentstyle.Inline3TestCase"/>
-        <class name="inlinecontentstyle.Inline4TestCase"/>
-
-        <!-- EBD -->
-        <class name="enter_delete_backspace.Ebd1TestCase"/>
-        <class name="enter_delete_backspace.Ebd2TestCase"/>
-        <class name="enter_delete_backspace.Ebd3TestCase"/>
-        <class name="enter_delete_backspace.Ebd4TestCase"/>
-
-        <!-- Change Element -->
-        <class name="changeelement.ChangeElementTestCase"/>
-
-        <!-- Footnote -->
-        <class name="footnote.Footnote1TestCase"/>
-        <class name="footnote.Footnote2TestCase"/>
-        <class name="footnote.Footnote3TestCase"/>
-
-        <!-- Image -->
-        <class name="image.Images1TestCase"/>
-        <class name="image.Images2TestCase"/>
-        <class name="image.Images3TestCase"/>
-
-        <!-- Revision Symbol -->
-        <class name="revisionsymbol.Revision1TestCase"/>
-        <class name="revisionsymbol.Revision2TestCase"/>
-        <class name="revisionsymbol.Revision3TestCase"/>
-        <class name="revisionsymbol.Revision4TestCase"/>
-        <class name="revisionsymbol.Revision5TestCase"/>
-
-    </classes>
-</test>
+		</classes>
+	</test> <!-- Test -->
 </suite> <!-- Suite -->

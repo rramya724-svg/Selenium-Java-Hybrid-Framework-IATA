@@ -10,7 +10,6 @@ import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import a_testbase.BaseClass;
-import autosequencenumber.SectionReseqPageObjects;
 import d_loginpage.HomePage;
 
 public class ReusableMethods extends BaseClass {
@@ -315,50 +314,50 @@ public class ReusableMethods extends BaseClass {
 		waitForDsVisibility(lp); // Re-used extracted method
 	}
 
-	public static synchronized  void loginAndSearchFileClickViewProject() {
-		HomePage lp = new HomePage(getDriver());
-		rb = ResourceBundle.getBundle(CONFIG_BUNDLE_NAME);
-		lp.inputUsername(rb.getString(USERNAME_PROPERTY));
-		Actions act = new Actions(getDriver());
-		act.sendKeys(Keys.ENTER).build().perform();
-		lp.inputPassword(rb.getString(PASSWORD_PROPERTY));
-		lp.clickLoginButton();
-		getDriver().manage().timeouts().pageLoadTimeout(PAGE_LOAD_TIMEOUT);
-		lp.clickSelectProject();
-		lp.clickProject();
-		SectionReseqPageObjects sr = new SectionReseqPageObjects(getDriver());
-		sr.clickCurrentProject();
-		sr.clickAuthoringAssignments();
-		sr.clickAuthoring();
-		sr.clickFilterNewTitle();
-		sr.clickFilterNewTitle();
-		act.sendKeys(FILE_NAME_AUTOMATION_TESTING).build().perform();
-		act.sendKeys(Keys.ENTER).build().perform();
-		act .pause(Duration.ofSeconds(2)).perform();
-		sr.clickViewProject();
-	}
+//	public static synchronized  void loginAndSearchFileClickViewProject() {
+//		HomePage lp = new HomePage(getDriver());
+//		rb = ResourceBundle.getBundle(CONFIG_BUNDLE_NAME);
+//		lp.inputUsername(rb.getString(USERNAME_PROPERTY));
+//		Actions act = new Actions(getDriver());
+//		act.sendKeys(Keys.ENTER).build().perform();
+//		lp.inputPassword(rb.getString(PASSWORD_PROPERTY));
+//		lp.clickLoginButton();
+//		getDriver().manage().timeouts().pageLoadTimeout(PAGE_LOAD_TIMEOUT);
+//		lp.clickSelectProject();
+//		lp.clickProject();
+//		SectionReseqPageObjects sr = new SectionReseqPageObjects(getDriver());
+//		sr.clickCurrentProject();
+//		sr.clickAuthoringAssignments();
+//		sr.clickAuthoring();
+//		sr.clickFilterNewTitle();
+//		sr.clickFilterNewTitle();
+//		act.sendKeys(FILE_NAME_AUTOMATION_TESTING).build().perform();
+//		act.sendKeys(Keys.ENTER).build().perform();
+//		act .pause(Duration.ofSeconds(2)).perform();
+//		sr.clickViewProject();
+//	}
 
-	public static synchronized void loginAndSearchFileClickViewProjectIATA() {
-		HomePage lp = new HomePage(getDriver());
-		rb = ResourceBundle.getBundle(CONFIG_BUNDLE_NAME);
-		lp.inputUsername(rb.getString(USERNAME_PROPERTY));
-		Actions act = new Actions(getDriver());
-		act.sendKeys(Keys.ENTER).build().perform();
-		lp.inputPassword(rb.getString(PASSWORD_PROPERTY));
-		lp.clickLoginButton();
-		getDriver().manage().timeouts().pageLoadTimeout(PAGE_LOAD_TIMEOUT);
-		lp.clickSelectProject();
-		lp.clickProject();
-		SectionReseqPageObjects sr = new SectionReseqPageObjects(getDriver());
-		sr.clickCurrentProject();
-		sr.clickAuthoringAssignments();
-		sr.clickAuthoring();
-		sr.clickFilterNewTitle();
-		act.sendKeys("IATAPOC").build().perform();		
-		act.sendKeys(Keys.ENTER).build().perform();
-		act .pause(Duration.ofSeconds(2)).perform();
-		sr.clickViewProject();
-	}
+//	public static synchronized void loginAndSearchFileClickViewProjectIATA() {
+//		HomePage lp = new HomePage(getDriver());
+//		rb = ResourceBundle.getBundle(CONFIG_BUNDLE_NAME);
+//		lp.inputUsername(rb.getString(USERNAME_PROPERTY));
+//		Actions act = new Actions(getDriver());
+//		act.sendKeys(Keys.ENTER).build().perform();
+//		lp.inputPassword(rb.getString(PASSWORD_PROPERTY));
+//		lp.clickLoginButton();
+//		getDriver().manage().timeouts().pageLoadTimeout(PAGE_LOAD_TIMEOUT);
+//		lp.clickSelectProject();
+//		lp.clickProject();
+//		SectionReseqPageObjects sr = new SectionReseqPageObjects(getDriver());
+//		sr.clickCurrentProject();
+//		sr.clickAuthoringAssignments();
+//		sr.clickAuthoring();
+//		sr.clickFilterNewTitle();
+//		act.sendKeys("IATAPOC").build().perform();		
+//		act.sendKeys(Keys.ENTER).build().perform();
+//		act .pause(Duration.ofSeconds(2)).perform();
+//		sr.clickViewProject();
+//	}
 
 	public static void textVaiableFile1() {
 
