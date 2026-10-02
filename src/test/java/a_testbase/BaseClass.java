@@ -42,8 +42,7 @@ public class BaseClass {
     private static final String HEADLESS_FIREFOX_ARGUMENT = "-headless";
     private static final String CONFIG_BUNDLE_NAME = "config"; // Constant for resource bundle name
     private static final String APP_URL_KEY = "appURL"; // Constant for app URL key
-    private static final String HEADLESS_KEY = "headless"; // Constant for headless key
-    private static final String HEADLESS_YES_VALUE = "yes"; // Constant for headless 'yes' value
+    private static final String HEADLESS_KEY = "isHeadless";
     private static final String REPORTS_DIR_PATH = ".\\reports\\"; // Constant for reports directory
     private static final String SCREENSHOTS_DIR_PATH = ".\\screenshots\\"; // Constant for screenshots directory
     private static final String REPORT_HTML_PREFIX = "Test-ExtentReport-"; // Constant for HTML report prefix
@@ -83,7 +82,7 @@ public class BaseClass {
             }
 
             boolean isHeadless = Boolean.parseBoolean(
-                    rb.getString(HEADLESS_KEY).equalsIgnoreCase(HEADLESS_YES_VALUE) ? "true" : "false"
+                    rb.getString(HEADLESS_KEY)
             );
 
             WebDriver driver = createDriverInstance(browser, isHeadless);
@@ -132,8 +131,17 @@ public class BaseClass {
         switch (browser.toLowerCase()) {
         case BROWSER_CHROME:
             ChromeOptions chromeOptions = new ChromeOptions();
-            chromeOptions.setExperimentalOption(EXCLUDE_SWITCHES_KEY, new String[]{ENABLE_AUTOMATION_SWITCH});
-            if (isHeadless) chromeOptions.addArguments(HEADLESS_ARGUMENT);
+            chromeOptions.setExperimentalOption(
+                    EXCLUDE_SWITCHES_KEY,
+                    new String[]{ENABLE_AUTOMATION_SWITCH}
+            );
+
+            if (isHeadless) {
+                chromeOptions.addArguments("--headless=new");
+                chromeOptions.addArguments("--no-sandbox");
+                chromeOptions.addArguments("--disable-dev-shm-usage");
+            }
+
             driver = new ChromeDriver(chromeOptions);
             break;
 
@@ -153,7 +161,11 @@ public class BaseClass {
             logger.warn("Unsupported browser name: {}. Defaulting to Chrome.", browser);
             ChromeOptions defaultOptions = new ChromeOptions();
             defaultOptions.setExperimentalOption(EXCLUDE_SWITCHES_KEY, new String[]{ENABLE_AUTOMATION_SWITCH});
-            if (isHeadless) defaultOptions.addArguments(HEADLESS_ARGUMENT);
+            if (isHeadless) {
+                defaultOptions.addArguments(HEADLESS_ARGUMENT);
+                defaultOptions.addArguments("--no-sandbox");
+                defaultOptions.addArguments("--disable-dev-shm-usage");
+            }
             driver = new ChromeDriver(defaultOptions);
             break;
         }
